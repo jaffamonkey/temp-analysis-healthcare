@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <!-- Primary metadata -->
+  <title>Systemic Accessibility Analyzer</title>
+
+  <meta name="description"
+    content="A multi-tool reporting layer for accessibility scan output. Identify repeated, systemic and corroborated accessibility issues across websites and digital estates." />
+
+  <link rel="canonical" href="https://a11yanalyzer.sbs/" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Systemic Accessibility Analyzer" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://a11yanalyzer.sbs/" />
+  <meta property="og:site_name" content="Systemic Accessibility Analyzer" />
+  <meta property="og:locale" content="en_GB" />
+
+  <meta property="og:description"
+    content="Turn accessibility scan output into a clearer view of repeated, systemic and corroborated issues across websites and digital estates." />
+
+  <meta property="og:image" content="https://a11yanalyzer.sbs/static/images/preview.png" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt"
+    content="Preview of the Systemic Accessibility Analyzer dashboard, showing accessibility findings and reporting summaries." />
+
+  <!-- X / Twitter card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Systemic Accessibility Analyzer" />
+  <meta name="twitter:description"
+    content="Turn accessibility scan output into a clearer view of repeated, systemic and corroborated issues across websites and digital estates." />
+  <meta name="twitter:image" content="https://a11yanalyzer.sbs/static/images/preview.png" />
+  <meta name="twitter:image:alt"
+    content="Preview of the Systemic Accessibility Analyzer dashboard, showing accessibility findings and reporting summaries." />
+  <link rel="icon" type="image/png" href="https://a11yanalyzer.sbs/favicon3.png" />
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
+  <title>Jobs Gallery</title>
+  <style>
+    :root {
+      --bg: #f6f8fb;
+      --panel: #ffffff;
+      --panel-soft: #f9fbff;
+      --text: #172033;
+      --muted: #5f6f89;
+      --border: #d9e1ef;
+      --accent: #2563eb;
+      --accent-dark: #1d4ed8;
+      --accent-soft: #e8f0ff;
+      --shadow: 0 18px 45px rgba(23, 32, 51, 0.08);
+      --radius: 18px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background:
+        radial-gradient(circle at top left, rgba(37, 99, 235, 0.12), transparent 36rem),
+        linear-gradient(180deg, #eef3fb 0%, var(--bg) 22rem);
+      color: var(--text);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.5;
+    }
+
+    a {
+      color: inherit;
+    }
+
+    .page {
+      width: min(1240px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 42px 0 56px;
+    }
+
+    .hero {
+      background: rgba(255, 255, 255, 0.86);
+      border: 1px solid var(--border);
+      border-radius: 24px;
+      box-shadow: var(--shadow);
+      padding: clamp(24px, 4vw, 42px);
+      margin-bottom: 24px;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin: 0 0 12px;
+      padding: 6px 11px;
+      border: 1px solid #c7d7ff;
+      border-radius: 999px;
+      background: var(--accent-soft);
+      color: #1e3a8a;
+      font-size: 0.8rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(2rem, 5vw, 3rem);
+      line-height: 1.04;
+      letter-spacing: -0.055em;
+    }
+
+    .intro {
+      max-width: 780px;
+      margin: 16px 0 0;
+      color: var(--muted);
+      font-size: clamp(1rem, 2vw, 1.12rem);
+    }
+
+    .nav-strip {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 24px;
+    }
+
+    .nav-strip a {
+      display: inline-flex;
+      align-items: center;
+      min-height: 38px;
+      padding: 8px 13px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      background: var(--panel-soft);
+      color: #26364f;
+      font-size: 0.9rem;
+      font-weight: 650;
+      text-decoration: none;
+      transition: transform 160ms ease, border-color 160ms ease, background 160ms ease;
+    }
+
+    .nav-strip a:hover,
+    .nav-strip a:focus-visible {
+      transform: translateY(-1px);
+      border-color: #adc4ff;
+      background: #eef4ff;
+      outline: none;
+    }
+
+    .summary {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 16px;
+      margin-bottom: 24px;
+    }
+
+    .metric {
+      padding: 18px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--panel);
+      box-shadow: 0 10px 26px rgba(23, 32, 51, 0.05);
+    }
+
+    .metric strong {
+      display: block;
+      font-size: 1.7rem;
+      line-height: 1;
+      letter-spacing: -0.04em;
+    }
+
+    .metric span {
+      display: block;
+      margin-top: 7px;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 18px;
+    }
+
+    .card {
+      display: flex;
+      flex-direction: column;
+      min-height: 100%;
+      overflow: hidden;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--panel);
+      box-shadow: 0 14px 34px rgba(23, 32, 51, 0.06);
+      transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+    }
+
+    .card:hover,
+    .card:focus-within {
+      transform: translateY(-3px);
+      border-color: #adc4ff;
+      box-shadow: 0 18px 42px rgba(23, 32, 51, 0.12);
+    }
+
+    .thumb-link {
+      display: block;
+      text-decoration: none;
+    }
+
+    .thumb-wrap {
+      display: grid;
+      place-items: center;
+      min-height: 220px;
+      padding: 20px;
+      background:
+        linear-gradient(135deg, rgba(37, 99, 235, 0.13), rgba(255, 255, 255, 0)),
+        var(--panel-soft);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .thumb {
+      display: block;
+      width: min(200px, 100%);
+      max-width: 100%;
+      height: auto;
+      max-height: 170px;
+      object-fit: contain;
+      border: 1px solid #c7d3e8;
+      border-radius: 14px;
+      background: #ffffff;
+      box-shadow: 0 10px 24px rgba(23, 32, 51, 0.10);
+    }
+
+    .card-body {
+      display: flex;
+      flex: 1;
+      flex-direction: column;
+      gap: 12px;
+      padding: 18px;
+    }
+
+    .card h2 {
+      margin: 0;
+      font-size: 1.1rem;
+      line-height: 1.2;
+      letter-spacing: -0.025em;
+    }
+
+    .slug {
+      margin: 0;
+      color: var(--muted);
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+      font-size: 0.78rem;
+      overflow-wrap: anywhere;
+    }
+
+    .open-link {
+      display: inline-flex;
+      justify-content: center;
+      align-items: center;
+      gap: 7px;
+      margin-top: auto;
+      margin-right: 20px;
+      min-height: 40px;
+      padding: 9px 12px;
+      border-radius: 12px;
+      background: var(--accent);
+      color: #ffffff;
+      font-weight: 750;
+      text-decoration: none;
+      transition: background 160ms ease, transform 160ms ease;
+    }
+
+    .open-link:hover,
+    .open-link:focus-visible {
+      background: var(--accent-dark);
+      transform: translateY(-1px);
+      outline: none;
+    }
+
+    footer {
+      margin-top: 28px;
+      color: var(--muted);
+      font-size: 0.88rem;
+      text-align: center;
+    }
+
+    @media (max-width: 760px) {
+      .page {
+        width: min(100% - 22px, 1240px);
+        padding-top: 18px;
+      }
+
+      .summary {
+        grid-template-columns: 1fr;
+      }
+
+      .hero {
+        border-radius: 20px;
+      }
+
+      .gallery {
+        grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+        gap: 14px;
+      }
+    }
+
+    .section-block {
+      margin-top: 30px;
+    }
+
+    .section-heading {
+      margin: 0 0 14px;
+      font-size: clamp(1.35rem, 2vw, 1.9rem);
+      line-height: 1.15;
+      letter-spacing: -0.03em;
+    }
+
+    .section-intro {
+      margin: 0 0 18px;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+  </style>
+</head>
+
+<body>
+  <main class="page">
+    <section aria-labelledby="page-title" class="hero">
+      <h1 id="page-title">Systemic Accessibility Analyzer Jobs</h1>
+      
+      <!-- Centralized Global Navigation -->
+      <nav class="nav-strip" aria-label="Global Documentation and Tools">
+        <a href="https://a11yanalyzer.sbs/readme_overview.html">Project Overview</a>
+        <a href="https://a11yanalyzer.sbs/dashboard_guide.html">Dashboard Guide</a>
+        <a href="https://a11yanalyzer.sbs/workbook_guide.html">Workbook Guide</a>
+        <a href="https://a11yanalyzer.sbs/roadmap_guide.html">Roadmap</a>
+        <a href="https://a11yanalyzer.sbs/component_learning_inspector.html">Component Learning Inspector</a>
+        <a href="https://a11yanalyzer.sbs/vintage.html">Vintage Website Jobs Board</a>
+      </nav>
+    </section>
+
+    <section aria-label="Login Demos" class="section-block">
+      <h2 class="section-heading">Login Demos</h2>
+      <section aria-label="Login Demos gallery" class="gallery">
+        <article class="card">
+          <a aria-label="Demo Login 1" class="thumb-link"
+            href="https://a11yanalyzer.sbs/jobs/automationexercise-20260719-201456/dashboard">
+            <span class="thumb-wrap">
+              <img alt="Demo Login 1" class="thumb" loading="lazy"
+                src="https://a11yanalyzer.sbs/static/images/automationexercise.png"
+                width="200" />
+            </span>
+          </a>
+          <div class="card-body">
+            <h2>Demo Login 1</h2>
+            <p class="slug">automationexercise-20260719-201456</p>
+            <a class="open-link" href="https://a11yanalyzer.sbs/jobs/automationexercise-20260719-201456/dashboard">Open job →</a>
+          </div>
+        </article>
+        <article class="card">
+          <a aria-label="Demo Login 2" class="thumb-link"
+            href="https://a11yanalyzer.sbs/jobs/practiceexpandtesting-20260719-234224/dashboard">
+            <span class="thumb-wrap">
+              <img alt="Demo Login 2" class="thumb" loading="lazy"
+                src="https://a11yanalyzer.sbs/static/images/practiceexpandtesting.png"
+                width=" 200" />
+            </span>
+          </a>
+          <div class="card-body">
+            <h2>Demo Login 2</h2>
+            <p class="slug">practiceexpandtesting-20260719-234224</p>
+            <a class="open-link" href="https://a11yanalyzer.sbs/jobs/practiceexpandtesting-20260719-234224/dashboard">Open job →</a>
+          </div>
+        </article>
+        <article class="card">
+          <a aria-label="Demo Login 3" class="thumb-link" href="https://a11yanalyzer.sbs/jobs/parabank-20260719-225500/dashboard">
+            <span class="thumb-wrap">
+              <img alt="Demo Login 3" class="thumb" loading="lazy"
+                src="https://a11yanalyzer.sbs/static/images/parabank.png" width="200" />
+            </span>
+          </a>
+          <div class="card-body">
+            <h2>Demo Login 3</h2>
+            <p class="slug">parabank-20260719-225500</p>
+            <a class="open-link" href="https://a11yanalyzer.sbs/jobs/parabank-20260719-225500/dashboard">Open job →</a>
+          </div>
+        </article>
+        <article class="card">
+          <a aria-label="Demo Login 4" class="thumb-link"
+            href="https://a11yanalyzer.sbs/jobs/practicetestautomation-login-20260719-210648/dashboard">
+            <span class="thumb-wrap">
+              <img alt="Demo Login 4" class="thumb" loading="lazy"
+                src="https://a11yanalyzer.sbs/static/images/practiceautomation.png"
+                width="200" />
+            </span>
+          </a>
+          <div class="card-body">
+            <h2>Demo Login 4</h2>
+            <p class="slug">practicetestautomation-login-20260719-210648</p>
+            <a class="open-link" href="https://a11yanalyzer.sbs/jobs/practicetestautomation-login-20260719-210648/dashboard">Open job →</a>
+          </div>
+        </article>
+      </section>
+    </section>
+    <section aria-label="Retail Websites" class="section-block">
+      <h2 class="section-heading">Retail Websites</h2>
+      <section aria-label="Retail Websites" class="gallery">
+        <article class="card">
+          <a aria-label="RE:GN" class="thumb-link" href="https://a11yanalyzer.sbs/jobs/regn-20260719-210733/dashboard">
+            <span class="thumb-wrap">
+              <img alt="RE:GN" class="thumb" loading="lazy"
+                src="https://a11yanalyzer.sbs/static/images/regn.png" width="200" />
+            </span>
+          </a>
+          <div class="card-body">
+            <h2>RE:GN</h2>
+            <p class="slug">regn-20260719-210733</p>
+            <a class="open-link" href="https://a11yanalyzer.sbs/jobs/regn-20260719-210733/dashboard">Open job →</a>
+          </div>
+        </article>
+        <article class="card">
+          <a aria-label="SuckUK" class="thumb-link" href="https://a11yanalyzer.sbs/jobs/suckuk-20260719-215842/dashboard">
+            <span class="thumb-wrap">
+              <img alt="SuckUK" class="thumb" loading="lazy"
+                src="https://a11yanalyzer.sbs/static/images/suckuk.png" width="200" />
+            </span>
+          </a>
+          <div class="card-body">
+            <h2>SuckUK</h2>
+            <p class="slug">suckuk-20260719-215842</p>
+            <a class="open-link" href="https://a11yanalyzer.sbs/jobs/suckuk-20260719-215842/dashboard">Open job →</a>
+          </div>
+        </article>
+        <article class="card">
+          <a aria-label="Brian Butterfield" class="thumb-link"
+            href="https://a11yanalyzer.sbs/jobs/brianbutterfield-20260719-192024/dashboard">
+            <span class="thumb-wrap">
+              <img alt="Brian Butterfield" class="thumb" loading="lazy"
+                src="https://a11yanalyzer.sbs/static/images/brianbutterfield.png"
+                width="200" />
+            </span>
+          </a>
+          <div class="card-body">
+            <h2>Brian Butterfield</h2>
+            <p class="slug">brianbutterfield-20260719-192024</p>
+            <a class="open-link" href="https://a11yanalyzer.sbs/jobs/brianbutterfield-20260719-192024/dashboard">Open job →</a>
+          </div>
+        </article>
+      </section>
+    </section>
+    <section aria-label="Different Frameworks" class="section-block">
+      <h2 class="section-heading">Different Frameworks</h2>
+      <section aria-label="Different Frameworks" class="gallery">
+        <article class="card">
+          <a aria-label="garagemca" class="thumb-link" href="https://a11yanalyzer.sbs/jobs/garagemca-20260719-201541/dashboard">
+            <span class="thumb-wrap">
+              <img alt="garagemca" class="thumb" loading="lazy"
+                src="https://a11yanalyzer.sbs/static/images/garagemca.png" width="200" />
+            </span>
+          </a>
+          <div class="card-body">
+            <h2>Garage MCA (ReactJS)</h2>
+            <p class="slug">garagemca-20260719-201541</p>
+            <a class="open-link" href="https://a11yanalyzer.sbs/jobs/garagemca-20260719-201541/dashboard">Open job →</a>
+          </div>
+        </article>
+        <article class="card">
+          <a aria-label="uebki" class="thumb-link"
+            href="https://a11yanalyzer.sbs/jobs/uebki-material-design-20260719-210834/dashboard">
+            <span class="thumb-wrap">
+              <img alt="uebki" class="thumb" loading="lazy"
+                src="https://a11yanalyzer.sbs/static/images/uebki.png"
+                width="200" />
+            </span>
+          </a>
+          <div class="card-body">
+            <h2>Uebki (Material Design)</h2>
+            <p class="slug">uebki-material-design-20260719-210834</p>
+            <a class="open-link" href="https://a11yanalyzer.sbs/jobs/uebki-material-design-20260719-210834/dashboard">Open job →</a>
+          </div>
+        </article>
+        <article class="card">
+          <a aria-label="nextjs demo website" class="thumb-link"
+            href="https://a11yanalyzer.sbs/jobs/nextjs-demo-20260719-225444/dashboard">
+            <span class="thumb-wrap">
+              <img alt="nextjs demo website" class="thumb" loading="lazy"
+                src="https://a11yanalyzer.sbs/static/images/nextjsdemo.png"
+                width="200" />
+            </span>
+          </a>
+          <div class="card-body">
+            <h2>NextJS demo website</h2>
+            <p class="slug">nextjs-demo-20260719-225444</p>
+            <a class="open-link" href="https://a11yanalyzer.sbs/jobs/nextjs-demo-20260719-225444/dashboard">Open job →</a>
+          </div>
+        </article>
+        <article class="card">
+          <a aria-label="Nasir Studio" class="thumb-link"
+            href="https://a11yanalyzer.sbs/jobs/nasir-studio-20260719-192109/dashboard">
+            <span class="thumb-wrap">
+              <img alt="Nasir Studio" class="thumb" loading="lazy"
+                src="https://a11yanalyzer.sbs/static/images/nasirstudio.png"
+                width="200" />
+            </span>
+          </a>
+          <div class="card-body">
+            <h2>Nasir Studio (VueJS)</h2>
+            <p class="slug">nasir-studio-20260719-192109</p>
+            <a class="open-link" href="https://a11yanalyzer.sbs/jobs/nasir-studio-20260719-192109/dashboard">Open job →</a>
+          </div>
+        </article>
+        <article class="card">
+          <a aria-label="Displace Agency" class="thumb-link"
+            href="https://a11yanalyzer.sbs/jobs/displace-e-20260719-201511/dashboard">
+            <span class="thumb-wrap">
+              <img alt="Displace Agency" class="thumb" loading="lazy"
+                src="https://a11yanalyzer.sbs/static/images/displaceagency.png"
+                width="200" />
+            </span>
+          </a>
+          <div class="card-body">
+            <h2>Displace Agency (NextJS)</h2>
+            <p class="slug">displace-e-20260719-201511</p>
+            <a class="open-link" href="https://a11yanalyzer.sbs/jobs/displace-e-20260719-201511/dashboard">Open job →</a>
+          </div>
+        </article>
+        <article class="card">
+          <a aria-label="faunarobotics" class="thumb-link"
+            href="https://a11yanalyzer.sbs/jobs/faunarobotics-20260719-201526/dashboard">
+            <span class="thumb-wrap">
+              <img alt="faunarobotics" class="thumb" loading="lazy"
+                src="https://a11yanalyzer.sbs/static/images/faunarobotics.png"
+                width="200" />
+            </span>
+          </a>
+          <div class="card-body">
+            <h2>Fauna Robotics (Webflow framework)</h2>
+            <p class="slug">faunarobotics-20260719-201526</p>
+            <a class="open-link" href="https://a11yanalyzer.sbs/jobs/faunarobotics-20260719-201526/dashboard">Open job →</a>
+          </div>
+        </article>
+        <article class="card">
+          <a aria-label="Gov UK" class="thumb-link" href="https://a11yanalyzer.sbs/jobs/govuk-20260719-201556/dashboard">
+            <span class="thumb-wrap">
+              <img alt="Gov UK" class="thumb" loading="lazy"
+                src="https://a11yanalyzer.sbs/static/images/govuk.png" width="200" />
+            </span>
+          </a>
+          <div class="card-body">
+            <h2>Gov UK</h2>
+            <p class="slug">govuk-20260719-201556</p>
+            <a class="open-link" href="https://a11yanalyzer.sbs/jobs/govuk-20260719-201556/dashboard">Open job →</a>
+          </div>
+        </article>
+      </section>
+    </section>
+    <section aria-label="Structured Testing Multiple Tools" class="section-block">
+      <h2 class="section-heading">Company websites</h2>
+      <section aria-label="Practical Accessibility" class="gallery">
+        <article class="card">
+          <a aria-label="Infervision" class="thumb-link"
+            href="https://a11yanalyzer.sbs/jobs/jobs/infervision-20260719-201627/dashboard">
+            <span class="thumb-wrap">
+              <img alt="Infervision" class="thumb" loading="lazy"
+                src="https://a11yanalyzer.sbs/static/images/infervision.png"
+                width="200" />
+            </span>
+          </a>
+          <div class="card-body">
+            <h2>Infervision</h2>
+            <p class="slug">jobs/infervision-20260719-201627</p>
+            <a class="open-link" href="https://a11yanalyzer.sbs/jobs/jobs/infervision-20260719-201627/dashboard">Open job →</a>
+          </div>
+        </article>
+        <article class="card">
+          <a aria-label="Practical Accessibility" class="thumb-link"
+            href="https://a11yanalyzer.sbs/jobs/practicalaccessibility-20260719-234209/dashboard">
+            <span class="thumb-wrap">
+              <img alt="Practical Accessibility" class="thumb" loading="lazy"
+                src="https://a11yanalyzer.sbs/static/images/practicalaccessibility.png"
+                width="200" />
+            </span>
+          </a>
+          <div class="card-body">
+            <h2>Practical Accessibility</h2>
+            <p class="slug">practicalaccessibility-20260719-234209</p>
+            <a class="open-link" href="https://a11yanalyzer.sbs/jobs/practicalaccessibility-20260719-234209/dashboard">Open job →</a>
+          </div>
+        </article>
+        <article class="card">
+          <a aria-label="acorn compliance" class="thumb-link"
+            href="https://a11yanalyzer.sbs/jobs/acorncompliance-20260720-005047/dashboard">
+            <span class="thumb-wrap">
+              <img alt="acorn compliance" class="thumb" loading="lazy"
+                src="https://a11yanalyzer.sbs/static/images/acorncompliance.png"
+                width="200" />
+            </span>
+          </a>
+          <div class="card-body">
+            <h2>Acorn Compliance</h2>
+            <p class="slug">acorncompliance-20260720-005047</p>
+            <a class="open-link" href="https://a11yanalyzer.sbs/jobs/acorncompliance-20260720-005047/dashboard">Open job →</a>
+          </div>
+        </article>
+        <article class="card">
+          <a aria-label="Wyldes sweet shop" class="thumb-link"
+            href="https://a11yanalyzer.sbs/jobs/wyldessweetshop-20260719-220027/dashboard">
+            <span class="thumb-wrap">
+              <img alt="Wyldes sweet shop" class="thumb" loading="lazy"
+                src="https://a11yanalyzer.sbs/static/images/wyldessweetshop.png"
+                width="200" />
+            </span>
+          </a>
+          <div class="card-body">
+            <h2>Wyldes sweet shop</h2>
+            <p class="slug">wyldessweetshop-20260719-220027</p>
+            <a class="open-link" href="https://a11yanalyzer.sbs/jobs/wyldessweetshop-20260719-220027/dashboard">Open job →</a>
+          </div>
+        </article>
+      </section>
+    </section>
+    <section aria-label="Public Test Websites" class="section-block">
+      <h2 class="section-heading">Public Test Websites</h2>
+      <section aria-label="Public Test Websites" class="gallery">
+        <article class="card">
+          <a aria-label="WAI Demo Before" class="thumb-link"
+            href="https://a11yanalyzer.sbs/jobs/wai-demo-bad-before-20260719-225545/dashboard">
+            <span class="thumb-wrap">
+              <img alt="WAI Demo Before" class="thumb" loading="lazy"
+                src="https://a11yanalyzer.sbs/static/images/waidemobadbefore.png"
+                width="200" />
+            </span>
+          </a>
+          <div class="card-body">
+            <h2>WAI Demo Before</h2>
+            <p class="slug">wai-demo-bad-before-20260719-225545</p>
+            <a class="open-link" href="https://a11yanalyzer.sbs/jobs/wai-demo-bad-before-20260719-225545/dashboard">Open job →</a>
+          </div>
+        </article>
+        <article class="card">
+          <a aria-label="WAI Demo After" class="thumb-link"
+            href="https://a11yanalyzer.sbs/jobs/wai-demo-bad-after-20260719-220012/dashboard">
+            <span class="thumb-wrap">
+              <img alt="WAI Demo After" class="thumb" loading="lazy"
+                src="https://a11yanalyzer.sbs/static/images/waidemobadafter.png"
+                width="200" />
+            </span>
+          </a>
+          <div class="card-body">
+            <h2>WAI Demo After</h2>
+            <p class="slug">wai-demo-bad-after-20260719-220012</p>
+            <a class="open-link" href="https://a11yanalyzer.sbs/jobs/wai-demo-bad-after-20260719-220012/dashboard">Open job →</a>
+          </div>
+        </article>
+        <article class="card">
+          <a aria-label="Bad HTML" class="thumb-link" href="https://a11yanalyzer.sbs/jobs/badhtml-20260719-192009/dashboard">
+            <span class="thumb-wrap">
+              <img alt="Bad HTML" class="thumb" loading="lazy"
+                src="https://a11yanalyzer.sbs/static/images/badhtml.png" width="200" />
+            </span>
+          </a>
+          <div class="card-body">
+            <h2>Bad HTML</h2>
+            <p class="slug">badhtml-20260719-192009</p>
+            <a class="open-link" href="https://a11yanalyzer.sbs/jobs/badhtml-20260719-192009/dashboard">Open job →</a>
+          </div>
+        </article>
+        <article class="card">
+          <a aria-label="UserInYerFace" class="thumb-link"
+            href="https://a11yanalyzer.sbs/jobs/userinyerface-20260719-215942/dashboard">
+            <span class="thumb-wrap">
+              <img alt="UserInYerFace" class="thumb" loading="lazy"
+                src="https://a11yanalyzer.sbs/static/images/userinyerface.png"
+                width="200" />
+            </span>
+          </a>
+          <div class="card-body">
+            <h2>User In Yer Face</h2>
+            <p class="slug">userinyerface-20260719-215942</p>
+            <a class="open-link" href="https://a11yanalyzer.sbs/jobs/userinyerface-20260719-215942/dashboard">Open job →</a>
+          </div>
+        </article>
+      </section>
+    </section>
+    <footer>
+    </footer>
+  </main>
+</body>
+
+</html>

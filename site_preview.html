@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Website Screenshot Gallery</title>
+  <style>
+    :root {
+      --bg: #f6f8fb;
+      --panel: #ffffff;
+      --text: #1f2937;
+      --muted: #6b7280;
+      --border: #e5e7eb;
+      --shadow: 0 10px 28px rgba(15, 23, 42, 0.08);
+      --accent: #2563eb;
+      --panel-dark: #0f172a;
+      --error-bg: #fff5f5;
+      --error-border: #fecaca;
+      --error-text: #991b1b;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+    }
+
+    .shell {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 28px 20px 40px;
+    }
+
+    .hero {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 24px;
+      box-shadow: var(--shadow);
+      margin-bottom: 22px;
+    }
+
+    .hero h1 {
+      margin: 0 0 8px;
+      font-size: 2rem;
+    }
+
+    .hero p {
+      margin: 0;
+      color: var(--muted);
+      line-height: 1.5;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: 320px 1fr;
+      gap: 20px;
+    }
+
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+
+    .panel-head {
+      padding: 16px 18px;
+      border-bottom: 1px solid var(--border);
+      font-weight: 700;
+    }
+
+    .panel-body {
+      padding: 16px 18px;
+    }
+
+    .search {
+      width: 100%;
+      padding: 10px 12px;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      margin-bottom: 14px;
+      font: inherit;
+    }
+
+    .toolbar {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-bottom: 14px;
+    }
+
+    .toolbar button {
+      border: 1px solid var(--border);
+      background: #fff;
+      padding: 10px 12px;
+      border-radius: 10px;
+      cursor: pointer;
+      font-weight: 600;
+      font: inherit;
+    }
+
+    .page-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      max-height: 70vh;
+      overflow: auto;
+    }
+
+    .page-item {
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 12px;
+      background: #fff;
+      cursor: pointer;
+    }
+
+    .page-item.active {
+      border-color: #93c5fd;
+      background: #eff6ff;
+    }
+
+    .page-item-title {
+      font-weight: 700;
+      margin-bottom: 4px;
+      line-height: 1.35;
+      word-break: break-word;
+    }
+
+    .page-item-meta {
+      font-size: 0.86rem;
+      color: var(--muted);
+      line-height: 1.4;
+      word-break: break-word;
+    }
+
+    .muted {
+      color: var(--muted);
+    }
+
+    .preview-wrap {
+      background: var(--panel-dark);
+      border-radius: 14px;
+      padding: 16px;
+      min-height: 420px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: auto;
+    }
+
+    .preview-wrap img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 10px;
+      background: white;
+      cursor: zoom-in;
+    }
+
+    .preview-empty {
+      color: #e5e7eb;
+      text-align: center;
+      line-height: 1.5;
+    }
+
+    .error-box {
+      background: var(--error-bg);
+      border: 1px solid var(--error-border);
+      color: var(--error-text);
+      border-radius: 12px;
+      padding: 14px;
+      line-height: 1.5;
+    }
+
+    .empty {
+      padding: 30px;
+      text-align: center;
+      color: var(--muted);
+    }
+
+    .lightbox {
+      position: fixed;
+      inset: 0;
+      background: rgba(2, 6, 23, 0.85);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 9999;
+      padding: 24px;
+    }
+
+    .lightbox.open {
+      display: flex;
+    }
+
+    .lightbox-content {
+      max-width: min(1400px, 96vw);
+      max-height: 92vh;
+      position: relative;
+    }
+
+    .lightbox img {
+      max-width: 100%;
+      max-height: 92vh;
+      border-radius: 16px;
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.4);
+      display: block;
+      background: white;
+    }
+
+    .lightbox-close {
+      position: absolute;
+      top: -14px;
+      right: -14px;
+      width: 40px;
+      height: 40px;
+      border-radius: 999px;
+      border: none;
+      background: white;
+      color: #111827;
+      font-size: 22px;
+      cursor: pointer;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+    }
+
+    @media (max-width: 960px) {
+      .layout {
+        grid-template-columns: 1fr;
+      }
+
+      .page-list {
+        max-height: 320px;
+      }
+    }
+
+    .top-links {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-top: 16px;
+    }
+
+    .doc-link-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      text-decoration: none;
+      padding: 9px 14px;
+      border-radius: 999px;
+      font-size: 0.92rem;
+      font-weight: 600;
+      line-height: 1;
+      border: 1px solid #dbe7f5;
+      background: #f6f0ff;
+      color: #4b5563;
+      box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
+      transition: 0.18s ease;
+    }
+
+    .doc-link-button:hover {
+      background: #efe4ff;
+      border-color: #cbb7f6;
+      color: #1f2937;
+      transform: translateY(-1px);
+    }
+
+    .doc-link-button.is-current {
+      background: #e8f0ff;
+      border-color: #bfd3fb;
+      color: #1d4ed8;
+    }
+
+    .doc-link-button.is-disabled {
+      opacity: 0.55;
+      pointer-events: none;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="shell">
+    <section class="hero">
+      <h1>Website Screenshot Gallery</h1>
+      <p>
+        Visual page previews captured during the audit run. Select a page to inspect its screenshot,
+        review coverage, and open the image in a larger overlay.
+      </p>
+      <div class="top-links" id="topLinks">
+        <a class="doc-link-button" id="dashboardLink" href="#">Dashboard</a>
+        <a class="doc-link-button" id="projectGuideLink" href="#">Project Guide</a>
+        <a class="doc-link-button" id="workbookGuideLink" href="#">Workbook Guide</a>
+        <a class="doc-link-button" id="dashboardGuideLink" href="#">Dashboard Guide</a>
+        <a class="doc-link-button" id="virtualScreenreaderLink" href="#">Virtual Screenreader</a>
+        <a class="doc-link-button" id="tabMapLink" href="#">Tabbing Order</a>
+      </div>
+    </section>
+
+    <section class="layout">
+      <aside class="panel">
+        <div class="panel-head">Pages</div>
+        <div class="panel-body">
+          <input id="searchInput" class="search" type="text" placeholder="Filter pages..." />
+          <div class="toolbar">
+            <button id="clearFilterBtn" type="button">Clear filter</button>
+          </div>
+          <div id="pageList" class="page-list"></div>
+        </div>
+      </aside>
+
+      <main class="panel">
+        <div class="panel-head" id="detailTitle">Screenshot</div>
+        <div class="panel-body">
+          <div class="toolbar">
+            <button id="openFullBtn" type="button" disabled>Open full preview</button>
+          </div>
+          <div id="detailMeta" class="muted" style="margin-bottom:12px;"></div>
+          <div id="previewArea" class="preview-wrap">
+            <div class="preview-empty">Select a page to view screenshot.</div>
+          </div>
+        </div>
+      </main>
+    </section>
+  </div>
+
+  <div class="lightbox" id="lightbox" aria-hidden="true">
+    <div class="lightbox-content">
+      <button class="lightbox-close" id="lightboxClose" aria-label="Close preview">×</button>
+      <img id="lightboxImage" alt="Expanded screenshot preview" />
+    </div>
+  </div>
+
+  <script>
+    function getJobId() {
+      const params = new URLSearchParams(window.location.search);
+      const queryJobId = params.get('job_id');
+      if (queryJobId) return queryJobId;
+
+      const match = window.location.pathname.match(/\/jobs\/([^/]+)\/site_preview\.html$/);
+      return match ? decodeURIComponent(match[1]) : null;
+    }
+
+    function getJobBasePath(jobId) {
+      return "";
+    }
+
+    function escapeHtml(value) {
+      return String(value ?? '')
+        .replaceAll('&', '&amp;')
+        .replaceAll('<', '&lt;')
+        .replaceAll('>', '&gt;')
+        .replaceAll('"', '&quot;')
+        .replaceAll("'", '&#039;');
+    }
+
+    function prettyTitle(item) {
+      return item.title || item.page_title || item.url || 'Untitled page';
+    }
+
+    function openLightbox(src, title) {
+      const lightbox = document.getElementById('lightbox');
+      const image = document.getElementById('lightboxImage');
+      image.src = src;
+      image.alt = title || 'Expanded screenshot preview';
+      lightbox.classList.add('open');
+      lightbox.setAttribute('aria-hidden', 'false');
+    }
+
+    function closeLightbox() {
+      const lightbox = document.getElementById('lightbox');
+      const image = document.getElementById('lightboxImage');
+      lightbox.classList.remove('open');
+      lightbox.setAttribute('aria-hidden', 'true');
+      image.src = '';
+    }
+
+    async function loadJson(url) {
+      const res = await fetch(url);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      return await res.json();
+    }
+
+    async function init() {
+      const pageList = document.getElementById('pageList');
+      const previewArea = document.getElementById('previewArea');
+      const detailTitle = document.getElementById('detailTitle');
+      const detailMeta = document.getElementById('detailMeta');
+      const searchInput = document.getElementById('searchInput');
+      const clearFilterBtn = document.getElementById('clearFilterBtn');
+      const openFullBtn = document.getElementById('openFullBtn');
+
+      const manifestUrl = `screenshots/manifest.json`;
+
+      let manifest = await loadJson(manifestUrl);
+      let filtered = [...manifest];
+      let currentImageSrc = '';
+      let currentImageTitle = '';
+
+      function renderDetail(item) {
+        const title = prettyTitle(item);
+        detailTitle.textContent = title;
+        detailMeta.textContent = item.url || '';
+
+        if (item.screenshot) {
+          const imagePath = `screenshots/${encodeURIComponent(item.screenshot).replace(/%2F/g, '/')}`;
+          currentImageSrc = imagePath;
+          currentImageTitle = title;
+          openFullBtn.disabled = false;
+
+          previewArea.innerHTML = `
+            <img id="detailImage" src="${imagePath}" alt="${escapeHtml(title)}" loading="lazy" />
+          `;
+
+          const detailImage = document.getElementById('detailImage');
+          if (detailImage) {
+            detailImage.addEventListener('click', () => openLightbox(currentImageSrc, currentImageTitle));
+          }
+        } else {
+          currentImageSrc = '';
+          currentImageTitle = '';
+          openFullBtn.disabled = true;
+
+          previewArea.innerHTML = `
+            <div class="error-box">
+              <strong>Screenshot failed</strong><br><br>
+              ${escapeHtml(item.error || 'Unknown error')}
+            </div>
+          `;
+        }
+      }
+
+      function renderList() {
+        pageList.innerHTML = '';
+
+        if (!filtered.length) {
+          pageList.innerHTML = '<div class="empty">No matching pages</div>';
+          previewArea.innerHTML = '<div class="preview-empty">No matching pages.</div>';
+          detailTitle.textContent = 'Screenshot';
+          detailMeta.textContent = '';
+          openFullBtn.disabled = true;
+          return;
+        }
+
+        filtered.forEach((item, index) => {
+          const el = document.createElement('div');
+          el.className = 'page-item';
+          el.innerHTML = `
+            <div class="page-item-title">${escapeHtml(prettyTitle(item))}</div>
+            <div class="page-item-meta">${escapeHtml(item.url || '')}</div>
+            <div class="page-item-meta">${item.screenshot ? 'Screenshot captured' : 'Capture failed'}</div>
+          `;
+
+          el.addEventListener('click', () => {
+            document.querySelectorAll('.page-item').forEach(x => x.classList.remove('active'));
+            el.classList.add('active');
+            renderDetail(item);
+          });
+
+          pageList.appendChild(el);
+
+          if (index === 0) {
+            setTimeout(() => el.click(), 0);
+          }
+        });
+      }
+
+      searchInput.addEventListener('input', () => {
+        const term = searchInput.value.trim().toLowerCase();
+        filtered = manifest.filter(item => {
+          const haystack = `${item.title || ''} ${item.page_title || ''} ${item.url || ''}`.toLowerCase();
+          return haystack.includes(term);
+        });
+        renderList();
+      });
+
+      clearFilterBtn.addEventListener('click', () => {
+        searchInput.value = '';
+        filtered = [...manifest];
+        renderList();
+        searchInput.focus();
+      });
+
+      openFullBtn.addEventListener('click', () => {
+        if (currentImageSrc) {
+          openLightbox(currentImageSrc, currentImageTitle);
+        }
+      });
+
+      renderList();
+    }
+
+    document.getElementById('lightboxClose').addEventListener('click', closeLightbox);
+    document.getElementById('lightbox').addEventListener('click', (event) => {
+      if (event.target.id === 'lightbox') closeLightbox();
+    });
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape') closeLightbox();
+    });
+
+    init().catch((err) => {
+      const previewArea = document.getElementById('previewArea');
+      if (previewArea) {
+        previewArea.innerHTML = `<div class="error-box">Could not load screenshot gallery: ${escapeHtml(err.message)}</div>`;
+      }
+    });
+
+    function getCurrentJobIdForNav() {
+      const params = new URLSearchParams(window.location.search);
+      const queryJobId = params.get('job_id');
+      if (queryJobId) return queryJobId;
+
+      const jobMatch = window.location.pathname.match(/\/jobs\/([^/]+)\//);
+      return jobMatch ? decodeURIComponent(jobMatch[1]) : null;
+    }
+
+    function buildTopNav() {
+      const jobId = getCurrentJobIdForNav();
+      const path = window.location.pathname;
+
+      const isGuidePage = true;
+      const baseJobPath = '';
+
+      const links = {
+        dashboardLink: 'index.html',
+        projectGuideLink: `/readme_overview.html${jobId ? `?job_id=${encodeURIComponent(jobId)}` : ''}`,
+        workbookGuideLink: 'workbook_guide.html',
+        dashboardGuideLink: 'dashboard_guide.html',
+        sitePreviewLink: 'site_preview.html',
+        virtualScreenreaderLink: 'virtual_screenreader.html',
+        tabMapLink: 'tab_map.html',
+      };
+
+      Object.entries(links).forEach(([id, href]) => {
+        const el = document.getElementById(id);
+        if (!el) return;
+
+        el.href = href;
+
+        if (href === '#') {
+          el.classList.add('is-disabled');
+          el.setAttribute('aria-disabled', 'true');
+        }
+      });
+
+      const currentMap = [
+        ['dashboardLink', /\/jobs\/[^/]+\/dashboard$/],
+        ['projectGuideLink', /\/readme_overview\.html$/],
+        ['workbookGuideLink', /\/workbook_guide\.html$/],
+        ['dashboardGuideLink', /\/dashboard_guide\.html$/],
+        ['sitePreviewLink', /\/jobs\/[^/]+\/site_preview\.html$/],
+        ['virtualScreenreaderLink', /\/jobs\/[^/]+\/virtual_screenreader\.html$/],
+        ['tabMapLink', /\/jobs\/[^/]+\/tab_map\.html$/],
+      ];
+
+      currentMap.forEach(([id, regex]) => {
+        const el = document.getElementById(id);
+        if (el && regex.test(path)) {
+          el.classList.add('is-current');
+          el.setAttribute('aria-current', 'page');
+        }
+      });
+
+      // if (isGuidePage && !jobId) {
+      //   ['dashboardLink', 'sitePreviewLink', 'virtualScreenreaderLink', 'tabMapLink'].forEach((id) => {
+      //     const el = document.getElementById(id);
+      //     if (!el) return;
+      //     el.classList.add('is-disabled');
+      //     el.setAttribute('aria-disabled', 'true');
+      //   });
+      // }
+    }
+
+    buildTopNav();
+
+  </script>
+</body>
+
+</html>

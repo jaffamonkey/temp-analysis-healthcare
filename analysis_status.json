@@ -1,0 +1,28 @@
+{
+  "job_id": "xxxx-badhtml-wed-20260513-120246",
+  "reports_dir": "/Users/user/code/github/wcag-tools-test-frameworks/auth_service/jobs/xxxx-badhtml-wed-20260513-120246/reports",
+  "output_dir": "/Users/user/code/github/wcag-tools-test-frameworks/auth_service/jobs/xxxx-badhtml-wed-20260513-120246/analysis",
+  "analysis_json": "/Users/user/code/github/wcag-tools-test-frameworks/auth_service/jobs/xxxx-badhtml-wed-20260513-120246/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/github/wcag-tools-test-frameworks/auth_service/jobs/xxxx-badhtml-wed-20260513-120246/analysis/accessibility_analysis.xlsx",
+  "violations": 7218,
+  "pages": 17,
+  "tool_folders_seen": [
+    "axe-core",
+    "axe-scan",
+    "html-sniffer",
+    "ibm",
+    "lighthouse",
+    "oobee",
+    "pa11y-axe",
+    "pa11y-htmlcs",
+    "uuv"
+  ],
+  "screenshots": {
+    "job_id": "xxxx-badhtml-wed-20260513-120246",
+    "source_dir": "/Users/user/code/github/wcag-tools-test-frameworks/auth_service/jobs/xxxx-badhtml-wed-20260513-120246/screenshots",
+    "dest_dir": "/Users/user/code/github/wcag-tools-test-frameworks/auth_service/jobs/xxxx-badhtml-wed-20260513-120246/analysis/screenshots",
+    "copied": true,
+    "count": 17,
+    "message": "Copied screenshots for job xxxx-badhtml-wed-20260513-120246; manifest_exists=True"
+  }
+}
