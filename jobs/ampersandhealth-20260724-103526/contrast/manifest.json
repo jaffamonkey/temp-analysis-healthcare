@@ -1,0 +1,26 @@
+[
+  {
+    "page": "ampersandhealth.co.uk-about-us",
+    "title": "About Us: Ampersand Health",
+    "url": "https://ampersandhealth.co.uk/about-us/",
+    "file": "ampersandhealth.co.uk-about-us.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "ampersandhealth.co.uk-team-page",
+    "title": "Team page | Ampersand Health",
+    "url": "https://ampersandhealth.co.uk/team-page/",
+    "file": "ampersandhealth.co.uk-team-page.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "ampersandhealth.co.uk-privacy-policy",
+    "title": "Website Privacy Policy | Ampersand Health",
+    "url": "https://ampersandhealth.co.uk/privacy-policy/",
+    "file": "ampersandhealth.co.uk-privacy-policy.json",
+    "status": "partial",
+    "source": "stdout"
+  }
+]

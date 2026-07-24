@@ -1,0 +1,10 @@
+{
+  "tool": "contrast-checker",
+  "url": "https://ampersandhealth.co.uk",
+  "error": "No usable JSON report found in output file or stdout",
+  "exit_code": 1,
+  "stdout": "ℹ Scanning: https://ampersandhealth.co.uk\nℹ Scanning page 1/1: https://ampersandhealth.co.uk\n⚠ Failed to scan https://ampersandhealth.co.uk: page.goto: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://ampersandhealth.co.uk/\", waiting until \"networkidle\"\u001b[22m\n\n⚠ 1 page(s) failed to scan\n✖ All pages failed to scan\n",
+  "stderr": "- Discovering linked pages...\n\u001b[32m✔\u001b[39m Found 1 page(s)\n",
+  "attempt": 2,
+  "scanned_at": "2026-07-24T11:00:46.310Z"
+}
