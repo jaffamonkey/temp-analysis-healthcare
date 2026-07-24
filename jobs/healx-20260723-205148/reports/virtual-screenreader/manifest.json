@@ -1,0 +1,42 @@
+[
+  {
+    "page": "healx.ai",
+    "url": "https://healx.ai/",
+    "title": "Healx | AI drug discovery | Rare disease treatment",
+    "report": "healx.ai.json",
+    "line_count": 156,
+    "ok": true
+  },
+  {
+    "page": "healx.ai-contact",
+    "url": "https://healx.ai/contact/",
+    "title": "Contact - Healx",
+    "report": "healx.ai-contact.json",
+    "line_count": 121,
+    "ok": true
+  },
+  {
+    "page": "healx.ai-about",
+    "url": "https://healx.ai/about/",
+    "title": "About - Healx",
+    "report": "healx.ai-about.json",
+    "line_count": 488,
+    "ok": true
+  },
+  {
+    "page": "healx.ai-technology",
+    "url": "https://healx.ai/technology/",
+    "title": "Our technology and approach - Healx",
+    "report": "healx.ai-technology.json",
+    "line_count": 194,
+    "ok": true
+  },
+  {
+    "page": "healx.ai-community-engagement",
+    "url": "https://healx.ai/community-engagement/",
+    "title": "Community Engagement - Healx",
+    "report": "healx.ai-community-engagement.json",
+    "line_count": 172,
+    "ok": true
+  }
+]

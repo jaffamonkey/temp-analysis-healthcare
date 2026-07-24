@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.zoomdoc.com/privacy-policy",
+  "landed_url": "https://www.zoomdoc.com/privacy-policy",
+  "title": "Privacy Policy - ZoomDoc Health",
+  "page": "www.zoomdoc.com-privacy-policy",
+  "captured_at": "2026-07-23T17:28:50.624Z",
+  "focusable_count": 46,
+  "frame_count": 2,
+  "same_origin_frame_count": 1,
+  "cross_origin_frame_count": 1,
+  "image": "www.zoomdoc.com-privacy-policy.png",
+  "preview_image": "www.zoomdoc.com-privacy-policy.png",
+  "preview_dir": "visual-preview",
+  "json": "www.zoomdoc.com-privacy-policy.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Accept All"
+    }
+  ]
+}

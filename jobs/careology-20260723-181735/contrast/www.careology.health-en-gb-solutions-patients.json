@@ -1,0 +1,153 @@
+[
+  {
+    "url": "https://www.careology.health/en-gb/solutions/patients",
+    "title": "Transforming Cancer Care for Patients | Careology",
+    "pairs": [
+      {
+        "text": "Always-on",
+        "tag": "button",
+        "color": "rgb(173, 155, 182)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "#radix-:R19hjtttqkq:",
+        "xpath": "//*[@id=\"radix-:R19hjtttqkq:\"]",
+        "boundingRect": {
+          "x": 104,
+          "y": 3234.1875,
+          "width": 506,
+          "height": 100
+        },
+        "fontSize": "24px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 173,
+          "g": 155,
+          "b": 182,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.58,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 159,
+            "g": 142,
+            "b": 168,
+            "a": 1
+          },
+          "hex": "#9f8ea8",
+          "ratio": 3.04,
+          "property": "color",
+          "deltaE": 0.043874463427701293
+        }
+      }
+    ],
+    "violations": [
+      {
+        "text": "Always-on",
+        "tag": "button",
+        "color": "rgb(173, 155, 182)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "#radix-:R19hjtttqkq:",
+        "xpath": "//*[@id=\"radix-:R19hjtttqkq:\"]",
+        "boundingRect": {
+          "x": 104,
+          "y": 3234.1875,
+          "width": 506,
+          "height": 100
+        },
+        "fontSize": "24px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 173,
+          "g": 155,
+          "b": 182,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.58,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 159,
+            "g": 142,
+            "b": 168,
+            "a": 1
+          },
+          "hex": "#9f8ea8",
+          "ratio": 3.04,
+          "property": "color",
+          "deltaE": 0.043874463427701293
+        }
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--tw-ring-offset-color",
+        "property": "background-color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#ad9bb6",
+        "againstVariable": null,
+        "againstValue": "rgb(173, 155, 182)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 2.58,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--tw-ring-offset-color",
+          "newValue": "color(srgb 0.323 0.323 0.323)",
+          "newHex": "#525252",
+          "contrastRatio": 3.03,
+          "property": "background-color"
+        },
+        "instances": [
+          {
+            "selector": "#radix-:R19hjtttqkq:",
+            "text": "Always-on",
+            "xpath": "//*[@id=\"radix-:R19hjtttqkq:\"]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 62,
+      "passAA": 61,
+      "passAAA": 58,
+      "failAA": 1,
+      "failAAA": 1
+    },
+    "variableStats": {
+      "uniqueIssues": 1,
+      "affectedElements": 1,
+      "oneOffIssues": 0
+    },
+    "healthScore": 98,
+    "scannedAt": "2026-07-23T18:34:53.179Z"
+  }
+]

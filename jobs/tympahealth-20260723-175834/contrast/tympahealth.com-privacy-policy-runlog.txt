@@ -1,0 +1,42 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-23T18:10:34.705Z
+URL: https://tympahealth.com/privacy-policy/
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://tympahealth.com/privacy-policy/ --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/tympahealth-20260723-175834/reports/contrast-checker/tympahealth.com-privacy-policy.json
+Exit code: 0
+
+--- STDOUT ---
+ℹ Scanning: https://tympahealth.com/privacy-policy/
+ℹ Scanning page 1/1: https://tympahealth.com/privacy-policy/
+[
+  {
+    "url": "https://tympahealth.com/privacy-policy/",
+    "title": "",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 0,
+      "passAA": 0,
+      "passAAA": 0,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 0,
+    "scannedAt": "2026-07-23T18:10:39.323Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 1 page(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/tympahealth-20260723-175834/reports/contrast-checker/tympahealth.com-privacy-policy.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/tympahealth-20260723-175834/reports/contrast-checker/tympahealth.com-privacy-policy.json (stdout)

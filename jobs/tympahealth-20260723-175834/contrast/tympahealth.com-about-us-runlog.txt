@@ -1,0 +1,142 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-23T18:10:08.918Z
+URL: https://tympahealth.com/about-us/
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://tympahealth.com/about-us/ --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/tympahealth-20260723-175834/reports/contrast-checker/tympahealth.com-about-us.json
+Exit code: 1
+
+--- STDOUT ---
+ℹ Scanning: https://tympahealth.com/about-us/
+ℹ Scanning page 1/1: https://tympahealth.com/about-us/
+[
+  {
+    "url": "https://tympahealth.com/about-us/",
+    "title": "Access Restricted | Shield Security PRO",
+    "pairs": [
+      {
+        "text": "please review this guide",
+        "tag": "a",
+        "color": "rgb(13, 110, 253)",
+        "background": "rgb(226, 227, 229)",
+        "selector": "main > div.px-4.my-5.text-center.border-bottom > div.row:nth-of-type(6) > div.col-md-3.mb-3:nth-of-type(2) > div.alert.alert-secondary > a",
+        "xpath": "/html/body/main[1]/div[1]/div[6]/div[2]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 707.84375,
+          "y": 760.3125,
+          "width": 173.859375,
+          "height": 18
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 13,
+          "g": 110,
+          "b": 253,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 226,
+          "g": 227,
+          "b": 229,
+          "a": 1
+        },
+        "contrastRatio": 3.5,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 89,
+            "b": 231,
+            "a": 1
+          },
+          "hex": "#0059e7",
+          "ratio": 4.56,
+          "property": "color",
+          "deltaE": 0.06320074218052452
+        }
+      }
+    ],
+    "violations": [
+      {
+        "text": "please review this guide",
+        "tag": "a",
+        "color": "rgb(13, 110, 253)",
+        "background": "rgb(226, 227, 229)",
+        "selector": "main > div.px-4.my-5.text-center.border-bottom > div.row:nth-of-type(6) > div.col-md-3.mb-3:nth-of-type(2) > div.alert.alert-secondary > a",
+        "xpath": "/html/body/main[1]/div[1]/div[6]/div[2]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 707.84375,
+          "y": 760.3125,
+          "width": 173.859375,
+          "height": 18
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 13,
+          "g": 110,
+          "b": 253,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 226,
+          "g": 227,
+          "b": 229,
+          "a": 1
+        },
+        "contrastRatio": 3.5,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 89,
+            "b": 231,
+            "a": 1
+          },
+          "hex": "#0059e7",
+          "ratio": 4.56,
+          "property": "color",
+          "deltaE": 0.06320074218052452
+        }
+      }
+    ],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 22,
+      "passAA": 21,
+      "passAAA": 20,
+      "failAA": 1,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 1
+    },
+    "healthScore": 95,
+    "scannedAt": "2026-07-23T18:10:14.501Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 1 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 1 violation(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/tympahealth-20260723-175834/reports/contrast-checker/tympahealth.com-about-us.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/tympahealth-20260723-175834/reports/contrast-checker/tympahealth.com-about-us.json (stdout, non-zero exit)

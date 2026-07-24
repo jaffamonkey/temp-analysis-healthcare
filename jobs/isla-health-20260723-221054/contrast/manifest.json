@@ -1,0 +1,26 @@
+[
+  {
+    "page": "isla.health",
+    "title": "Isla Health | Digital Pathway Platform | Class 1 Medical Device",
+    "url": "https://isla.health",
+    "file": "isla.health.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "isla.health-about-us",
+    "title": "About Isla Health: Digital Pathway Platform and Medical Device",
+    "url": "https://isla.health/about-us/",
+    "file": "isla.health-about-us.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "isla.health-privacy-policy",
+    "title": "Privacy-policy - Isla Health",
+    "url": "https://isla.health/privacy-policy/",
+    "file": "isla.health-privacy-policy.json",
+    "status": "partial",
+    "source": "stdout"
+  }
+]

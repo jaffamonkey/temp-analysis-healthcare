@@ -1,0 +1,43 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-23T17:29:22.497Z
+URL: https://www.levaclinic.com/about
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://www.levaclinic.com/about --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/leva-clinic-20260723-171305/reports/contrast-checker/www.levaclinic.com-about.json
+Exit code: 0
+
+--- STDOUT ---
+ℹ Scanning: https://www.levaclinic.com/about
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://www.levaclinic.com/about
+[
+  {
+    "url": "https://www.levaclinic.com/about",
+    "title": "Leva Clinic | About us | Find pain-life balance",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 343,
+      "passAA": 343,
+      "passAAA": 343,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-07-23T17:29:30.830Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/leva-clinic-20260723-171305/reports/contrast-checker/www.levaclinic.com-about.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/leva-clinic-20260723-171305/reports/contrast-checker/www.levaclinic.com-about.json (stdout)

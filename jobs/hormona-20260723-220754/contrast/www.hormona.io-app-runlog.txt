@@ -1,0 +1,43 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-23T22:26:16.328Z
+URL: https://www.hormona.io/app
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://www.hormona.io/app --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/hormona-20260723-220754/reports/contrast-checker/www.hormona.io-app.json
+Exit code: 0
+
+--- STDOUT ---
+ℹ Scanning: https://www.hormona.io/app
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://www.hormona.io/app
+[
+  {
+    "url": "https://www.hormona.io/app",
+    "title": "404 Not Found",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 81,
+      "passAA": 81,
+      "passAAA": 81,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-07-23T22:26:25.705Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/hormona-20260723-220754/reports/contrast-checker/www.hormona.io-app.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/hormona-20260723-220754/reports/contrast-checker/www.hormona.io-app.json (stdout)

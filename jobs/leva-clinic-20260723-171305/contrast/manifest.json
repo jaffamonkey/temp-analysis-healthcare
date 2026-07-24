@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.levaclinic.com",
+    "title": "Treat your chronic pain with Leva pain management clinic",
+    "url": "https://www.levaclinic.com/",
+    "file": "www.levaclinic.com.json",
+    "status": "ok",
+    "source": "stdout"
+  },
+  {
+    "page": "www.levaclinic.com-about",
+    "title": "Leva Clinic | About us | Find pain-life balance",
+    "url": "https://www.levaclinic.com/about",
+    "file": "www.levaclinic.com-about.json",
+    "status": "ok",
+    "source": "stdout"
+  },
+  {
+    "page": "www.levaclinic.com-contact-us",
+    "title": "Leva Clinic | Contact us",
+    "url": "https://www.levaclinic.com/contact-us",
+    "file": "www.levaclinic.com-contact-us.json",
+    "status": "ok",
+    "source": "stdout"
+  },
+  {
+    "page": "www.levaclinic.com-discover-cannabinoid-based-medication",
+    "title": "Discover cannabis-based medication | Leva Clinic",
+    "url": "https://www.levaclinic.com/discover-cannabinoid-based-medication",
+    "file": "www.levaclinic.com-discover-cannabinoid-based-medication.json",
+    "status": "ok",
+    "source": "stdout"
+  },
+  {
+    "page": "www.levaclinic.com-privacy-policy",
+    "title": "Leva Clinic - Privacy Policy",
+    "url": "https://www.levaclinic.com/privacy-policy",
+    "file": "www.levaclinic.com-privacy-policy.json",
+    "status": "ok",
+    "source": "stdout"
+  }
+]

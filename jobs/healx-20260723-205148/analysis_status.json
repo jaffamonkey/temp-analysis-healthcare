@@ -1,0 +1,13 @@
+{
+  "job_id": "healx-20260723-205148",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/healx-20260723-205148/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/healx-20260723-205148/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/healx-20260723-205148/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/healx-20260723-205148/analysis/accessibility_analysis.xlsx",
+  "violations": 1021,
+  "pages": 5,
+  "screenshots": {
+    "job_id": "healx-20260723-205148",
+    "message": "Artifacts processed"
+  }
+}

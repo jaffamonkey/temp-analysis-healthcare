@@ -1,0 +1,272 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-23T15:18:04.380Z
+URL: https://www.getinflow.io/
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://www.getinflow.io/ --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/inflow-20260723-145941/reports/contrast-checker/www.getinflow.io.json
+Exit code: 1
+
+--- STDOUT ---
+ℹ Scanning: https://www.getinflow.io/
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://www.getinflow.io/
+[
+  {
+    "url": "https://www.getinflow.io/",
+    "title": "Inflow",
+    "pairs": [
+      {
+        "text": "See more",
+        "tag": "a",
+        "color": "rgb(167, 202, 199)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > div:nth-of-type(3) > div.padding-global-2.padding-testimonial > div.container-large-2.testimonial-container.w-container > div.moiz-testimonial-div > div.see-more-link-div:nth-of-type(3) > a.see-more-testimonial-button.w-button",
+        "xpath": "/html/body/div[2]/div[3]/div[1]/div[1]/div[1]/div[3]/a[1]",
+        "boundingRect": {
+          "x": 555.578125,
+          "y": 1390.984375,
+          "width": 168.828125,
+          "height": 57.0625
+        },
+        "fontSize": "22px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 167,
+          "g": 202,
+          "b": 199,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1.76,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 91,
+            "g": 124,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#5b7c79",
+          "ratio": 4.56,
+          "property": "color",
+          "deltaE": 0.25263809751735045
+        }
+      },
+      {
+        "text": "Filter Icon",
+        "tag": "title",
+        "color": "rgb(85, 85, 85)",
+        "background": "rgb(56, 96, 190)",
+        "selector": "div:nth-of-type(3) > div.otPcCenter.ot-hide.ot-fade-in:nth-of-type(3) > div > section.ot-hide.ot-hosts-ui.ot-pc-scrollbar > div > div.ot-lst-subhdr:nth-of-type(2) > div.ot-fltr-cntr:nth-of-type(2) > button > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"filter-btn-handler\"]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 85,
+          "g": 85,
+          "b": 85,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 56,
+          "g": 96,
+          "b": 190,
+          "a": 1
+        },
+        "contrastRatio": 1.27,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 158,
+            "g": 206,
+            "b": 255,
+            "a": 1
+          },
+          "hex": "#9eceff",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.3481465089931902
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      }
+    ],
+    "violations": [
+      {
+        "text": "See more",
+        "tag": "a",
+        "color": "rgb(167, 202, 199)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > div:nth-of-type(3) > div.padding-global-2.padding-testimonial > div.container-large-2.testimonial-container.w-container > div.moiz-testimonial-div > div.see-more-link-div:nth-of-type(3) > a.see-more-testimonial-button.w-button",
+        "xpath": "/html/body/div[2]/div[3]/div[1]/div[1]/div[1]/div[3]/a[1]",
+        "boundingRect": {
+          "x": 555.578125,
+          "y": 1390.984375,
+          "width": 168.828125,
+          "height": 57.0625
+        },
+        "fontSize": "22px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 167,
+          "g": 202,
+          "b": 199,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1.76,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 91,
+            "g": 124,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#5b7c79",
+          "ratio": 4.56,
+          "property": "color",
+          "deltaE": 0.25263809751735045
+        }
+      },
+      {
+        "text": "Filter Icon",
+        "tag": "title",
+        "color": "rgb(85, 85, 85)",
+        "background": "rgb(56, 96, 190)",
+        "selector": "div:nth-of-type(3) > div.otPcCenter.ot-hide.ot-fade-in:nth-of-type(3) > div > section.ot-hide.ot-hosts-ui.ot-pc-scrollbar > div > div.ot-lst-subhdr:nth-of-type(2) > div.ot-fltr-cntr:nth-of-type(2) > button > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"filter-btn-handler\"]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 85,
+          "g": 85,
+          "b": 85,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 56,
+          "g": 96,
+          "b": 190,
+          "a": 1
+        },
+        "contrastRatio": 1.27,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 158,
+            "g": 206,
+            "b": 255,
+            "a": 1
+          },
+          "hex": "#9eceff",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.3481465089931902
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--white",
+        "property": "background-color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#a7cac7",
+        "againstVariable": null,
+        "againstValue": "rgb(167, 202, 199)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 1.76,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--white",
+          "newValue": "color(srgb 0.318 0.318 0.318)",
+          "newHex": "#515151",
+          "contrastRatio": 4.5,
+          "property": "background-color"
+        },
+        "instances": [
+          {
+            "selector": "div.page-wrapper:nth-of-type(2) > div:nth-of-type(3) > div.padding-global-2.padding-testimonial > div.container-large-2.testimonial-container.w-container > div.moiz-testimonial-div > div.see-more-link-div:nth-of-type(3) > a.see-more-testimonial-button.w-button",
+            "text": "See more",
+            "xpath": "/html/body/div[2]/div[3]/div[1]/div[1]/div[1]/div[3]/a[1]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 67,
+      "passAA": 65,
+      "passAAA": 9,
+      "failAA": 2,
+      "failAAA": 2
+    },
+    "variableStats": {
+      "uniqueIssues": 1,
+      "affectedElements": 1,
+      "oneOffIssues": 1
+    },
+    "healthScore": 97,
+    "scannedAt": "2026-07-23T15:18:12.699Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 2 violation(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/inflow-20260723-145941/reports/contrast-checker/www.getinflow.io.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/inflow-20260723-145941/reports/contrast-checker/www.getinflow.io.json (stdout, non-zero exit)

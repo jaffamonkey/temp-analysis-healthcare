@@ -1,0 +1,10 @@
+{
+  "tool": "contrast-checker",
+  "url": "https://www.hollyhealth.io/about-us",
+  "error": "No usable JSON report found in output file or stdout",
+  "exit_code": 1,
+  "stdout": "ℹ Scanning: https://www.hollyhealth.io/about-us\nℹ Scanning page 1/1: https://www.hollyhealth.io/about-us\n⚠ Failed to scan https://www.hollyhealth.io/about-us: page.goto: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.hollyhealth.io/about-us\", waiting until \"networkidle\"\u001b[22m\n\n⚠ 1 page(s) failed to scan\n✖ All pages failed to scan\n",
+  "stderr": "- Discovering linked pages...\n\u001b[32m✔\u001b[39m Found 1 page(s)\n",
+  "attempt": 2,
+  "scanned_at": "2026-07-23T15:22:20.245Z"
+}

@@ -1,0 +1,42 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-23T18:07:15.706Z
+URL: https://www.coloplast.co.uk/
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://www.coloplast.co.uk/ --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/coloplast-20260723-175734/reports/contrast-checker/www.coloplast.co.uk.json
+Exit code: 0
+
+--- STDOUT ---
+ℹ Scanning: https://www.coloplast.co.uk/
+ℹ Scanning page 1/1: https://www.coloplast.co.uk/
+[
+  {
+    "url": "https://www.coloplast.co.uk/",
+    "title": "Access Denied",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 4,
+      "passAA": 4,
+      "passAAA": 4,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-07-23T18:07:22.040Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 1 page(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/coloplast-20260723-175734/reports/contrast-checker/www.coloplast.co.uk.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/coloplast-20260723-175734/reports/contrast-checker/www.coloplast.co.uk.json (stdout)

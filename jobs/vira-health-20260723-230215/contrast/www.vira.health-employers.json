@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://www.vira.health/employers",
+    "title": "Employers | Vira Health",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 103,
+      "passAA": 103,
+      "passAAA": 101,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-07-23T23:13:47.025Z"
+  }
+]

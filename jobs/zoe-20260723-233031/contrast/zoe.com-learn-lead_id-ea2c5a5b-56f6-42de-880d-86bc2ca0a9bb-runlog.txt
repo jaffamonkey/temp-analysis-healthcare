@@ -1,0 +1,43 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-23T23:46:58.143Z
+URL: https://zoe.com/learn?lead_id=ea2c5a5b-56f6-42de-880d-86bc2ca0a9bb
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://zoe.com/learn?lead_id=ea2c5a5b-56f6-42de-880d-86bc2ca0a9bb --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/zoe-20260723-233031/reports/contrast-checker/zoe.com-learn-lead_id-ea2c5a5b-56f6-42de-880d-86bc2ca0a9bb.json
+Exit code: 0
+
+--- STDOUT ---
+ℹ Scanning: https://zoe.com/learn?lead_id=ea2c5a5b-56f6-42de-880d-86bc2ca0a9bb
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://zoe.com/learn?lead_id=ea2c5a5b-56f6-42de-880d-86bc2ca0a9bb
+[
+  {
+    "url": "https://zoe.com/learn?lead_id=ea2c5a5b-56f6-42de-880d-86bc2ca0a9bb",
+    "title": "ZOE Health Academy — Nutrition and health information",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 168,
+      "passAA": 168,
+      "passAAA": 166,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-07-23T23:47:04.831Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/zoe-20260723-233031/reports/contrast-checker/zoe.com-learn-lead_id-ea2c5a5b-56f6-42de-880d-86bc2ca0a9bb.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/zoe-20260723-233031/reports/contrast-checker/zoe.com-learn-lead_id-ea2c5a5b-56f6-42de-880d-86bc2ca0a9bb.json (stdout)

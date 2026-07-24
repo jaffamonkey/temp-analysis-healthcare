@@ -1,0 +1,13 @@
+{
+  "job_id": "agiliosoftware-20260723-233833",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/agiliosoftware-20260723-233833/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/agiliosoftware-20260723-233833/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/agiliosoftware-20260723-233833/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/agiliosoftware-20260723-233833/analysis/accessibility_analysis.xlsx",
+  "violations": 772,
+  "pages": 5,
+  "screenshots": {
+    "job_id": "agiliosoftware-20260723-233833",
+    "message": "Artifacts processed"
+  }
+}

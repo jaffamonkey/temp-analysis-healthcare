@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.cardmedic.com",
+    "url": "https://www.cardmedic.com/",
+    "title": "CardMedic | Reduce Health Inequalities & Improve Patient Safety",
+    "report": "www.cardmedic.com.json",
+    "line_count": 348,
+    "ok": true
+  },
+  {
+    "page": "www.cardmedic.com-about-us",
+    "url": "https://www.cardmedic.com/about-us/",
+    "title": "About Us | Improving Communication In Healthcare",
+    "report": "www.cardmedic.com-about-us.json",
+    "line_count": 296,
+    "ok": true
+  },
+  {
+    "page": "www.cardmedic.com-contact",
+    "url": "https://www.cardmedic.com/contact/",
+    "title": "Contact CardMedic | Medical Communication Solutions",
+    "report": "www.cardmedic.com-contact.json",
+    "line_count": 296,
+    "ok": true
+  },
+  {
+    "page": "www.cardmedic.com-clients-and-case-studies",
+    "url": "https://www.cardmedic.com/clients-and-case-studies/",
+    "title": "Our Clients | See how the world's leading hospitals are improving health equity",
+    "report": "www.cardmedic.com-clients-and-case-studies.json",
+    "line_count": 245,
+    "ok": true
+  },
+  {
+    "page": "www.cardmedic.com-help",
+    "url": "https://www.cardmedic.com/help/",
+    "title": "Help & FAQs | Get Help With CardMedic Communication Tools",
+    "report": "www.cardmedic.com-help.json",
+    "line_count": 175,
+    "ok": true
+  }
+]

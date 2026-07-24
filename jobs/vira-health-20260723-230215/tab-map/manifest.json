@@ -1,0 +1,128 @@
+[
+  {
+    "tool": "tab-map",
+    "url": "https://www.vira.health",
+    "landed_url": "https://www.vira.health/",
+    "title": "Vira Health - Healthcare support for every employee, everywhere",
+    "page": "www.vira.health",
+    "captured_at": "2026-07-23T23:12:43.511Z",
+    "focusable_count": 20,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "www.vira.health.png",
+    "preview_image": "www.vira.health.png",
+    "preview_dir": "visual-preview",
+    "json": "www.vira.health.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      },
+      {
+        "action": "removed",
+        "detail": "1 overlay(s)"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.vira.health/about-us",
+    "landed_url": "https://www.vira.health/about-us",
+    "title": "About Us | Vira Health",
+    "page": "www.vira.health-about-us",
+    "captured_at": "2026-07-23T23:12:50.161Z",
+    "focusable_count": 14,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "www.vira.health-about-us.png",
+    "preview_image": "www.vira.health-about-us.png",
+    "preview_dir": "visual-preview",
+    "json": "www.vira.health-about-us.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      },
+      {
+        "action": "removed",
+        "detail": "1 overlay(s)"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.vira.health/terms-conditions",
+    "landed_url": "https://www.vira.health/terms-conditions",
+    "title": "Terms & Conditions | Vira Health",
+    "page": "www.vira.health-terms-conditions",
+    "captured_at": "2026-07-23T23:12:57.443Z",
+    "focusable_count": 26,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "www.vira.health-terms-conditions.png",
+    "preview_image": "www.vira.health-terms-conditions.png",
+    "preview_dir": "visual-preview",
+    "json": "www.vira.health-terms-conditions.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      },
+      {
+        "action": "removed",
+        "detail": "1 overlay(s)"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.vira.health/products",
+    "landed_url": "https://www.vira.health/products",
+    "title": "Products | Vira Health",
+    "page": "www.vira.health-products",
+    "captured_at": "2026-07-23T23:13:04.519Z",
+    "focusable_count": 17,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "www.vira.health-products.png",
+    "preview_image": "www.vira.health-products.png",
+    "preview_dir": "visual-preview",
+    "json": "www.vira.health-products.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      },
+      {
+        "action": "removed",
+        "detail": "1 overlay(s)"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.vira.health/employers",
+    "landed_url": "https://www.vira.health/employers",
+    "title": "Employers | Vira Health",
+    "page": "www.vira.health-employers",
+    "captured_at": "2026-07-23T23:13:10.990Z",
+    "focusable_count": 14,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "www.vira.health-employers.png",
+    "preview_image": "www.vira.health-employers.png",
+    "preview_dir": "visual-preview",
+    "json": "www.vira.health-employers.json",
+    "consent_actions": [
+      {
+        "action": "removed",
+        "detail": "2 overlay(s)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.careology.health-en-gb",
+    "title": "Careology | Empowering Decisions with Digital Cancer Care",
+    "url": "https://www.careology.health/en-gb",
+    "file": "www.careology.health-en-gb.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "www.careology.health-en-gb-about",
+    "title": "About: Pioneering Digital Cancer Care Solutions | Careology",
+    "url": "https://www.careology.health/en-gb/about",
+    "file": "www.careology.health-en-gb-about.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "www.careology.health-en-gb-contact",
+    "title": "Contact: Get in Touch with Our Team or Book a Demo | Careology",
+    "url": "https://www.careology.health/en-gb/contact",
+    "file": "www.careology.health-en-gb-contact.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "www.careology.health-en-gb-solutions-patients",
+    "title": "Transforming Cancer Care for Patients | Careology",
+    "url": "https://www.careology.health/en-gb/solutions/patients",
+    "file": "www.careology.health-en-gb-solutions-patients.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "www.careology.health-en-gb-privacy",
+    "title": "Privacy Policy | Careology",
+    "url": "https://www.careology.health/en-gb/privacy",
+    "file": "www.careology.health-en-gb-privacy.json",
+    "status": "partial",
+    "source": "stdout"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.hcahealthcare.co.uk/locations",
+  "landed_url": "https://www.hcahealthcare.co.uk/locations",
+  "title": "Our Locations | Private Hospitals & Clinics | HCA UK",
+  "page": "www.hcahealthcare.co.uk-locations",
+  "captured_at": "2026-07-23T14:44:35.628Z",
+  "focusable_count": 63,
+  "frame_count": 3,
+  "same_origin_frame_count": 2,
+  "cross_origin_frame_count": 1,
+  "image": "www.hcahealthcare.co.uk-locations.png",
+  "preview_image": "www.hcahealthcare.co.uk-locations.png",
+  "preview_dir": "visual-preview",
+  "json": "www.hcahealthcare.co.uk-locations.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "#onetrust-accept-btn-handler"
+    }
+  ]
+}

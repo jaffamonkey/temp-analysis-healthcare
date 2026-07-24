@@ -1,0 +1,49 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-23T15:23:58.619Z
+URL: https://www.hollyhealth.io/policy
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://www.hollyhealth.io/policy --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/holly-health-20260723-145841/reports/contrast-checker/www.hollyhealth.io-policy.json
+Exit code: 1
+
+--- STDOUT ---
+ℹ Scanning: https://www.hollyhealth.io/policy
+ℹ Scanning page 1/1: https://www.hollyhealth.io/policy
+⚠ Failed to scan https://www.hollyhealth.io/policy: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.hollyhealth.io/policy", waiting until "networkidle"[22m
+
+⚠ 1 page(s) failed to scan
+✖ All pages failed to scan
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 1 page(s)
+
+No usable JSON found in stdout
+Attempt 1 failed: no usable JSON
+Retrying after 3000ms
+
+=== Attempt 2 of 2 ===
+Started: 2026-07-23T15:24:48.905Z
+URL: https://www.hollyhealth.io/policy
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://www.hollyhealth.io/policy --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/holly-health-20260723-145841/reports/contrast-checker/www.hollyhealth.io-policy.json
+Exit code: 1
+
+--- STDOUT ---
+ℹ Scanning: https://www.hollyhealth.io/policy
+ℹ Scanning page 1/1: https://www.hollyhealth.io/policy
+⚠ Failed to scan https://www.hollyhealth.io/policy: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.hollyhealth.io/policy", waiting until "networkidle"[22m
+
+⚠ 1 page(s) failed to scan
+✖ All pages failed to scan
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 1 page(s)
+
+No usable JSON found in stdout
+Attempt 2 failed: no usable JSON

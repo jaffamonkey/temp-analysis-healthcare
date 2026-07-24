@@ -1,0 +1,17 @@
+{
+  "tool": "tab-map",
+  "url": "https://tympahealth.com/about-us/",
+  "landed_url": "https://tympahealth.com/about-us/",
+  "title": "Access Restricted | Shield Security PRO",
+  "page": "tympahealth.com-about-us",
+  "captured_at": "2026-07-23T18:09:32.959Z",
+  "focusable_count": 1,
+  "frame_count": 0,
+  "same_origin_frame_count": 0,
+  "cross_origin_frame_count": 0,
+  "image": "tympahealth.com-about-us.png",
+  "preview_image": "tympahealth.com-about-us.png",
+  "preview_dir": "visual-preview",
+  "json": "tympahealth.com-about-us.json",
+  "consent_actions": []
+}

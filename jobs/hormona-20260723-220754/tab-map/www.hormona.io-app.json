@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.hormona.io/app",
+  "landed_url": "https://www.hormona.io/app",
+  "title": "404 Not Found",
+  "page": "www.hormona.io-app",
+  "captured_at": "2026-07-23T22:24:50.680Z",
+  "focusable_count": 55,
+  "frame_count": 1,
+  "same_origin_frame_count": 0,
+  "cross_origin_frame_count": 1,
+  "image": "www.hormona.io-app.png",
+  "preview_image": "www.hormona.io-app.png",
+  "preview_dir": "visual-preview",
+  "json": "www.hormona.io-app.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Accept"
+    }
+  ]
+}

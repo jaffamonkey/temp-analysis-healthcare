@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://tympahealth.com/",
+  "landed_url": "https://tympahealth.com/",
+  "title": "TympaHealth: Making Ear and Hearing Healthcare Accessible to All",
+  "page": "tympahealth.com",
+  "captured_at": "2026-07-23T18:09:27.797Z",
+  "focusable_count": 58,
+  "frame_count": 0,
+  "same_origin_frame_count": 0,
+  "cross_origin_frame_count": 0,
+  "image": "tympahealth.com.png",
+  "preview_image": "tympahealth.com.png",
+  "preview_dir": "visual-preview",
+  "json": "tympahealth.com.json",
+  "consent_actions": [
+    {
+      "action": "removed",
+      "detail": "1 overlay(s)"
+    }
+  ]
+}

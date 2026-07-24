@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.careology.health/en-gb/privacy",
+  "landed_url": "https://www.careology.health/en-gb/privacy",
+  "title": "Privacy Policy | Careology",
+  "page": "www.careology.health-en-gb-privacy",
+  "captured_at": "2026-07-23T18:34:16.064Z",
+  "focusable_count": 66,
+  "frame_count": 1,
+  "same_origin_frame_count": 1,
+  "cross_origin_frame_count": 0,
+  "image": "www.careology.health-en-gb-privacy.png",
+  "preview_image": "www.careology.health-en-gb-privacy.png",
+  "preview_dir": "visual-preview",
+  "json": "www.careology.health-en-gb-privacy.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "button[aria-label=\"Accept cookies\"]"
+    }
+  ]
+}

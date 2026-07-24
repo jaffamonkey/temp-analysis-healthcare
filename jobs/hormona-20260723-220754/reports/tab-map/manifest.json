@@ -1,0 +1,90 @@
+[
+  {
+    "tool": "tab-map",
+    "url": "https://www.hormona.io",
+    "landed_url": "https://www.hormona.io/",
+    "title": "Your personalized hormone tracker and health monitoring by Hormona",
+    "page": "www.hormona.io",
+    "captured_at": "2026-07-23T22:24:34.907Z",
+    "focusable_count": 78,
+    "frame_count": 1,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 1,
+    "image": "www.hormona.io.png",
+    "preview_image": "www.hormona.io.png",
+    "preview_dir": "visual-preview",
+    "json": "www.hormona.io.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.hormona.io/pages/faq",
+    "landed_url": "https://www.hormona.io/pages/faq",
+    "title": "Hormona FAQ Everything You Need to Know About Hormone Testing",
+    "page": "www.hormona.io-pages-faq",
+    "captured_at": "2026-07-23T22:24:42.814Z",
+    "focusable_count": 73,
+    "frame_count": 1,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 1,
+    "image": "www.hormona.io-pages-faq.png",
+    "preview_image": "www.hormona.io-pages-faq.png",
+    "preview_dir": "visual-preview",
+    "json": "www.hormona.io-pages-faq.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.hormona.io/app",
+    "landed_url": "https://www.hormona.io/app",
+    "title": "404 Not Found",
+    "page": "www.hormona.io-app",
+    "captured_at": "2026-07-23T22:24:50.680Z",
+    "focusable_count": 55,
+    "frame_count": 1,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 1,
+    "image": "www.hormona.io-app.png",
+    "preview_image": "www.hormona.io-app.png",
+    "preview_dir": "visual-preview",
+    "json": "www.hormona.io-app.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.hormona.io/policies/privacy-policy",
+    "landed_url": "https://www.hormona.io/policies/privacy-policy",
+    "title": "Privacy policy",
+    "page": "www.hormona.io-policies-privacy-policy",
+    "captured_at": "2026-07-23T22:25:03.331Z",
+    "focusable_count": 50,
+    "frame_count": 1,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 1,
+    "image": "www.hormona.io-policies-privacy-policy.png",
+    "preview_image": "www.hormona.io-policies-privacy-policy.png",
+    "preview_dir": "visual-preview",
+    "json": "www.hormona.io-policies-privacy-policy.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept"
+      }
+    ]
+  }
+]

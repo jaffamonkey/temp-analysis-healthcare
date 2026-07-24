@@ -1,0 +1,43 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-23T19:09:42.780Z
+URL: https://www.healthhero.com/privacy-policy
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://www.healthhero.com/privacy-policy --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/healthhero-20260723-185915/reports/contrast-checker/www.healthhero.com-privacy-policy.json
+Exit code: 0
+
+--- STDOUT ---
+ℹ Scanning: https://www.healthhero.com/privacy-policy
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://www.healthhero.com/privacy-policy
+[
+  {
+    "url": "https://www.healthhero.com/privacy-policy",
+    "title": "GP Privacy Policy - HealthHero",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 201,
+      "passAA": 201,
+      "passAAA": 177,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-07-23T19:09:48.394Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 2 page(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/healthhero-20260723-185915/reports/contrast-checker/www.healthhero.com-privacy-policy.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/healthhero-20260723-185915/reports/contrast-checker/www.healthhero.com-privacy-policy.json (stdout)

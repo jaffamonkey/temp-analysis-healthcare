@@ -1,0 +1,13 @@
+{
+  "job_id": "hormona-20260723-220754",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/hormona-20260723-220754/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/hormona-20260723-220754/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/hormona-20260723-220754/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/hormona-20260723-220754/analysis/accessibility_analysis.xlsx",
+  "violations": 1252,
+  "pages": 4,
+  "screenshots": {
+    "job_id": "hormona-20260723-220754",
+    "message": "Artifacts processed"
+  }
+}

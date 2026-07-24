@@ -1,0 +1,42 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-23T22:23:46.760Z
+URL: https://herodoctors.kinde.com/auth/cx/_:nav&m:auth_error&reason:cookies_required&psid:019f900fd935d6b5762a5cee0f1ecabc
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://herodoctors.kinde.com/auth/cx/_:nav&m:auth_error&reason:cookies_required&psid:019f900fd935d6b5762a5cee0f1ecabc --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/hero-health-20260723-220954/reports/contrast-checker/herodoctors.kinde.com-auth-cx-_-nav-m-auth_error-reason-cookies_required-psid-019f900fd935d6b5762a5cee0f1ecabc.json
+Exit code: 0
+
+--- STDOUT ---
+ℹ Scanning: https://herodoctors.kinde.com/auth/cx/_:nav&m:auth_error&reason:cookies_required&psid:019f900fd935d6b5762a5cee0f1ecabc
+ℹ Scanning page 1/1: https://herodoctors.kinde.com/auth/cx/_:nav&m:auth_error&reason:cookies_required&psid:019f900fd935d6b5762a5cee0f1ecabc
+[
+  {
+    "url": "https://herodoctors.kinde.com/auth/cx/_:nav&m:auth_error&reason:cookies_required&psid:019f900fd935d6b5762a5cee0f1ecabc",
+    "title": "Error",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 3,
+      "passAA": 3,
+      "passAAA": 3,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-07-23T22:23:54.672Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 1 page(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/hero-health-20260723-220954/reports/contrast-checker/herodoctors.kinde.com-auth-cx-_-nav-m-auth_error-reason-cookies_required-psid-019f900fd935d6b5762a5cee0f1ecabc.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/hero-health-20260723-220954/reports/contrast-checker/herodoctors.kinde.com-auth-cx-_-nav-m-auth_error-reason-cookies_required-psid-019f900fd935d6b5762a5cee0f1ecabc.json (stdout)

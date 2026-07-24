@@ -1,0 +1,90 @@
+[
+  {
+    "tool": "tab-map",
+    "url": "https://www.spill.chat",
+    "landed_url": "https://www.spill.chat/",
+    "title": "Spill | The Highest Rated EAP on Trustpilot",
+    "page": "www.spill.chat",
+    "captured_at": "2026-07-23T18:54:03.305Z",
+    "focusable_count": 17,
+    "frame_count": 1,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 0,
+    "image": "www.spill.chat.png",
+    "preview_image": "www.spill.chat.png",
+    "preview_dir": "visual-preview",
+    "json": "www.spill.chat.json",
+    "consent_actions": [
+      {
+        "action": "removed",
+        "detail": "1 overlay(s)"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.spill.chat/about-us",
+    "landed_url": "https://www.spill.chat/about-us",
+    "title": "Spill | The UK's Highest Rated EAP | About Spill",
+    "page": "www.spill.chat-about-us",
+    "captured_at": "2026-07-23T18:54:09.672Z",
+    "focusable_count": 10,
+    "frame_count": 2,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 1,
+    "image": "www.spill.chat-about-us.png",
+    "preview_image": "www.spill.chat-about-us.png",
+    "preview_dir": "visual-preview",
+    "json": "www.spill.chat-about-us.json",
+    "consent_actions": [
+      {
+        "action": "removed",
+        "detail": "1 overlay(s)"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.spill.chat/customer-stories",
+    "landed_url": "https://www.spill.chat/customer-stories",
+    "title": "Spill | The UK's Highest Rated EAP | Customer Stories",
+    "page": "www.spill.chat-customer-stories",
+    "captured_at": "2026-07-23T18:54:15.204Z",
+    "focusable_count": 15,
+    "frame_count": 1,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 0,
+    "image": "www.spill.chat-customer-stories.png",
+    "preview_image": "www.spill.chat-customer-stories.png",
+    "preview_dir": "visual-preview",
+    "json": "www.spill.chat-customer-stories.json",
+    "consent_actions": [
+      {
+        "action": "removed",
+        "detail": "1 overlay(s)"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.spill.chat/industry/eap-for-residential-care-homes",
+    "landed_url": "https://www.spill.chat/industry/eap-for-residential-care-homes",
+    "title": "EAP for Residential care homes | Spill",
+    "page": "www.spill.chat-industry-eap-for-residential-care-homes",
+    "captured_at": "2026-07-23T18:54:21.239Z",
+    "focusable_count": 20,
+    "frame_count": 1,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 0,
+    "image": "www.spill.chat-industry-eap-for-residential-care-homes.png",
+    "preview_image": "www.spill.chat-industry-eap-for-residential-care-homes.png",
+    "preview_dir": "visual-preview",
+    "json": "www.spill.chat-industry-eap-for-residential-care-homes.json",
+    "consent_actions": [
+      {
+        "action": "removed",
+        "detail": "2 overlay(s)"
+      }
+    ]
+  }
+]

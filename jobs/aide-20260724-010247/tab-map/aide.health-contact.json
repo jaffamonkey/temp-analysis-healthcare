@@ -1,0 +1,17 @@
+{
+  "tool": "tab-map",
+  "url": "https://aide.health/contact",
+  "landed_url": "https://aide.health/contact",
+  "title": "Contact us — Aide Health",
+  "page": "aide.health-contact",
+  "captured_at": "2026-07-24T01:14:15.352Z",
+  "focusable_count": 32,
+  "frame_count": 0,
+  "same_origin_frame_count": 0,
+  "cross_origin_frame_count": 0,
+  "image": "aide.health-contact.png",
+  "preview_image": "aide.health-contact.png",
+  "preview_dir": "visual-preview",
+  "json": "aide.health-contact.json",
+  "consent_actions": []
+}

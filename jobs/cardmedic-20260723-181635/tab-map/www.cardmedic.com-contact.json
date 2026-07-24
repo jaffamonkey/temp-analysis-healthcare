@@ -1,0 +1,17 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.cardmedic.com/contact/",
+  "landed_url": "https://www.cardmedic.com/contact/",
+  "title": "Contact CardMedic | Medical Communication Solutions",
+  "page": "www.cardmedic.com-contact",
+  "captured_at": "2026-07-23T18:36:14.499Z",
+  "focusable_count": 46,
+  "frame_count": 5,
+  "same_origin_frame_count": 2,
+  "cross_origin_frame_count": 3,
+  "image": "www.cardmedic.com-contact.png",
+  "preview_image": "www.cardmedic.com-contact.png",
+  "preview_dir": "visual-preview",
+  "json": "www.cardmedic.com-contact.json",
+  "consent_actions": []
+}

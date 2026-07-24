@@ -1,0 +1,43 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-23T23:47:04.891Z
+URL: https://zoe.com/learn/category/healthy-living?lead_id=aaa5f62c-3cc2-4e2e-ac0f-dd90eb3260ed
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://zoe.com/learn/category/healthy-living?lead_id=aaa5f62c-3cc2-4e2e-ac0f-dd90eb3260ed --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/zoe-20260723-233031/reports/contrast-checker/zoe.com-learn-category-healthy-living-lead_id-aaa5f62c-3cc2-4e2e-ac0f-dd90eb3260ed.json
+Exit code: 0
+
+--- STDOUT ---
+ℹ Scanning: https://zoe.com/learn/category/healthy-living?lead_id=aaa5f62c-3cc2-4e2e-ac0f-dd90eb3260ed
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://zoe.com/learn/category/healthy-living?lead_id=aaa5f62c-3cc2-4e2e-ac0f-dd90eb3260ed
+[
+  {
+    "url": "https://zoe.com/learn/category/healthy-living?lead_id=aaa5f62c-3cc2-4e2e-ac0f-dd90eb3260ed",
+    "title": "Healthy Living — ZOE",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 150,
+      "passAA": 150,
+      "passAAA": 147,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-07-23T23:47:11.632Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/zoe-20260723-233031/reports/contrast-checker/zoe.com-learn-category-healthy-living-lead_id-aaa5f62c-3cc2-4e2e-ac0f-dd90eb3260ed.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/zoe-20260723-233031/reports/contrast-checker/zoe.com-learn-category-healthy-living-lead_id-aaa5f62c-3cc2-4e2e-ac0f-dd90eb3260ed.json (stdout)

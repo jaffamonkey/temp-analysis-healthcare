@@ -1,0 +1,17 @@
+{
+  "tool": "tab-map",
+  "url": "https://anya.health/privacy-policy/",
+  "landed_url": "https://anya.health/privacy-policy/",
+  "title": "Privacy Policy - Anya",
+  "page": "anya.health-privacy-policy",
+  "captured_at": "2026-07-23T18:36:05.038Z",
+  "focusable_count": 42,
+  "frame_count": 1,
+  "same_origin_frame_count": 1,
+  "cross_origin_frame_count": 0,
+  "image": "anya.health-privacy-policy.png",
+  "preview_image": "anya.health-privacy-policy.png",
+  "preview_dir": "visual-preview",
+  "json": "anya.health-privacy-policy.json",
+  "consent_actions": []
+}

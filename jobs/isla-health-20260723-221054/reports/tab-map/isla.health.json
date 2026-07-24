@@ -1,0 +1,17 @@
+{
+  "tool": "tab-map",
+  "url": "https://isla.health",
+  "landed_url": "https://isla.health/",
+  "title": "Isla Health | Digital Pathway Platform | Class 1 Medical Device",
+  "page": "isla.health",
+  "captured_at": "2026-07-23T22:21:15.375Z",
+  "focusable_count": 30,
+  "frame_count": 0,
+  "same_origin_frame_count": 0,
+  "cross_origin_frame_count": 0,
+  "image": "isla.health.png",
+  "preview_image": "isla.health.png",
+  "preview_dir": "visual-preview",
+  "json": "isla.health.json",
+  "consent_actions": []
+}

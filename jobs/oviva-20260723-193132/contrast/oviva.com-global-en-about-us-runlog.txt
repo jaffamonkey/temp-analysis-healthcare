@@ -1,0 +1,43 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-23T19:41:14.759Z
+URL: https://oviva.com/global/en/about-us/
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://oviva.com/global/en/about-us/ --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/oviva-20260723-193132/reports/contrast-checker/oviva.com-global-en-about-us.json
+Exit code: 0
+
+--- STDOUT ---
+ℹ Scanning: https://oviva.com/global/en/about-us/
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://oviva.com/global/en/about-us/
+[
+  {
+    "url": "https://oviva.com/global/en/about-us/",
+    "title": "About us | Oviva Group",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 163,
+      "passAA": 163,
+      "passAAA": 163,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-07-23T19:41:20.637Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/oviva-20260723-193132/reports/contrast-checker/oviva.com-global-en-about-us.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/oviva-20260723-193132/reports/contrast-checker/oviva.com-global-en-about-us.json (stdout)

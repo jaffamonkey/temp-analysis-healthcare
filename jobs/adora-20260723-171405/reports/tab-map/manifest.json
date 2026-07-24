@@ -1,0 +1,112 @@
+[
+  {
+    "tool": "tab-map",
+    "url": "https://www.adora.health/",
+    "landed_url": "https://www.adora.health/",
+    "title": "Adora Women's Health | Trusted Menopause Experts",
+    "page": "www.adora.health",
+    "captured_at": "2026-07-23T17:34:46.803Z",
+    "focusable_count": 32,
+    "frame_count": 3,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 2,
+    "image": "www.adora.health.png",
+    "preview_image": "www.adora.health.png",
+    "preview_dir": "visual-preview",
+    "json": "www.adora.health.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.adora.health/about",
+    "landed_url": "https://www.adora.health/about",
+    "title": "About | Adora Women's Health",
+    "page": "www.adora.health-about",
+    "captured_at": "2026-07-23T17:35:14.016Z",
+    "focusable_count": 29,
+    "frame_count": 2,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 1,
+    "image": "www.adora.health-about.png",
+    "preview_image": "www.adora.health-about.png",
+    "preview_dir": "visual-preview",
+    "json": "www.adora.health-about.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.adora.health/contact",
+    "landed_url": "https://www.adora.health/contact",
+    "title": "Contact | Adora Women's Health",
+    "page": "www.adora.health-contact",
+    "captured_at": "2026-07-23T17:35:40.345Z",
+    "focusable_count": 34,
+    "frame_count": 5,
+    "same_origin_frame_count": 2,
+    "cross_origin_frame_count": 3,
+    "image": "www.adora.health-contact.png",
+    "preview_image": "www.adora.health-contact.png",
+    "preview_dir": "visual-preview",
+    "json": "www.adora.health-contact.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.adora.health/for-employers",
+    "landed_url": "https://www.adora.health/for-employers",
+    "title": "Adora menopause — workplace menopause support | digital health app",
+    "page": "www.adora.health-for-employers",
+    "captured_at": "2026-07-23T17:36:07.769Z",
+    "focusable_count": 39,
+    "frame_count": 3,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 2,
+    "image": "www.adora.health-for-employers.png",
+    "preview_image": "www.adora.health-for-employers.png",
+    "preview_dir": "visual-preview",
+    "json": "www.adora.health-for-employers.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.adora.health/privacy-policy",
+    "landed_url": "https://www.adora.health/privacy-policy",
+    "title": "Privacy Policy | Adora Women's Health",
+    "page": "www.adora.health-privacy-policy",
+    "captured_at": "2026-07-23T17:36:35.500Z",
+    "focusable_count": 44,
+    "frame_count": 1,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 0,
+    "image": "www.adora.health-privacy-policy.png",
+    "preview_image": "www.adora.health-privacy-policy.png",
+    "preview_dir": "visual-preview",
+    "json": "www.adora.health-privacy-policy.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept"
+      }
+    ]
+  }
+]

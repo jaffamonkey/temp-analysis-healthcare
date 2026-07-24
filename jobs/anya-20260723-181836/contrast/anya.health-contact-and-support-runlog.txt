@@ -1,0 +1,43 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-23T18:36:20.507Z
+URL: https://anya.health/contact-and-support/
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://anya.health/contact-and-support/ --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/anya-20260723-181836/reports/contrast-checker/anya.health-contact-and-support.json
+Exit code: 0
+
+--- STDOUT ---
+ℹ Scanning: https://anya.health/contact-and-support/
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://anya.health/contact-and-support/
+[
+  {
+    "url": "https://anya.health/contact-and-support/",
+    "title": "Contact And Support - Anya",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 86,
+      "passAA": 86,
+      "passAAA": 85,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-07-23T18:36:26.440Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/anya-20260723-181836/reports/contrast-checker/anya.health-contact-and-support.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/anya-20260723-181836/reports/contrast-checker/anya.health-contact-and-support.json (stdout)

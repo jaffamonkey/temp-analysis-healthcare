@@ -1,0 +1,4286 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-23T15:18:30.981Z
+URL: https://bellehealth.co/
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://bellehealth.co/ --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/belle-health-20260723-150041/reports/contrast-checker/bellehealth.co.json
+Exit code: 1
+
+--- STDOUT ---
+ℹ Scanning: https://bellehealth.co/
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://bellehealth.co/
+[
+  {
+    "url": "https://bellehealth.co/",
+    "title": "Belle - Your PMDD Tracker",
+    "pairs": [
+      {
+        "text": "Nice! Your Women’s Health Fact Sheet is coming—ready to rewrite the narrative?",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "div.hidden.fixed.z-40.inset-0.items-center.justify-center.h-screen.w-screen.bg-primary.bg-opacity-75.opacity-0.transition-all.duration-400:nth-of-type(3) > div.w-full.max-h-full.p-4.lg:p-8.overflow-y-auto.sm:container.xl:max-w-screen-lg > section.relative.flex.flex-col.items-center.overflow-hidden.rounded-xl.bg-offwhite.shadow-card.scale-90.transition-all.duration-400.md:flex-row.md:items-stretch > div.p-6.sm:px-12.sm:py-8.md:flex-1.md:self-center:nth-of-type(3) > div.mt-8.hidden.items-center.gap-x-2.5.rounded-xl.border.border-offwhite.border-opacity-25.bg-primary-light.px-5.py-3.opacity-0.transition-opacity.duration-400:nth-of-type(1) > p.text-base.font-medium.text-offwhite",
+        "xpath": "//*[@id=\"popup-newsletter-success-message\"]/p[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 129,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#00817f",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.14724877276024007
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Oopsie! Looks like there's a tiny typo in your email address, try again.",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(233, 106, 97)",
+        "selector": "#popup-newsletter-failure-validation-text",
+        "xpath": "//*[@id=\"popup-newsletter-failure-validation-text\"]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 233,
+          "g": 106,
+          "b": 97,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 197,
+            "g": 74,
+            "b": 67,
+            "a": 1
+          },
+          "hex": "#c54a43",
+          "ratio": 4.55,
+          "property": "background-color",
+          "deltaE": 0.10161289993675438
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Oppsie! Something went wrong, please try again later.",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(233, 106, 97)",
+        "selector": "#popup-newsletter-failure-error-text",
+        "xpath": "//*[@id=\"popup-newsletter-failure-error-text\"]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 233,
+          "g": 106,
+          "b": 97,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 197,
+            "g": 74,
+            "b": 67,
+            "a": 1
+          },
+          "hex": "#c54a43",
+          "ratio": 4.55,
+          "property": "background-color",
+          "deltaE": 0.10161289993675438
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Menses",
+        "tag": "span",
+        "color": "rgb(220, 44, 0)",
+        "background": "rgba(220, 44, 0, 0.1)",
+        "selector": "main.belle-app-page > section.cy-journey:nth-of-type(2) > div.wrap:nth-of-type(2) > div.cy-journey-flow > article.cy-moment.cy-moment--menses.cy-moment--right.cy-reveal:nth-of-type(1) > div.cy-moment-text-wrap:nth-of-type(1) > div.cy-moment-anchor > span.cy-moment-phase:nth-of-type(2)",
+        "xpath": "//*[@id=\"features\"]/div[2]/div[1]/article[1]/div[1]/div[1]/span[2]",
+        "boundingRect": {
+          "x": 196.421875,
+          "y": 1111.03125,
+          "width": 101.984375,
+          "height": 29
+        },
+        "fontSize": "13px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 220,
+          "g": 44,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 220,
+          "g": 44,
+          "b": 0,
+          "a": 0.1
+        },
+        "contrastRatio": 4.1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 211,
+            "g": 32,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#d32000",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.024130246407747746
+        }
+      },
+      {
+        "text": "12",
+        "tag": "span",
+        "color": "rgb(176, 115, 0)",
+        "background": "rgb(255, 250, 240)",
+        "selector": "main.belle-app-page > section.cy-journey:nth-of-type(2) > div.wrap:nth-of-type(2) > div.cy-journey-flow > article.cy-moment.cy-moment--ovulation.cy-moment--right.cy-reveal:nth-of-type(3) > div.cy-moment-text-wrap:nth-of-type(1) > div.cy-moment-anchor > span.cy-moment-day:nth-of-type(1)",
+        "xpath": "//*[@id=\"features\"]/div[2]/div[1]/article[3]/div[1]/div[1]/span[1]",
+        "boundingRect": {
+          "x": 88,
+          "y": 2759.4375,
+          "width": 83.625,
+          "height": 103.765625
+        },
+        "fontSize": "102.4px",
+        "fontWeight": "350",
+        "isVisible": true,
+        "bgVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 176,
+          "g": 115,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "contrastRatio": 3.81,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 176,
+            "g": 115,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#b07300",
+          "ratio": 3.81,
+          "property": "color",
+          "deltaE": 0.00011869431224731386
+        }
+      },
+      {
+        "text": "Ovulation",
+        "tag": "span",
+        "color": "rgb(176, 115, 0)",
+        "background": "rgba(255, 179, 23, 0.16)",
+        "selector": "main.belle-app-page > section.cy-journey:nth-of-type(2) > div.wrap:nth-of-type(2) > div.cy-journey-flow > article.cy-moment.cy-moment--ovulation.cy-moment--right.cy-reveal:nth-of-type(3) > div.cy-moment-text-wrap:nth-of-type(1) > div.cy-moment-anchor > span.cy-moment-phase:nth-of-type(2)",
+        "xpath": "//*[@id=\"features\"]/div[2]/div[1]/article[3]/div[1]/div[1]/span[2]",
+        "boundingRect": {
+          "x": 187.625,
+          "y": 2752.4375,
+          "width": 133.6875,
+          "height": 29
+        },
+        "fontSize": "13px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 176,
+          "g": 115,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 179,
+          "b": 23,
+          "a": 0.16
+        },
+        "contrastRatio": 3.6,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 158,
+            "g": 99,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#9e6300",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.05511869431224736
+        }
+      },
+      {
+        "text": "decoded.",
+        "tag": "em",
+        "color": "rgb(176, 115, 0)",
+        "background": "rgb(255, 250, 240)",
+        "selector": "main.belle-app-page > section.cy-journey:nth-of-type(2) > div.wrap:nth-of-type(2) > div.cy-journey-flow > article.cy-moment.cy-moment--ovulation.cy-moment--right.cy-reveal:nth-of-type(3) > div.cy-moment-text-wrap:nth-of-type(1) > h3.cy-moment-title > em",
+        "xpath": "//*[@id=\"features\"]/div[2]/div[1]/article[3]/div[1]/h3[1]/em[1]",
+        "boundingRect": {
+          "x": 286.734375,
+          "y": 2878.203125,
+          "width": 150.578125,
+          "height": 54
+        },
+        "fontSize": "43.52px",
+        "fontWeight": "350",
+        "isVisible": true,
+        "bgVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 176,
+          "g": 115,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "contrastRatio": 3.81,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 176,
+            "g": 115,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#b07300",
+          "ratio": 3.81,
+          "property": "color",
+          "deltaE": 0.00011869431224731386
+        }
+      },
+      {
+        "text": "Early luteal",
+        "tag": "span",
+        "color": "rgb(24, 122, 129)",
+        "background": "rgba(24, 122, 129, 0.12)",
+        "selector": "main.belle-app-page > section.cy-journey:nth-of-type(2) > div.wrap:nth-of-type(2) > div.cy-journey-flow > article.cy-moment.cy-moment--luteal.cy-moment--right.cy-reveal:nth-of-type(4) > div.cy-moment-text-wrap:nth-of-type(1) > div.cy-moment-anchor > span.cy-moment-phase:nth-of-type(2)",
+        "xpath": "//*[@id=\"features\"]/div[2]/div[1]/article[4]/div[1]/div[1]/span[2]",
+        "boundingRect": {
+          "x": 185.96875,
+          "y": 3481.625,
+          "width": 160.71875,
+          "height": 29
+        },
+        "fontSize": "13px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--cmplz_button_accept_border_color",
+        "fgParsed": {
+          "r": 24,
+          "g": 122,
+          "b": 129,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 24,
+          "g": 122,
+          "b": 129,
+          "a": 0.12
+        },
+        "contrastRatio": 4.32,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 18,
+            "g": 119,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#12777e",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.01031458378284611
+        }
+      },
+      {
+        "text": "Late luteal",
+        "tag": "span",
+        "color": "rgb(24, 122, 129)",
+        "background": "rgba(24, 122, 129, 0.12)",
+        "selector": "main.belle-app-page > section.cy-journey:nth-of-type(2) > div.wrap:nth-of-type(2) > div.cy-journey-flow > article.cy-moment.cy-moment--luteal.cy-moment--left.cy-reveal:nth-of-type(5) > div.cy-moment-text-wrap:nth-of-type(1) > div.cy-moment-anchor > span.cy-moment-phase:nth-of-type(2)",
+        "xpath": "//*[@id=\"features\"]/div[2]/div[1]/article[5]/div[1]/div[1]/span[2]",
+        "boundingRect": {
+          "x": 784.234375,
+          "y": 4003.25,
+          "width": 148.84375,
+          "height": 29
+        },
+        "fontSize": "13px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--cmplz_button_accept_border_color",
+        "fgParsed": {
+          "r": 24,
+          "g": 122,
+          "b": 129,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 24,
+          "g": 122,
+          "b": 129,
+          "a": 0.12
+        },
+        "contrastRatio": 4.32,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 18,
+            "g": 119,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#12777e",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.01031458378284611
+        }
+      },
+      {
+        "text": "For PMDD + severe PMS",
+        "tag": "div",
+        "color": "rgb(233, 106, 97)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.belle-app-page > section.cy-audience:nth-of-type(3) > div.wrap > div.cy-audience-grid:nth-of-type(2) > div.cy-audience-card.cy-audience-card--pmdd.cy-reveal:nth-of-type(1) > div.cy-audience-tag:nth-of-type(2)",
+        "xpath": "//*[@id=\"who\"]/div[1]/div[2]/div[1]/div[2]",
+        "boundingRect": {
+          "x": 119,
+          "y": 5163.8125,
+          "width": 296.65625,
+          "height": 12
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 233,
+          "g": 106,
+          "b": 97,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.13,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 201,
+            "g": 77,
+            "b": 70,
+            "a": 1
+          },
+          "hex": "#c94d46",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.09161289993675437
+        }
+      },
+      {
+        "text": "PMDD or severe PMS.",
+        "tag": "em",
+        "color": "rgb(233, 106, 97)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.belle-app-page > section.cy-audience:nth-of-type(3) > div.wrap > div.cy-audience-grid:nth-of-type(2) > div.cy-audience-card.cy-audience-card--pmdd.cy-reveal:nth-of-type(1) > h3.cy-audience-h > em",
+        "xpath": "//*[@id=\"who\"]/div[1]/div[2]/div[1]/h3[1]/em[1]",
+        "boundingRect": {
+          "x": 119,
+          "y": 5187.8125,
+          "width": 203.890625,
+          "height": 60.65625
+        },
+        "fontSize": "25.6px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 233,
+          "g": 106,
+          "b": 97,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.13,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 232,
+            "g": 105,
+            "b": 97,
+            "a": 1
+          },
+          "hex": "#e86961",
+          "ratio": 3.17,
+          "property": "color",
+          "deltaE": 0.0016128999367542862
+        }
+      },
+      {
+        "text": "Take the free 5-min PMDD test",
+        "tag": "a",
+        "color": "rgb(233, 106, 97)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.belle-app-page > section.cy-audience:nth-of-type(3) > div.wrap > div.cy-audience-grid:nth-of-type(2) > div.cy-audience-card.cy-audience-card--pmdd.cy-reveal:nth-of-type(1) > a.cy-audience-link",
+        "xpath": "//*[@id=\"who\"]/div[1]/div[2]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 119,
+          "y": 5577.390625,
+          "width": 223.765625,
+          "height": 21
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 233,
+          "g": 106,
+          "b": 97,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.13,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 201,
+            "g": 77,
+            "b": 70,
+            "a": 1
+          },
+          "hex": "#c94d46",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.09161289993675437
+        }
+      },
+      {
+        "text": "→",
+        "tag": "span",
+        "color": "rgb(233, 106, 97)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.belle-app-page > section.cy-audience:nth-of-type(3) > div.wrap > div.cy-audience-grid:nth-of-type(2) > div.cy-audience-card.cy-audience-card--pmdd.cy-reveal:nth-of-type(1) > a.cy-audience-link > span",
+        "xpath": "//*[@id=\"who\"]/div[1]/div[2]/div[1]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 328.765625,
+          "y": 5578.390625,
+          "width": 14,
+          "height": 18
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 233,
+          "g": 106,
+          "b": 97,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.13,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 201,
+            "g": 77,
+            "b": 70,
+            "a": 1
+          },
+          "hex": "#c94d46",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.09161289993675437
+        }
+      },
+      {
+        "text": "For irregular + post-pill",
+        "tag": "div",
+        "color": "rgb(177, 123, 38)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.belle-app-page > section.cy-audience:nth-of-type(3) > div.wrap > div.cy-audience-grid:nth-of-type(2) > div.cy-audience-card.cy-audience-card--irregular.cy-reveal:nth-of-type(2) > div.cy-audience-tag:nth-of-type(2)",
+        "xpath": "//*[@id=\"who\"]/div[1]/div[2]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 491.65625,
+          "y": 5163.8125,
+          "width": 296.671875,
+          "height": 12
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 177,
+          "g": 123,
+          "b": 38,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.66,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 160,
+            "g": 107,
+            "b": 11,
+            "a": 1
+          },
+          "hex": "#a06b0b",
+          "ratio": 4.56,
+          "property": "color",
+          "deltaE": 0.0534179837894001
+        }
+      },
+      {
+        "text": "irregular or post-pill.",
+        "tag": "em",
+        "color": "rgb(177, 123, 38)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.belle-app-page > section.cy-audience:nth-of-type(3) > div.wrap > div.cy-audience-grid:nth-of-type(2) > div.cy-audience-card.cy-audience-card--irregular.cy-reveal:nth-of-type(2) > h3.cy-audience-h > em",
+        "xpath": "//*[@id=\"who\"]/div[1]/div[2]/div[2]/h3[1]/em[1]",
+        "boundingRect": {
+          "x": 491.65625,
+          "y": 5216.46875,
+          "width": 228.890625,
+          "height": 32
+        },
+        "fontSize": "25.6px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 177,
+          "g": 123,
+          "b": 38,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.66,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 178,
+            "g": 123,
+            "b": 39,
+            "a": 1
+          },
+          "hex": "#b27b27",
+          "ratio": 3.65,
+          "property": "color",
+          "deltaE": 0.0015820162105999458
+        }
+      },
+      {
+        "text": "The Belle suite",
+        "tag": "div",
+        "color": "rgb(24, 122, 129)",
+        "background": "rgb(232, 237, 229)",
+        "selector": "main.belle-app-page > section.cy-suite:nth-of-type(4) > div.wrap > div.cy-suite-head.cy-reveal:nth-of-type(1) > div.eyebrow",
+        "xpath": "//*[@id=\"ring\"]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 88,
+          "y": 5859.765625,
+          "width": 172.359375,
+          "height": 16.796875
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--cmplz_button_accept_border_color",
+        "fgParsed": {
+          "r": 24,
+          "g": 122,
+          "b": 129,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 232,
+          "g": 237,
+          "b": 229,
+          "a": 1
+        },
+        "contrastRatio": 4.27,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 15,
+            "g": 117,
+            "b": 124,
+            "a": 1
+          },
+          "hex": "#0f757c",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.015314583782846114
+        }
+      },
+      {
+        "text": "Web Planner",
+        "tag": "em",
+        "color": "rgb(233, 106, 97)",
+        "background": "rgb(255, 250, 240)",
+        "selector": "main.belle-app-page > section.cy-suite:nth-of-type(4) > div.wrap > div.cy-suite-layout.cy-reveal:nth-of-type(2) > div.cy-suite-rail:nth-of-type(1) > div.cy-suite-bundle:nth-of-type(1) > div.cy-suite-bundle-cards > div.cy-suite-card.cy-suite-card--planner:nth-of-type(3) > h3.cy-suite-h > em",
+        "xpath": "//*[@id=\"ring\"]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/h3[1]/em[1]",
+        "boundingRect": {
+          "x": 467.453125,
+          "y": 6023.5625,
+          "width": 126.984375,
+          "height": 69.390625
+        },
+        "fontSize": "30px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 233,
+          "g": 106,
+          "b": 97,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 255,
+            "g": 250,
+            "b": 240,
+            "a": 1
+          },
+          "hex": "#fffaf0",
+          "ratio": 3.01,
+          "property": "background-color",
+          "deltaE": 0.0012327599528327848
+        }
+      },
+      {
+        "text": "D14 · Ovulatory",
+        "tag": "div",
+        "color": "rgb(36, 189, 199)",
+        "background": "rgba(36, 189, 199, 0.12)",
+        "selector": "main.belle-app-page > section.cy-suite:nth-of-type(4) > div.wrap > div.cy-suite-layout.cy-reveal:nth-of-type(2) > div.cy-suite-rail:nth-of-type(1) > div.cy-suite-bundle:nth-of-type(1) > div.cy-suite-bundle-cards > div.cy-suite-card.cy-suite-card--planner:nth-of-type(3) > div.cy-suite-mock.cy-suite-mock--planner-host:nth-of-type(2) > div.cy-planner-mock > div.cy-planner-main > div.cy-planner-header > div.cy-planner-phase-pill:nth-of-type(2)",
+        "xpath": "//*[@id=\"ring\"]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]",
+        "boundingRect": {
+          "x": 544.15625,
+          "y": 6245.21875,
+          "width": 121.515625,
+          "height": 21
+        },
+        "fontSize": "9px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 36,
+          "g": 189,
+          "b": 199,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 36,
+          "g": 189,
+          "b": 199,
+          "a": 0.12
+        },
+        "contrastRatio": 2.07,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 122,
+            "b": 132,
+            "a": 1
+          },
+          "hex": "#007a84",
+          "ratio": 4.61,
+          "property": "color",
+          "deltaE": 0.2144070023322756
+        }
+      },
+      {
+        "text": "Ring + App",
+        "tag": "em",
+        "color": "rgb(177, 123, 38)",
+        "background": "rgb(255, 250, 240)",
+        "selector": "main.belle-app-page > section.cy-suite:nth-of-type(4) > div.wrap > div.cy-suite-layout.cy-reveal:nth-of-type(2) > div.cy-suite-rail:nth-of-type(1) > div.cy-suite-card.cy-suite-card--ring.cy-suite-ring-standalone:nth-of-type(2) > h3.cy-suite-h > em",
+        "xpath": "//*[@id=\"ring\"]/div[1]/div[2]/div[1]/div[2]/h3[1]/em[1]",
+        "boundingRect": {
+          "x": 868.46875,
+          "y": 6000.5625,
+          "width": 134.96875,
+          "height": 37
+        },
+        "fontSize": "30px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 177,
+          "g": 123,
+          "b": 38,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "contrastRatio": 3.52,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 255,
+            "g": 250,
+            "b": 240,
+            "a": 1
+          },
+          "hex": "#fffaf0",
+          "ratio": 3.52,
+          "property": "background-color",
+          "deltaE": 0.0012327599528327848
+        }
+      },
+      {
+        "text": "Learn about Belle Ring",
+        "tag": "a",
+        "color": "rgb(177, 123, 38)",
+        "background": "rgb(255, 250, 240)",
+        "selector": "main.belle-app-page > section.cy-suite:nth-of-type(4) > div.wrap > div.cy-suite-layout.cy-reveal:nth-of-type(2) > div.cy-suite-rail:nth-of-type(1) > div.cy-suite-card.cy-suite-card--ring.cy-suite-ring-standalone:nth-of-type(2) > a.cy-suite-link",
+        "xpath": "//*[@id=\"ring\"]/div[1]/div[2]/div[1]/div[2]/a[1]",
+        "boundingRect": {
+          "x": 796.671875,
+          "y": 6467.375,
+          "width": 169.234375,
+          "height": 21
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 177,
+          "g": 123,
+          "b": 38,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "contrastRatio": 3.52,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 157,
+            "g": 104,
+            "b": 4,
+            "a": 1
+          },
+          "hex": "#9d6804",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.06341798378940011
+        }
+      },
+      {
+        "text": "→",
+        "tag": "span",
+        "color": "rgb(177, 123, 38)",
+        "background": "rgb(255, 250, 240)",
+        "selector": "main.belle-app-page > section.cy-suite:nth-of-type(4) > div.wrap > div.cy-suite-layout.cy-reveal:nth-of-type(2) > div.cy-suite-rail:nth-of-type(1) > div.cy-suite-card.cy-suite-card--ring.cy-suite-ring-standalone:nth-of-type(2) > a.cy-suite-link > span",
+        "xpath": "//*[@id=\"ring\"]/div[1]/div[2]/div[1]/div[2]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 951.90625,
+          "y": 6468.375,
+          "width": 14,
+          "height": 18
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 177,
+          "g": 123,
+          "b": 38,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "contrastRatio": 3.52,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 157,
+            "g": 104,
+            "b": 4,
+            "a": 1
+          },
+          "hex": "#9d6804",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.06341798378940011
+        }
+      },
+      {
+        "text": "★★★★★",
+        "tag": "div",
+        "color": "rgb(224, 172, 81)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.belle-app-page > section.cy-proof:nth-of-type(6) > div.wrap > div.cy-proof-grid.cy-reveal:nth-of-type(2) > div.cy-proof-cell:nth-of-type(1) > div.cy-proof-stars:nth-of-type(1)",
+        "xpath": "/html/body/main[1]/section[6]/div[1]/div[2]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 115,
+          "y": 7472.46875,
+          "width": 211.5,
+          "height": 24.796875
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 224,
+          "g": 172,
+          "b": 81,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.06,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 158,
+            "g": 109,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#9e6d00",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.2051779399260829
+        }
+      },
+      {
+        "text": "Get started",
+        "tag": "div",
+        "color": "rgb(249, 212, 157)",
+        "background": "rgb(24, 122, 129)",
+        "selector": "main.belle-app-page > section.cy-final:nth-of-type(7) > div.wrap.cy-final-inner > div.eyebrow:nth-of-type(1)",
+        "xpath": "//*[@id=\"start\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 568.3125,
+          "y": 7877.296875,
+          "width": 143.375,
+          "height": 16.796875
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "bgVar": "--cmplz_button_accept_border_color",
+        "fgParsed": {
+          "r": 249,
+          "g": 212,
+          "b": 157,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 24,
+          "g": 122,
+          "b": 129,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 106,
+            "b": 113,
+            "a": 1
+          },
+          "hex": "#006a71",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.05531458378284615
+        }
+      },
+      {
+        "text": "finally legible.",
+        "tag": "em",
+        "color": "rgb(249, 212, 157)",
+        "background": "rgb(24, 122, 129)",
+        "selector": "main.belle-app-page > section.cy-final:nth-of-type(7) > div.wrap.cy-final-inner > h2 > em",
+        "xpath": "//*[@id=\"start\"]/div[1]/h2[1]/em[1]",
+        "boundingRect": {
+          "x": 617.03125,
+          "y": 7906.09375,
+          "width": 327.78125,
+          "height": 74
+        },
+        "fontSize": "60px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--cmplz_button_accept_border_color",
+        "fgParsed": {
+          "r": 249,
+          "g": 212,
+          "b": 157,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 24,
+          "g": 122,
+          "b": 129,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 24,
+            "g": 122,
+            "b": 129,
+            "a": 1
+          },
+          "hex": "#187a81",
+          "ratio": 3.61,
+          "property": "background-color",
+          "deltaE": 0.00031458378284610067
+        }
+      },
+      {
+        "text": "Cycle predictions begin from your first log. The pattern view fills in over two cycles. Download Bel...",
+        "tag": "p",
+        "color": "rgba(255, 250, 240, 0.82)",
+        "background": "rgb(24, 122, 129)",
+        "selector": "main.belle-app-page > section.cy-final:nth-of-type(7) > div.wrap.cy-final-inner > p",
+        "xpath": "//*[@id=\"start\"]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 380,
+          "y": 7994.484375,
+          "width": 520,
+          "height": 79.03125
+        },
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--cmplz_button_accept_border_color",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 0.82
+        },
+        "bgParsed": {
+          "r": 24,
+          "g": 122,
+          "b": 129,
+          "a": 1
+        },
+        "contrastRatio": 3.83,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 109,
+            "b": 116,
+            "a": 1
+          },
+          "hex": "#006d74",
+          "ratio": 4.5,
+          "property": "background-color",
+          "deltaE": 0.04531458378284614
+        }
+      },
+      {
+        "text": "Download on the",
+        "tag": "span",
+        "color": "rgba(255, 250, 240, 0.7)",
+        "background": "rgba(255, 255, 255, 0.08)",
+        "selector": "main.belle-app-page > section.cy-final:nth-of-type(7) > div.wrap.cy-final-inner > div.cy-stores:nth-of-type(2) > a.cy-store-badge.cy-store-badge--apple:nth-of-type(1) > div.cy-store-badge-stack > span.pre:nth-of-type(1)",
+        "xpath": "//*[@id=\"start\"]/div[1]/div[2]/a[1]/div[1]/span[1]",
+        "boundingRect": {
+          "x": 506.265625,
+          "y": 8122.515625,
+          "width": 118.8125,
+          "height": 11
+        },
+        "fontSize": "10px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 0.7
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0.08
+        },
+        "contrastRatio": 1.02,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 63,
+            "g": 59,
+            "b": 52,
+            "a": 0.7
+          },
+          "hex": "#3f3b34",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.6312327599528333
+        }
+      },
+      {
+        "text": "App Store",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(255, 255, 255, 0.08)",
+        "selector": "main.belle-app-page > section.cy-final:nth-of-type(7) > div.wrap.cy-final-inner > div.cy-stores:nth-of-type(2) > a.cy-store-badge.cy-store-badge--apple:nth-of-type(1) > div.cy-store-badge-stack > span.name:nth-of-type(2)",
+        "xpath": "//*[@id=\"start\"]/div[1]/div[2]/a[1]/div[1]/span[2]",
+        "boundingRect": {
+          "x": 506.265625,
+          "y": 8133.515625,
+          "width": 118.8125,
+          "height": 17.59375
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0.08
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Get it on",
+        "tag": "span",
+        "color": "rgba(255, 250, 240, 0.7)",
+        "background": "rgba(255, 255, 255, 0.08)",
+        "selector": "main.belle-app-page > section.cy-final:nth-of-type(7) > div.wrap.cy-final-inner > div.cy-stores:nth-of-type(2) > a.cy-store-badge.cy-store-badge--google:nth-of-type(2) > div.cy-store-badge-stack > span.pre:nth-of-type(1)",
+        "xpath": "//*[@id=\"start\"]/div[1]/div[2]/a[2]/div[1]/span[1]",
+        "boundingRect": {
+          "x": 723.078125,
+          "y": 8122.515625,
+          "width": 88.640625,
+          "height": 11
+        },
+        "fontSize": "10px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 0.7
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0.08
+        },
+        "contrastRatio": 1.02,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 63,
+            "g": 59,
+            "b": 52,
+            "a": 0.7
+          },
+          "hex": "#3f3b34",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.6312327599528333
+        }
+      },
+      {
+        "text": "Google Play",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(255, 255, 255, 0.08)",
+        "selector": "main.belle-app-page > section.cy-final:nth-of-type(7) > div.wrap.cy-final-inner > div.cy-stores:nth-of-type(2) > a.cy-store-badge.cy-store-badge--google:nth-of-type(2) > div.cy-store-badge-stack > span.name:nth-of-type(2)",
+        "xpath": "//*[@id=\"start\"]/div[1]/div[2]/a[2]/div[1]/span[2]",
+        "boundingRect": {
+          "x": 723.078125,
+          "y": 8133.515625,
+          "width": 88.640625,
+          "height": 17.59375
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0.08
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Sign up for the",
+        "tag": "h2",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex.sm:flex-1.sm:justify-end:nth-of-type(1) > h2.font-fraunces.text-2xl.text-offwhite.lg:text-4xl",
+        "xpath": "//*[@id=\"subscription-footer\"]/div[1]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "36px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 162,
+            "b": 159,
+            "a": 1
+          },
+          "hex": "#00a29f",
+          "ratio": 3.03,
+          "property": "background-color",
+          "deltaE": 0.04224877276023997
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Belle Newsletter",
+        "tag": "h2",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex.sm:flex-1.sm:justify-end:nth-of-type(1) > h2.font-fraunces.text-2xl.text-offwhite.lg:text-4xl",
+        "xpath": "//*[@id=\"subscription-footer\"]/div[1]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "36px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 162,
+            "b": 159,
+            "a": 1
+          },
+          "hex": "#00a29f",
+          "ratio": 3.03,
+          "property": "background-color",
+          "deltaE": 0.04224877276023997
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Name",
+        "tag": "label",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > label.block.font-vollkorn.text-base/tight.font-bold.lowercase.text-offwhite:nth-of-type(1)",
+        "xpath": "//*[@id=\"newsletter-form\"]/label[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 129,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#00817f",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.14724877276024007
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Email",
+        "tag": "label",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > label.mt-5.block.font-vollkorn.text-base/tight.font-bold.lowercase.text-offwhite:nth-of-type(2)",
+        "xpath": "//*[@id=\"newsletter-form\"]/label[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 129,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#00817f",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.14724877276024007
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "*",
+        "tag": "small",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > label.mt-5.block.font-vollkorn.text-base/tight.font-bold.lowercase.text-offwhite:nth-of-type(2) > small.text-xs",
+        "xpath": "//*[@id=\"newsletter-form\"]/label[2]/small[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 129,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#00817f",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.14724877276024007
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "By clicking on subscribe, you accept our",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > div.mt-6.flex.flex-col.gap-y-4.sm:flex-row.sm:items-center.sm:justify-between.sm:gap-x-4.sm:gap-y-0 > p.text-xs.text-offwhite",
+        "xpath": "//*[@id=\"newsletter-form\"]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 129,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#00817f",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.14724877276024007
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Privacy Policy",
+        "tag": "a",
+        "color": "rgb(24, 122, 129)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > div.mt-6.flex.flex-col.gap-y-4.sm:flex-row.sm:items-center.sm:justify-between.sm:gap-x-4.sm:gap-y-0 > p.text-xs.text-offwhite > a.font-medium.text-primary.underline",
+        "xpath": "//*[@id=\"newsletter-form\"]/div[1]/p[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--cmplz_button_accept_border_color",
+        "fgParsed": {
+          "r": 24,
+          "g": 122,
+          "b": 129,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 1.87,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 59,
+            "b": 67,
+            "a": 1
+          },
+          "hex": "#003b43",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.2203145837828463
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": ".",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > div.mt-6.flex.flex-col.gap-y-4.sm:flex-row.sm:items-center.sm:justify-between.sm:gap-x-4.sm:gap-y-0 > p.text-xs.text-offwhite",
+        "xpath": "//*[@id=\"newsletter-form\"]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 129,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#00817f",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.14724877276024007
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Hooray! You're officially on the path to hormonal bliss!",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgba(255, 250, 240, 0.2)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > div.mt-8.hidden.items-center.gap-x-2.5.rounded-xl.border.border-offwhite.border-opacity-25.bg-offwhite.bg-opacity-20.px-5.py-3.opacity-0.transition-opacity.duration-400:nth-of-type(1) > p.text-base.font-medium.text-offwhite",
+        "xpath": "//*[@id=\"newsletter-success-message\"]/p[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 0.2
+        },
+        "contrastRatio": 1.03,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 122,
+            "g": 117,
+            "b": 109,
+            "a": 1
+          },
+          "hex": "#7a756d",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.42123275995283316
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Oopsie! Looks like there's a tiny typo in your name or email address, try again.",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(233, 106, 97)",
+        "selector": "#newsletter-failure-validation-text",
+        "xpath": "//*[@id=\"newsletter-failure-validation-text\"]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 233,
+          "g": 106,
+          "b": 97,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 197,
+            "g": 74,
+            "b": 67,
+            "a": 1
+          },
+          "hex": "#c54a43",
+          "ratio": 4.55,
+          "property": "background-color",
+          "deltaE": 0.10161289993675438
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      }
+    ],
+    "violations": [
+      {
+        "text": "Nice! Your Women’s Health Fact Sheet is coming—ready to rewrite the narrative?",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "div.hidden.fixed.z-40.inset-0.items-center.justify-center.h-screen.w-screen.bg-primary.bg-opacity-75.opacity-0.transition-all.duration-400:nth-of-type(3) > div.w-full.max-h-full.p-4.lg:p-8.overflow-y-auto.sm:container.xl:max-w-screen-lg > section.relative.flex.flex-col.items-center.overflow-hidden.rounded-xl.bg-offwhite.shadow-card.scale-90.transition-all.duration-400.md:flex-row.md:items-stretch > div.p-6.sm:px-12.sm:py-8.md:flex-1.md:self-center:nth-of-type(3) > div.mt-8.hidden.items-center.gap-x-2.5.rounded-xl.border.border-offwhite.border-opacity-25.bg-primary-light.px-5.py-3.opacity-0.transition-opacity.duration-400:nth-of-type(1) > p.text-base.font-medium.text-offwhite",
+        "xpath": "//*[@id=\"popup-newsletter-success-message\"]/p[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 129,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#00817f",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.14724877276024007
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Oopsie! Looks like there's a tiny typo in your email address, try again.",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(233, 106, 97)",
+        "selector": "#popup-newsletter-failure-validation-text",
+        "xpath": "//*[@id=\"popup-newsletter-failure-validation-text\"]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 233,
+          "g": 106,
+          "b": 97,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 197,
+            "g": 74,
+            "b": 67,
+            "a": 1
+          },
+          "hex": "#c54a43",
+          "ratio": 4.55,
+          "property": "background-color",
+          "deltaE": 0.10161289993675438
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Oppsie! Something went wrong, please try again later.",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(233, 106, 97)",
+        "selector": "#popup-newsletter-failure-error-text",
+        "xpath": "//*[@id=\"popup-newsletter-failure-error-text\"]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 233,
+          "g": 106,
+          "b": 97,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 197,
+            "g": 74,
+            "b": 67,
+            "a": 1
+          },
+          "hex": "#c54a43",
+          "ratio": 4.55,
+          "property": "background-color",
+          "deltaE": 0.10161289993675438
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Menses",
+        "tag": "span",
+        "color": "rgb(220, 44, 0)",
+        "background": "rgba(220, 44, 0, 0.1)",
+        "selector": "main.belle-app-page > section.cy-journey:nth-of-type(2) > div.wrap:nth-of-type(2) > div.cy-journey-flow > article.cy-moment.cy-moment--menses.cy-moment--right.cy-reveal:nth-of-type(1) > div.cy-moment-text-wrap:nth-of-type(1) > div.cy-moment-anchor > span.cy-moment-phase:nth-of-type(2)",
+        "xpath": "//*[@id=\"features\"]/div[2]/div[1]/article[1]/div[1]/div[1]/span[2]",
+        "boundingRect": {
+          "x": 196.421875,
+          "y": 1111.03125,
+          "width": 101.984375,
+          "height": 29
+        },
+        "fontSize": "13px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 220,
+          "g": 44,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 220,
+          "g": 44,
+          "b": 0,
+          "a": 0.1
+        },
+        "contrastRatio": 4.1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 211,
+            "g": 32,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#d32000",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.024130246407747746
+        }
+      },
+      {
+        "text": "12",
+        "tag": "span",
+        "color": "rgb(176, 115, 0)",
+        "background": "rgb(255, 250, 240)",
+        "selector": "main.belle-app-page > section.cy-journey:nth-of-type(2) > div.wrap:nth-of-type(2) > div.cy-journey-flow > article.cy-moment.cy-moment--ovulation.cy-moment--right.cy-reveal:nth-of-type(3) > div.cy-moment-text-wrap:nth-of-type(1) > div.cy-moment-anchor > span.cy-moment-day:nth-of-type(1)",
+        "xpath": "//*[@id=\"features\"]/div[2]/div[1]/article[3]/div[1]/div[1]/span[1]",
+        "boundingRect": {
+          "x": 88,
+          "y": 2759.4375,
+          "width": 83.625,
+          "height": 103.765625
+        },
+        "fontSize": "102.4px",
+        "fontWeight": "350",
+        "isVisible": true,
+        "bgVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 176,
+          "g": 115,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "contrastRatio": 3.81,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 176,
+            "g": 115,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#b07300",
+          "ratio": 3.81,
+          "property": "color",
+          "deltaE": 0.00011869431224731386
+        }
+      },
+      {
+        "text": "Ovulation",
+        "tag": "span",
+        "color": "rgb(176, 115, 0)",
+        "background": "rgba(255, 179, 23, 0.16)",
+        "selector": "main.belle-app-page > section.cy-journey:nth-of-type(2) > div.wrap:nth-of-type(2) > div.cy-journey-flow > article.cy-moment.cy-moment--ovulation.cy-moment--right.cy-reveal:nth-of-type(3) > div.cy-moment-text-wrap:nth-of-type(1) > div.cy-moment-anchor > span.cy-moment-phase:nth-of-type(2)",
+        "xpath": "//*[@id=\"features\"]/div[2]/div[1]/article[3]/div[1]/div[1]/span[2]",
+        "boundingRect": {
+          "x": 187.625,
+          "y": 2752.4375,
+          "width": 133.6875,
+          "height": 29
+        },
+        "fontSize": "13px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 176,
+          "g": 115,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 179,
+          "b": 23,
+          "a": 0.16
+        },
+        "contrastRatio": 3.6,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 158,
+            "g": 99,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#9e6300",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.05511869431224736
+        }
+      },
+      {
+        "text": "decoded.",
+        "tag": "em",
+        "color": "rgb(176, 115, 0)",
+        "background": "rgb(255, 250, 240)",
+        "selector": "main.belle-app-page > section.cy-journey:nth-of-type(2) > div.wrap:nth-of-type(2) > div.cy-journey-flow > article.cy-moment.cy-moment--ovulation.cy-moment--right.cy-reveal:nth-of-type(3) > div.cy-moment-text-wrap:nth-of-type(1) > h3.cy-moment-title > em",
+        "xpath": "//*[@id=\"features\"]/div[2]/div[1]/article[3]/div[1]/h3[1]/em[1]",
+        "boundingRect": {
+          "x": 286.734375,
+          "y": 2878.203125,
+          "width": 150.578125,
+          "height": 54
+        },
+        "fontSize": "43.52px",
+        "fontWeight": "350",
+        "isVisible": true,
+        "bgVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 176,
+          "g": 115,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "contrastRatio": 3.81,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 176,
+            "g": 115,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#b07300",
+          "ratio": 3.81,
+          "property": "color",
+          "deltaE": 0.00011869431224731386
+        }
+      },
+      {
+        "text": "Early luteal",
+        "tag": "span",
+        "color": "rgb(24, 122, 129)",
+        "background": "rgba(24, 122, 129, 0.12)",
+        "selector": "main.belle-app-page > section.cy-journey:nth-of-type(2) > div.wrap:nth-of-type(2) > div.cy-journey-flow > article.cy-moment.cy-moment--luteal.cy-moment--right.cy-reveal:nth-of-type(4) > div.cy-moment-text-wrap:nth-of-type(1) > div.cy-moment-anchor > span.cy-moment-phase:nth-of-type(2)",
+        "xpath": "//*[@id=\"features\"]/div[2]/div[1]/article[4]/div[1]/div[1]/span[2]",
+        "boundingRect": {
+          "x": 185.96875,
+          "y": 3481.625,
+          "width": 160.71875,
+          "height": 29
+        },
+        "fontSize": "13px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--cmplz_button_accept_border_color",
+        "fgParsed": {
+          "r": 24,
+          "g": 122,
+          "b": 129,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 24,
+          "g": 122,
+          "b": 129,
+          "a": 0.12
+        },
+        "contrastRatio": 4.32,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 18,
+            "g": 119,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#12777e",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.01031458378284611
+        }
+      },
+      {
+        "text": "Late luteal",
+        "tag": "span",
+        "color": "rgb(24, 122, 129)",
+        "background": "rgba(24, 122, 129, 0.12)",
+        "selector": "main.belle-app-page > section.cy-journey:nth-of-type(2) > div.wrap:nth-of-type(2) > div.cy-journey-flow > article.cy-moment.cy-moment--luteal.cy-moment--left.cy-reveal:nth-of-type(5) > div.cy-moment-text-wrap:nth-of-type(1) > div.cy-moment-anchor > span.cy-moment-phase:nth-of-type(2)",
+        "xpath": "//*[@id=\"features\"]/div[2]/div[1]/article[5]/div[1]/div[1]/span[2]",
+        "boundingRect": {
+          "x": 784.234375,
+          "y": 4003.25,
+          "width": 148.84375,
+          "height": 29
+        },
+        "fontSize": "13px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--cmplz_button_accept_border_color",
+        "fgParsed": {
+          "r": 24,
+          "g": 122,
+          "b": 129,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 24,
+          "g": 122,
+          "b": 129,
+          "a": 0.12
+        },
+        "contrastRatio": 4.32,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 18,
+            "g": 119,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#12777e",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.01031458378284611
+        }
+      },
+      {
+        "text": "For PMDD + severe PMS",
+        "tag": "div",
+        "color": "rgb(233, 106, 97)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.belle-app-page > section.cy-audience:nth-of-type(3) > div.wrap > div.cy-audience-grid:nth-of-type(2) > div.cy-audience-card.cy-audience-card--pmdd.cy-reveal:nth-of-type(1) > div.cy-audience-tag:nth-of-type(2)",
+        "xpath": "//*[@id=\"who\"]/div[1]/div[2]/div[1]/div[2]",
+        "boundingRect": {
+          "x": 119,
+          "y": 5163.8125,
+          "width": 296.65625,
+          "height": 12
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 233,
+          "g": 106,
+          "b": 97,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.13,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 201,
+            "g": 77,
+            "b": 70,
+            "a": 1
+          },
+          "hex": "#c94d46",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.09161289993675437
+        }
+      },
+      {
+        "text": "PMDD or severe PMS.",
+        "tag": "em",
+        "color": "rgb(233, 106, 97)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.belle-app-page > section.cy-audience:nth-of-type(3) > div.wrap > div.cy-audience-grid:nth-of-type(2) > div.cy-audience-card.cy-audience-card--pmdd.cy-reveal:nth-of-type(1) > h3.cy-audience-h > em",
+        "xpath": "//*[@id=\"who\"]/div[1]/div[2]/div[1]/h3[1]/em[1]",
+        "boundingRect": {
+          "x": 119,
+          "y": 5187.8125,
+          "width": 203.890625,
+          "height": 60.65625
+        },
+        "fontSize": "25.6px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 233,
+          "g": 106,
+          "b": 97,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.13,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 232,
+            "g": 105,
+            "b": 97,
+            "a": 1
+          },
+          "hex": "#e86961",
+          "ratio": 3.17,
+          "property": "color",
+          "deltaE": 0.0016128999367542862
+        }
+      },
+      {
+        "text": "Take the free 5-min PMDD test",
+        "tag": "a",
+        "color": "rgb(233, 106, 97)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.belle-app-page > section.cy-audience:nth-of-type(3) > div.wrap > div.cy-audience-grid:nth-of-type(2) > div.cy-audience-card.cy-audience-card--pmdd.cy-reveal:nth-of-type(1) > a.cy-audience-link",
+        "xpath": "//*[@id=\"who\"]/div[1]/div[2]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 119,
+          "y": 5577.390625,
+          "width": 223.765625,
+          "height": 21
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 233,
+          "g": 106,
+          "b": 97,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.13,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 201,
+            "g": 77,
+            "b": 70,
+            "a": 1
+          },
+          "hex": "#c94d46",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.09161289993675437
+        }
+      },
+      {
+        "text": "→",
+        "tag": "span",
+        "color": "rgb(233, 106, 97)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.belle-app-page > section.cy-audience:nth-of-type(3) > div.wrap > div.cy-audience-grid:nth-of-type(2) > div.cy-audience-card.cy-audience-card--pmdd.cy-reveal:nth-of-type(1) > a.cy-audience-link > span",
+        "xpath": "//*[@id=\"who\"]/div[1]/div[2]/div[1]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 328.765625,
+          "y": 5578.390625,
+          "width": 14,
+          "height": 18
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 233,
+          "g": 106,
+          "b": 97,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.13,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 201,
+            "g": 77,
+            "b": 70,
+            "a": 1
+          },
+          "hex": "#c94d46",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.09161289993675437
+        }
+      },
+      {
+        "text": "For irregular + post-pill",
+        "tag": "div",
+        "color": "rgb(177, 123, 38)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.belle-app-page > section.cy-audience:nth-of-type(3) > div.wrap > div.cy-audience-grid:nth-of-type(2) > div.cy-audience-card.cy-audience-card--irregular.cy-reveal:nth-of-type(2) > div.cy-audience-tag:nth-of-type(2)",
+        "xpath": "//*[@id=\"who\"]/div[1]/div[2]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 491.65625,
+          "y": 5163.8125,
+          "width": 296.671875,
+          "height": 12
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 177,
+          "g": 123,
+          "b": 38,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.66,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 160,
+            "g": 107,
+            "b": 11,
+            "a": 1
+          },
+          "hex": "#a06b0b",
+          "ratio": 4.56,
+          "property": "color",
+          "deltaE": 0.0534179837894001
+        }
+      },
+      {
+        "text": "irregular or post-pill.",
+        "tag": "em",
+        "color": "rgb(177, 123, 38)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.belle-app-page > section.cy-audience:nth-of-type(3) > div.wrap > div.cy-audience-grid:nth-of-type(2) > div.cy-audience-card.cy-audience-card--irregular.cy-reveal:nth-of-type(2) > h3.cy-audience-h > em",
+        "xpath": "//*[@id=\"who\"]/div[1]/div[2]/div[2]/h3[1]/em[1]",
+        "boundingRect": {
+          "x": 491.65625,
+          "y": 5216.46875,
+          "width": 228.890625,
+          "height": 32
+        },
+        "fontSize": "25.6px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 177,
+          "g": 123,
+          "b": 38,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.66,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 178,
+            "g": 123,
+            "b": 39,
+            "a": 1
+          },
+          "hex": "#b27b27",
+          "ratio": 3.65,
+          "property": "color",
+          "deltaE": 0.0015820162105999458
+        }
+      },
+      {
+        "text": "The Belle suite",
+        "tag": "div",
+        "color": "rgb(24, 122, 129)",
+        "background": "rgb(232, 237, 229)",
+        "selector": "main.belle-app-page > section.cy-suite:nth-of-type(4) > div.wrap > div.cy-suite-head.cy-reveal:nth-of-type(1) > div.eyebrow",
+        "xpath": "//*[@id=\"ring\"]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 88,
+          "y": 5859.765625,
+          "width": 172.359375,
+          "height": 16.796875
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--cmplz_button_accept_border_color",
+        "fgParsed": {
+          "r": 24,
+          "g": 122,
+          "b": 129,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 232,
+          "g": 237,
+          "b": 229,
+          "a": 1
+        },
+        "contrastRatio": 4.27,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 15,
+            "g": 117,
+            "b": 124,
+            "a": 1
+          },
+          "hex": "#0f757c",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.015314583782846114
+        }
+      },
+      {
+        "text": "Web Planner",
+        "tag": "em",
+        "color": "rgb(233, 106, 97)",
+        "background": "rgb(255, 250, 240)",
+        "selector": "main.belle-app-page > section.cy-suite:nth-of-type(4) > div.wrap > div.cy-suite-layout.cy-reveal:nth-of-type(2) > div.cy-suite-rail:nth-of-type(1) > div.cy-suite-bundle:nth-of-type(1) > div.cy-suite-bundle-cards > div.cy-suite-card.cy-suite-card--planner:nth-of-type(3) > h3.cy-suite-h > em",
+        "xpath": "//*[@id=\"ring\"]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/h3[1]/em[1]",
+        "boundingRect": {
+          "x": 467.453125,
+          "y": 6023.5625,
+          "width": 126.984375,
+          "height": 69.390625
+        },
+        "fontSize": "30px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 233,
+          "g": 106,
+          "b": 97,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 255,
+            "g": 250,
+            "b": 240,
+            "a": 1
+          },
+          "hex": "#fffaf0",
+          "ratio": 3.01,
+          "property": "background-color",
+          "deltaE": 0.0012327599528327848
+        }
+      },
+      {
+        "text": "D14 · Ovulatory",
+        "tag": "div",
+        "color": "rgb(36, 189, 199)",
+        "background": "rgba(36, 189, 199, 0.12)",
+        "selector": "main.belle-app-page > section.cy-suite:nth-of-type(4) > div.wrap > div.cy-suite-layout.cy-reveal:nth-of-type(2) > div.cy-suite-rail:nth-of-type(1) > div.cy-suite-bundle:nth-of-type(1) > div.cy-suite-bundle-cards > div.cy-suite-card.cy-suite-card--planner:nth-of-type(3) > div.cy-suite-mock.cy-suite-mock--planner-host:nth-of-type(2) > div.cy-planner-mock > div.cy-planner-main > div.cy-planner-header > div.cy-planner-phase-pill:nth-of-type(2)",
+        "xpath": "//*[@id=\"ring\"]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]",
+        "boundingRect": {
+          "x": 544.15625,
+          "y": 6245.21875,
+          "width": 121.515625,
+          "height": 21
+        },
+        "fontSize": "9px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 36,
+          "g": 189,
+          "b": 199,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 36,
+          "g": 189,
+          "b": 199,
+          "a": 0.12
+        },
+        "contrastRatio": 2.07,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 122,
+            "b": 132,
+            "a": 1
+          },
+          "hex": "#007a84",
+          "ratio": 4.61,
+          "property": "color",
+          "deltaE": 0.2144070023322756
+        }
+      },
+      {
+        "text": "Ring + App",
+        "tag": "em",
+        "color": "rgb(177, 123, 38)",
+        "background": "rgb(255, 250, 240)",
+        "selector": "main.belle-app-page > section.cy-suite:nth-of-type(4) > div.wrap > div.cy-suite-layout.cy-reveal:nth-of-type(2) > div.cy-suite-rail:nth-of-type(1) > div.cy-suite-card.cy-suite-card--ring.cy-suite-ring-standalone:nth-of-type(2) > h3.cy-suite-h > em",
+        "xpath": "//*[@id=\"ring\"]/div[1]/div[2]/div[1]/div[2]/h3[1]/em[1]",
+        "boundingRect": {
+          "x": 868.46875,
+          "y": 6000.5625,
+          "width": 134.96875,
+          "height": 37
+        },
+        "fontSize": "30px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 177,
+          "g": 123,
+          "b": 38,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "contrastRatio": 3.52,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 255,
+            "g": 250,
+            "b": 240,
+            "a": 1
+          },
+          "hex": "#fffaf0",
+          "ratio": 3.52,
+          "property": "background-color",
+          "deltaE": 0.0012327599528327848
+        }
+      },
+      {
+        "text": "Learn about Belle Ring",
+        "tag": "a",
+        "color": "rgb(177, 123, 38)",
+        "background": "rgb(255, 250, 240)",
+        "selector": "main.belle-app-page > section.cy-suite:nth-of-type(4) > div.wrap > div.cy-suite-layout.cy-reveal:nth-of-type(2) > div.cy-suite-rail:nth-of-type(1) > div.cy-suite-card.cy-suite-card--ring.cy-suite-ring-standalone:nth-of-type(2) > a.cy-suite-link",
+        "xpath": "//*[@id=\"ring\"]/div[1]/div[2]/div[1]/div[2]/a[1]",
+        "boundingRect": {
+          "x": 796.671875,
+          "y": 6467.375,
+          "width": 169.234375,
+          "height": 21
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 177,
+          "g": 123,
+          "b": 38,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "contrastRatio": 3.52,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 157,
+            "g": 104,
+            "b": 4,
+            "a": 1
+          },
+          "hex": "#9d6804",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.06341798378940011
+        }
+      },
+      {
+        "text": "→",
+        "tag": "span",
+        "color": "rgb(177, 123, 38)",
+        "background": "rgb(255, 250, 240)",
+        "selector": "main.belle-app-page > section.cy-suite:nth-of-type(4) > div.wrap > div.cy-suite-layout.cy-reveal:nth-of-type(2) > div.cy-suite-rail:nth-of-type(1) > div.cy-suite-card.cy-suite-card--ring.cy-suite-ring-standalone:nth-of-type(2) > a.cy-suite-link > span",
+        "xpath": "//*[@id=\"ring\"]/div[1]/div[2]/div[1]/div[2]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 951.90625,
+          "y": 6468.375,
+          "width": 14,
+          "height": 18
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 177,
+          "g": 123,
+          "b": 38,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "contrastRatio": 3.52,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 157,
+            "g": 104,
+            "b": 4,
+            "a": 1
+          },
+          "hex": "#9d6804",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.06341798378940011
+        }
+      },
+      {
+        "text": "★★★★★",
+        "tag": "div",
+        "color": "rgb(224, 172, 81)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.belle-app-page > section.cy-proof:nth-of-type(6) > div.wrap > div.cy-proof-grid.cy-reveal:nth-of-type(2) > div.cy-proof-cell:nth-of-type(1) > div.cy-proof-stars:nth-of-type(1)",
+        "xpath": "/html/body/main[1]/section[6]/div[1]/div[2]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 115,
+          "y": 7472.46875,
+          "width": 211.5,
+          "height": 24.796875
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 224,
+          "g": 172,
+          "b": 81,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.06,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 158,
+            "g": 109,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#9e6d00",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.2051779399260829
+        }
+      },
+      {
+        "text": "Get started",
+        "tag": "div",
+        "color": "rgb(249, 212, 157)",
+        "background": "rgb(24, 122, 129)",
+        "selector": "main.belle-app-page > section.cy-final:nth-of-type(7) > div.wrap.cy-final-inner > div.eyebrow:nth-of-type(1)",
+        "xpath": "//*[@id=\"start\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 568.3125,
+          "y": 7877.296875,
+          "width": 143.375,
+          "height": 16.796875
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "bgVar": "--cmplz_button_accept_border_color",
+        "fgParsed": {
+          "r": 249,
+          "g": 212,
+          "b": 157,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 24,
+          "g": 122,
+          "b": 129,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 106,
+            "b": 113,
+            "a": 1
+          },
+          "hex": "#006a71",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.05531458378284615
+        }
+      },
+      {
+        "text": "finally legible.",
+        "tag": "em",
+        "color": "rgb(249, 212, 157)",
+        "background": "rgb(24, 122, 129)",
+        "selector": "main.belle-app-page > section.cy-final:nth-of-type(7) > div.wrap.cy-final-inner > h2 > em",
+        "xpath": "//*[@id=\"start\"]/div[1]/h2[1]/em[1]",
+        "boundingRect": {
+          "x": 617.03125,
+          "y": 7906.09375,
+          "width": 327.78125,
+          "height": 74
+        },
+        "fontSize": "60px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--cmplz_button_accept_border_color",
+        "fgParsed": {
+          "r": 249,
+          "g": 212,
+          "b": 157,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 24,
+          "g": 122,
+          "b": 129,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 24,
+            "g": 122,
+            "b": 129,
+            "a": 1
+          },
+          "hex": "#187a81",
+          "ratio": 3.61,
+          "property": "background-color",
+          "deltaE": 0.00031458378284610067
+        }
+      },
+      {
+        "text": "Cycle predictions begin from your first log. The pattern view fills in over two cycles. Download Bel...",
+        "tag": "p",
+        "color": "rgba(255, 250, 240, 0.82)",
+        "background": "rgb(24, 122, 129)",
+        "selector": "main.belle-app-page > section.cy-final:nth-of-type(7) > div.wrap.cy-final-inner > p",
+        "xpath": "//*[@id=\"start\"]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 380,
+          "y": 7994.484375,
+          "width": 520,
+          "height": 79.03125
+        },
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--cmplz_button_accept_border_color",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 0.82
+        },
+        "bgParsed": {
+          "r": 24,
+          "g": 122,
+          "b": 129,
+          "a": 1
+        },
+        "contrastRatio": 3.83,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 109,
+            "b": 116,
+            "a": 1
+          },
+          "hex": "#006d74",
+          "ratio": 4.5,
+          "property": "background-color",
+          "deltaE": 0.04531458378284614
+        }
+      },
+      {
+        "text": "Download on the",
+        "tag": "span",
+        "color": "rgba(255, 250, 240, 0.7)",
+        "background": "rgba(255, 255, 255, 0.08)",
+        "selector": "main.belle-app-page > section.cy-final:nth-of-type(7) > div.wrap.cy-final-inner > div.cy-stores:nth-of-type(2) > a.cy-store-badge.cy-store-badge--apple:nth-of-type(1) > div.cy-store-badge-stack > span.pre:nth-of-type(1)",
+        "xpath": "//*[@id=\"start\"]/div[1]/div[2]/a[1]/div[1]/span[1]",
+        "boundingRect": {
+          "x": 506.265625,
+          "y": 8122.515625,
+          "width": 118.8125,
+          "height": 11
+        },
+        "fontSize": "10px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 0.7
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0.08
+        },
+        "contrastRatio": 1.02,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 63,
+            "g": 59,
+            "b": 52,
+            "a": 0.7
+          },
+          "hex": "#3f3b34",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.6312327599528333
+        }
+      },
+      {
+        "text": "App Store",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(255, 255, 255, 0.08)",
+        "selector": "main.belle-app-page > section.cy-final:nth-of-type(7) > div.wrap.cy-final-inner > div.cy-stores:nth-of-type(2) > a.cy-store-badge.cy-store-badge--apple:nth-of-type(1) > div.cy-store-badge-stack > span.name:nth-of-type(2)",
+        "xpath": "//*[@id=\"start\"]/div[1]/div[2]/a[1]/div[1]/span[2]",
+        "boundingRect": {
+          "x": 506.265625,
+          "y": 8133.515625,
+          "width": 118.8125,
+          "height": 17.59375
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0.08
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Get it on",
+        "tag": "span",
+        "color": "rgba(255, 250, 240, 0.7)",
+        "background": "rgba(255, 255, 255, 0.08)",
+        "selector": "main.belle-app-page > section.cy-final:nth-of-type(7) > div.wrap.cy-final-inner > div.cy-stores:nth-of-type(2) > a.cy-store-badge.cy-store-badge--google:nth-of-type(2) > div.cy-store-badge-stack > span.pre:nth-of-type(1)",
+        "xpath": "//*[@id=\"start\"]/div[1]/div[2]/a[2]/div[1]/span[1]",
+        "boundingRect": {
+          "x": 723.078125,
+          "y": 8122.515625,
+          "width": 88.640625,
+          "height": 11
+        },
+        "fontSize": "10px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 0.7
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0.08
+        },
+        "contrastRatio": 1.02,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 63,
+            "g": 59,
+            "b": 52,
+            "a": 0.7
+          },
+          "hex": "#3f3b34",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.6312327599528333
+        }
+      },
+      {
+        "text": "Google Play",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(255, 255, 255, 0.08)",
+        "selector": "main.belle-app-page > section.cy-final:nth-of-type(7) > div.wrap.cy-final-inner > div.cy-stores:nth-of-type(2) > a.cy-store-badge.cy-store-badge--google:nth-of-type(2) > div.cy-store-badge-stack > span.name:nth-of-type(2)",
+        "xpath": "//*[@id=\"start\"]/div[1]/div[2]/a[2]/div[1]/span[2]",
+        "boundingRect": {
+          "x": 723.078125,
+          "y": 8133.515625,
+          "width": 88.640625,
+          "height": 17.59375
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0.08
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Sign up for the",
+        "tag": "h2",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex.sm:flex-1.sm:justify-end:nth-of-type(1) > h2.font-fraunces.text-2xl.text-offwhite.lg:text-4xl",
+        "xpath": "//*[@id=\"subscription-footer\"]/div[1]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "36px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 162,
+            "b": 159,
+            "a": 1
+          },
+          "hex": "#00a29f",
+          "ratio": 3.03,
+          "property": "background-color",
+          "deltaE": 0.04224877276023997
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Belle Newsletter",
+        "tag": "h2",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex.sm:flex-1.sm:justify-end:nth-of-type(1) > h2.font-fraunces.text-2xl.text-offwhite.lg:text-4xl",
+        "xpath": "//*[@id=\"subscription-footer\"]/div[1]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "36px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 162,
+            "b": 159,
+            "a": 1
+          },
+          "hex": "#00a29f",
+          "ratio": 3.03,
+          "property": "background-color",
+          "deltaE": 0.04224877276023997
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Name",
+        "tag": "label",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > label.block.font-vollkorn.text-base/tight.font-bold.lowercase.text-offwhite:nth-of-type(1)",
+        "xpath": "//*[@id=\"newsletter-form\"]/label[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 129,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#00817f",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.14724877276024007
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Email",
+        "tag": "label",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > label.mt-5.block.font-vollkorn.text-base/tight.font-bold.lowercase.text-offwhite:nth-of-type(2)",
+        "xpath": "//*[@id=\"newsletter-form\"]/label[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 129,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#00817f",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.14724877276024007
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "*",
+        "tag": "small",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > label.mt-5.block.font-vollkorn.text-base/tight.font-bold.lowercase.text-offwhite:nth-of-type(2) > small.text-xs",
+        "xpath": "//*[@id=\"newsletter-form\"]/label[2]/small[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 129,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#00817f",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.14724877276024007
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "By clicking on subscribe, you accept our",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > div.mt-6.flex.flex-col.gap-y-4.sm:flex-row.sm:items-center.sm:justify-between.sm:gap-x-4.sm:gap-y-0 > p.text-xs.text-offwhite",
+        "xpath": "//*[@id=\"newsletter-form\"]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 129,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#00817f",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.14724877276024007
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Privacy Policy",
+        "tag": "a",
+        "color": "rgb(24, 122, 129)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > div.mt-6.flex.flex-col.gap-y-4.sm:flex-row.sm:items-center.sm:justify-between.sm:gap-x-4.sm:gap-y-0 > p.text-xs.text-offwhite > a.font-medium.text-primary.underline",
+        "xpath": "//*[@id=\"newsletter-form\"]/div[1]/p[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--cmplz_button_accept_border_color",
+        "fgParsed": {
+          "r": 24,
+          "g": 122,
+          "b": 129,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 1.87,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 59,
+            "b": 67,
+            "a": 1
+          },
+          "hex": "#003b43",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.2203145837828463
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": ".",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > div.mt-6.flex.flex-col.gap-y-4.sm:flex-row.sm:items-center.sm:justify-between.sm:gap-x-4.sm:gap-y-0 > p.text-xs.text-offwhite",
+        "xpath": "//*[@id=\"newsletter-form\"]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 129,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#00817f",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.14724877276024007
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Hooray! You're officially on the path to hormonal bliss!",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgba(255, 250, 240, 0.2)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > div.mt-8.hidden.items-center.gap-x-2.5.rounded-xl.border.border-offwhite.border-opacity-25.bg-offwhite.bg-opacity-20.px-5.py-3.opacity-0.transition-opacity.duration-400:nth-of-type(1) > p.text-base.font-medium.text-offwhite",
+        "xpath": "//*[@id=\"newsletter-success-message\"]/p[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 0.2
+        },
+        "contrastRatio": 1.03,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 122,
+            "g": 117,
+            "b": 109,
+            "a": 1
+          },
+          "hex": "#7a756d",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.42123275995283316
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Oopsie! Looks like there's a tiny typo in your name or email address, try again.",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(233, 106, 97)",
+        "selector": "#newsletter-failure-validation-text",
+        "xpath": "//*[@id=\"newsletter-failure-validation-text\"]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--jp-search-page-surface",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 233,
+          "g": 106,
+          "b": 97,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 197,
+            "g": 74,
+            "b": 67,
+            "a": 1
+          },
+          "hex": "#c54a43",
+          "ratio": 4.55,
+          "property": "background-color",
+          "deltaE": 0.10161289993675438
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--jp-search-page-surface",
+        "property": "color",
+        "currentValue": "rgb(255, 250, 240)",
+        "currentHex": "#fffaf0",
+        "againstVariable": null,
+        "againstValue": "rgb(11, 175, 172)",
+        "againstHex": "#0bafac",
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 10,
+        "suggestedFix": {
+          "variable": "--jp-search-page-surface",
+          "newValue": "color(srgb 0.223 0.207 0.177)",
+          "newHex": "#39352d",
+          "contrastRatio": 4.5,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.hidden.fixed.z-40.inset-0.items-center.justify-center.h-screen.w-screen.bg-primary.bg-opacity-75.opacity-0.transition-all.duration-400:nth-of-type(3) > div.w-full.max-h-full.p-4.lg:p-8.overflow-y-auto.sm:container.xl:max-w-screen-lg > section.relative.flex.flex-col.items-center.overflow-hidden.rounded-xl.bg-offwhite.shadow-card.scale-90.transition-all.duration-400.md:flex-row.md:items-stretch > div.p-6.sm:px-12.sm:py-8.md:flex-1.md:self-center:nth-of-type(3) > div.mt-8.hidden.items-center.gap-x-2.5.rounded-xl.border.border-offwhite.border-opacity-25.bg-primary-light.px-5.py-3.opacity-0.transition-opacity.duration-400:nth-of-type(1) > p.text-base.font-medium.text-offwhite",
+            "text": "Nice! Your Women’s Health Fact Sheet is coming—ready to rewrite the narrative?",
+            "xpath": "//*[@id=\"popup-newsletter-success-message\"]/p[1]"
+          },
+          {
+            "selector": "#popup-newsletter-failure-validation-text",
+            "text": "Oopsie! Looks like there's a tiny typo in your email address, try again.",
+            "xpath": "//*[@id=\"popup-newsletter-failure-validation-text\"]"
+          },
+          {
+            "selector": "#popup-newsletter-failure-error-text",
+            "text": "Oppsie! Something went wrong, please try again later.",
+            "xpath": "//*[@id=\"popup-newsletter-failure-error-text\"]"
+          },
+          {
+            "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > label.block.font-vollkorn.text-base/tight.font-bold.lowercase.text-offwhite:nth-of-type(1)",
+            "text": "Name",
+            "xpath": "//*[@id=\"newsletter-form\"]/label[1]"
+          },
+          {
+            "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > label.mt-5.block.font-vollkorn.text-base/tight.font-bold.lowercase.text-offwhite:nth-of-type(2)",
+            "text": "Email",
+            "xpath": "//*[@id=\"newsletter-form\"]/label[2]"
+          },
+          {
+            "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > label.mt-5.block.font-vollkorn.text-base/tight.font-bold.lowercase.text-offwhite:nth-of-type(2) > small.text-xs",
+            "text": "*",
+            "xpath": "//*[@id=\"newsletter-form\"]/label[2]/small[1]"
+          },
+          {
+            "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > div.mt-6.flex.flex-col.gap-y-4.sm:flex-row.sm:items-center.sm:justify-between.sm:gap-x-4.sm:gap-y-0 > p.text-xs.text-offwhite",
+            "text": "By clicking on subscribe, you accept our",
+            "xpath": "//*[@id=\"newsletter-form\"]/div[1]/p[1]"
+          },
+          {
+            "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > div.mt-6.flex.flex-col.gap-y-4.sm:flex-row.sm:items-center.sm:justify-between.sm:gap-x-4.sm:gap-y-0 > p.text-xs.text-offwhite",
+            "text": ".",
+            "xpath": "//*[@id=\"newsletter-form\"]/div[1]/p[1]"
+          },
+          {
+            "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > div.mt-8.hidden.items-center.gap-x-2.5.rounded-xl.border.border-offwhite.border-opacity-25.bg-offwhite.bg-opacity-20.px-5.py-3.opacity-0.transition-opacity.duration-400:nth-of-type(1) > p.text-base.font-medium.text-offwhite",
+            "text": "Hooray! You're officially on the path to hormonal bliss!",
+            "xpath": "//*[@id=\"newsletter-success-message\"]/p[1]"
+          },
+          {
+            "selector": "#newsletter-failure-validation-text",
+            "text": "Oopsie! Looks like there's a tiny typo in your name or email address, try again.",
+            "xpath": "//*[@id=\"newsletter-failure-validation-text\"]"
+          }
+        ]
+      },
+      {
+        "variable": "--jp-search-page-surface",
+        "property": "background-color",
+        "currentValue": "rgb(255, 250, 240)",
+        "currentHex": "#b07300",
+        "againstVariable": null,
+        "againstValue": "rgb(176, 115, 0)",
+        "againstHex": "#fffaf0",
+        "contrastRatio": 3.81,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 4,
+        "suggestedFix": {
+          "variable": "--jp-search-page-surface",
+          "newValue": "color(srgb 0.998 0.979 0.94)",
+          "newHex": "#fffaf0",
+          "contrastRatio": 3.81,
+          "property": "background-color"
+        },
+        "instances": [
+          {
+            "selector": "main.belle-app-page > section.cy-journey:nth-of-type(2) > div.wrap:nth-of-type(2) > div.cy-journey-flow > article.cy-moment.cy-moment--ovulation.cy-moment--right.cy-reveal:nth-of-type(3) > div.cy-moment-text-wrap:nth-of-type(1) > div.cy-moment-anchor > span.cy-moment-day:nth-of-type(1)",
+            "text": "12",
+            "xpath": "//*[@id=\"features\"]/div[2]/div[1]/article[3]/div[1]/div[1]/span[1]"
+          },
+          {
+            "selector": "main.belle-app-page > section.cy-journey:nth-of-type(2) > div.wrap:nth-of-type(2) > div.cy-journey-flow > article.cy-moment.cy-moment--ovulation.cy-moment--right.cy-reveal:nth-of-type(3) > div.cy-moment-text-wrap:nth-of-type(1) > h3.cy-moment-title > em",
+            "text": "decoded.",
+            "xpath": "//*[@id=\"features\"]/div[2]/div[1]/article[3]/div[1]/h3[1]/em[1]"
+          },
+          {
+            "selector": "main.belle-app-page > section.cy-suite:nth-of-type(4) > div.wrap > div.cy-suite-layout.cy-reveal:nth-of-type(2) > div.cy-suite-rail:nth-of-type(1) > div.cy-suite-bundle:nth-of-type(1) > div.cy-suite-bundle-cards > div.cy-suite-card.cy-suite-card--planner:nth-of-type(3) > h3.cy-suite-h > em",
+            "text": "Web Planner",
+            "xpath": "//*[@id=\"ring\"]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/h3[1]/em[1]"
+          },
+          {
+            "selector": "main.belle-app-page > section.cy-suite:nth-of-type(4) > div.wrap > div.cy-suite-layout.cy-reveal:nth-of-type(2) > div.cy-suite-rail:nth-of-type(1) > div.cy-suite-card.cy-suite-card--ring.cy-suite-ring-standalone:nth-of-type(2) > h3.cy-suite-h > em",
+            "text": "Ring + App",
+            "xpath": "//*[@id=\"ring\"]/div[1]/div[2]/div[1]/div[2]/h3[1]/em[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--cmplz_button_accept_border_color",
+        "property": "color",
+        "currentValue": "rgb(24, 122, 129)",
+        "currentHex": "#187a81",
+        "againstVariable": null,
+        "againstValue": "rgba(24, 122, 129, 0.12)",
+        "againstHex": "#187a81",
+        "contrastRatio": 4.32,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 4,
+        "suggestedFix": {
+          "variable": "--cmplz_button_accept_border_color",
+          "newValue": "color(srgb 0.072 0.466 0.494)",
+          "newHex": "#12777e",
+          "contrastRatio": 4.51,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "main.belle-app-page > section.cy-journey:nth-of-type(2) > div.wrap:nth-of-type(2) > div.cy-journey-flow > article.cy-moment.cy-moment--luteal.cy-moment--right.cy-reveal:nth-of-type(4) > div.cy-moment-text-wrap:nth-of-type(1) > div.cy-moment-anchor > span.cy-moment-phase:nth-of-type(2)",
+            "text": "Early luteal",
+            "xpath": "//*[@id=\"features\"]/div[2]/div[1]/article[4]/div[1]/div[1]/span[2]"
+          },
+          {
+            "selector": "main.belle-app-page > section.cy-journey:nth-of-type(2) > div.wrap:nth-of-type(2) > div.cy-journey-flow > article.cy-moment.cy-moment--luteal.cy-moment--left.cy-reveal:nth-of-type(5) > div.cy-moment-text-wrap:nth-of-type(1) > div.cy-moment-anchor > span.cy-moment-phase:nth-of-type(2)",
+            "text": "Late luteal",
+            "xpath": "//*[@id=\"features\"]/div[2]/div[1]/article[5]/div[1]/div[1]/span[2]"
+          },
+          {
+            "selector": "main.belle-app-page > section.cy-suite:nth-of-type(4) > div.wrap > div.cy-suite-head.cy-reveal:nth-of-type(1) > div.eyebrow",
+            "text": "The Belle suite",
+            "xpath": "//*[@id=\"ring\"]/div[1]/div[1]/div[1]"
+          },
+          {
+            "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > div.mt-6.flex.flex-col.gap-y-4.sm:flex-row.sm:items-center.sm:justify-between.sm:gap-x-4.sm:gap-y-0 > p.text-xs.text-offwhite > a.font-medium.text-primary.underline",
+            "text": "Privacy Policy",
+            "xpath": "//*[@id=\"newsletter-form\"]/div[1]/p[1]/a[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--tw-ring-offset-color",
+        "property": "background-color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#e96a61",
+        "againstVariable": null,
+        "againstValue": "rgb(233, 106, 97)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 3.13,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 5,
+        "suggestedFix": {
+          "variable": "--tw-ring-offset-color",
+          "newValue": "color(srgb 0.17 0.17 0.17)",
+          "newHex": "#2b2b2b",
+          "contrastRatio": 4.52,
+          "property": "background-color"
+        },
+        "instances": [
+          {
+            "selector": "main.belle-app-page > section.cy-audience:nth-of-type(3) > div.wrap > div.cy-audience-grid:nth-of-type(2) > div.cy-audience-card.cy-audience-card--pmdd.cy-reveal:nth-of-type(1) > div.cy-audience-tag:nth-of-type(2)",
+            "text": "For PMDD + severe PMS",
+            "xpath": "//*[@id=\"who\"]/div[1]/div[2]/div[1]/div[2]"
+          },
+          {
+            "selector": "main.belle-app-page > section.cy-audience:nth-of-type(3) > div.wrap > div.cy-audience-grid:nth-of-type(2) > div.cy-audience-card.cy-audience-card--pmdd.cy-reveal:nth-of-type(1) > a.cy-audience-link",
+            "text": "Take the free 5-min PMDD test",
+            "xpath": "//*[@id=\"who\"]/div[1]/div[2]/div[1]/a[1]"
+          },
+          {
+            "selector": "main.belle-app-page > section.cy-audience:nth-of-type(3) > div.wrap > div.cy-audience-grid:nth-of-type(2) > div.cy-audience-card.cy-audience-card--pmdd.cy-reveal:nth-of-type(1) > a.cy-audience-link > span",
+            "text": "→",
+            "xpath": "//*[@id=\"who\"]/div[1]/div[2]/div[1]/a[1]/span[1]"
+          },
+          {
+            "selector": "main.belle-app-page > section.cy-audience:nth-of-type(3) > div.wrap > div.cy-audience-grid:nth-of-type(2) > div.cy-audience-card.cy-audience-card--irregular.cy-reveal:nth-of-type(2) > div.cy-audience-tag:nth-of-type(2)",
+            "text": "For irregular + post-pill",
+            "xpath": "//*[@id=\"who\"]/div[1]/div[2]/div[2]/div[2]"
+          },
+          {
+            "selector": "main.belle-app-page > section.cy-proof:nth-of-type(6) > div.wrap > div.cy-proof-grid.cy-reveal:nth-of-type(2) > div.cy-proof-cell:nth-of-type(1) > div.cy-proof-stars:nth-of-type(1)",
+            "text": "★★★★★",
+            "xpath": "/html/body/main[1]/section[6]/div[1]/div[2]/div[1]/div[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--tw-ring-offset-color",
+        "property": "background-color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#e96a61",
+        "againstVariable": null,
+        "againstValue": "rgb(233, 106, 97)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 3.13,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 2,
+        "suggestedFix": {
+          "variable": "--tw-ring-offset-color",
+          "newValue": "color(srgb 0.993 0.993 0.993)",
+          "newHex": "#fdfdfd",
+          "contrastRatio": 3.08,
+          "property": "background-color"
+        },
+        "instances": [
+          {
+            "selector": "main.belle-app-page > section.cy-audience:nth-of-type(3) > div.wrap > div.cy-audience-grid:nth-of-type(2) > div.cy-audience-card.cy-audience-card--pmdd.cy-reveal:nth-of-type(1) > h3.cy-audience-h > em",
+            "text": "PMDD or severe PMS.",
+            "xpath": "//*[@id=\"who\"]/div[1]/div[2]/div[1]/h3[1]/em[1]"
+          },
+          {
+            "selector": "main.belle-app-page > section.cy-audience:nth-of-type(3) > div.wrap > div.cy-audience-grid:nth-of-type(2) > div.cy-audience-card.cy-audience-card--irregular.cy-reveal:nth-of-type(2) > h3.cy-audience-h > em",
+            "text": "irregular or post-pill.",
+            "xpath": "//*[@id=\"who\"]/div[1]/div[2]/div[2]/h3[1]/em[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--jp-search-page-surface",
+        "property": "background-color",
+        "currentValue": "rgb(255, 250, 240)",
+        "currentHex": "#b17b26",
+        "againstVariable": null,
+        "againstValue": "rgb(177, 123, 38)",
+        "againstHex": "#fffaf0",
+        "contrastRatio": 3.52,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 2,
+        "suggestedFix": {
+          "variable": "--jp-search-page-surface",
+          "newValue": "color(srgb 0.13 0.116 0.088)",
+          "newHex": "#211e16",
+          "contrastRatio": 4.54,
+          "property": "background-color"
+        },
+        "instances": [
+          {
+            "selector": "main.belle-app-page > section.cy-suite:nth-of-type(4) > div.wrap > div.cy-suite-layout.cy-reveal:nth-of-type(2) > div.cy-suite-rail:nth-of-type(1) > div.cy-suite-card.cy-suite-card--ring.cy-suite-ring-standalone:nth-of-type(2) > a.cy-suite-link",
+            "text": "Learn about Belle Ring",
+            "xpath": "//*[@id=\"ring\"]/div[1]/div[2]/div[1]/div[2]/a[1]"
+          },
+          {
+            "selector": "main.belle-app-page > section.cy-suite:nth-of-type(4) > div.wrap > div.cy-suite-layout.cy-reveal:nth-of-type(2) > div.cy-suite-rail:nth-of-type(1) > div.cy-suite-card.cy-suite-card--ring.cy-suite-ring-standalone:nth-of-type(2) > a.cy-suite-link > span",
+            "text": "→",
+            "xpath": "//*[@id=\"ring\"]/div[1]/div[2]/div[1]/div[2]/a[1]/span[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--cmplz_button_accept_border_color",
+        "property": "background-color",
+        "currentValue": "rgb(24, 122, 129)",
+        "currentHex": "#f9d49d",
+        "againstVariable": null,
+        "againstValue": "rgb(249, 212, 157)",
+        "againstHex": "#187a81",
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 2,
+        "suggestedFix": {
+          "variable": "--cmplz_button_accept_border_color",
+          "newValue": "color(srgb -0.054 0.415 0.442)",
+          "newHex": "#006a71",
+          "contrastRatio": 4.52,
+          "property": "background-color"
+        },
+        "instances": [
+          {
+            "selector": "main.belle-app-page > section.cy-final:nth-of-type(7) > div.wrap.cy-final-inner > div.eyebrow:nth-of-type(1)",
+            "text": "Get started",
+            "xpath": "//*[@id=\"start\"]/div[1]/div[1]"
+          },
+          {
+            "selector": "main.belle-app-page > section.cy-final:nth-of-type(7) > div.wrap.cy-final-inner > p",
+            "text": "Cycle predictions begin from your first log. The pattern view fills in over two cycles. Download Bel...",
+            "xpath": "//*[@id=\"start\"]/div[1]/p[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--cmplz_button_accept_border_color",
+        "property": "background-color",
+        "currentValue": "rgb(24, 122, 129)",
+        "currentHex": "#f9d49d",
+        "againstVariable": null,
+        "againstValue": "rgb(249, 212, 157)",
+        "againstHex": "#187a81",
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--cmplz_button_accept_border_color",
+          "newValue": "color(srgb 0.093 0.478 0.506)",
+          "newHex": "#187a81",
+          "contrastRatio": 3.61,
+          "property": "background-color"
+        },
+        "instances": [
+          {
+            "selector": "main.belle-app-page > section.cy-final:nth-of-type(7) > div.wrap.cy-final-inner > h2 > em",
+            "text": "finally legible.",
+            "xpath": "//*[@id=\"start\"]/div[1]/h2[1]/em[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--tw-ring-offset-color",
+        "property": "color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#ffffff",
+        "againstVariable": null,
+        "againstValue": "rgba(255, 255, 255, 0.08)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 2,
+        "suggestedFix": {
+          "variable": "--tw-ring-offset-color",
+          "newValue": "color(srgb 0.462 0.462 0.462)",
+          "newHex": "#767676",
+          "contrastRatio": 4.54,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "main.belle-app-page > section.cy-final:nth-of-type(7) > div.wrap.cy-final-inner > div.cy-stores:nth-of-type(2) > a.cy-store-badge.cy-store-badge--apple:nth-of-type(1) > div.cy-store-badge-stack > span.name:nth-of-type(2)",
+            "text": "App Store",
+            "xpath": "//*[@id=\"start\"]/div[1]/div[2]/a[1]/div[1]/span[2]"
+          },
+          {
+            "selector": "main.belle-app-page > section.cy-final:nth-of-type(7) > div.wrap.cy-final-inner > div.cy-stores:nth-of-type(2) > a.cy-store-badge.cy-store-badge--google:nth-of-type(2) > div.cy-store-badge-stack > span.name:nth-of-type(2)",
+            "text": "Google Play",
+            "xpath": "//*[@id=\"start\"]/div[1]/div[2]/a[2]/div[1]/span[2]"
+          }
+        ]
+      },
+      {
+        "variable": "--jp-search-page-surface",
+        "property": "color",
+        "currentValue": "rgb(255, 250, 240)",
+        "currentHex": "#fffaf0",
+        "againstVariable": null,
+        "againstValue": "rgb(11, 175, 172)",
+        "againstHex": "#0bafac",
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 2,
+        "suggestedFix": {
+          "variable": "--jp-search-page-surface",
+          "newValue": "color(srgb 0.327 0.311 0.279)",
+          "newHex": "#534f47",
+          "contrastRatio": 3,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex.sm:flex-1.sm:justify-end:nth-of-type(1) > h2.font-fraunces.text-2xl.text-offwhite.lg:text-4xl",
+            "text": "Sign up for the",
+            "xpath": "//*[@id=\"subscription-footer\"]/div[1]/div[1]/h2[1]"
+          },
+          {
+            "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex.sm:flex-1.sm:justify-end:nth-of-type(1) > h2.font-fraunces.text-2xl.text-offwhite.lg:text-4xl",
+            "text": "Belle Newsletter",
+            "xpath": "//*[@id=\"subscription-footer\"]/div[1]/div[1]/h2[1]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 243,
+      "passAA": 204,
+      "passAAA": 78,
+      "failAA": 39,
+      "failAAA": 16
+    },
+    "variableStats": {
+      "uniqueIssues": 10,
+      "affectedElements": 34,
+      "oneOffIssues": 5
+    },
+    "healthScore": 84,
+    "scannedAt": "2026-07-23T15:18:35.513Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 39 violation(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/belle-health-20260723-150041/reports/contrast-checker/bellehealth.co.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/belle-health-20260723-150041/reports/contrast-checker/bellehealth.co.json (stdout, non-zero exit)

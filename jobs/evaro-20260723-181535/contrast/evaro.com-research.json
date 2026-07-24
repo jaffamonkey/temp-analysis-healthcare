@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://evaro.com/research",
+    "title": "Evaro - Healthcare Platform Integration",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 47,
+      "passAA": 47,
+      "passAAA": 47,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-07-23T18:32:51.114Z"
+  }
+]

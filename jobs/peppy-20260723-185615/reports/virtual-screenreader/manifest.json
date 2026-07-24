@@ -1,0 +1,34 @@
+[
+  {
+    "page": "peppy.health",
+    "url": "https://peppy.health/",
+    "title": "Transform Employee Health | Support for Key Life Stages | Peppy",
+    "report": "peppy.health.json",
+    "line_count": 814,
+    "ok": true
+  },
+  {
+    "page": "peppy.health-about-us",
+    "url": "https://peppy.health/about-us",
+    "title": "Peppy: Simple, Human, Expert-Led Healthcare for Everyone",
+    "report": "peppy.health-about-us.json",
+    "line_count": 459,
+    "ok": true
+  },
+  {
+    "page": "peppy.health-contact-us",
+    "url": "https://peppy.health/contact-us/",
+    "title": "Talk to Our Team: Improve Retention & Reduce Absence",
+    "report": "peppy.health-contact-us.json",
+    "line_count": 506,
+    "ok": true
+  },
+  {
+    "page": "peppy.health-privacy-policy",
+    "url": "https://peppy.health/privacy-policy/",
+    "title": "Legal - Privacy Policy",
+    "report": "peppy.health-privacy-policy.json",
+    "line_count": 1184,
+    "ok": true
+  }
+]

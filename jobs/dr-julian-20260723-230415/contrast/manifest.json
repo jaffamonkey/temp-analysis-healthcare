@@ -1,0 +1,34 @@
+[
+  {
+    "page": "dr-julian.com",
+    "title": "Dr-Julian | Clinical care and mental healthcare infrastructure",
+    "url": "https://dr-julian.com",
+    "file": "dr-julian.com.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "dr-julian.com-about-us",
+    "title": "About Us - Dr-Julian | Helping people feel better, faster",
+    "url": "https://dr-julian.com/about-us/",
+    "file": "dr-julian.com-about-us.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "dr-julian.com-contact",
+    "title": "Contact | Dr-Julian Medical Group",
+    "url": "https://dr-julian.com/contact/",
+    "file": "dr-julian.com-contact.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "dr-julian.com-privacy-policy",
+    "title": "Privacy Policy - Dr-Julian | Helping people feel better, faster",
+    "url": "https://dr-julian.com/privacy-policy/",
+    "file": "dr-julian.com-privacy-policy.json",
+    "status": "partial",
+    "source": "stdout"
+  }
+]

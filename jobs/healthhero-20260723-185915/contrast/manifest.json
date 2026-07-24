@@ -1,0 +1,34 @@
+[
+  {
+    "page": "www.healthhero.com",
+    "title": "HealthHero | Europe’s Largest Digital-First Clinic – 30M+ Served",
+    "url": "https://www.healthhero.com/",
+    "file": "www.healthhero.com.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "www.healthhero.com-company",
+    "title": "About HealthHero | Europe’s Leading Digital Healthcare Provider",
+    "url": "https://www.healthhero.com/company",
+    "file": "www.healthhero.com-company.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "www.healthhero.com-contact-us",
+    "title": "Contact us | HealthHero",
+    "url": "https://www.healthhero.com/contact-us",
+    "file": "www.healthhero.com-contact-us.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "www.healthhero.com-privacy-policy",
+    "title": "GP Privacy Policy - HealthHero",
+    "url": "https://www.healthhero.com/privacy-policy",
+    "file": "www.healthhero.com-privacy-policy.json",
+    "status": "ok",
+    "source": "stdout"
+  }
+]

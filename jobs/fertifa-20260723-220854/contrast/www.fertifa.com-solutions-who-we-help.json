@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://www.fertifa.com/solutions/who-we-help",
+    "title": "Who We Help",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 270,
+      "passAA": 270,
+      "passAAA": 265,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-07-23T22:27:33.550Z"
+  }
+]

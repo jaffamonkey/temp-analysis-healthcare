@@ -1,0 +1,13 @@
+{
+  "job_id": "huma-20260723-183951",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/huma-20260723-183951/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/huma-20260723-183951/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/huma-20260723-183951/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/huma-20260723-183951/analysis/accessibility_analysis.xlsx",
+  "violations": 843,
+  "pages": 3,
+  "screenshots": {
+    "job_id": "huma-20260723-183951",
+    "message": "Artifacts processed"
+  }
+}

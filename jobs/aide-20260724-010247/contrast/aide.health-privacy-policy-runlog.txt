@@ -1,0 +1,178 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-24T01:15:30.074Z
+URL: https://aide.health/privacy-policy
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://aide.health/privacy-policy --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/aide-20260724-010247/reports/contrast-checker/aide.health-privacy-policy.json
+Exit code: 1
+
+--- STDOUT ---
+ℹ Scanning: https://aide.health/privacy-policy
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://aide.health/privacy-policy
+[
+  {
+    "url": "https://aide.health/privacy-policy",
+    "title": "Privacy Policy",
+    "pairs": [
+      {
+        "text": "Please enter a valid email address.",
+        "tag": "div",
+        "color": "rgb(206, 206, 208)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.dark-section.section:nth-of-type(4) > div.w-layout-blockcontainer.container.w-container > div.footer > div.footer-form-wrapper:nth-of-type(1) > div.email-capture-form.w-form > div.form-message.w-form-fail:nth-of-type(2) > div.form-message-wrapper > div.form-message",
+        "xpath": "/html/body/section[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--color--ceced0",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 206,
+          "g": 206,
+          "b": 208,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.42,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 110,
+            "g": 110,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#6e6e70",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.31200152136045034
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJklEQVR4nOzLMQ0AAAwCMLLMwY65wL88NHCS0L97TzgGpoaGnCAAAAD//0Ll/BkAAAAGSURBVAMASgQAe4IV018AAAAASUVORK5CYII="
+      }
+    ],
+    "violations": [
+      {
+        "text": "Please enter a valid email address.",
+        "tag": "div",
+        "color": "rgb(206, 206, 208)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.dark-section.section:nth-of-type(4) > div.w-layout-blockcontainer.container.w-container > div.footer > div.footer-form-wrapper:nth-of-type(1) > div.email-capture-form.w-form > div.form-message.w-form-fail:nth-of-type(2) > div.form-message-wrapper > div.form-message",
+        "xpath": "/html/body/section[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--color--ceced0",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 206,
+          "g": 206,
+          "b": 208,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.42,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 110,
+            "g": 110,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#6e6e70",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.31200152136045034
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJklEQVR4nOzLMQ0AAAwCMLLMwY65wL88NHCS0L97TzgGpoaGnCAAAAD//0Ll/BkAAAAGSURBVAMASgQAe4IV018AAAAASUVORK5CYII="
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--color--ceced0",
+        "property": "color",
+        "currentValue": "rgb(206, 206, 208)",
+        "currentHex": "#ceced0",
+        "againstVariable": "--color--718bca-10",
+        "againstValue": "rgba(113, 139, 202, 0.1)",
+        "againstHex": "#718bca",
+        "contrastRatio": 1.42,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--color--ceced0",
+          "newValue": "color(srgb 0.433 0.433 0.44)",
+          "newHex": "#6e6e70",
+          "contrastRatio": 4.59,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "section.dark-section.section:nth-of-type(4) > div.w-layout-blockcontainer.container.w-container > div.footer > div.footer-form-wrapper:nth-of-type(1) > div.email-capture-form.w-form > div.form-message.w-form-fail:nth-of-type(2) > div.form-message-wrapper > div.form-message",
+            "text": "Please enter a valid email address.",
+            "xpath": "/html/body/section[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 235,
+      "passAA": 234,
+      "passAAA": 226,
+      "failAA": 1,
+      "failAAA": 1
+    },
+    "variableStats": {
+      "uniqueIssues": 1,
+      "affectedElements": 1,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-07-24T01:15:34.610Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 1 violation(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/aide-20260724-010247/reports/contrast-checker/aide.health-privacy-policy.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/aide-20260724-010247/reports/contrast-checker/aide.health-privacy-policy.json (stdout, non-zero exit)

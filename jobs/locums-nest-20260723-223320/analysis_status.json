@@ -1,0 +1,13 @@
+{
+  "job_id": "locums-nest-20260723-223320",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/locums-nest-20260723-223320/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/locums-nest-20260723-223320/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/locums-nest-20260723-223320/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/locums-nest-20260723-223320/analysis/accessibility_analysis.xlsx",
+  "violations": 955,
+  "pages": 4,
+  "screenshots": {
+    "job_id": "locums-nest-20260723-223320",
+    "message": "Artifacts processed"
+  }
+}

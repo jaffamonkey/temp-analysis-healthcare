@@ -1,0 +1,112 @@
+[
+  {
+    "tool": "tab-map",
+    "url": "https://www.careology.health/en-gb",
+    "landed_url": "https://www.careology.health/en-gb",
+    "title": "Careology | Empowering Decisions with Digital Cancer Care",
+    "page": "www.careology.health-en-gb",
+    "captured_at": "2026-07-23T18:33:48.172Z",
+    "focusable_count": 47,
+    "frame_count": 1,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 0,
+    "image": "www.careology.health-en-gb.png",
+    "preview_image": "www.careology.health-en-gb.png",
+    "preview_dir": "visual-preview",
+    "json": "www.careology.health-en-gb.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "button[aria-label=\"Accept cookies\"]"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.careology.health/en-gb/about",
+    "landed_url": "https://www.careology.health/en-gb/about",
+    "title": "About: Pioneering Digital Cancer Care Solutions | Careology",
+    "page": "www.careology.health-en-gb-about",
+    "captured_at": "2026-07-23T18:33:56.218Z",
+    "focusable_count": 48,
+    "frame_count": 1,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 0,
+    "image": "www.careology.health-en-gb-about.png",
+    "preview_image": "www.careology.health-en-gb-about.png",
+    "preview_dir": "visual-preview",
+    "json": "www.careology.health-en-gb-about.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "button[aria-label=\"Accept cookies\"]"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.careology.health/en-gb/contact",
+    "landed_url": "https://www.careology.health/en-gb/contact",
+    "title": "Contact: Get in Touch with Our Team or Book a Demo | Careology",
+    "page": "www.careology.health-en-gb-contact",
+    "captured_at": "2026-07-23T18:34:02.401Z",
+    "focusable_count": 34,
+    "frame_count": 1,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 0,
+    "image": "www.careology.health-en-gb-contact.png",
+    "preview_image": "www.careology.health-en-gb-contact.png",
+    "preview_dir": "visual-preview",
+    "json": "www.careology.health-en-gb-contact.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept cookies"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.careology.health/en-gb/solutions/patients",
+    "landed_url": "https://www.careology.health/en-gb/solutions/patients",
+    "title": "Transforming Cancer Care for Patients | Careology",
+    "page": "www.careology.health-en-gb-solutions-patients",
+    "captured_at": "2026-07-23T18:34:08.538Z",
+    "focusable_count": 34,
+    "frame_count": 1,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 0,
+    "image": "www.careology.health-en-gb-solutions-patients.png",
+    "preview_image": "www.careology.health-en-gb-solutions-patients.png",
+    "preview_dir": "visual-preview",
+    "json": "www.careology.health-en-gb-solutions-patients.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "button[aria-label=\"Accept cookies\"]"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.careology.health/en-gb/privacy",
+    "landed_url": "https://www.careology.health/en-gb/privacy",
+    "title": "Privacy Policy | Careology",
+    "page": "www.careology.health-en-gb-privacy",
+    "captured_at": "2026-07-23T18:34:16.064Z",
+    "focusable_count": 66,
+    "frame_count": 1,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 0,
+    "image": "www.careology.health-en-gb-privacy.png",
+    "preview_image": "www.careology.health-en-gb-privacy.png",
+    "preview_dir": "visual-preview",
+    "json": "www.careology.health-en-gb-privacy.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "button[aria-label=\"Accept cookies\"]"
+      }
+    ]
+  }
+]

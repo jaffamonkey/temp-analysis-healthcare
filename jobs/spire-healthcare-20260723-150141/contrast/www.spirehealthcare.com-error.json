@@ -1,0 +1,7 @@
+{
+  "tool": "contrast-checker",
+  "url": "https://www.spirehealthcare.com/",
+  "error": "spawnSync /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck ENOBUFS",
+  "attempt": 2,
+  "scanned_at": "2026-07-23T15:22:56.210Z"
+}

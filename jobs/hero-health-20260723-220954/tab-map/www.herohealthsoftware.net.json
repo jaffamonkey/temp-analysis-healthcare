@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.herohealthsoftware.net",
+  "landed_url": "https://www.herohealthsoftware.net/",
+  "title": "Hero Health | Triage, communication & appointment booking for NHS GPs",
+  "page": "www.herohealthsoftware.net",
+  "captured_at": "2026-07-23T22:22:22.885Z",
+  "focusable_count": 126,
+  "frame_count": 4,
+  "same_origin_frame_count": 2,
+  "cross_origin_frame_count": 2,
+  "image": "www.herohealthsoftware.net.png",
+  "preview_image": "www.herohealthsoftware.net.png",
+  "preview_dir": "visual-preview",
+  "json": "www.herohealthsoftware.net.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Allow all"
+    }
+  ]
+}

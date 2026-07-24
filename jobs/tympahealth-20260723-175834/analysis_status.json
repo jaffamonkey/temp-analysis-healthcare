@@ -1,0 +1,13 @@
+{
+  "job_id": "tympahealth-20260723-175834",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/tympahealth-20260723-175834/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/tympahealth-20260723-175834/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/tympahealth-20260723-175834/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/tympahealth-20260723-175834/analysis/accessibility_analysis.xlsx",
+  "violations": 433,
+  "pages": 5,
+  "screenshots": {
+    "job_id": "tympahealth-20260723-175834",
+    "message": "Artifacts processed"
+  }
+}

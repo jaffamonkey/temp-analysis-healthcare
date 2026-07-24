@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.nuffieldhealth.com/",
+  "landed_url": "https://www.nuffieldhealth.com/",
+  "title": "How you feel tomorrow starts today | Nuffield Health",
+  "page": "www.nuffieldhealth.com",
+  "captured_at": "2026-07-23T14:41:22.968Z",
+  "focusable_count": 47,
+  "frame_count": 3,
+  "same_origin_frame_count": 1,
+  "cross_origin_frame_count": 2,
+  "image": "www.nuffieldhealth.com.png",
+  "preview_image": "www.nuffieldhealth.com.png",
+  "preview_dir": "visual-preview",
+  "json": "www.nuffieldhealth.com.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Accept cookies"
+    }
+  ]
+}

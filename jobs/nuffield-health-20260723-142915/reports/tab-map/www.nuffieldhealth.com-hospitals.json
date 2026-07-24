@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.nuffieldhealth.com/hospitals",
+  "landed_url": "https://www.nuffieldhealth.com/hospitals",
+  "title": "Private Hospital treatment - Hospitals near me | Nuffield Health",
+  "page": "www.nuffieldhealth.com-hospitals",
+  "captured_at": "2026-07-23T14:41:41.147Z",
+  "focusable_count": 74,
+  "frame_count": 9,
+  "same_origin_frame_count": 2,
+  "cross_origin_frame_count": 7,
+  "image": "www.nuffieldhealth.com-hospitals.png",
+  "preview_image": "www.nuffieldhealth.com-hospitals.png",
+  "preview_dir": "visual-preview",
+  "json": "www.nuffieldhealth.com-hospitals.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Accept cookies"
+    }
+  ]
+}

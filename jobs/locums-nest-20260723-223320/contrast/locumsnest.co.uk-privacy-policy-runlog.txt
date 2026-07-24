@@ -1,0 +1,49 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-23T22:55:37.986Z
+URL: https://locumsnest.co.uk/privacy-policy
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://locumsnest.co.uk/privacy-policy --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/locums-nest-20260723-223320/reports/contrast-checker/locumsnest.co.uk-privacy-policy.json
+Exit code: 1
+
+--- STDOUT ---
+ℹ Scanning: https://locumsnest.co.uk/privacy-policy
+ℹ Scanning page 1/1: https://locumsnest.co.uk/privacy-policy
+⚠ Failed to scan https://locumsnest.co.uk/privacy-policy: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://locumsnest.co.uk/privacy-policy", waiting until "networkidle"[22m
+
+⚠ 1 page(s) failed to scan
+✖ All pages failed to scan
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 1 page(s)
+
+No usable JSON found in stdout
+Attempt 1 failed: no usable JSON
+Retrying after 3000ms
+
+=== Attempt 2 of 2 ===
+Started: 2026-07-23T22:56:28.521Z
+URL: https://locumsnest.co.uk/privacy-policy
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://locumsnest.co.uk/privacy-policy --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/locums-nest-20260723-223320/reports/contrast-checker/locumsnest.co.uk-privacy-policy.json
+Exit code: 1
+
+--- STDOUT ---
+ℹ Scanning: https://locumsnest.co.uk/privacy-policy
+ℹ Scanning page 1/1: https://locumsnest.co.uk/privacy-policy
+⚠ Failed to scan https://locumsnest.co.uk/privacy-policy: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://locumsnest.co.uk/privacy-policy", waiting until "networkidle"[22m
+
+⚠ 1 page(s) failed to scan
+✖ All pages failed to scan
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 1 page(s)
+
+No usable JSON found in stdout
+Attempt 2 failed: no usable JSON

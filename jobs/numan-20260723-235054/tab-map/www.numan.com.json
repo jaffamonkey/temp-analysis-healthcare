@@ -1,0 +1,26 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.numan.com",
+  "landed_url": "https://www.numan.com/",
+  "title": "Numan | Weight Loss | Blood Tests | Erectile Dysfunction | Hair Loss",
+  "page": "www.numan.com",
+  "captured_at": "2026-07-24T00:01:50.076Z",
+  "focusable_count": 81,
+  "frame_count": 8,
+  "same_origin_frame_count": 1,
+  "cross_origin_frame_count": 7,
+  "image": "www.numan.com.png",
+  "preview_image": "www.numan.com.png",
+  "preview_dir": "visual-preview",
+  "json": "www.numan.com.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Accept All"
+    },
+    {
+      "action": "removed",
+      "detail": "1 overlay(s)"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-23T22:25:35.824Z
+URL: https://www.hormona.io/pages/faq
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://www.hormona.io/pages/faq --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/hormona-20260723-220754/reports/contrast-checker/www.hormona.io-pages-faq.json
+Attempt 1 threw error: spawnSync /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck ENOBUFS
+Retrying after 3000ms
+
+=== Attempt 2 of 2 ===
+Started: 2026-07-23T22:25:57.065Z
+URL: https://www.hormona.io/pages/faq
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://www.hormona.io/pages/faq --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/hormona-20260723-220754/reports/contrast-checker/www.hormona.io-pages-faq.json
+Attempt 2 threw error: spawnSync /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck ENOBUFS

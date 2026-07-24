@@ -1,0 +1,10 @@
+{
+  "tool": "contrast-checker",
+  "url": "https://www.adora.health/about",
+  "error": "No usable JSON report found in output file or stdout",
+  "exit_code": 1,
+  "stdout": "ℹ Scanning: https://www.adora.health/about\nℹ Scanning page 1/1: https://www.adora.health/about\n⚠ Failed to scan https://www.adora.health/about: page.goto: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.adora.health/about\", waiting until \"networkidle\"\u001b[22m\n\n⚠ 1 page(s) failed to scan\n✖ All pages failed to scan\n",
+  "stderr": "- Discovering linked pages...\n\u001b[32m✔\u001b[39m Found 1 page(s)\n",
+  "attempt": 2,
+  "scanned_at": "2026-07-23T17:39:48.170Z"
+}

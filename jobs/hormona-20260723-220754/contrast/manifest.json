@@ -1,0 +1,26 @@
+[
+  {
+    "page": "www.hormona.io",
+    "title": "Your personalized hormone tracker and health monitoring by Hormona",
+    "url": "https://www.hormona.io",
+    "file": "www.hormona.io.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "www.hormona.io-app",
+    "title": "404 Not Found",
+    "url": "https://www.hormona.io/app",
+    "file": "www.hormona.io-app.json",
+    "status": "ok",
+    "source": "stdout"
+  },
+  {
+    "page": "www.hormona.io-policies-privacy-policy",
+    "title": "Privacy policy",
+    "url": "https://www.hormona.io/policies/privacy-policy",
+    "file": "www.hormona.io-policies-privacy-policy.json",
+    "status": "ok",
+    "source": "stdout"
+  }
+]

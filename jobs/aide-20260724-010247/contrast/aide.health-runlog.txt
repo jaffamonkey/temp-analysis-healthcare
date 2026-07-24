@@ -1,0 +1,1822 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-24T01:14:28.801Z
+URL: https://aide.health/
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://aide.health/ --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/aide-20260724-010247/reports/contrast-checker/aide.health.json
+Exit code: 1
+
+--- STDOUT ---
+ℹ Scanning: https://aide.health/
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://aide.health/
+[
+  {
+    "url": "https://aide.health/",
+    "title": "Aide Health — Empowering patients with artificial intelligence",
+    "pairs": [
+      {
+        "text": "The first medical AI note-taker for patients and their families or caregivers.",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "section.featured-products-section:nth-of-type(4) > div.w-layout-blockcontainer.container.w-container > div.featured-products > div.product-widget-wrapper > div.product-widget.dark:nth-of-type(2) > div.product-widget-text-wrapper:nth-of-type(1) > div",
+        "xpath": "//*[@id=\"w-node-_8e99efa7-60dc-02e6-9a7d-2618acfb3195-d8fec4a1\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 730,
+          "y": 1297.921875,
+          "width": 370,
+          "height": 108
+        },
+        "fontSize": "24px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--transparent",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 1
+          },
+          "hex": "#959595",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.32999999999999974
+        }
+      },
+      {
+        "text": "Retention",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(1) > div.impact-stat-widget > div.impact-stat-widget-title:nth-of-type(1)",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 221,
+          "y": 3876.890625,
+          "width": 79.078125,
+          "height": 27.203125
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#6f6f6f",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.45999999999999985
+        }
+      },
+      {
+        "text": "70%+",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(1) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.impact-stat-widget-figure:nth-of-type(1)",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 221,
+          "y": 3976.09375,
+          "width": 123.90625,
+          "height": 72.59375
+        },
+        "fontSize": "44px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 140,
+            "g": 140,
+            "b": 140,
+            "a": 1
+          },
+          "hex": "#8c8c8c",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.35999999999999976
+        }
+      },
+      {
+        "text": "30-day patient retention rate of Aide. ~18x digital health app average.",
+        "tag": "p",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(1) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.rich-text-block.w-richtext:nth-of-type(2) > p",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/p[1]",
+        "boundingRect": {
+          "x": 221,
+          "y": 4048.6875,
+          "width": 148,
+          "height": 95.1875
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#6f6f6f",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.45999999999999985
+        }
+      },
+      {
+        "text": "2",
+        "tag": "sup",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(1) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.rich-text-block.w-richtext:nth-of-type(2) > p > sup",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/p[1]/sup[1]",
+        "boundingRect": {
+          "x": 357.734375,
+          "y": 4120.828125,
+          "width": 6.765625,
+          "height": 14
+        },
+        "fontSize": "10.5px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#6f6f6f",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.45999999999999985
+        }
+      },
+      {
+        "text": "Treatment efficacy",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(2) > div.impact-stat-widget > div.impact-stat-widget-title:nth-of-type(1)",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 451,
+          "y": 3876.890625,
+          "width": 148,
+          "height": 54.40625
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#6f6f6f",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.45999999999999985
+        }
+      },
+      {
+        "text": "73.3%",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(2) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.impact-stat-widget-figure:nth-of-type(1)",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 451,
+          "y": 4003.296875,
+          "width": 133.765625,
+          "height": 72.59375
+        },
+        "fontSize": "44px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 140,
+            "g": 140,
+            "b": 140,
+            "a": 1
+          },
+          "hex": "#8c8c8c",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.35999999999999976
+        }
+      },
+      {
+        "text": "Average patient medicine adherence using Aide (up from 35-50%).",
+        "tag": "p",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(2) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.rich-text-block.w-richtext:nth-of-type(2) > p",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/p[1]",
+        "boundingRect": {
+          "x": 451,
+          "y": 4075.890625,
+          "width": 148,
+          "height": 95.1875
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#6f6f6f",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.45999999999999985
+        }
+      },
+      {
+        "text": "3",
+        "tag": "sup",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(2) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.rich-text-block.w-richtext:nth-of-type(2) > p > sup",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/p[1]/sup[1]",
+        "boundingRect": {
+          "x": 515.6875,
+          "y": 4148.03125,
+          "width": 6.765625,
+          "height": 14
+        },
+        "fontSize": "10.5px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#6f6f6f",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.45999999999999985
+        }
+      },
+      {
+        "text": "Health equity",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(3) > div.impact-stat-widget > div.impact-stat-widget-title:nth-of-type(1)",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 681,
+          "y": 3876.890625,
+          "width": 109.59375,
+          "height": 27.203125
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#6f6f6f",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.45999999999999985
+        }
+      },
+      {
+        "text": "Age 87",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(3) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.impact-stat-widget-figure:nth-of-type(1)",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 681,
+          "y": 3976.09375,
+          "width": 148,
+          "height": 145.1875
+        },
+        "fontSize": "44px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 140,
+            "g": 140,
+            "b": 140,
+            "a": 1
+          },
+          "hex": "#8c8c8c",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.35999999999999976
+        }
+      },
+      {
+        "text": "Oldest user managing their health using Aide, with an average age of 52.",
+        "tag": "p",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(3) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.rich-text-block.w-richtext:nth-of-type(2) > p",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[2]/p[1]",
+        "boundingRect": {
+          "x": 681,
+          "y": 4121.28125,
+          "width": 148,
+          "height": 118.984375
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#6f6f6f",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.45999999999999985
+        }
+      },
+      {
+        "text": "Polypharmcy",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(4) > div.impact-stat-widget > div.impact-stat-widget-title:nth-of-type(1)",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 911,
+          "y": 3876.890625,
+          "width": 106.4375,
+          "height": 27.203125
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#6f6f6f",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.45999999999999985
+        }
+      },
+      {
+        "text": "3.62",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(4) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.impact-stat-widget-figure:nth-of-type(1)",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 911,
+          "y": 3976.09375,
+          "width": 98.5625,
+          "height": 72.59375
+        },
+        "fontSize": "44px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 140,
+            "g": 140,
+            "b": 140,
+            "a": 1
+          },
+          "hex": "#8c8c8c",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.35999999999999976
+        }
+      },
+      {
+        "text": "Average number of medicines managed per patient in Aide.",
+        "tag": "p",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(4) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.rich-text-block.w-richtext:nth-of-type(2) > p",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/div[2]/div[2]/p[1]",
+        "boundingRect": {
+          "x": 911,
+          "y": 4048.6875,
+          "width": 148,
+          "height": 71.390625
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#6f6f6f",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.45999999999999985
+        }
+      },
+      {
+        "text": "Please enter a valid email address.",
+        "tag": "div",
+        "color": "rgb(206, 206, 208)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.dark-section.section:nth-of-type(13) > div.w-layout-blockcontainer.container.w-container > div.footer > div.footer-form-wrapper:nth-of-type(1) > div.email-capture-form.w-form > div.form-message.w-form-fail:nth-of-type(2) > div.form-message-wrapper > div.form-message",
+        "xpath": "/html/body/section[13]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--color--ceced0",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 206,
+          "g": 206,
+          "b": 208,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.42,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 110,
+            "g": 110,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#6e6e70",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.31200152136045034
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJklEQVR4nOzLMQ0AAAwCMLLMwY65wL88NHCS0L97TzgGpoaGnCAAAAD//0Ll/BkAAAAGSURBVAMASgQAe4IV018AAAAASUVORK5CYII="
+      }
+    ],
+    "violations": [
+      {
+        "text": "The first medical AI note-taker for patients and their families or caregivers.",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "section.featured-products-section:nth-of-type(4) > div.w-layout-blockcontainer.container.w-container > div.featured-products > div.product-widget-wrapper > div.product-widget.dark:nth-of-type(2) > div.product-widget-text-wrapper:nth-of-type(1) > div",
+        "xpath": "//*[@id=\"w-node-_8e99efa7-60dc-02e6-9a7d-2618acfb3195-d8fec4a1\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 730,
+          "y": 1297.921875,
+          "width": 370,
+          "height": 108
+        },
+        "fontSize": "24px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--transparent",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 1
+          },
+          "hex": "#959595",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.32999999999999974
+        }
+      },
+      {
+        "text": "Retention",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(1) > div.impact-stat-widget > div.impact-stat-widget-title:nth-of-type(1)",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 221,
+          "y": 3876.890625,
+          "width": 79.078125,
+          "height": 27.203125
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#6f6f6f",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.45999999999999985
+        }
+      },
+      {
+        "text": "70%+",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(1) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.impact-stat-widget-figure:nth-of-type(1)",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 221,
+          "y": 3976.09375,
+          "width": 123.90625,
+          "height": 72.59375
+        },
+        "fontSize": "44px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 140,
+            "g": 140,
+            "b": 140,
+            "a": 1
+          },
+          "hex": "#8c8c8c",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.35999999999999976
+        }
+      },
+      {
+        "text": "30-day patient retention rate of Aide. ~18x digital health app average.",
+        "tag": "p",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(1) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.rich-text-block.w-richtext:nth-of-type(2) > p",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/p[1]",
+        "boundingRect": {
+          "x": 221,
+          "y": 4048.6875,
+          "width": 148,
+          "height": 95.1875
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#6f6f6f",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.45999999999999985
+        }
+      },
+      {
+        "text": "2",
+        "tag": "sup",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(1) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.rich-text-block.w-richtext:nth-of-type(2) > p > sup",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/p[1]/sup[1]",
+        "boundingRect": {
+          "x": 357.734375,
+          "y": 4120.828125,
+          "width": 6.765625,
+          "height": 14
+        },
+        "fontSize": "10.5px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#6f6f6f",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.45999999999999985
+        }
+      },
+      {
+        "text": "Treatment efficacy",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(2) > div.impact-stat-widget > div.impact-stat-widget-title:nth-of-type(1)",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 451,
+          "y": 3876.890625,
+          "width": 148,
+          "height": 54.40625
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#6f6f6f",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.45999999999999985
+        }
+      },
+      {
+        "text": "73.3%",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(2) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.impact-stat-widget-figure:nth-of-type(1)",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 451,
+          "y": 4003.296875,
+          "width": 133.765625,
+          "height": 72.59375
+        },
+        "fontSize": "44px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 140,
+            "g": 140,
+            "b": 140,
+            "a": 1
+          },
+          "hex": "#8c8c8c",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.35999999999999976
+        }
+      },
+      {
+        "text": "Average patient medicine adherence using Aide (up from 35-50%).",
+        "tag": "p",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(2) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.rich-text-block.w-richtext:nth-of-type(2) > p",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/p[1]",
+        "boundingRect": {
+          "x": 451,
+          "y": 4075.890625,
+          "width": 148,
+          "height": 95.1875
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#6f6f6f",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.45999999999999985
+        }
+      },
+      {
+        "text": "3",
+        "tag": "sup",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(2) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.rich-text-block.w-richtext:nth-of-type(2) > p > sup",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/p[1]/sup[1]",
+        "boundingRect": {
+          "x": 515.6875,
+          "y": 4148.03125,
+          "width": 6.765625,
+          "height": 14
+        },
+        "fontSize": "10.5px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#6f6f6f",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.45999999999999985
+        }
+      },
+      {
+        "text": "Health equity",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(3) > div.impact-stat-widget > div.impact-stat-widget-title:nth-of-type(1)",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 681,
+          "y": 3876.890625,
+          "width": 109.59375,
+          "height": 27.203125
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#6f6f6f",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.45999999999999985
+        }
+      },
+      {
+        "text": "Age 87",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(3) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.impact-stat-widget-figure:nth-of-type(1)",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 681,
+          "y": 3976.09375,
+          "width": 148,
+          "height": 145.1875
+        },
+        "fontSize": "44px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 140,
+            "g": 140,
+            "b": 140,
+            "a": 1
+          },
+          "hex": "#8c8c8c",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.35999999999999976
+        }
+      },
+      {
+        "text": "Oldest user managing their health using Aide, with an average age of 52.",
+        "tag": "p",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(3) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.rich-text-block.w-richtext:nth-of-type(2) > p",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[2]/p[1]",
+        "boundingRect": {
+          "x": 681,
+          "y": 4121.28125,
+          "width": 148,
+          "height": 118.984375
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#6f6f6f",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.45999999999999985
+        }
+      },
+      {
+        "text": "Polypharmcy",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(4) > div.impact-stat-widget > div.impact-stat-widget-title:nth-of-type(1)",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 911,
+          "y": 3876.890625,
+          "width": 106.4375,
+          "height": 27.203125
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#6f6f6f",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.45999999999999985
+        }
+      },
+      {
+        "text": "3.62",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(4) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.impact-stat-widget-figure:nth-of-type(1)",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 911,
+          "y": 3976.09375,
+          "width": 98.5625,
+          "height": 72.59375
+        },
+        "fontSize": "44px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 140,
+            "g": 140,
+            "b": 140,
+            "a": 1
+          },
+          "hex": "#8c8c8c",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.35999999999999976
+        }
+      },
+      {
+        "text": "Average number of medicines managed per patient in Aide.",
+        "tag": "p",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(4) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.rich-text-block.w-richtext:nth-of-type(2) > p",
+        "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/div[2]/div[2]/p[1]",
+        "boundingRect": {
+          "x": 911,
+          "y": 4048.6875,
+          "width": 148,
+          "height": 71.390625
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color--white",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#6f6f6f",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.45999999999999985
+        }
+      },
+      {
+        "text": "Please enter a valid email address.",
+        "tag": "div",
+        "color": "rgb(206, 206, 208)",
+        "background": "rgba(113, 139, 202, 0.1)",
+        "selector": "section.dark-section.section:nth-of-type(13) > div.w-layout-blockcontainer.container.w-container > div.footer > div.footer-form-wrapper:nth-of-type(1) > div.email-capture-form.w-form > div.form-message.w-form-fail:nth-of-type(2) > div.form-message-wrapper > div.form-message",
+        "xpath": "/html/body/section[13]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--color--ceced0",
+        "bgVar": "--color--718bca-10",
+        "fgParsed": {
+          "r": 206,
+          "g": 206,
+          "b": 208,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 139,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.42,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 110,
+            "g": 110,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#6e6e70",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.31200152136045034
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJklEQVR4nOzLMQ0AAAwCMLLMwY65wL88NHCS0L97TzgGpoaGnCAAAAD//0Ll/BkAAAAGSURBVAMASgQAe4IV018AAAAASUVORK5CYII="
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--color--white",
+        "property": "color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#ffffff",
+        "againstVariable": "--color--transparent",
+        "againstValue": "rgba(255, 255, 255, 0)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--color--white",
+          "newValue": "color(srgb 0.585 0.585 0.585)",
+          "newHex": "#959595",
+          "contrastRatio": 3,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "section.featured-products-section:nth-of-type(4) > div.w-layout-blockcontainer.container.w-container > div.featured-products > div.product-widget-wrapper > div.product-widget.dark:nth-of-type(2) > div.product-widget-text-wrapper:nth-of-type(1) > div",
+            "text": "The first medical AI note-taker for patients and their families or caregivers.",
+            "xpath": "//*[@id=\"w-node-_8e99efa7-60dc-02e6-9a7d-2618acfb3195-d8fec4a1\"]/div[1]/div[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--color--white",
+        "property": "color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#ffffff",
+        "againstVariable": "--color--718bca-10",
+        "againstValue": "rgba(113, 139, 202, 0.1)",
+        "againstHex": "#718bca",
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 10,
+        "suggestedFix": {
+          "variable": "--color--white",
+          "newValue": "color(srgb 0.433 0.433 0.433)",
+          "newHex": "#6f6f6f",
+          "contrastRatio": 4.53,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(1) > div.impact-stat-widget > div.impact-stat-widget-title:nth-of-type(1)",
+            "text": "Retention",
+            "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]"
+          },
+          {
+            "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(1) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.rich-text-block.w-richtext:nth-of-type(2) > p",
+            "text": "30-day patient retention rate of Aide. ~18x digital health app average.",
+            "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/p[1]"
+          },
+          {
+            "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(1) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.rich-text-block.w-richtext:nth-of-type(2) > p > sup",
+            "text": "2",
+            "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/p[1]/sup[1]"
+          },
+          {
+            "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(2) > div.impact-stat-widget > div.impact-stat-widget-title:nth-of-type(1)",
+            "text": "Treatment efficacy",
+            "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]"
+          },
+          {
+            "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(2) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.rich-text-block.w-richtext:nth-of-type(2) > p",
+            "text": "Average patient medicine adherence using Aide (up from 35-50%).",
+            "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/p[1]"
+          },
+          {
+            "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(2) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.rich-text-block.w-richtext:nth-of-type(2) > p > sup",
+            "text": "3",
+            "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/p[1]/sup[1]"
+          },
+          {
+            "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(3) > div.impact-stat-widget > div.impact-stat-widget-title:nth-of-type(1)",
+            "text": "Health equity",
+            "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]"
+          },
+          {
+            "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(3) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.rich-text-block.w-richtext:nth-of-type(2) > p",
+            "text": "Oldest user managing their health using Aide, with an average age of 52.",
+            "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[2]/p[1]"
+          },
+          {
+            "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(4) > div.impact-stat-widget > div.impact-stat-widget-title:nth-of-type(1)",
+            "text": "Polypharmcy",
+            "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/div[1]"
+          },
+          {
+            "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(4) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.rich-text-block.w-richtext:nth-of-type(2) > p",
+            "text": "Average number of medicines managed per patient in Aide.",
+            "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/div[2]/div[2]/p[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--color--white",
+        "property": "color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#ffffff",
+        "againstVariable": "--color--718bca-10",
+        "againstValue": "rgba(113, 139, 202, 0.1)",
+        "againstHex": "#718bca",
+        "contrastRatio": 1.11,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 4,
+        "suggestedFix": {
+          "variable": "--color--white",
+          "newValue": "color(srgb 0.549 0.549 0.549)",
+          "newHex": "#8c8c8c",
+          "contrastRatio": 3.03,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(1) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.impact-stat-widget-figure:nth-of-type(1)",
+            "text": "70%+",
+            "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]"
+          },
+          {
+            "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(2) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.impact-stat-widget-figure:nth-of-type(1)",
+            "text": "73.3%",
+            "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]"
+          },
+          {
+            "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(3) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.impact-stat-widget-figure:nth-of-type(1)",
+            "text": "Age 87",
+            "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]"
+          },
+          {
+            "selector": "section.evidence-section:nth-of-type(6) > div.w-layout-blockcontainer.container.w-container > div.evidence-widget > div.impact-widget:nth-of-type(2) > div.impact-stats-wrapper:nth-of-type(1) > div.impact-stat-widget-wrapper:nth-of-type(4) > div.impact-stat-widget > div.impact-stat-widget-content-wrapper:nth-of-type(2) > div.impact-stat-widget-figure:nth-of-type(1)",
+            "text": "3.62",
+            "xpath": "//*[@id=\"Evidence\"]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/div[2]/div[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--color--ceced0",
+        "property": "color",
+        "currentValue": "rgb(206, 206, 208)",
+        "currentHex": "#ceced0",
+        "againstVariable": "--color--718bca-10",
+        "againstValue": "rgba(113, 139, 202, 0.1)",
+        "againstHex": "#718bca",
+        "contrastRatio": 1.42,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--color--ceced0",
+          "newValue": "color(srgb 0.433 0.433 0.44)",
+          "newHex": "#6e6e70",
+          "contrastRatio": 4.59,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "section.dark-section.section:nth-of-type(13) > div.w-layout-blockcontainer.container.w-container > div.footer > div.footer-form-wrapper:nth-of-type(1) > div.email-capture-form.w-form > div.form-message.w-form-fail:nth-of-type(2) > div.form-message-wrapper > div.form-message",
+            "text": "Please enter a valid email address.",
+            "xpath": "/html/body/section[13]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 112,
+      "passAA": 96,
+      "passAAA": 94,
+      "failAA": 16,
+      "failAAA": 16
+    },
+    "variableStats": {
+      "uniqueIssues": 4,
+      "affectedElements": 16,
+      "oneOffIssues": 0
+    },
+    "healthScore": 86,
+    "scannedAt": "2026-07-24T01:14:37.428Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 16 violation(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/aide-20260724-010247/reports/contrast-checker/aide.health.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/aide-20260724-010247/reports/contrast-checker/aide.health.json (stdout, non-zero exit)

@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.semble.io",
+    "title": "Private Practice Management Software | Semble",
+    "url": "https://www.semble.io/",
+    "file": "www.semble.io.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "www.semble.io-about-us",
+    "title": "About us",
+    "url": "https://www.semble.io/about-us",
+    "file": "www.semble.io-about-us.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "www.semble.io-solutions-solo-practitioner-healthcare-software",
+    "title": "Small Medical Practice Management Software | Semble",
+    "url": "https://www.semble.io/solutions/solo-practitioner-healthcare-software",
+    "file": "www.semble.io-solutions-solo-practitioner-healthcare-software.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "www.semble.io-book-a-demo",
+    "title": "Book a Demo",
+    "url": "https://www.semble.io/book-a-demo",
+    "file": "www.semble.io-book-a-demo.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "www.semble.io-privacy-policy",
+    "title": "Privacy Policy",
+    "url": "https://www.semble.io/privacy-policy",
+    "file": "www.semble.io-privacy-policy.json",
+    "status": "partial",
+    "source": "stdout"
+  }
+]

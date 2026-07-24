@@ -1,0 +1,112 @@
+[
+  {
+    "tool": "tab-map",
+    "url": "https://agiliosoftware.com",
+    "landed_url": "https://agiliosoftware.com/",
+    "title": "Agilio Software | Dental, Primary Care, Veterinary, Hospital Software",
+    "page": "agiliosoftware.com",
+    "captured_at": "2026-07-23T23:55:08.057Z",
+    "focusable_count": 77,
+    "frame_count": 4,
+    "same_origin_frame_count": 2,
+    "cross_origin_frame_count": 2,
+    "image": "agiliosoftware.com.png",
+    "preview_image": "agiliosoftware.com.png",
+    "preview_dir": "visual-preview",
+    "json": "agiliosoftware.com.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Allow all"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://agiliosoftware.com/directors/",
+    "landed_url": "https://agiliosoftware.com/directors/",
+    "title": "Directors | Agilio Management | Agilio Software",
+    "page": "agiliosoftware.com-directors",
+    "captured_at": "2026-07-23T23:55:14.113Z",
+    "focusable_count": 86,
+    "frame_count": 5,
+    "same_origin_frame_count": 3,
+    "cross_origin_frame_count": 2,
+    "image": "agiliosoftware.com-directors.png",
+    "preview_image": "agiliosoftware.com-directors.png",
+    "preview_dir": "visual-preview",
+    "json": "agiliosoftware.com-directors.json",
+    "consent_actions": [
+      {
+        "action": "removed",
+        "detail": "1 overlay(s)"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://agiliosoftware.com/dental/icomply/",
+    "landed_url": "https://agiliosoftware.com/dental/icomply/",
+    "title": "Dental Compliance solutions | iComply by Agilio Software",
+    "page": "agiliosoftware.com-dental-icomply",
+    "captured_at": "2026-07-23T23:55:21.074Z",
+    "focusable_count": 70,
+    "frame_count": 6,
+    "same_origin_frame_count": 4,
+    "cross_origin_frame_count": 2,
+    "image": "agiliosoftware.com-dental-icomply.png",
+    "preview_image": "agiliosoftware.com-dental-icomply.png",
+    "preview_dir": "visual-preview",
+    "json": "agiliosoftware.com-dental-icomply.json",
+    "consent_actions": [
+      {
+        "action": "removed",
+        "detail": "1 overlay(s)"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://agiliosoftware.com/contact-us/",
+    "landed_url": "https://agiliosoftware.com/contact-us/",
+    "title": "Contact Us | Agilio Software",
+    "page": "agiliosoftware.com-contact-us",
+    "captured_at": "2026-07-23T23:55:26.891Z",
+    "focusable_count": 75,
+    "frame_count": 4,
+    "same_origin_frame_count": 2,
+    "cross_origin_frame_count": 2,
+    "image": "agiliosoftware.com-contact-us.png",
+    "preview_image": "agiliosoftware.com-contact-us.png",
+    "preview_dir": "visual-preview",
+    "json": "agiliosoftware.com-contact-us.json",
+    "consent_actions": [
+      {
+        "action": "removed",
+        "detail": "1 overlay(s)"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://agiliosoftware.com/dental/iplan/",
+    "landed_url": "https://agiliosoftware.com/dental/iplan/",
+    "title": "PatientPlanDirect | Part of the Agilio Group",
+    "page": "agiliosoftware.com-dental-iplan",
+    "captured_at": "2026-07-23T23:55:32.835Z",
+    "focusable_count": 58,
+    "frame_count": 4,
+    "same_origin_frame_count": 2,
+    "cross_origin_frame_count": 2,
+    "image": "agiliosoftware.com-dental-iplan.png",
+    "preview_image": "agiliosoftware.com-dental-iplan.png",
+    "preview_dir": "visual-preview",
+    "json": "agiliosoftware.com-dental-iplan.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll"
+      }
+    ]
+  }
+]

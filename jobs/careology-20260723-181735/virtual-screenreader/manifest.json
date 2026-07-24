@@ -1,0 +1,47 @@
+[
+  {
+    "page": "www.careology.health-en-gb",
+    "url": "https://www.careology.health/en-gb",
+    "title": "www.careology.health-en-gb",
+    "report": "www.careology.health-en-gb.json",
+    "line_count": 0,
+    "ok": false,
+    "error": "Invalid selector #radix-:R65lapkq:"
+  },
+  {
+    "page": "www.careology.health-en-gb-about",
+    "url": "https://www.careology.health/en-gb/about",
+    "title": "www.careology.health-en-gb-about",
+    "report": "www.careology.health-en-gb-about.json",
+    "line_count": 0,
+    "ok": false,
+    "error": "Invalid selector #radix-:R65lapkq:"
+  },
+  {
+    "page": "www.careology.health-en-gb-contact",
+    "url": "https://www.careology.health/en-gb/contact",
+    "title": "www.careology.health-en-gb-contact",
+    "report": "www.careology.health-en-gb-contact.json",
+    "line_count": 0,
+    "ok": false,
+    "error": "Invalid selector #radix-:R65lapkq:"
+  },
+  {
+    "page": "www.careology.health-en-gb-solutions-patients",
+    "url": "https://www.careology.health/en-gb/solutions/patients",
+    "title": "www.careology.health-en-gb-solutions-patients",
+    "report": "www.careology.health-en-gb-solutions-patients.json",
+    "line_count": 0,
+    "ok": false,
+    "error": "Invalid selector #radix-:R65lapkq:"
+  },
+  {
+    "page": "www.careology.health-en-gb-privacy",
+    "url": "https://www.careology.health/en-gb/privacy",
+    "title": "www.careology.health-en-gb-privacy",
+    "report": "www.careology.health-en-gb-privacy.json",
+    "line_count": 0,
+    "ok": false,
+    "error": "Invalid selector #radix-:R65lapkq:"
+  }
+]

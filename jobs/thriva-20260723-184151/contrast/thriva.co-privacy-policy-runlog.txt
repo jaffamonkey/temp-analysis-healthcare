@@ -1,0 +1,43 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-23T18:53:05.111Z
+URL: https://thriva.co/privacy-policy
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://thriva.co/privacy-policy --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/thriva-20260723-184151/reports/contrast-checker/thriva.co-privacy-policy.json
+Exit code: 0
+
+--- STDOUT ---
+ℹ Scanning: https://thriva.co/privacy-policy
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://thriva.co/privacy-policy
+[
+  {
+    "url": "https://thriva.co/privacy-policy",
+    "title": "Thriva - Marketing | Thriva",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 367,
+      "passAA": 367,
+      "passAAA": 364,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-07-23T18:53:10.225Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/thriva-20260723-184151/reports/contrast-checker/thriva.co-privacy-policy.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/thriva-20260723-184151/reports/contrast-checker/thriva.co-privacy-policy.json (stdout)

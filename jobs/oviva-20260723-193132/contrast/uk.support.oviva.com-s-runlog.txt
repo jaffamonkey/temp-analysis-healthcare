@@ -1,0 +1,59 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-23T19:41:20.719Z
+URL: https://uk.support.oviva.com/s/
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://uk.support.oviva.com/s/ --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/oviva-20260723-193132/reports/contrast-checker/uk.support.oviva.com-s.json
+Exit code: 1
+
+--- STDOUT ---
+ℹ Scanning: https://uk.support.oviva.com/s/
+ℹ Scanning page 1/1: https://uk.support.oviva.com/s/
+⚠ Failed to scan https://uk.support.oviva.com/s/: page.evaluate: TypeError: Cannot read properties of null (reading 'id')
+    at getXPath (eval at evaluate (:302:30), <anonymous>:3:19)
+    at getXPath (eval at evaluate (:302:30), <anonymous>:14:18)
+    at getXPath (eval at evaluate (:302:30), <anonymous>:14:18)
+    at getXPath (eval at evaluate (:302:30), <anonymous>:14:18)
+    at getXPath (eval at evaluate (:302:30), <anonymous>:14:18)
+    at extractFromPage (eval at evaluate (:302:30), <anonymous>:172:16)
+    at UtilityScript.evaluate (<anonymous>:304:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+⚠ 1 page(s) failed to scan
+✖ All pages failed to scan
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 1 page(s)
+
+No usable JSON found in stdout
+Attempt 1 failed: no usable JSON
+Retrying after 3000ms
+
+=== Attempt 2 of 2 ===
+Started: 2026-07-23T19:41:31.876Z
+URL: https://uk.support.oviva.com/s/
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://uk.support.oviva.com/s/ --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/oviva-20260723-193132/reports/contrast-checker/uk.support.oviva.com-s.json
+Exit code: 1
+
+--- STDOUT ---
+ℹ Scanning: https://uk.support.oviva.com/s/
+ℹ Scanning page 1/1: https://uk.support.oviva.com/s/
+⚠ Failed to scan https://uk.support.oviva.com/s/: page.evaluate: TypeError: Cannot read properties of null (reading 'id')
+    at getXPath (eval at evaluate (:302:30), <anonymous>:3:19)
+    at getXPath (eval at evaluate (:302:30), <anonymous>:14:18)
+    at getXPath (eval at evaluate (:302:30), <anonymous>:14:18)
+    at getXPath (eval at evaluate (:302:30), <anonymous>:14:18)
+    at getXPath (eval at evaluate (:302:30), <anonymous>:14:18)
+    at extractFromPage (eval at evaluate (:302:30), <anonymous>:172:16)
+    at UtilityScript.evaluate (<anonymous>:304:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+⚠ 1 page(s) failed to scan
+✖ All pages failed to scan
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 1 page(s)
+
+No usable JSON found in stdout
+Attempt 2 failed: no usable JSON

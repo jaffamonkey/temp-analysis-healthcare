@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.careology.health/en-gb",
+  "landed_url": "https://www.careology.health/en-gb",
+  "title": "Careology | Empowering Decisions with Digital Cancer Care",
+  "page": "www.careology.health-en-gb",
+  "captured_at": "2026-07-23T18:33:48.172Z",
+  "focusable_count": 47,
+  "frame_count": 1,
+  "same_origin_frame_count": 1,
+  "cross_origin_frame_count": 0,
+  "image": "www.careology.health-en-gb.png",
+  "preview_image": "www.careology.health-en-gb.png",
+  "preview_dir": "visual-preview",
+  "json": "www.careology.health-en-gb.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "button[aria-label=\"Accept cookies\"]"
+    }
+  ]
+}

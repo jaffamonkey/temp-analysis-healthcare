@@ -1,0 +1,42 @@
+[
+  {
+    "page": "dawainnovation.com",
+    "url": "https://dawainnovation.com/",
+    "title": "DAWA INNOVATIONS – MEDICAL SOFTWARE",
+    "report": "dawainnovation.com.json",
+    "line_count": 266,
+    "ok": true
+  },
+  {
+    "page": "dawainnovation.com-about-us",
+    "url": "https://dawainnovation.com/about-us/",
+    "title": "ABOUT US – DAWA INNOVATIONS",
+    "report": "dawainnovation.com-about-us.json",
+    "line_count": 194,
+    "ok": true
+  },
+  {
+    "page": "dawainnovation.com-contact",
+    "url": "https://dawainnovation.com/contact/",
+    "title": "CONTACT – DAWA INNOVATIONS",
+    "report": "dawainnovation.com-contact.json",
+    "line_count": 143,
+    "ok": true
+  },
+  {
+    "page": "dawainnovation.com-research-and-development",
+    "url": "https://dawainnovation.com/research-and-development/",
+    "title": "RESEARCH AND DEVELOPMENT – DAWA INNOVATIONS",
+    "report": "dawainnovation.com-research-and-development.json",
+    "line_count": 141,
+    "ok": true
+  },
+  {
+    "page": "dawainnovation.com-faqs",
+    "url": "https://dawainnovation.com/faqs/",
+    "title": "FAQS – DAWA INNOVATIONS",
+    "report": "dawainnovation.com-faqs.json",
+    "line_count": 159,
+    "ok": true
+  }
+]

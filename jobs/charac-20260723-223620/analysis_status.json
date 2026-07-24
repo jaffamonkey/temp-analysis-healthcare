@@ -1,0 +1,13 @@
+{
+  "job_id": "charac-20260723-223620",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/charac-20260723-223620/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/charac-20260723-223620/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/charac-20260723-223620/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/charac-20260723-223620/analysis/accessibility_analysis.xlsx",
+  "violations": 690,
+  "pages": 4,
+  "screenshots": {
+    "job_id": "charac-20260723-223620",
+    "message": "Artifacts processed"
+  }
+}

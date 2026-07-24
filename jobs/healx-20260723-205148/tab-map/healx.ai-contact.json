@@ -1,0 +1,26 @@
+{
+  "tool": "tab-map",
+  "url": "https://healx.ai/contact/",
+  "landed_url": "https://healx.ai/contact/",
+  "title": "Contact - Healx",
+  "page": "healx.ai-contact",
+  "captured_at": "2026-07-23T21:03:30.137Z",
+  "focusable_count": 32,
+  "frame_count": 3,
+  "same_origin_frame_count": 2,
+  "cross_origin_frame_count": 1,
+  "image": "healx.ai-contact.png",
+  "preview_image": "healx.ai-contact.png",
+  "preview_dir": "visual-preview",
+  "json": "healx.ai-contact.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Accept cookies"
+    },
+    {
+      "action": "removed",
+      "detail": "1 overlay(s)"
+    }
+  ]
+}

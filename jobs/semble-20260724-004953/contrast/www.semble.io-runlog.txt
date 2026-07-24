@@ -1,0 +1,1868 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-24T01:00:34.496Z
+URL: https://www.semble.io/
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://www.semble.io/ --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/semble-20260724-004953/reports/contrast-checker/www.semble.io.json
+Exit code: 1
+
+--- STDOUT ---
+ℹ Scanning: https://www.semble.io/
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://www.semble.io/
+[
+  {
+    "url": "https://www.semble.io/",
+    "title": "Private Practice Management Software | Semble",
+    "pairs": [
+      {
+        "text": "Platform",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(3) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(1) > nav.platform-dropdown-open.w-dropdown-list > div.platform-dropdown-open.v2 > div.platform-box-v2:nth-of-type(2) > div.dropdowntitle:nth-of-type(1) > div.platformsectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[2]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLsQkAAAwCMCn9/9lSZ29wFMye5R8cA1NDQ04QAAAA///U1duxAAAABklEQVQDAP/fAwGymHzHAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Our Solution",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(3) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(3) > nav.solution-dropdown.w-dropdown-list > div.solution-dropdown-open.v2 > div.solution-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.solutionsectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-2\"]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLsQkAAAwCMCn9/9lSZ29wFMye5R8cA1NDQ04QAAAA///U1duxAAAABklEQVQDAP/fAwGymHzHAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Resources",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(3) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(5) > nav.resources-dropdown.w-dropdown-list > div.resources-dropdown-open.v2 > div.resources-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.resourcessectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-4\"]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLsQkAAAwCMCn9/9lSZ29wFMye5R8cA1NDQ04QAAAA///U1duxAAAABklEQVQDAP/fAwGymHzHAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Over 16,000 healthcare professionals across 80 specialities rely on Semble every day",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.darkbackground:nth-of-type(5) > div.component-logocarousel > div.logocarousel > div.bob:nth-of-type(1) > div.logocarouseltitle.fullwidth.align-center",
+        "xpath": "/html/body/div[5]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 196.890625,
+          "y": 971.859375,
+          "width": 886.203125,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.66,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 93,
+            "a": 1
+          },
+          "hex": "#00805d",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.13816135586649148
+        }
+      },
+      {
+        "text": "Electronic health record",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.component-threetabs:nth-of-type(7) > div.bob > div.fivetabs > div.w-tabs > div.fivetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-inline-block.w-tab-link:nth-of-type(2) > div.tabimagetextblock > div.tabtext",
+        "xpath": "//*[@id=\"w-tabs-0-data-w-tab-1\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 463.671875,
+          "y": 1546.453125,
+          "width": 352.65625,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "Intelligent workflows",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.component-threetabs:nth-of-type(7) > div.bob > div.fivetabs > div.w-tabs > div.fivetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-inline-block.w-tab-link:nth-of-type(3) > div.tabimagetextblock > div.tabtext",
+        "xpath": "//*[@id=\"w-tabs-0-data-w-tab-2\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 876.328125,
+          "y": 1546.453125,
+          "width": 352.671875,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "Private practices",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.component-horiztabs:nth-of-type(15) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-variant-3e1061a5-e99f-ce92-d2e8-5074c129d021.w-inline-block.w-tab-link:nth-of-type(2) > div.tabimagetextblock > div.tabtext",
+        "xpath": "//*[@id=\"w-tabs-1-data-w-tab-1\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 360.5,
+          "y": 5069.609375,
+          "width": 249.5,
+          "height": 40
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "and clinics",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.component-horiztabs:nth-of-type(15) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-variant-3e1061a5-e99f-ce92-d2e8-5074c129d021.w-inline-block.w-tab-link:nth-of-type(2) > div.tabimagetextblock > div.tabtext",
+        "xpath": "//*[@id=\"w-tabs-1-data-w-tab-1\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 360.5,
+          "y": 5069.609375,
+          "width": 249.5,
+          "height": 40
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "Corporate and",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.component-horiztabs:nth-of-type(15) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-variant-3e1061a5-e99f-ce92-d2e8-5074c129d021.w-inline-block.w-tab-link:nth-of-type(3) > div.tabimagetextblock > div.tabtext",
+        "xpath": "//*[@id=\"w-tabs-1-data-w-tab-2\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 670,
+          "y": 5069.609375,
+          "width": 249.5,
+          "height": 40
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "occupational health",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.component-horiztabs:nth-of-type(15) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-variant-3e1061a5-e99f-ce92-d2e8-5074c129d021.w-inline-block.w-tab-link:nth-of-type(3) > div.tabimagetextblock > div.tabtext",
+        "xpath": "//*[@id=\"w-tabs-1-data-w-tab-2\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 670,
+          "y": 5069.609375,
+          "width": 249.5,
+          "height": 40
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "Enterprise",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.component-horiztabs:nth-of-type(15) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-variant-3e1061a5-e99f-ce92-d2e8-5074c129d021.w-inline-block.w-tab-link:nth-of-type(4) > div.tabimagetextblock > div.tabtext",
+        "xpath": "//*[@id=\"w-tabs-1-data-w-tab-3\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 979.5,
+          "y": 5069.609375,
+          "width": 249.5,
+          "height": 40
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "groups",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.component-horiztabs:nth-of-type(15) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-variant-3e1061a5-e99f-ce92-d2e8-5074c129d021.w-inline-block.w-tab-link:nth-of-type(4) > div.tabimagetextblock > div.tabtext",
+        "xpath": "//*[@id=\"w-tabs-1-data-w-tab-3\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 979.5,
+          "y": 5069.609375,
+          "width": 249.5,
+          "height": 40
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "99.99% uptime",
+        "tag": "div",
+        "color": "rgb(5, 152, 238)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.component-horiztabs:nth-of-type(15) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.w-tab-content:nth-of-type(2) > div.tabpane-txtimage.w-variant-3e1061a5-e99f-ce92-d2e8-5074c129d021.w-tab-pane:nth-of-type(3) > div.component-2col-textimage.nomargin > div.textflexdown > div.ratingheading.blue:nth-of-type(5)",
+        "xpath": "//*[@id=\"w-tabs-1-data-w-pane-2\"]/div[1]/div[1]/div[5]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "30px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 5,
+          "g": 152,
+          "b": 238,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.86,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 148,
+            "b": 234,
+            "a": 1
+          },
+          "hex": "#0094ea",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.01192310806398067
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLsQkAAAwCMCn9/9lSZ29wFMye5R8cA1NDQ04QAAAA///U1duxAAAABklEQVQDAP/fAwGymHzHAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "4.5 on Capterra",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.component-2buttoncta:nth-of-type(19) > div._2buttoncta > div._2buttoncta-internal:nth-of-type(2) > div._2buttoncta-reviews:nth-of-type(3) > div.reviewbrief:nth-of-type(1) > div.reviewtext",
+        "xpath": "/html/body/div[19]/div[1]/div[2]/div[3]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 450.78125,
+          "y": 7681.375,
+          "width": 137.3125,
+          "height": 20
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_apps---colors--card",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "4.3 on Google",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.component-2buttoncta:nth-of-type(19) > div._2buttoncta > div._2buttoncta-internal:nth-of-type(2) > div._2buttoncta-reviews:nth-of-type(3) > div.reviewbrief:nth-of-type(2) > div.reviewtext",
+        "xpath": "/html/body/div[19]/div[1]/div[2]/div[3]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 676.09375,
+          "y": 7681.375,
+          "width": 121.109375,
+          "height": 20
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_apps---colors--card",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "x",
+        "tag": "div",
+        "color": "rgb(5, 5, 5)",
+        "background": "rgba(56, 56, 56, 0.8)",
+        "selector": "div.popupvideooverlay:nth-of-type(20) > div.popup-close-overlay:nth-of-type(1)",
+        "xpath": "/html/body/div[20]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--smallrounded",
+        "bgVar": "--_colour-ui---darkgreybackground",
+        "fgParsed": {
+          "r": 5,
+          "g": 5,
+          "b": 5,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 56,
+          "g": 56,
+          "b": 56,
+          "a": 0.8
+        },
+        "contrastRatio": 3.24,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 85,
+            "g": 85,
+            "b": 85,
+            "a": 0.8
+          },
+          "hex": "#555555",
+          "ratio": 4.55,
+          "property": "background-color",
+          "deltaE": 0.10930294310277788
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLsQkAAAwCMCn9/9lSZ29wFMye5R8cA1NDQ04QAAAA///U1duxAAAABklEQVQDAP/fAwGymHzHAAAAAElFTkSuQmCC"
+      }
+    ],
+    "violations": [
+      {
+        "text": "Platform",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(3) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(1) > nav.platform-dropdown-open.w-dropdown-list > div.platform-dropdown-open.v2 > div.platform-box-v2:nth-of-type(2) > div.dropdowntitle:nth-of-type(1) > div.platformsectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[2]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLsQkAAAwCMCn9/9lSZ29wFMye5R8cA1NDQ04QAAAA///U1duxAAAABklEQVQDAP/fAwGymHzHAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Our Solution",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(3) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(3) > nav.solution-dropdown.w-dropdown-list > div.solution-dropdown-open.v2 > div.solution-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.solutionsectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-2\"]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLsQkAAAwCMCn9/9lSZ29wFMye5R8cA1NDQ04QAAAA///U1duxAAAABklEQVQDAP/fAwGymHzHAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Resources",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(3) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(5) > nav.resources-dropdown.w-dropdown-list > div.resources-dropdown-open.v2 > div.resources-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.resourcessectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-4\"]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLsQkAAAwCMCn9/9lSZ29wFMye5R8cA1NDQ04QAAAA///U1duxAAAABklEQVQDAP/fAwGymHzHAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Over 16,000 healthcare professionals across 80 specialities rely on Semble every day",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.darkbackground:nth-of-type(5) > div.component-logocarousel > div.logocarousel > div.bob:nth-of-type(1) > div.logocarouseltitle.fullwidth.align-center",
+        "xpath": "/html/body/div[5]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 196.890625,
+          "y": 971.859375,
+          "width": 886.203125,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.66,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 93,
+            "a": 1
+          },
+          "hex": "#00805d",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.13816135586649148
+        }
+      },
+      {
+        "text": "Electronic health record",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.component-threetabs:nth-of-type(7) > div.bob > div.fivetabs > div.w-tabs > div.fivetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-inline-block.w-tab-link:nth-of-type(2) > div.tabimagetextblock > div.tabtext",
+        "xpath": "//*[@id=\"w-tabs-0-data-w-tab-1\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 463.671875,
+          "y": 1546.453125,
+          "width": 352.65625,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "Intelligent workflows",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.component-threetabs:nth-of-type(7) > div.bob > div.fivetabs > div.w-tabs > div.fivetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-inline-block.w-tab-link:nth-of-type(3) > div.tabimagetextblock > div.tabtext",
+        "xpath": "//*[@id=\"w-tabs-0-data-w-tab-2\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 876.328125,
+          "y": 1546.453125,
+          "width": 352.671875,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "Private practices",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.component-horiztabs:nth-of-type(15) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-variant-3e1061a5-e99f-ce92-d2e8-5074c129d021.w-inline-block.w-tab-link:nth-of-type(2) > div.tabimagetextblock > div.tabtext",
+        "xpath": "//*[@id=\"w-tabs-1-data-w-tab-1\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 360.5,
+          "y": 5069.609375,
+          "width": 249.5,
+          "height": 40
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "and clinics",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.component-horiztabs:nth-of-type(15) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-variant-3e1061a5-e99f-ce92-d2e8-5074c129d021.w-inline-block.w-tab-link:nth-of-type(2) > div.tabimagetextblock > div.tabtext",
+        "xpath": "//*[@id=\"w-tabs-1-data-w-tab-1\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 360.5,
+          "y": 5069.609375,
+          "width": 249.5,
+          "height": 40
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "Corporate and",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.component-horiztabs:nth-of-type(15) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-variant-3e1061a5-e99f-ce92-d2e8-5074c129d021.w-inline-block.w-tab-link:nth-of-type(3) > div.tabimagetextblock > div.tabtext",
+        "xpath": "//*[@id=\"w-tabs-1-data-w-tab-2\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 670,
+          "y": 5069.609375,
+          "width": 249.5,
+          "height": 40
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "occupational health",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.component-horiztabs:nth-of-type(15) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-variant-3e1061a5-e99f-ce92-d2e8-5074c129d021.w-inline-block.w-tab-link:nth-of-type(3) > div.tabimagetextblock > div.tabtext",
+        "xpath": "//*[@id=\"w-tabs-1-data-w-tab-2\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 670,
+          "y": 5069.609375,
+          "width": 249.5,
+          "height": 40
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "Enterprise",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.component-horiztabs:nth-of-type(15) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-variant-3e1061a5-e99f-ce92-d2e8-5074c129d021.w-inline-block.w-tab-link:nth-of-type(4) > div.tabimagetextblock > div.tabtext",
+        "xpath": "//*[@id=\"w-tabs-1-data-w-tab-3\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 979.5,
+          "y": 5069.609375,
+          "width": 249.5,
+          "height": 40
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "groups",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.component-horiztabs:nth-of-type(15) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-variant-3e1061a5-e99f-ce92-d2e8-5074c129d021.w-inline-block.w-tab-link:nth-of-type(4) > div.tabimagetextblock > div.tabtext",
+        "xpath": "//*[@id=\"w-tabs-1-data-w-tab-3\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 979.5,
+          "y": 5069.609375,
+          "width": 249.5,
+          "height": 40
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "99.99% uptime",
+        "tag": "div",
+        "color": "rgb(5, 152, 238)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.component-horiztabs:nth-of-type(15) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.w-tab-content:nth-of-type(2) > div.tabpane-txtimage.w-variant-3e1061a5-e99f-ce92-d2e8-5074c129d021.w-tab-pane:nth-of-type(3) > div.component-2col-textimage.nomargin > div.textflexdown > div.ratingheading.blue:nth-of-type(5)",
+        "xpath": "//*[@id=\"w-tabs-1-data-w-pane-2\"]/div[1]/div[1]/div[5]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "30px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 5,
+          "g": 152,
+          "b": 238,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.86,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 148,
+            "b": 234,
+            "a": 1
+          },
+          "hex": "#0094ea",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.01192310806398067
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLsQkAAAwCMCn9/9lSZ29wFMye5R8cA1NDQ04QAAAA///U1duxAAAABklEQVQDAP/fAwGymHzHAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "4.5 on Capterra",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.component-2buttoncta:nth-of-type(19) > div._2buttoncta > div._2buttoncta-internal:nth-of-type(2) > div._2buttoncta-reviews:nth-of-type(3) > div.reviewbrief:nth-of-type(1) > div.reviewtext",
+        "xpath": "/html/body/div[19]/div[1]/div[2]/div[3]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 450.78125,
+          "y": 7681.375,
+          "width": 137.3125,
+          "height": 20
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_apps---colors--card",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "4.3 on Google",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.component-2buttoncta:nth-of-type(19) > div._2buttoncta > div._2buttoncta-internal:nth-of-type(2) > div._2buttoncta-reviews:nth-of-type(3) > div.reviewbrief:nth-of-type(2) > div.reviewtext",
+        "xpath": "/html/body/div[19]/div[1]/div[2]/div[3]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 676.09375,
+          "y": 7681.375,
+          "width": 121.109375,
+          "height": 20
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_apps---colors--card",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "x",
+        "tag": "div",
+        "color": "rgb(5, 5, 5)",
+        "background": "rgba(56, 56, 56, 0.8)",
+        "selector": "div.popupvideooverlay:nth-of-type(20) > div.popup-close-overlay:nth-of-type(1)",
+        "xpath": "/html/body/div[20]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--smallrounded",
+        "bgVar": "--_colour-ui---darkgreybackground",
+        "fgParsed": {
+          "r": 5,
+          "g": 5,
+          "b": 5,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 56,
+          "g": 56,
+          "b": 56,
+          "a": 0.8
+        },
+        "contrastRatio": 3.24,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 85,
+            "g": 85,
+            "b": 85,
+            "a": 0.8
+          },
+          "hex": "#555555",
+          "ratio": 4.55,
+          "property": "background-color",
+          "deltaE": 0.10930294310277788
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLsQkAAAwCMCn9/9lSZ29wFMye5R8cA1NDQ04QAAAA///U1duxAAAABklEQVQDAP/fAwGymHzHAAAAAElFTkSuQmCC"
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--_colour-tints---mid-green-tint-2",
+        "property": "color",
+        "currentValue": "rgb(39, 171, 133)",
+        "currentHex": "#27ab85",
+        "againstVariable": null,
+        "againstValue": "rgb(250, 251, 252)",
+        "againstHex": "#fafbfc",
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 3,
+        "suggestedFix": {
+          "variable": "--_colour-tints---mid-green-tint-2",
+          "newValue": "color(srgb -0.158 0.515 0.375)",
+          "newHex": "#008360",
+          "contrastRatio": 4.59,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.navbar.w-nav:nth-of-type(3) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(1) > nav.platform-dropdown-open.w-dropdown-list > div.platform-dropdown-open.v2 > div.platform-box-v2:nth-of-type(2) > div.dropdowntitle:nth-of-type(1) > div.platformsectiontitle",
+            "text": "Platform",
+            "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[2]/div[1]/div[1]"
+          },
+          {
+            "selector": "div.navbar.w-nav:nth-of-type(3) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(3) > nav.solution-dropdown.w-dropdown-list > div.solution-dropdown-open.v2 > div.solution-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.solutionsectiontitle",
+            "text": "Our Solution",
+            "xpath": "//*[@id=\"w-dropdown-list-2\"]/div[1]/div[1]/div[1]/div[1]"
+          },
+          {
+            "selector": "div.navbar.w-nav:nth-of-type(3) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(5) > nav.resources-dropdown.w-dropdown-list > div.resources-dropdown-open.v2 > div.resources-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.resourcessectiontitle",
+            "text": "Resources",
+            "xpath": "//*[@id=\"w-dropdown-list-4\"]/div[1]/div[1]/div[1]/div[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--_colour-tints---mid-green-tint-2",
+        "property": "color",
+        "currentValue": "rgb(39, 171, 133)",
+        "currentHex": "#27ab85",
+        "againstVariable": "--_apps---colors--background",
+        "againstValue": "rgb(246, 245, 243)",
+        "againstHex": "#f6f5f3",
+        "contrastRatio": 2.66,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--_colour-tints---mid-green-tint-2",
+          "newValue": "color(srgb -0.165 0.503 0.364)",
+          "newHex": "#00805d",
+          "contrastRatio": 4.54,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.darkbackground:nth-of-type(5) > div.component-logocarousel > div.logocarousel > div.bob:nth-of-type(1) > div.logocarouseltitle.fullwidth.align-center",
+            "text": "Over 16,000 healthcare professionals across 80 specialities rely on Semble every day",
+            "xpath": "/html/body/div[5]/div[1]/div[1]/div[1]/div[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--_colour-greys---grey-360",
+        "property": "color",
+        "currentValue": "rgb(133, 133, 133)",
+        "currentHex": "#858585",
+        "againstVariable": "--_colour-ui---transparent",
+        "againstValue": "rgba(255, 255, 255, 0)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 8,
+        "suggestedFix": {
+          "variable": "--_colour-greys---grey-360",
+          "newValue": "color(srgb 0.462 0.462 0.462)",
+          "newHex": "#767676",
+          "contrastRatio": 4.54,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.component-threetabs:nth-of-type(7) > div.bob > div.fivetabs > div.w-tabs > div.fivetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-inline-block.w-tab-link:nth-of-type(2) > div.tabimagetextblock > div.tabtext",
+            "text": "Electronic health record",
+            "xpath": "//*[@id=\"w-tabs-0-data-w-tab-1\"]/div[1]/div[1]"
+          },
+          {
+            "selector": "div.component-threetabs:nth-of-type(7) > div.bob > div.fivetabs > div.w-tabs > div.fivetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-inline-block.w-tab-link:nth-of-type(3) > div.tabimagetextblock > div.tabtext",
+            "text": "Intelligent workflows",
+            "xpath": "//*[@id=\"w-tabs-0-data-w-tab-2\"]/div[1]/div[1]"
+          },
+          {
+            "selector": "div.component-horiztabs:nth-of-type(15) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-variant-3e1061a5-e99f-ce92-d2e8-5074c129d021.w-inline-block.w-tab-link:nth-of-type(2) > div.tabimagetextblock > div.tabtext",
+            "text": "Private practices",
+            "xpath": "//*[@id=\"w-tabs-1-data-w-tab-1\"]/div[1]/div[1]"
+          },
+          {
+            "selector": "div.component-horiztabs:nth-of-type(15) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-variant-3e1061a5-e99f-ce92-d2e8-5074c129d021.w-inline-block.w-tab-link:nth-of-type(2) > div.tabimagetextblock > div.tabtext",
+            "text": "and clinics",
+            "xpath": "//*[@id=\"w-tabs-1-data-w-tab-1\"]/div[1]/div[1]"
+          },
+          {
+            "selector": "div.component-horiztabs:nth-of-type(15) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-variant-3e1061a5-e99f-ce92-d2e8-5074c129d021.w-inline-block.w-tab-link:nth-of-type(3) > div.tabimagetextblock > div.tabtext",
+            "text": "Corporate and",
+            "xpath": "//*[@id=\"w-tabs-1-data-w-tab-2\"]/div[1]/div[1]"
+          },
+          {
+            "selector": "div.component-horiztabs:nth-of-type(15) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-variant-3e1061a5-e99f-ce92-d2e8-5074c129d021.w-inline-block.w-tab-link:nth-of-type(3) > div.tabimagetextblock > div.tabtext",
+            "text": "occupational health",
+            "xpath": "//*[@id=\"w-tabs-1-data-w-tab-2\"]/div[1]/div[1]"
+          },
+          {
+            "selector": "div.component-horiztabs:nth-of-type(15) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-variant-3e1061a5-e99f-ce92-d2e8-5074c129d021.w-inline-block.w-tab-link:nth-of-type(4) > div.tabimagetextblock > div.tabtext",
+            "text": "Enterprise",
+            "xpath": "//*[@id=\"w-tabs-1-data-w-tab-3\"]/div[1]/div[1]"
+          },
+          {
+            "selector": "div.component-horiztabs:nth-of-type(15) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-variant-3e1061a5-e99f-ce92-d2e8-5074c129d021.w-inline-block.w-tab-link:nth-of-type(4) > div.tabimagetextblock > div.tabtext",
+            "text": "groups",
+            "xpath": "//*[@id=\"w-tabs-1-data-w-tab-3\"]/div[1]/div[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--_apps---colors--background",
+        "property": "background-color",
+        "currentValue": "rgb(246, 245, 243)",
+        "currentHex": "#0598ee",
+        "againstVariable": null,
+        "againstValue": "rgb(5, 152, 238)",
+        "againstHex": "#f6f5f3",
+        "contrastRatio": 2.86,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--_apps---colors--background",
+          "newValue": "color(srgb 0.99 0.987 0.979)",
+          "newHex": "#fdfcfa",
+          "contrastRatio": 3.04,
+          "property": "background-color"
+        },
+        "instances": [
+          {
+            "selector": "div.component-horiztabs:nth-of-type(15) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.w-tab-content:nth-of-type(2) > div.tabpane-txtimage.w-variant-3e1061a5-e99f-ce92-d2e8-5074c129d021.w-tab-pane:nth-of-type(3) > div.component-2col-textimage.nomargin > div.textflexdown > div.ratingheading.blue:nth-of-type(5)",
+            "text": "99.99% uptime",
+            "xpath": "//*[@id=\"w-tabs-1-data-w-pane-2\"]/div[1]/div[1]/div[5]"
+          }
+        ]
+      },
+      {
+        "variable": "--_colour-greys---grey-360",
+        "property": "color",
+        "currentValue": "rgb(133, 133, 133)",
+        "currentHex": "#858585",
+        "againstVariable": "--_apps---colors--card",
+        "againstValue": "rgb(255, 255, 255)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 2,
+        "suggestedFix": {
+          "variable": "--_colour-greys---grey-360",
+          "newValue": "color(srgb 0.462 0.462 0.462)",
+          "newHex": "#767676",
+          "contrastRatio": 4.54,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.component-2buttoncta:nth-of-type(19) > div._2buttoncta > div._2buttoncta-internal:nth-of-type(2) > div._2buttoncta-reviews:nth-of-type(3) > div.reviewbrief:nth-of-type(1) > div.reviewtext",
+            "text": "4.5 on Capterra",
+            "xpath": "/html/body/div[19]/div[1]/div[2]/div[3]/div[1]/div[1]"
+          },
+          {
+            "selector": "div.component-2buttoncta:nth-of-type(19) > div._2buttoncta > div._2buttoncta-internal:nth-of-type(2) > div._2buttoncta-reviews:nth-of-type(3) > div.reviewbrief:nth-of-type(2) > div.reviewtext",
+            "text": "4.3 on Google",
+            "xpath": "/html/body/div[19]/div[1]/div[2]/div[3]/div[2]/div[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--smallrounded",
+        "property": "color",
+        "currentValue": "rgb(5, 5, 5)",
+        "currentHex": "#050505",
+        "againstVariable": "--_colour-ui---darkgreybackground",
+        "againstValue": "rgba(56, 56, 56, 0.8)",
+        "againstHex": "#383838",
+        "contrastRatio": 3.24,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--smallrounded",
+          "newValue": "color(srgb 0.857 0.857 0.857)",
+          "newHex": "#dbdbdb",
+          "contrastRatio": 4.54,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.popupvideooverlay:nth-of-type(20) > div.popup-close-overlay:nth-of-type(1)",
+            "text": "x",
+            "xpath": "/html/body/div[20]/div[1]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 435,
+      "passAA": 419,
+      "passAAA": 417,
+      "failAA": 16,
+      "failAAA": 5
+    },
+    "variableStats": {
+      "uniqueIssues": 6,
+      "affectedElements": 16,
+      "oneOffIssues": 0
+    },
+    "healthScore": 96,
+    "scannedAt": "2026-07-24T01:00:42.071Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 16 violation(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/semble-20260724-004953/reports/contrast-checker/www.semble.io.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/semble-20260724-004953/reports/contrast-checker/www.semble.io.json (stdout, non-zero exit)

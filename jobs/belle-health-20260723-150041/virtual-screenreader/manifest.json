@@ -1,0 +1,42 @@
+[
+  {
+    "page": "bellehealth.co",
+    "url": "https://bellehealth.co/",
+    "title": "Belle - Your PMDD Tracker",
+    "report": "bellehealth.co.json",
+    "line_count": 2002,
+    "ok": true
+  },
+  {
+    "page": "bellehealth.co-help-about-belle",
+    "url": "https://bellehealth.co/help/about-belle/",
+    "title": "About Belle - Belle Health",
+    "report": "bellehealth.co-help-about-belle.json",
+    "line_count": 2002,
+    "ok": true
+  },
+  {
+    "page": "bellehealth.co-premenstrual-dysphoric-disorder",
+    "url": "https://bellehealth.co/premenstrual-dysphoric-disorder/",
+    "title": "Premenstrual Dysphoric Disorder (PMDD) - Belle Health",
+    "report": "bellehealth.co-premenstrual-dysphoric-disorder.json",
+    "line_count": 2002,
+    "ok": true
+  },
+  {
+    "page": "bellehealth.co-privacy-policy",
+    "url": "https://bellehealth.co/privacy-policy/",
+    "title": "Privacy Policy - Belle Health",
+    "report": "bellehealth.co-privacy-policy.json",
+    "line_count": 2002,
+    "ok": true
+  },
+  {
+    "page": "bellehealth.co-terms-and-conditions",
+    "url": "https://bellehealth.co/terms-and-conditions/",
+    "title": "Terms and Conditions - Belle Health",
+    "report": "bellehealth.co-terms-and-conditions.json",
+    "line_count": 2002,
+    "ok": true
+  }
+]

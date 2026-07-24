@@ -1,0 +1,28 @@
+[
+  {
+    "tool": "tab-map",
+    "url": "https://www.manual.co/",
+    "landed_url": "https://www.manual.co/",
+    "title": "Manual: Men's Healthcare - Made easy",
+    "page": "www.manual.co",
+    "captured_at": "2026-07-23T19:05:29.798Z",
+    "focusable_count": 58,
+    "frame_count": 6,
+    "same_origin_frame_count": 4,
+    "cross_origin_frame_count": 2,
+    "image": "www.manual.co.png",
+    "preview_image": "www.manual.co.png",
+    "preview_dir": "visual-preview",
+    "json": "www.manual.co.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#onetrust-accept-btn-handler"
+      },
+      {
+        "action": "removed",
+        "detail": "1 overlay(s)"
+      }
+    ]
+  }
+]

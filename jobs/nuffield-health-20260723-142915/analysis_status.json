@@ -1,0 +1,13 @@
+{
+  "job_id": "nuffield-health-20260723-142915",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/nuffield-health-20260723-142915/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/nuffield-health-20260723-142915/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/nuffield-health-20260723-142915/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/nuffield-health-20260723-142915/analysis/accessibility_analysis.xlsx",
+  "violations": 1348,
+  "pages": 5,
+  "screenshots": {
+    "job_id": "nuffield-health-20260723-142915",
+    "message": "Artifacts processed"
+  }
+}

@@ -1,0 +1,276 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-23T15:18:15.598Z
+URL: https://www.getinflow.io/about
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://www.getinflow.io/about --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/inflow-20260723-145941/reports/contrast-checker/www.getinflow.io-about.json
+Exit code: 1
+
+--- STDOUT ---
+ℹ Scanning: https://www.getinflow.io/about
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://www.getinflow.io/about
+[
+  {
+    "url": "https://www.getinflow.io/about",
+    "title": "About us | Inflow",
+    "pairs": [
+      {
+        "text": "About us",
+        "tag": "a",
+        "color": "rgb(137, 176, 174)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(1) > div.navbar-2.w-nav:nth-of-type(1) > div.div-block-23:nth-of-type(1) > nav.nav-menu-3.w-nav-menu > div.div-block-25 > a.navigation-link-2.w--current:nth-of-type(2)",
+        "xpath": "/html/body/div[1]/div[1]/div[1]/nav[1]/div[1]/a[2]",
+        "boundingRect": {
+          "x": 481.8125,
+          "y": 37.75,
+          "width": 70.484375,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--ziggurat",
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 137,
+          "g": 176,
+          "b": 174,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.36,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 87,
+            "g": 125,
+            "b": 123,
+            "a": 1
+          },
+          "hex": "#577d7b",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.16817377857227112
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAAAoCAIAAADrHJoRAAAEl0lEQVR4nOxZWW9bRRQeZ7EdO068xU5jx47TZt9ooQ1LqzYqfeEBiUce4IFfkt/AMxIS4gmQkBACQUmrLqQ0CmRxFtvB8X6deI/35drhs2+zyMs1VVtLVefT1ej4zMyZM985c8b27Tg+PiZvNtrIGw9KAaWAUkAoBYRSQCgFhFJAKAWEUkAoBYRSQF6EgmQ2+/vGus3PkNcczSlgi8V7W+Z7W5vxTOa8PlcorDsdvkiEvALkWTYUj5OWoDkFe37/qv3fVbvd7HKSlqBQLH75y89/Wi2kJWhOgdntkkulgyq12eMmLQH+wii18F+MDv7uRCbjDAbeHxuXibt+21hzh4IGdV/VmNV9+5bblcrmhjSahalpiUjE6RHMR7s7rmAwnkkPKBQzhqFxnY7r+nXtH38s+sXCbe5jLJX64a/lGYNxfmQUwd9wOqC0Mr6vlu5C+GB8YkKnr1qUxwL3EYf3IBYFlf1yxbsjo3qVqtEem2TBViXy8GBMN9AmECAjqgbsej1ml2tKPzigVGx73N8/WcYxJpUKAp/WHPvDWu2tqWkE9afVlc2ToxRPpyOJxKmRYqkUSSbTuRxkkDU1aOD0EPAou7trHeOxgG1/+/BB4Cj23ugYnmQ2893y46N0mjRAkyzAnjW9vSqZDLJJq7UxzJ1ZVthxNgvrfXr9urhTeJWMPLbsLlstjsDh2IBuP3DoCYU+nJm7MjyMYYjPNw/uP9zZmTUO8a9o0mh1StXTPRuMYAPk+YEUSOdzl02my6by0tMGAxOJ9EokjcbzZYE3HIY5+JTKZfGY+rTIbQvjOz/GoFZj/5x8sb8fLVO5I3zhMNrhfu2zZQSCoT4NPIumUuQVA1mj7ZWvORxf31+6u7nuDASwNM94vizg0h4BwXOmdLlmDcaz+e3tp3JnW1lGTqJlK2274Izi9rayXCwWaxdiS3WUz4UqC5/dvLXr9e54PRafD1wgBT6/udAlFNad25CCcsB93gtyxY3JyVPl33a7/fAAkVRIpZzGHQphz9z20IX2gkKJVq9UoRCgd2pw8HSkqLNT3dMDGQJOUDiR4I4YE4nWOlA6LpHG4LGACwVVadpg5JZ+YrOiKsO36ZMS838pQEEGC3MmU1UWwRbq/42JZ7ywbPHHladzxiFPOIRq1yORoP5BjxbO/WHeKBRZ3KmIiS8SRm3nZqE+42sleueMJhyxlXNZBqDWdIvFuEpQjPMFdkCp7JfLq9zjsWDz+3FfWBlmUq/vEoq84RCUfRXq66J9cXGxbsfS1mY6m/3oyttchDn0SqXYZzAef+fipUw+jzjfnpnNFPKPdrb90QhO4Cfz87KuLlI5IKhnh0exDacTBypbKFy7NILLlbOjkctRZewHByA6kkx8fPXapsulUypRd7gBUrF4z89gG2DWpNEou2VV7vFYUMtkKlkPQoXLddvrwQ11Z+6t4RPLtRC8lFcpyJdSqYTkrO1CuoIs6cmXhapZyBGJUFTXJibiZwjSAaWUNF6Xx0K5l2UlIhHhhYC+TaI/likFlAJCKSCUAkIpIJQCQikglAJCKSCUAkIpIJQC4D8AAAD//4V0jEAAAAAGSURBVAMAyR91SxkbOwQAAAAASUVORK5CYII="
+      },
+      {
+        "text": "Filter Icon",
+        "tag": "title",
+        "color": "rgb(85, 85, 85)",
+        "background": "rgb(56, 96, 190)",
+        "selector": "div:nth-of-type(2) > div.otPcCenter.ot-hide.ot-fade-in:nth-of-type(3) > div > section.ot-hide.ot-hosts-ui.ot-pc-scrollbar > div > div.ot-lst-subhdr:nth-of-type(2) > div.ot-fltr-cntr:nth-of-type(2) > button > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"filter-btn-handler\"]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 85,
+          "g": 85,
+          "b": 85,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 56,
+          "g": 96,
+          "b": 190,
+          "a": 1
+        },
+        "contrastRatio": 1.27,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 158,
+            "g": 206,
+            "b": 255,
+            "a": 1
+          },
+          "hex": "#9eceff",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.3481465089931902
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      }
+    ],
+    "violations": [
+      {
+        "text": "About us",
+        "tag": "a",
+        "color": "rgb(137, 176, 174)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(1) > div.navbar-2.w-nav:nth-of-type(1) > div.div-block-23:nth-of-type(1) > nav.nav-menu-3.w-nav-menu > div.div-block-25 > a.navigation-link-2.w--current:nth-of-type(2)",
+        "xpath": "/html/body/div[1]/div[1]/div[1]/nav[1]/div[1]/a[2]",
+        "boundingRect": {
+          "x": 481.8125,
+          "y": 37.75,
+          "width": 70.484375,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--ziggurat",
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 137,
+          "g": 176,
+          "b": 174,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.36,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 87,
+            "g": 125,
+            "b": 123,
+            "a": 1
+          },
+          "hex": "#577d7b",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.16817377857227112
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAAAoCAIAAADrHJoRAAAEl0lEQVR4nOxZWW9bRRQeZ7EdO068xU5jx47TZt9ooQ1LqzYqfeEBiUce4IFfkt/AMxIS4gmQkBACQUmrLqQ0CmRxFtvB8X6deI/35drhs2+zyMs1VVtLVefT1ej4zMyZM985c8b27Tg+PiZvNtrIGw9KAaWAUkAoBYRSQCgFhFJAKAWEUkAoBYRSQF6EgmQ2+/vGus3PkNcczSlgi8V7W+Z7W5vxTOa8PlcorDsdvkiEvALkWTYUj5OWoDkFe37/qv3fVbvd7HKSlqBQLH75y89/Wi2kJWhOgdntkkulgyq12eMmLQH+wii18F+MDv7uRCbjDAbeHxuXibt+21hzh4IGdV/VmNV9+5bblcrmhjSahalpiUjE6RHMR7s7rmAwnkkPKBQzhqFxnY7r+nXtH38s+sXCbe5jLJX64a/lGYNxfmQUwd9wOqC0Mr6vlu5C+GB8YkKnr1qUxwL3EYf3IBYFlf1yxbsjo3qVqtEem2TBViXy8GBMN9AmECAjqgbsej1ml2tKPzigVGx73N8/WcYxJpUKAp/WHPvDWu2tqWkE9afVlc2ToxRPpyOJxKmRYqkUSSbTuRxkkDU1aOD0EPAou7trHeOxgG1/+/BB4Cj23ugYnmQ2893y46N0mjRAkyzAnjW9vSqZDLJJq7UxzJ1ZVthxNgvrfXr9urhTeJWMPLbsLlstjsDh2IBuP3DoCYU+nJm7MjyMYYjPNw/uP9zZmTUO8a9o0mh1StXTPRuMYAPk+YEUSOdzl02my6by0tMGAxOJ9EokjcbzZYE3HIY5+JTKZfGY+rTIbQvjOz/GoFZj/5x8sb8fLVO5I3zhMNrhfu2zZQSCoT4NPIumUuQVA1mj7ZWvORxf31+6u7nuDASwNM94vizg0h4BwXOmdLlmDcaz+e3tp3JnW1lGTqJlK2274Izi9rayXCwWaxdiS3WUz4UqC5/dvLXr9e54PRafD1wgBT6/udAlFNad25CCcsB93gtyxY3JyVPl33a7/fAAkVRIpZzGHQphz9z20IX2gkKJVq9UoRCgd2pw8HSkqLNT3dMDGQJOUDiR4I4YE4nWOlA6LpHG4LGACwVVadpg5JZ+YrOiKsO36ZMS838pQEEGC3MmU1UWwRbq/42JZ7ywbPHHladzxiFPOIRq1yORoP5BjxbO/WHeKBRZ3KmIiS8SRm3nZqE+42sleueMJhyxlXNZBqDWdIvFuEpQjPMFdkCp7JfLq9zjsWDz+3FfWBlmUq/vEoq84RCUfRXq66J9cXGxbsfS1mY6m/3oyttchDn0SqXYZzAef+fipUw+jzjfnpnNFPKPdrb90QhO4Cfz87KuLlI5IKhnh0exDacTBypbKFy7NILLlbOjkctRZewHByA6kkx8fPXapsulUypRd7gBUrF4z89gG2DWpNEou2VV7vFYUMtkKlkPQoXLddvrwQ11Z+6t4RPLtRC8lFcpyJdSqYTkrO1CuoIs6cmXhapZyBGJUFTXJibiZwjSAaWUNF6Xx0K5l2UlIhHhhYC+TaI/likFlAJCKSCUAkIpIJQCQikglAJCKSCUAkIpIJQC4D8AAAD//4V0jEAAAAAGSURBVAMAyR91SxkbOwQAAAAASUVORK5CYII="
+      },
+      {
+        "text": "Filter Icon",
+        "tag": "title",
+        "color": "rgb(85, 85, 85)",
+        "background": "rgb(56, 96, 190)",
+        "selector": "div:nth-of-type(2) > div.otPcCenter.ot-hide.ot-fade-in:nth-of-type(3) > div > section.ot-hide.ot-hosts-ui.ot-pc-scrollbar > div > div.ot-lst-subhdr:nth-of-type(2) > div.ot-fltr-cntr:nth-of-type(2) > button > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"filter-btn-handler\"]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 85,
+          "g": 85,
+          "b": 85,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 56,
+          "g": 96,
+          "b": 190,
+          "a": 1
+        },
+        "contrastRatio": 1.27,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 158,
+            "g": 206,
+            "b": 255,
+            "a": 1
+          },
+          "hex": "#9eceff",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.3481465089931902
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--ziggurat",
+        "property": "color",
+        "currentValue": "rgb(137, 176, 174)",
+        "currentHex": "#89b0ae",
+        "againstVariable": "--white",
+        "againstValue": "rgb(255, 255, 255)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 2.36,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--ziggurat",
+          "newValue": "color(srgb 0.342 0.489 0.482)",
+          "newHex": "#577d7b",
+          "contrastRatio": 4.54,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.page-wrapper:nth-of-type(1) > div.navbar-2.w-nav:nth-of-type(1) > div.div-block-23:nth-of-type(1) > nav.nav-menu-3.w-nav-menu > div.div-block-25 > a.navigation-link-2.w--current:nth-of-type(2)",
+            "text": "About us",
+            "xpath": "/html/body/div[1]/div[1]/div[1]/nav[1]/div[1]/a[2]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 131,
+      "passAA": 129,
+      "passAAA": 46,
+      "failAA": 2,
+      "failAAA": 2
+    },
+    "variableStats": {
+      "uniqueIssues": 1,
+      "affectedElements": 1,
+      "oneOffIssues": 1
+    },
+    "healthScore": 98,
+    "scannedAt": "2026-07-23T15:18:20.705Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 2 violation(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/inflow-20260723-145941/reports/contrast-checker/www.getinflow.io-about.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/inflow-20260723-145941/reports/contrast-checker/www.getinflow.io-about.json (stdout, non-zero exit)

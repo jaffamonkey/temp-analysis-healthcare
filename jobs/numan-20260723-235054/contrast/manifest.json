@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.numan.com",
+    "title": "Numan | Weight Loss | Blood Tests | Erectile Dysfunction | Hair Loss",
+    "url": "https://www.numan.com",
+    "file": "www.numan.com.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "www.numan.com-weight-loss",
+    "title": "Numan Weight Loss - Weight Loss Injections UK",
+    "url": "https://www.numan.com/weight-loss",
+    "file": "www.numan.com-weight-loss.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "www.numan.com-weight-loss-bmi-bmi-calculator",
+    "title": "BMI Calculator",
+    "url": "https://www.numan.com/weight-loss/bmi/bmi-calculator",
+    "file": "www.numan.com-weight-loss-bmi-bmi-calculator.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "www.numan.com-weight-loss-backed-by-science",
+    "title": "Obesity management: our approach",
+    "url": "https://www.numan.com/weight-loss/backed-by-science",
+    "file": "www.numan.com-weight-loss-backed-by-science.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "www.numan.com-diagnostics",
+    "title": "Blood Test Package | Online Blood Test UK",
+    "url": "https://www.numan.com/diagnostics",
+    "file": "www.numan.com-diagnostics.json",
+    "status": "partial",
+    "source": "stdout"
+  }
+]

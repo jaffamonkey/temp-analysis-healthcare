@@ -1,0 +1,42 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-23T18:10:17.193Z
+URL: https://tympahealth.com/contact/
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://tympahealth.com/contact/ --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/tympahealth-20260723-175834/reports/contrast-checker/tympahealth.com-contact.json
+Exit code: 0
+
+--- STDOUT ---
+ℹ Scanning: https://tympahealth.com/contact/
+ℹ Scanning page 1/1: https://tympahealth.com/contact/
+[
+  {
+    "url": "https://tympahealth.com/contact/",
+    "title": "Contact TympaHealth - Ear & Hearing Health Support",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 65,
+      "passAA": 65,
+      "passAAA": 57,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-07-23T18:10:26.385Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 1 page(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/tympahealth-20260723-175834/reports/contrast-checker/tympahealth.com-contact.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/tympahealth-20260723-175834/reports/contrast-checker/tympahealth.com-contact.json (stdout)
