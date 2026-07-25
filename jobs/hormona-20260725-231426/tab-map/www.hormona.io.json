@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.hormona.io",
+  "landed_url": "https://www.hormona.io/",
+  "title": "Your personalized hormone tracker and health monitoring by Hormona",
+  "page": "www.hormona.io",
+  "captured_at": "2026-07-25T23:29:58.001Z",
+  "focusable_count": 78,
+  "frame_count": 1,
+  "same_origin_frame_count": 0,
+  "cross_origin_frame_count": 1,
+  "image": "www.hormona.io.png",
+  "preview_image": "www.hormona.io.png",
+  "preview_dir": "visual-preview",
+  "json": "www.hormona.io.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Accept"
+    }
+  ]
+}

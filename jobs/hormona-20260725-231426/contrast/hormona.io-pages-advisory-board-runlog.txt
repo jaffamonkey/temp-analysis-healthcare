@@ -1,0 +1,558 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-25T23:31:05.208Z
+URL: http://hormona.io/pages/advisory-board
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck http://hormona.io/pages/advisory-board --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/hormona-20260725-231426/reports/contrast-checker/hormona.io-pages-advisory-board.json
+Exit code: 1
+
+--- STDOUT ---
+ℹ Scanning: http://hormona.io/pages/advisory-board
+ℹ Scanning single page only
+ℹ Scanning page 1/1: http://hormona.io/pages/advisory-board
+[
+  {
+    "url": "http://hormona.io/pages/advisory-board",
+    "title": "Meet the Experts Behind Hormona Our Advisory Board",
+    "pairs": [
+      {
+        "text": "USER ADVISORY BOARD",
+        "tag": "span",
+        "color": "rgb(252, 252, 252)",
+        "background": "rgba(252, 252, 252, 0.12)",
+        "selector": "main.content-for-layout > section.shopify-section.section:nth-of-type(1) > section.33.hero-split-2.hero-split-2--mobile-style-block.section-template--28632806654283__hero_section_3_cust_xCDXaD.section-cust > div.hero-split-2__inner.hero-split-2__inner--media-left > div.hero-split-2__image-wrap.hero-split-2__image-wrap--desktop.mobile-hidden--750:nth-of-type(3) > div.hero-split-2__badge.badge-glass.hero-split-2__badge--desktop > span.hero-split-2__badge-label.b-xs",
+        "xpath": "//*[@id=\"shopify-section-template--28632806654283__hero_section_3_cust_xCDXaD\"]/section[1]/div[1]/div[3]/div[1]/span[1]",
+        "boundingRect": {
+          "x": 98.96875,
+          "y": 103.046875,
+          "width": 147.6875,
+          "height": 18.890625
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color-neutral__100",
+        "fgParsed": {
+          "r": 252,
+          "g": 252,
+          "b": 252,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 252,
+          "g": 252,
+          "b": 252,
+          "a": 0.12
+        },
+        "contrastRatio": 1.03,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.42606890310247947
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKMAAAAiCAIAAAC84v6qAAAQAElEQVR4nKRbaWxc13W+573hcJdIihIXLZREaqEtSpaszZJlR7bkJpZjw3BdJ11iuEWB1miLwC2K9kfSBin8o0DRIGkbJDEQpHHcBJbj2vGSWJJt2ZRl7dRKiRJJcadIkeI6HA457+bc5dx735uhZMOXM2/ect9dznfOd85dGPvRt5/njDHOAvHFxAMWpNM8kEn8pvFP3A4C+uHyL+DigmPCV1Vi6oTJL1PlMgbiAyC+nvhTB9+P+b444F8sB//wmJMTj8Xj+BPDk5x4Tjw3FscHeI53cjxxEvN8PIn5Hv75zBOF4VGULqvgslKbRGPTadGB2WAWf2fTs/iZwUOQnhG/4juDNzGl0/KpyJ6WHQtUn2TJAE6rsQGi3aLNcWp8XHXBF0/EF7OK7L6n3xUtlIlahieBaJmqUNY+g0fRKtlC2TC8mknJczykZlVKy76Id2cFUlzjowSvAZDyF+ilpjwQHfFY1gRzXmTLlvEDElqmjzY3XYDEXV/qX/Xj3II5avviKdq7cGUQeUTNk+1md0icfZEEn+cx3OlllKLnxXILmJeDVx5zepM1f7a7Njehq4xKY+wKhwxCZ9UXzIoOtMEzF3unDjIGB45oG5XhaRaJps8ve4AQ2sCon3MI6k418Lkb91mVF+Z4I0M0kWz4g0yUkxsg74X11L4J0S4BhNUfQhbJSA5aLvJDGDPN3e6lwR8suTNj6fYlxm7XU5O4OWR7EH0CWXpsOu4+Aqer2WqGaEVuzdzB1zn5LMm0B7I0FzLbz7Jg7ZgjxHMLYu4rPFtt2UtTucVR1ou9ciHnJivXVUI0ecA8ZtBmFnQwd40NQXY2D7WX2x5ocPkcMIe6SFUobTNcrlw+yP5xm5s5OdmcWudU7UiC3aYVLOpPnN+Q/4DsebIVyUNa6/kx5wEhZ0QjuisvDa4KAHETBSBBVoJQ8gCm3s/kGAUfMohE1wMKUwTeQFeMzhzzh5AGZQc8klRc4l5nFYVz2+gVfYBkolU5A+Ow2MM1RYxXy0cJh+5ksak5+wWZyNPB1QDUS5AGJ7DhmZ2OhSvkmWdAtfFwNlEw4wpZ85ir/miNUT6AG6v1mIm9FaYYOuvImUAG5U8ATDRtfMHtWDQz6cA/jHio/0SEWlJgzFo7EikvGyVAOI6AjNqYUz7XunR7y86EAxxtzrRzcAB2ZaGsT2ChFJjr61CK6fyuKbMQOXAwjZAWDKY9sjBQ2GqlBfdMPnAcMWGLgw9PnQl48dwHjbinhmKeJlCP5KvkDVnYyxUsZ8AiyswVk+pvVKwWODNQsHGjkptD3eDmN6J2wXWQ5ebSdStkJJQRog0KST7yRDfMqqe+o9ogoAUqlbNMqGOh0rgyVEVcwCK8yRTQWgBUX7TNym9r/RIi4zY4kyatYPZ9izeirYzdU5ogwXaCNma7Zzw2WAEDqRoPe2jusGXEpYd0xqDLXBYHB0WjawBZjdMWbKIw5wjhmkNg87lJO0ph0eAAnDGLMkLu0G0GjcRMuVmYW1u0qZFKlPBJ2+WhjFzJQoudWEaaqZ41kRxNMHvyRGGLHx8zKQ9Ofhyc8CwsYx4WruYV1XgClodEazO78nLYOFvgyFypELFkoE2VWD1zq+P2kfWBPPSqkrItMDzkIFpjYTUkXiXmZkbm2utwEglopMGRmzJmWwk1j2lDlibKVaWOFyMSd1SKxKdFJJFTXho0uGL+SMwgiZkkSehyCgrIpm2kBk45oZaFRK1IiHPuyI+HgjMegpoEauToyJA8hkNURuEsAG5BmdByxt1gAcKqyNy2gCVGDtakbMlujx1KM+3RMudkbYyQd9+MQab7AJKCa8fcNWgKu7mT0V4wEz+Zo0fc7Ssgfe2tNdzKuH0FtGFx5deNYTuqYyXr4s1dowqHn/x2Exe2oTrp3pH2mjxk9REYuIkH9Cykdh90IWzDATvUcM4yGwY81LrwwdqzhkXLhlPsDWFXZpFmEaN26P7Zf/juKz/4t6nEpAH9uW9+57Wf/uDW0ADCs3vf19au31w0r2T01tCpxoPHPnwHc/3VP/97fmGRKb3jyoW3f/HDP3jmL2rv3oSTsFjEUH93+6Uzl09/glVolH2I+drG8woK9n79+VPvvzE2PKiRBtiy58l4Xj6+OzszPTE2MjY0MDo8iP2pWrYKq+jvuU5qLNL80gVl5ZVtLRfq12+91tyUTCaw78tWri1bWIGz6NNTiZ7O1o5rzao7CxZWrVm3qXh+Kc4lD/R2nfjkUGJiAvPX3bVh846HxUwy43ino7X58sUz08nkY099o/n8qY72K0Sr8OAjT7RfvTTQ16VQLCgsvHfHHpzEVpw3MXpreLAvMTmujCyel1e9rK6weD6+ODU50dNxNTE2AkzrJvaoZMGiunWbPj30ZjA7owRYPL/kgUefxiluzJNKTXe1tTSfPTHQ24259z7+TG39esyD9/u7O7rarx5vPIhz4dqVacitWcSs+gDVSFAXl5TZcEg6BLyDgODZl5/6BiL60n98Ozk5sWBR1e7Hnr505tPJsZF5pQt+8uI/TozdMkaC+QuK5n363usXjx9GOCuXrnzg8T9BWbRdOOn7ap1CHOWSBdQ1bJ1JTddt2NZ0+B0yaMgrKGz6+N2Z6WRObn5RaXnN6vV5RcWDPR0jN/tXNWwZ6O0MHIpeVLV0sL8HuxjPzVUuZ3ltPa6OnD3+cSqVzM0rWF5Xn5uXn0hMLKxcvGn77pOfHOrr7sA2rFzT8NjTz/3/Kz9OJtPxeF5/T8f777yGaz5FxSX3bNm1defDHx9861jjga88+WdDv+pLovYDa9h0Hy5F9Ha2YvnKQLHJqB8nGg/4crmmfFH1ijXrL55uxGbkxONrGrYO9HZ0t1/BlY3i0vLV6zZfvXBy/NYQeUC2tHYtLrFU19R1tFzQxOqJ6eo3fv4/uNCBiyvLVtWj5P/3v17EZyj/xoO/aTreiJIrW1S586FHa2rXvvqz/0a1ID8WYm817w0ZDgGcEyCXZnyZ0PpPDr6FJoLnw4P9r/30+4nxUTk6YtoP+9oR+54Kwjy5ZuUP9Xed/+RA/eb71TO5MOTrY8xfuX7ryff2ly6sLiyep1hckbb6RbGODw+2NB2trlmdW1A4lRifmhwvLa8w3hEpAbFEyjGDHPyZX7awu7N1djaFNxKJsQtnjiaTU3h+14ZtZ082IqK4iJScSpw/deTmjd51G7dLHiGaZN7E+Cjael39BuSeocE+fOXBR57EplVULVmx+u7jjQcYM9G++QRyFWn25o0eLCS/AEmOVy5ZMTJ040bP9fRMCmscGezr7WhZvHy1IXBELi+/oPn0kWW19REM1Pl0Knm56Ti+W7mkxh1Z4yIX9mL/z36IQtu4bVfEE5nkGUfEdO/CgY/ts3XCeI0EuGnnQ9gyPRNCSaFi3LD4+CrC8tQyXizmVS6rnZoYxZOYWraMSbx9b+nqhtHBvump8e6WczX1G6XTNmNrcpDAkMNHhwcKi0uwLjSRhVVLmRY2X1i5ZLC/m1sTFydjI8MVVUuxMmv4wJDJkbQl65qYAnq62iqql1LkJRGXU3qLqpagTqtA5GLTMVSazTse2rl736eH30UGUhUxcsn6UkZHZUILYWpiDIFHNzd2a9BVCPRQRfNLwZNkwHh1zarejmuJidHk1CR2RLp2HonLkI1KFyxKjI9ZDaBYEf/Onzq6dPkqsHoa+sRMqEbEHZp9MNiqWIy0AT58e/+OPV/923/53s3+7svnTpw7djiFhiKfP/vCd8Xiq3zt2ME3Lp36GOuu37SjYslyxLti6Uq8/GD/j4UJq/VbcQBcz111z84rJ97H655r53Y+8eedzafFqqqNiOwoYGZ6ShoKQ9ktWbGmqHj++PgILhejn7t4+gizUa846Wy/vHhZ7ZadexMTY0jsPV2taBZoQNPJKVz8JUEIkWEQIJ2oaHl5ZfWO3ftQFCVl5SWlCz947zWjao0H3/yj57555eIpVBRsuhNsiw/6mi33fxlrR7rGJXbkZxGgcC+em59KJoAkg12bxhgCvUxOXnJ2Ale0F1Qsbrt0Gu90Xbu0fO16jGdUz+O5eZsfeARjBrSrisU1xw7/dlw4R6DAlwDnHHV647YHtEmaMQiFlZGZE/cCcI0cq5manORKBYDn5Oahj8GryfGRA6///P03/w+ZZNXdm57/1vd+9OLfT0+J2O0X3/9XZHJsgy83CSj2Huy93n3tYn5hMSJ9+oM3kxOjOdI9K6zRsBdU1xTOL0tNTcpQIDY5Nlxde1d/W7PyCF54lIMWiaGACjcG+7rQrMfHRhYsqr518wZSmd4JoW2ao4Nvu3K+9cr5wqJ5aGQ7vrSv8dCbSNfYNXSmM0HaEB3CjNGTmpmbHB+73tqMPZhXUnbp3Im+7utmbI8IIS33dbWDY82SVBBFji78+Edvy/Ajhvq0dsN916+cRS8zk0pis5OJMfNSPJ6LHZhJTeGrFUtXTIwOY5P8WA5yAHqc4vll6IawCvRZ3a2X00GwuKYOg5Jzxz6CkBUC1yMswPBt+OYNol6uv4So59CD8ys1ZnT45vLV65QbxxvVNbWop+OjtzS5oTtKz/Z2tB5+59X2K+fqN2zT7C2J21eTIjGMq5GFYXx4YLCrtbvl7NG3X971xLP5BYVys4mgbgV17T07Z1PT63btu3vnV+rv2+v7OUvXbjR+2h2wYf55pQsTiLQU8dCN7qL5Zbm5eeVI3X2dxrYYMwcuN18EoyNDbS3nhwb7K6qXpaanphIT5YsqDVPgb2X1spsDfQrP5NTEjd7O3u62Q2//qr7h3srqGggNsJkcSiiCdWxagE1um6enEbRbg8jbeD45dgu5mpnxFwvQfSTGR4TlAKtavhoxXtWwdc2G7Ws33odOYcXaDWpiCiOsGz2d/V3txw6/i+ebdjxE+DiOV7ZtbcO93R2tFHYBc2ZamJiUshi7OIvUcu5Ew9ZdGErgeUl5xfbdj14+ewIbiQg+9PjX0ECUUDAmWrl2w9BAjydXJwTQOL/pA+0f8mUIiYYq/PHErcG+tkt3b98jYZZu2o+hCBZULT/6xktNB37ZdOjVcx/8+uz7+1OJibKqZdoHiVkXccwrLKpdt234RrcYukihpYM0gl1bfw+aGoJn9tYYqGtWimBbDW3zCopwpIBBFpZ5+cKpDVseKJG9wIbWrlm3ZPmqS+eOg+OkMGH5p459sPX+PeQPHcrUflTrElUrMFaX2LV5JeUIJ172d7aUV9WUlldK/NBtly6pW9fbdgkvyxYtnhgdunjs0PmjB5qO/O7MR+8c/e1+tPLc3HxnyC7SyY9+t37bLrQTZ5wvGpWfX7jnsWeQEjAUB2YmfkLJjLLATNmZaZQzjQfx5T/8yxdQxdBJtFw4feD1l1U/J8dH//iv/wlxQgjxxQ/f+mVfZ5saEnz9b76FFqRa0dt++chvXpY7vTxhwzJ2az52YO+fvtB58XgqOSn0wPNWNGzvvXrWeNn3GwAABxNJREFUYwHIAtXSR3/bhcWrNowN9WGF9dsfUQiiqY0O9Q/0XhfBEq1pIIFXLlnZ2XbZLP6b0JvLYei6jTtoJxe/2nwGB7n4tK+7HeNjHDcjf2Az8OaBt15JTSdtiIPKFYgTJP+GjTtqVq7pam8JDVwsZdiQG5Vp64NfVeqAchjobR8fGcT+TCcmrjYdWVLXsLj2boxjZmdS7RdP4lBCUPeyuu6r5zA3EENg1NnfcXX5moau1mZTE5Y4NjJ07WLT5l17D7/7a7z1pUef2vHwPi49dHfHtVde+s+ZmWlmJrWMM1a8+JPv/J2ejKcdcoHeG8gD2h0YzytAcwnUc66nGfGVeDyOzItMSJPVTE9yidku0OG3IG81mgLtltWJ/FOb8PQsqPbcMRCXPuj79iN3yPhMLH0JHPDDnajEzkuZjXM8ULzNuV66mUmlxG7AdFp1Tm0lxCrF/dlZsfVO3tEbImnToAJSh0DAnMk+T3kp5ZVVwKFiTBltxlSwqSYDwUTJeCk5WRYcmD2N4m82rXYDip2L4jsjdxHO0EZBeSetdjWqjZxiZ2PabG7kdr9mZopl3gJj2aB/Mcpgjm/nRHA4nE/DjBz2MrUApVGUeGMnY3qC2/P1ANtOeWs5yQu96OHpV/VaJuhFTBONMYc5tT2BnQ5yjMzOO3PaKyolG3DGwxPfIqHkZGdD06HcVkjbQ+3gQy8kgFOPpGuQOz6F1MQgS3A42jkG52mGOilCIpB5ZgOpmCDfUptymXzgen1wxugRDo9gBWpIx1x4OKfp1+gcWZYS3DjcrpaoNjEakYEZpJh1Kk/D7GnofKBJFGntvoZZPaeRuF7CNDCT7qg1ahrLa0lzC7PqhyaaELZEPJy70xoupzE9TiFrpSUcIm8Jt62CYFbNCYPNJMDcU3g7H4ki92X4xpjj5WmlSXl35G3MEEDIF6hdHToUgEizacDMmDs4VkIiCmNmr4D4xpjrmXkUbvcumFMbDZDia1QUc+uZkwjMevQslzF8nUktTGvI7YneduQxirztLB4lMzWScdesMQTM+Bp3TiMj2cCeoj+hsRwCLS2mFtqNkMBUDQqJQGKpzFqi5hmkDWoeyQ3skjQ3thtoPRVxQdiyqVKDCJjomVPjNbURuhzM8MqVWSzSZ84dxqLs2qRZCHCK4gE00B6ZNRiYnfEWwayp23PNmjag6NVpPflpGQMAHBFZvxxG2Zgwd9SAO8uHug88C95g5oN1zXbjFzC9W8rMQ1isgFmbZtaOA9nsgJpqKgyUTjmtoKAdZ1RARmQmqLSUTDwE4ekOt/Xa1ZIdmhqoc2CQhqzKbkEGZnYC0m4Grg2NnBsj7qaD2Uikoq4QzPSlrSYab+kE5D0XZmNH4HSclNKFkGSnUDaMTkMu97EuDkxXdD+UooOcjWAc7LYTriXo8DZYdyDsW7tqiUjAjdsVJh4I1D23SqIKruZbAl0Ht/riOGmeAW34jkO7CiDa7xN6J7ufhqy37E5AmwVMJKPWXYy3NhiavQZqDpxCMztXLjNKxvTMdhMZWoOlKrI5ZWNWgd1QhBupE8SOtyZRRvvkkrLjJMDppVOhBt6BWfwGZHJmYM0M5DLS8rTRE9JaZbX5qmMgJ0ptIOZSv9l8CK77iHaF0TYTgir8MJYFzztcATO7Yey4XJ/Svk+9vUQg6OlNBT7tL/AIZp+CdTly8cJbTNyPxthI3WlX6FfzNkFO6IamzFhW9tZlgnVXoKM1rkyeWyGoQIloBsisA2lJAeFCJq6ABxmsmfDPtFnyNuchI2Z2XMfD2PBQl6ndwF1/q5tv2YsGSnPE3mEpsOweApgNZByX6iRywmBQdiib3LsJ6OQLjHnhWTxmGdNWzalVhkJNzxSoZlhNt5y3HT9J1sz0tm5dKIT6zaN950wPurjJ4fBHoEGxsbd6yWNhJTUqaNG1A3ebiYyb/NYcyDghGufGvTh4fRakM8sG4lTNRRTwg/XbZjSsFq3VRCkw2ubNlPHrXzAjKqI3ExDTIhqPaJzFVdtYpqWSAliDdsfTTgRjvLDZaceiAY4bI9iygYVyu2MkpvbY6MzakasCbXFaT7lVB2cYrTNQZ7LYN2T22W22e5PBHP9ryaL+nF7Ils2ADK6Vs6iVs4yT6F2Ht40/Mp6TZXTAJkvIOg6bk6Xv0COwJ8B0P0KycFrGmLW2UMzsXPJsl4zGV05Tzeu6NMesOWcmirtd201DsyCHc23eHd5lGXw9Z46QTJyg3DhfcHgeSJZWIagQcH5DYM+ReNZ7EfObC3XIeot012nEbep1IeHWNXBmtM2JCt3StJbQJAdzrZkUIlLX50+CzXHyf8pjXyBB5ARCX+cmARmyiLDtOkVBqMDoWZbEb/+I3za3U4f22dnRZ3doxBx1Gta1wPNI3s8O5GdsQCShXywoKPo9AAAA//+JoMdaAAAABklEQVQDAJ05bb9Zfzf/AAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "USER ADVISORY BOARD",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(209, 199, 193, 0.44)",
+        "selector": "main.content-for-layout > div.shopify-section:nth-of-type(1) > section.cta-banner.section-template--28632806654283__cta_banner_cust_nh7Ema.section-cust > div.cta-banner__inner:nth-of-type(2) > div.cta-banner__plate > div.cta-banner__badge-row.cta-banner__badge-row--overlap:nth-of-type(1) > div.cta-banner__badge.badge-glass--44.b-s > span",
+        "xpath": "//*[@id=\"shopify-section-template--28632806654283__cta_banner_cust_nh7Ema\"]/section[1]/div[2]/div[1]/div[1]/div[1]/span[1]",
+        "boundingRect": {
+          "x": 568.640625,
+          "y": 1387.9609375,
+          "width": 168.796875,
+          "height": 21.609375
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color-background",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 209,
+          "g": 199,
+          "b": 193,
+          "a": 0.44
+        },
+        "contrastRatio": 1.24,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 103,
+            "g": 103,
+            "b": 103,
+            "a": 1
+          },
+          "hex": "#676767",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.4849999999999999
+        }
+      },
+      {
+        "text": "We are a user-driven company. \nFor real.",
+        "tag": "h2",
+        "color": "rgb(252, 252, 252)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.content-for-layout > div.shopify-section:nth-of-type(1) > section.cta-banner.section-template--28632806654283__cta_banner_cust_nh7Ema.section-cust > div.cta-banner__inner:nth-of-type(2) > div.cta-banner__plate > div.cta-banner__card.cta-banner__card--badge-overlap:nth-of-type(2) > div.cta-banner__card-inner:nth-of-type(2) > h2.cta-banner__title.h-l",
+        "xpath": "//*[@id=\"shopify-section-template--28632806654283__cta_banner_cust_nh7Ema\"]/section[1]/div[2]/div[1]/div[2]/div[2]/h2[1]",
+        "boundingRect": {
+          "x": 309.796875,
+          "y": 1446.546875,
+          "width": 660.40625,
+          "height": 93.59375
+        },
+        "fontSize": "52px",
+        "fontWeight": "300",
+        "isVisible": true,
+        "colorVar": "--color-neutral__100",
+        "bgVar": "--color-background",
+        "fgParsed": {
+          "r": 252,
+          "g": 252,
+          "b": 252,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1.03,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 1
+          },
+          "hex": "#959595",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.3210689031024794
+        }
+      },
+      {
+        "text": "Truly great products are those that solve real problems, which is why we’re committed to continuousl...",
+        "tag": "div",
+        "color": "rgb(252, 252, 252)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.content-for-layout > div.shopify-section:nth-of-type(1) > section.cta-banner.section-template--28632806654283__cta_banner_cust_nh7Ema.section-cust > div.cta-banner__inner:nth-of-type(2) > div.cta-banner__plate > div.cta-banner__card.cta-banner__card--badge-overlap:nth-of-type(2) > div.cta-banner__card-inner:nth-of-type(2) > div.cta-banner__text.b-m",
+        "xpath": "//*[@id=\"shopify-section-template--28632806654283__cta_banner_cust_nh7Ema\"]/section[1]/div[2]/div[1]/div[2]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 334,
+          "y": 1568.9375,
+          "width": 612,
+          "height": 45.34375
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color-neutral__100",
+        "bgVar": "--color-background",
+        "fgParsed": {
+          "r": 252,
+          "g": 252,
+          "b": 252,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1.03,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.42606890310247947
+        }
+      }
+    ],
+    "violations": [
+      {
+        "text": "USER ADVISORY BOARD",
+        "tag": "span",
+        "color": "rgb(252, 252, 252)",
+        "background": "rgba(252, 252, 252, 0.12)",
+        "selector": "main.content-for-layout > section.shopify-section.section:nth-of-type(1) > section.33.hero-split-2.hero-split-2--mobile-style-block.section-template--28632806654283__hero_section_3_cust_xCDXaD.section-cust > div.hero-split-2__inner.hero-split-2__inner--media-left > div.hero-split-2__image-wrap.hero-split-2__image-wrap--desktop.mobile-hidden--750:nth-of-type(3) > div.hero-split-2__badge.badge-glass.hero-split-2__badge--desktop > span.hero-split-2__badge-label.b-xs",
+        "xpath": "//*[@id=\"shopify-section-template--28632806654283__hero_section_3_cust_xCDXaD\"]/section[1]/div[1]/div[3]/div[1]/span[1]",
+        "boundingRect": {
+          "x": 98.96875,
+          "y": 103.046875,
+          "width": 147.6875,
+          "height": 18.890625
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color-neutral__100",
+        "fgParsed": {
+          "r": 252,
+          "g": 252,
+          "b": 252,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 252,
+          "g": 252,
+          "b": 252,
+          "a": 0.12
+        },
+        "contrastRatio": 1.03,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.42606890310247947
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "USER ADVISORY BOARD",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(209, 199, 193, 0.44)",
+        "selector": "main.content-for-layout > div.shopify-section:nth-of-type(1) > section.cta-banner.section-template--28632806654283__cta_banner_cust_nh7Ema.section-cust > div.cta-banner__inner:nth-of-type(2) > div.cta-banner__plate > div.cta-banner__badge-row.cta-banner__badge-row--overlap:nth-of-type(1) > div.cta-banner__badge.badge-glass--44.b-s > span",
+        "xpath": "//*[@id=\"shopify-section-template--28632806654283__cta_banner_cust_nh7Ema\"]/section[1]/div[2]/div[1]/div[1]/div[1]/span[1]",
+        "boundingRect": {
+          "x": 568.640625,
+          "y": 1387.9609375,
+          "width": 168.796875,
+          "height": 21.609375
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color-background",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 209,
+          "g": 199,
+          "b": 193,
+          "a": 0.44
+        },
+        "contrastRatio": 1.24,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 103,
+            "g": 103,
+            "b": 103,
+            "a": 1
+          },
+          "hex": "#676767",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.4849999999999999
+        }
+      },
+      {
+        "text": "We are a user-driven company. \nFor real.",
+        "tag": "h2",
+        "color": "rgb(252, 252, 252)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.content-for-layout > div.shopify-section:nth-of-type(1) > section.cta-banner.section-template--28632806654283__cta_banner_cust_nh7Ema.section-cust > div.cta-banner__inner:nth-of-type(2) > div.cta-banner__plate > div.cta-banner__card.cta-banner__card--badge-overlap:nth-of-type(2) > div.cta-banner__card-inner:nth-of-type(2) > h2.cta-banner__title.h-l",
+        "xpath": "//*[@id=\"shopify-section-template--28632806654283__cta_banner_cust_nh7Ema\"]/section[1]/div[2]/div[1]/div[2]/div[2]/h2[1]",
+        "boundingRect": {
+          "x": 309.796875,
+          "y": 1446.546875,
+          "width": 660.40625,
+          "height": 93.59375
+        },
+        "fontSize": "52px",
+        "fontWeight": "300",
+        "isVisible": true,
+        "colorVar": "--color-neutral__100",
+        "bgVar": "--color-background",
+        "fgParsed": {
+          "r": 252,
+          "g": 252,
+          "b": 252,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1.03,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 1
+          },
+          "hex": "#959595",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.3210689031024794
+        }
+      },
+      {
+        "text": "Truly great products are those that solve real problems, which is why we’re committed to continuousl...",
+        "tag": "div",
+        "color": "rgb(252, 252, 252)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.content-for-layout > div.shopify-section:nth-of-type(1) > section.cta-banner.section-template--28632806654283__cta_banner_cust_nh7Ema.section-cust > div.cta-banner__inner:nth-of-type(2) > div.cta-banner__plate > div.cta-banner__card.cta-banner__card--badge-overlap:nth-of-type(2) > div.cta-banner__card-inner:nth-of-type(2) > div.cta-banner__text.b-m",
+        "xpath": "//*[@id=\"shopify-section-template--28632806654283__cta_banner_cust_nh7Ema\"]/section[1]/div[2]/div[1]/div[2]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 334,
+          "y": 1568.9375,
+          "width": 612,
+          "height": 45.34375
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--color-neutral__100",
+        "bgVar": "--color-background",
+        "fgParsed": {
+          "r": 252,
+          "g": 252,
+          "b": 252,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1.03,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.42606890310247947
+        }
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--color-neutral__100",
+        "property": "color",
+        "currentValue": "rgb(252, 252, 252)",
+        "currentHex": "#fcfcfc",
+        "againstVariable": null,
+        "againstValue": "rgba(252, 252, 252, 0.12)",
+        "againstHex": "#fcfcfc",
+        "contrastRatio": 1.03,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--color-neutral__100",
+          "newValue": "color(srgb 0.462 0.462 0.462)",
+          "newHex": "#767676",
+          "contrastRatio": 4.54,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "main.content-for-layout > section.shopify-section.section:nth-of-type(1) > section.33.hero-split-2.hero-split-2--mobile-style-block.section-template--28632806654283__hero_section_3_cust_xCDXaD.section-cust > div.hero-split-2__inner.hero-split-2__inner--media-left > div.hero-split-2__image-wrap.hero-split-2__image-wrap--desktop.mobile-hidden--750:nth-of-type(3) > div.hero-split-2__badge.badge-glass.hero-split-2__badge--desktop > span.hero-split-2__badge-label.b-xs",
+            "text": "USER ADVISORY BOARD",
+            "xpath": "//*[@id=\"shopify-section-template--28632806654283__hero_section_3_cust_xCDXaD\"]/section[1]/div[1]/div[3]/div[1]/span[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--color-background",
+        "property": "color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#ffffff",
+        "againstVariable": null,
+        "againstValue": "rgba(209, 199, 193, 0.44)",
+        "againstHex": "#d1c7c1",
+        "contrastRatio": 1.24,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--color-background",
+          "newValue": "color(srgb 0.405 0.405 0.405)",
+          "newHex": "#676767",
+          "contrastRatio": 4.57,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "main.content-for-layout > div.shopify-section:nth-of-type(1) > section.cta-banner.section-template--28632806654283__cta_banner_cust_nh7Ema.section-cust > div.cta-banner__inner:nth-of-type(2) > div.cta-banner__plate > div.cta-banner__badge-row.cta-banner__badge-row--overlap:nth-of-type(1) > div.cta-banner__badge.badge-glass--44.b-s > span",
+            "text": "USER ADVISORY BOARD",
+            "xpath": "//*[@id=\"shopify-section-template--28632806654283__cta_banner_cust_nh7Ema\"]/section[1]/div[2]/div[1]/div[1]/div[1]/span[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--color-neutral__100",
+        "property": "color",
+        "currentValue": "rgb(252, 252, 252)",
+        "currentHex": "#fcfcfc",
+        "againstVariable": "--color-background",
+        "againstValue": "rgb(255, 255, 255)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 1.03,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--color-neutral__100",
+          "newValue": "color(srgb 0.585 0.585 0.585)",
+          "newHex": "#959595",
+          "contrastRatio": 3,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "main.content-for-layout > div.shopify-section:nth-of-type(1) > section.cta-banner.section-template--28632806654283__cta_banner_cust_nh7Ema.section-cust > div.cta-banner__inner:nth-of-type(2) > div.cta-banner__plate > div.cta-banner__card.cta-banner__card--badge-overlap:nth-of-type(2) > div.cta-banner__card-inner:nth-of-type(2) > h2.cta-banner__title.h-l",
+            "text": "We are a user-driven company. \nFor real.",
+            "xpath": "//*[@id=\"shopify-section-template--28632806654283__cta_banner_cust_nh7Ema\"]/section[1]/div[2]/div[1]/div[2]/div[2]/h2[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--color-neutral__100",
+        "property": "color",
+        "currentValue": "rgb(252, 252, 252)",
+        "currentHex": "#fcfcfc",
+        "againstVariable": "--color-background",
+        "againstValue": "rgb(255, 255, 255)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 1.03,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--color-neutral__100",
+          "newValue": "color(srgb 0.462 0.462 0.462)",
+          "newHex": "#767676",
+          "contrastRatio": 4.54,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "main.content-for-layout > div.shopify-section:nth-of-type(1) > section.cta-banner.section-template--28632806654283__cta_banner_cust_nh7Ema.section-cust > div.cta-banner__inner:nth-of-type(2) > div.cta-banner__plate > div.cta-banner__card.cta-banner__card--badge-overlap:nth-of-type(2) > div.cta-banner__card-inner:nth-of-type(2) > div.cta-banner__text.b-m",
+            "text": "Truly great products are those that solve real problems, which is why we’re committed to continuousl...",
+            "xpath": "//*[@id=\"shopify-section-template--28632806654283__cta_banner_cust_nh7Ema\"]/section[1]/div[2]/div[1]/div[2]/div[2]/div[1]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 91,
+      "passAA": 87,
+      "passAAA": 80,
+      "failAA": 4,
+      "failAAA": 4
+    },
+    "variableStats": {
+      "uniqueIssues": 4,
+      "affectedElements": 4,
+      "oneOffIssues": 0
+    },
+    "healthScore": 96,
+    "scannedAt": "2026-07-25T23:31:08.642Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 4 violation(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/hormona-20260725-231426/reports/contrast-checker/hormona.io-pages-advisory-board.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/hormona-20260725-231426/reports/contrast-checker/hormona.io-pages-advisory-board.json (stdout, non-zero exit)

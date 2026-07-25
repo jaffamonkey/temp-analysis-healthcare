@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.fertifa.com",
+    "title": "Reproductive Health Benefits for Employers | Fertifa",
+    "url": "https://www.fertifa.com",
+    "file": "www.fertifa.com.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "www.fertifa.com-meet-the-team",
+    "title": "Meet the Team",
+    "url": "https://www.fertifa.com/meet-the-team",
+    "file": "www.fertifa.com-meet-the-team.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "www.fertifa.com-resources",
+    "title": "Resources, toolkits, guides | Fertifa",
+    "url": "https://www.fertifa.com/resources",
+    "file": "www.fertifa.com-resources.json",
+    "status": "ok",
+    "source": "stdout"
+  },
+  {
+    "page": "www.fertifa.com-solutions-who-we-help",
+    "title": "Who We Help",
+    "url": "https://www.fertifa.com/solutions/who-we-help",
+    "file": "www.fertifa.com-solutions-who-we-help.json",
+    "status": "ok",
+    "source": "stdout"
+  },
+  {
+    "page": "www.fertifa.com-get-in-touch",
+    "title": "Get in touch | Fertifa",
+    "url": "https://www.fertifa.com/get-in-touch",
+    "file": "www.fertifa.com-get-in-touch.json",
+    "status": "ok",
+    "source": "stdout"
+  }
+]

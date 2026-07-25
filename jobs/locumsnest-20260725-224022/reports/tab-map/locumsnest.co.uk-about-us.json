@@ -1,0 +1,26 @@
+{
+  "tool": "tab-map",
+  "url": "https://locumsnest.co.uk/about-us",
+  "landed_url": "https://locumsnest.co.uk/about-us",
+  "title": "About Us — Locum's Nest | Your total workforce solution",
+  "page": "locumsnest.co.uk-about-us",
+  "captured_at": "2026-07-25T22:56:57.439Z",
+  "focusable_count": 18,
+  "frame_count": 1,
+  "same_origin_frame_count": 1,
+  "cross_origin_frame_count": 0,
+  "image": "locumsnest.co.uk-about-us.png",
+  "preview_image": "locumsnest.co.uk-about-us.png",
+  "preview_dir": "visual-preview",
+  "json": "locumsnest.co.uk-about-us.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Accept All"
+    },
+    {
+      "action": "removed",
+      "detail": "1 overlay(s)"
+    }
+  ]
+}

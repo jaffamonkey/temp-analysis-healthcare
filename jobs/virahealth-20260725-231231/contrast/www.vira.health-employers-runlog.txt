@@ -1,0 +1,43 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-25T23:24:59.142Z
+URL: https://www.vira.health/employers
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://www.vira.health/employers --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/virahealth-20260725-231231/reports/contrast-checker/www.vira.health-employers.json
+Exit code: 0
+
+--- STDOUT ---
+ℹ Scanning: https://www.vira.health/employers
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://www.vira.health/employers
+[
+  {
+    "url": "https://www.vira.health/employers",
+    "title": "Employers | Vira Health",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 103,
+      "passAA": 103,
+      "passAAA": 101,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-07-25T23:25:03.949Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/virahealth-20260725-231231/reports/contrast-checker/www.vira.health-employers.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/virahealth-20260725-231231/reports/contrast-checker/www.vira.health-employers.json (stdout)

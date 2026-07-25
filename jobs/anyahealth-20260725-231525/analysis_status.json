@@ -1,0 +1,13 @@
+{
+  "job_id": "anyahealth-20260725-231525",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/anyahealth-20260725-231525/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/anyahealth-20260725-231525/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/anyahealth-20260725-231525/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/anyahealth-20260725-231525/analysis/accessibility_analysis.xlsx",
+  "violations": 1043,
+  "pages": 5,
+  "screenshots": {
+    "job_id": "anyahealth-20260725-231525",
+    "message": "Artifacts processed"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://anya.health/about-us/",
+    "title": "About Us - Healthcare Innovators",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 116,
+      "passAA": 116,
+      "passAAA": 114,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-07-25T23:29:06.077Z"
+  }
+]

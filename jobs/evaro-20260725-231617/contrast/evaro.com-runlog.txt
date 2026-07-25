@@ -1,0 +1,43 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-25T23:29:30.825Z
+URL: https://evaro.com
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://evaro.com --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/evaro-20260725-231617/reports/contrast-checker/evaro.com.json
+Exit code: 0
+
+--- STDOUT ---
+ℹ Scanning: https://evaro.com
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://evaro.com
+[
+  {
+    "url": "https://evaro.com",
+    "title": "Evaro - Healthcare Platform Integration",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 159,
+      "passAA": 159,
+      "passAAA": 152,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-07-25T23:29:34.232Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/evaro-20260725-231617/reports/contrast-checker/evaro.com.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/evaro-20260725-231617/reports/contrast-checker/evaro.com.json (stdout)

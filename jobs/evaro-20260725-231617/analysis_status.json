@@ -1,0 +1,13 @@
+{
+  "job_id": "evaro-20260725-231617",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/evaro-20260725-231617/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/evaro-20260725-231617/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/evaro-20260725-231617/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/evaro-20260725-231617/analysis/accessibility_analysis.xlsx",
+  "violations": 609,
+  "pages": 6,
+  "screenshots": {
+    "job_id": "evaro-20260725-231617",
+    "message": "Artifacts processed"
+  }
+}

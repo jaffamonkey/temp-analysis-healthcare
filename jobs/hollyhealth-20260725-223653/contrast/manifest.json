@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.hollyhealth.io",
+    "title": "Holly Health | Home",
+    "url": "https://www.hollyhealth.io/",
+    "file": "www.hollyhealth.io.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "www.hollyhealth.io-about-us",
+    "title": "About Us",
+    "url": "https://www.hollyhealth.io/about-us",
+    "file": "www.hollyhealth.io-about-us.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "www.hollyhealth.io-who-we-support",
+    "title": "Who we support",
+    "url": "https://www.hollyhealth.io/who-we-support",
+    "file": "www.hollyhealth.io-who-we-support.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "www.hollyhealth.io-policy",
+    "title": "Privacy Policy",
+    "url": "https://www.hollyhealth.io/policy",
+    "file": "www.hollyhealth.io-policy.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "www.hollyhealth.io-terms",
+    "title": "Terms of Service",
+    "url": "https://www.hollyhealth.io/terms",
+    "file": "www.hollyhealth.io-terms.json",
+    "status": "partial",
+    "source": "stdout"
+  }
+]

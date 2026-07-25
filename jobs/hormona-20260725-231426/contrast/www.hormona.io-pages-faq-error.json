@@ -1,0 +1,7 @@
+{
+  "tool": "contrast-checker",
+  "url": "https://www.hormona.io/pages/faq",
+  "error": "spawnSync /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck ENOBUFS",
+  "attempt": 2,
+  "scanned_at": "2026-07-25T23:30:54.907Z"
+}

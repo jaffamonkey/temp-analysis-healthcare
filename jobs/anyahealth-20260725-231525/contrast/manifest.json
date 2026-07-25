@@ -1,0 +1,42 @@
+[
+  {
+    "page": "anya.health",
+    "title": "Anya - 24/7 Tailored Healthcare Support.",
+    "url": "https://anya.health/",
+    "file": "anya.health.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "anya.health-about-us",
+    "title": "About Us - Healthcare Innovators",
+    "url": "https://anya.health/about-us/",
+    "file": "anya.health-about-us.json",
+    "status": "ok",
+    "source": "stdout"
+  },
+  {
+    "page": "anya.health-contact-and-support",
+    "title": "Contact And Support - Anya",
+    "url": "https://anya.health/contact-and-support/",
+    "file": "anya.health-contact-and-support.json",
+    "status": "ok",
+    "source": "stdout"
+  },
+  {
+    "page": "anya.health-parenting-support",
+    "title": "NHS-Trusted Parenting Support | 24/7 Expert Guidance and Tools",
+    "url": "https://anya.health/parenting-support/",
+    "file": "anya.health-parenting-support.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "anya.health-privacy-policy",
+    "title": "Privacy Policy - Anya",
+    "url": "https://anya.health/privacy-policy/",
+    "file": "anya.health-privacy-policy.json",
+    "status": "ok",
+    "source": "stdout"
+  }
+]

@@ -1,0 +1,43 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-25T23:26:53.551Z
+URL: https://www.fertifa.com/get-in-touch
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://www.fertifa.com/get-in-touch --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/fertifa-20260725-231100/reports/contrast-checker/www.fertifa.com-get-in-touch.json
+Exit code: 0
+
+--- STDOUT ---
+ℹ Scanning: https://www.fertifa.com/get-in-touch
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://www.fertifa.com/get-in-touch
+[
+  {
+    "url": "https://www.fertifa.com/get-in-touch",
+    "title": "Get in touch | Fertifa",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 162,
+      "passAA": 162,
+      "passAAA": 158,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-07-25T23:26:57.817Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/fertifa-20260725-231100/reports/contrast-checker/www.fertifa.com-get-in-touch.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/fertifa-20260725-231100/reports/contrast-checker/www.fertifa.com-get-in-touch.json (stdout)
