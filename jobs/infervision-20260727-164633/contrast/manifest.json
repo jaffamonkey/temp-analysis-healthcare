@@ -1,0 +1,42 @@
+[
+  {
+    "page": "global.infervision.com",
+    "title": "Infervision - Homepage",
+    "url": "https://global.infervision.com",
+    "file": "global.infervision.com.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "global.infervision.com-products-general",
+    "title": "Infervision - Product Overview",
+    "url": "https://global.infervision.com/products/general",
+    "file": "global.infervision.com-products-general.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "global.infervision.com-products-inferread-ct-lung",
+    "title": "InferRead CT Lung - AI for Lung CT Scans",
+    "url": "https://global.infervision.com/products/inferread-ct-lung",
+    "file": "global.infervision.com-products-inferread-ct-lung.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "global.infervision.com-products-inferread-dr-chest",
+    "title": "InferRead DR Chest - AI for Chest X-ray",
+    "url": "https://global.infervision.com/products/inferread-dr-chest",
+    "file": "global.infervision.com-products-inferread-dr-chest.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "global.infervision.com-about-us",
+    "title": "Infervision - Company | About Us",
+    "url": "https://global.infervision.com/about-us",
+    "file": "global.infervision.com-about-us.json",
+    "status": "partial",
+    "source": "stdout"
+  }
+]
