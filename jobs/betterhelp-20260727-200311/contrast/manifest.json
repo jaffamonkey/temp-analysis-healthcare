@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.betterhelp.com",
+    "title": "BetterHelp | Professional Therapy With A Licensed Therapist",
+    "url": "https://www.betterhelp.com",
+    "file": "www.betterhelp.com.json",
+    "status": "partial",
+    "source": "stdout"
+  },
+  {
+    "page": "www.betterhelp.com-about",
+    "title": "About Us - The Largest Online Therapy Provider | BetterHelp",
+    "url": "https://www.betterhelp.com/about/",
+    "file": "www.betterhelp.com-about.json",
+    "status": "ok",
+    "source": "stdout"
+  },
+  {
+    "page": "www.betterhelp.com-faq",
+    "title": "FAQ - Get Answers To Common Questions About Therapy | BetterHelp",
+    "url": "https://www.betterhelp.com/faq/",
+    "file": "www.betterhelp.com-faq.json",
+    "status": "ok",
+    "source": "stdout"
+  },
+  {
+    "page": "www.betterhelp.com-advice",
+    "title": "Advice | Definitions, Research, Treatment, News, Mental Health Awareness, And Advice",
+    "url": "https://www.betterhelp.com/advice/",
+    "file": "www.betterhelp.com-advice.json",
+    "status": "ok",
+    "source": "stdout"
+  },
+  {
+    "page": "www.betterhelp.com-careers",
+    "title": "Careers | Betterhelp",
+    "url": "https://www.betterhelp.com/careers/",
+    "file": "www.betterhelp.com-careers.json",
+    "status": "partial",
+    "source": "stdout"
+  }
+]

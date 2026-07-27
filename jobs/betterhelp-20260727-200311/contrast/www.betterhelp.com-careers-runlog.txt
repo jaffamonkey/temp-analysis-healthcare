@@ -1,0 +1,238 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-27T20:13:00.152Z
+URL: https://www.betterhelp.com/careers/
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://www.betterhelp.com/careers/ --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/betterhelp-20260727-200311/reports/contrast-checker/www.betterhelp.com-careers.json
+Exit code: 1
+
+--- STDOUT ---
+ℹ Scanning: https://www.betterhelp.com/careers/
+ℹ Scanning page 1/1: https://www.betterhelp.com/careers/
+[
+  {
+    "url": "https://www.betterhelp.com/careers/",
+    "title": "Careers | Betterhelp",
+    "pairs": [
+      {
+        "text": "Team Stories",
+        "tag": "label",
+        "color": "rgb(68, 68, 68)",
+        "background": "rgb(50, 83, 67)",
+        "selector": "#react-aria-«Rj1damH1»",
+        "xpath": "//*[@id=\"react-aria-«Rj1damH1»\"]",
+        "boundingRect": {
+          "x": 23,
+          "y": 2995.875,
+          "width": 1,
+          "height": 1
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 68,
+          "g": 68,
+          "b": 68,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 50,
+          "g": 83,
+          "b": 67,
+          "a": 1
+        },
+        "contrastRatio": 1.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 185,
+            "b": 167,
+            "a": 1
+          },
+          "hex": "#95b9a7",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.3434796166917364
+        }
+      },
+      {
+        "text": "Slide 1 of 3",
+        "tag": "span",
+        "color": "rgb(68, 68, 68)",
+        "background": "rgb(50, 83, 67)",
+        "selector": "div:nth-of-type(1) > div.theme-betterhelp_two.user-logged_out_user > main.content-wrapper.flex.justify-center.bh2:!mt-[unset] > div.w-full.antialiased.theme-betterhelp_two--logged-out > div.bg-site-green-700:nth-of-type(7) > div.pt-8.pb-28:nth-of-type(1) > div.px-6 > span.sr-only",
+        "xpath": "//*[@id=\"main-content\"]/div[1]/div[7]/div[1]/div[1]/span[1]",
+        "boundingRect": {
+          "x": 23,
+          "y": 2995.875,
+          "width": 1,
+          "height": 1
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 68,
+          "g": 68,
+          "b": 68,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 50,
+          "g": 83,
+          "b": 67,
+          "a": 1
+        },
+        "contrastRatio": 1.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 185,
+            "b": 167,
+            "a": 1
+          },
+          "hex": "#95b9a7",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.3434796166917364
+        }
+      }
+    ],
+    "violations": [
+      {
+        "text": "Team Stories",
+        "tag": "label",
+        "color": "rgb(68, 68, 68)",
+        "background": "rgb(50, 83, 67)",
+        "selector": "#react-aria-«Rj1damH1»",
+        "xpath": "//*[@id=\"react-aria-«Rj1damH1»\"]",
+        "boundingRect": {
+          "x": 23,
+          "y": 2995.875,
+          "width": 1,
+          "height": 1
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 68,
+          "g": 68,
+          "b": 68,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 50,
+          "g": 83,
+          "b": 67,
+          "a": 1
+        },
+        "contrastRatio": 1.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 185,
+            "b": 167,
+            "a": 1
+          },
+          "hex": "#95b9a7",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.3434796166917364
+        }
+      },
+      {
+        "text": "Slide 1 of 3",
+        "tag": "span",
+        "color": "rgb(68, 68, 68)",
+        "background": "rgb(50, 83, 67)",
+        "selector": "div:nth-of-type(1) > div.theme-betterhelp_two.user-logged_out_user > main.content-wrapper.flex.justify-center.bh2:!mt-[unset] > div.w-full.antialiased.theme-betterhelp_two--logged-out > div.bg-site-green-700:nth-of-type(7) > div.pt-8.pb-28:nth-of-type(1) > div.px-6 > span.sr-only",
+        "xpath": "//*[@id=\"main-content\"]/div[1]/div[7]/div[1]/div[1]/span[1]",
+        "boundingRect": {
+          "x": 23,
+          "y": 2995.875,
+          "width": 1,
+          "height": 1
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 68,
+          "g": 68,
+          "b": 68,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 50,
+          "g": 83,
+          "b": 67,
+          "a": 1
+        },
+        "contrastRatio": 1.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 185,
+            "b": 167,
+            "a": 1
+          },
+          "hex": "#95b9a7",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.3434796166917364
+        }
+      }
+    ],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 142,
+      "passAA": 140,
+      "passAAA": 109,
+      "failAA": 2,
+      "failAAA": 2
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 2
+    },
+    "healthScore": 99,
+    "scannedAt": "2026-07-27T20:13:03.767Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 1 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 2 violation(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/betterhelp-20260727-200311/reports/contrast-checker/www.betterhelp.com-careers.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/betterhelp-20260727-200311/reports/contrast-checker/www.betterhelp.com-careers.json (stdout, non-zero exit)

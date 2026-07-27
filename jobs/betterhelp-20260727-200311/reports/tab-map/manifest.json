@@ -1,0 +1,112 @@
+[
+  {
+    "tool": "tab-map",
+    "url": "https://www.betterhelp.com",
+    "landed_url": "https://www.betterhelp.com/",
+    "title": "BetterHelp | Professional Therapy With A Licensed Therapist",
+    "page": "www.betterhelp.com",
+    "captured_at": "2026-07-27T20:12:22.725Z",
+    "focusable_count": 60,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "www.betterhelp.com.png",
+    "preview_image": "www.betterhelp.com.png",
+    "preview_dir": "visual-preview",
+    "json": "www.betterhelp.com.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.betterhelp.com/about/",
+    "landed_url": "https://www.betterhelp.com/about/",
+    "title": "About Us - The Largest Online Therapy Provider | BetterHelp",
+    "page": "www.betterhelp.com-about",
+    "captured_at": "2026-07-27T20:12:27.780Z",
+    "focusable_count": 42,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "www.betterhelp.com-about.png",
+    "preview_image": "www.betterhelp.com-about.png",
+    "preview_dir": "visual-preview",
+    "json": "www.betterhelp.com-about.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.betterhelp.com/faq/",
+    "landed_url": "https://www.betterhelp.com/faq/",
+    "title": "FAQ - Get Answers To Common Questions About Therapy | BetterHelp",
+    "page": "www.betterhelp.com-faq",
+    "captured_at": "2026-07-27T20:12:32.936Z",
+    "focusable_count": 56,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "www.betterhelp.com-faq.png",
+    "preview_image": "www.betterhelp.com-faq.png",
+    "preview_dir": "visual-preview",
+    "json": "www.betterhelp.com-faq.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.betterhelp.com/advice/",
+    "landed_url": "https://www.betterhelp.com/advice/",
+    "title": "Advice | Definitions, Research, Treatment, News, Mental Health Awareness, And Advice",
+    "page": "www.betterhelp.com-advice",
+    "captured_at": "2026-07-27T20:12:38.392Z",
+    "focusable_count": 111,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "www.betterhelp.com-advice.png",
+    "preview_image": "www.betterhelp.com-advice.png",
+    "preview_dir": "visual-preview",
+    "json": "www.betterhelp.com-advice.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.betterhelp.com/careers/",
+    "landed_url": "https://www.betterhelp.com/careers/",
+    "title": "Careers | Betterhelp",
+    "page": "www.betterhelp.com-careers",
+    "captured_at": "2026-07-27T20:12:43.916Z",
+    "focusable_count": 63,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "www.betterhelp.com-careers.png",
+    "preview_image": "www.betterhelp.com-careers.png",
+    "preview_dir": "visual-preview",
+    "json": "www.betterhelp.com-careers.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      }
+    ]
+  }
+]
