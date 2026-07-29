@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.heidihealth.com-en-gb",
+    "url": "https://www.heidihealth.com/en-gb",
+    "title": "Heidi | Your AI Care Partner for Modern Clinical Practice",
+    "report": "www.heidihealth.com-en-gb.json",
+    "line_count": 533,
+    "ok": true
+  },
+  {
+    "page": "www.heidihealth.com-en-gb-solutions-primary-care",
+    "url": "https://www.heidihealth.com/en-gb/solutions/primary-care",
+    "title": "Primary Care | Heidi",
+    "report": "www.heidihealth.com-en-gb-solutions-primary-care.json",
+    "line_count": 569,
+    "ok": true
+  },
+  {
+    "page": "www.heidihealth.com-en-gb-solutions-medical-specialties",
+    "url": "https://www.heidihealth.com/en-gb/solutions/medical-specialties",
+    "title": "Best AI Care Partner for Medical Specialists - Heidi",
+    "report": "www.heidihealth.com-en-gb-solutions-medical-specialties.json",
+    "line_count": 617,
+    "ok": true
+  },
+  {
+    "page": "www.heidihealth.com-en-gb-solutions-nurses",
+    "url": "https://www.heidihealth.com/en-gb/solutions/nurses",
+    "title": "Heidi for Nurses | Heidi",
+    "report": "www.heidihealth.com-en-gb-solutions-nurses.json",
+    "line_count": 638,
+    "ok": true
+  },
+  {
+    "page": "www.heidihealth.com-en-gb-contact",
+    "url": "https://www.heidihealth.com/en-gb/contact",
+    "title": "Contact Heidi Health Customer Support | Global",
+    "report": "www.heidihealth.com-en-gb-contact.json",
+    "line_count": 424,
+    "ok": true
+  }
+]
