@@ -1,0 +1,123 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-30T03:22:50.030Z
+URL: https://tandemhealth.ai/contact-us
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://tandemhealth.ai/contact-us --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/tandemhealth-20260730-025923/reports/contrast-checker/tandemhealth.ai-contact-us.json
+Exit code: 1
+
+--- STDOUT ---
+ℹ Scanning: https://tandemhealth.ai/contact-us
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://tandemhealth.ai/contact-us
+[
+  {
+    "url": "https://tandemhealth.ai/contact-us",
+    "title": "Contact Tandem Health | Get in touch",
+    "pairs": [
+      {
+        "text": "Choose country...",
+        "tag": "option",
+        "color": "rgba(0, 0, 0, 0.4)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(1) > div.framer-dLWru.framer-CT7wI.framer-YzgGb.framer-zAtKa.framer-7mwNO.framer-NScr6.framer-yvuw0p:nth-of-type(1) > div.framer-1td4zb6:nth-of-type(2) > div.framer-9l1m21:nth-of-type(2) > div.framer-ztvz5 > form.framer-hmggli > div.framer-8xs0qq:nth-of-type(3) > label.framer-p0s56j:nth-of-type(2) > div.ssr-variant.hidden-cr3s17.hidden-1418bjy:nth-of-type(2) > div.framer-form-input-wrapper.framer-form-select-wrapper.framer-1ummhny > select.framer-form-input > option:nth-of-type(1)",
+        "xpath": "//*[@id=\"main\"]/div[1]/div[2]/div[2]/div[1]/form[1]/div[3]/label[2]/div[2]/div[1]/select[1]/option[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0.4
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.85,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": null,
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLsQkAAAwCMCn9/1+dvMFRMHteIhKH0MJCTzAAAAD//xb2sAQAAAAGSURBVAMALb4DEB1gjDAAAAAASUVORK5CYII="
+      }
+    ],
+    "violations": [
+      {
+        "text": "Choose country...",
+        "tag": "option",
+        "color": "rgba(0, 0, 0, 0.4)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(1) > div.framer-dLWru.framer-CT7wI.framer-YzgGb.framer-zAtKa.framer-7mwNO.framer-NScr6.framer-yvuw0p:nth-of-type(1) > div.framer-1td4zb6:nth-of-type(2) > div.framer-9l1m21:nth-of-type(2) > div.framer-ztvz5 > form.framer-hmggli > div.framer-8xs0qq:nth-of-type(3) > label.framer-p0s56j:nth-of-type(2) > div.ssr-variant.hidden-cr3s17.hidden-1418bjy:nth-of-type(2) > div.framer-form-input-wrapper.framer-form-select-wrapper.framer-1ummhny > select.framer-form-input > option:nth-of-type(1)",
+        "xpath": "//*[@id=\"main\"]/div[1]/div[2]/div[2]/div[1]/form[1]/div[3]/label[2]/div[2]/div[1]/select[1]/option[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0.4
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.85,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": null,
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLsQkAAAwCMCn9/1+dvMFRMHteIhKH0MJCTzAAAAD//xb2sAQAAAAGSURBVAMALb4DEB1gjDAAAAAASUVORK5CYII="
+      }
+    ],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 94,
+      "passAA": 93,
+      "passAAA": 93,
+      "failAA": 1,
+      "failAAA": 1
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 1
+    },
+    "healthScore": 99,
+    "scannedAt": "2026-07-30T03:22:53.703Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 1 violation(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/tandemhealth-20260730-025923/reports/contrast-checker/tandemhealth.ai-contact-us.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/tandemhealth-20260730-025923/reports/contrast-checker/tandemhealth.ai-contact-us.json (stdout, non-zero exit)

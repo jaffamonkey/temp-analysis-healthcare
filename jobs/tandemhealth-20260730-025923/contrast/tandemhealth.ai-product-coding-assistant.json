@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://tandemhealth.ai/product/coding-assistant",
+    "title": "Coding Assistant for Snomed CT, ICD-10, KVÅ, ICPC-2 | Tandem Health",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 157,
+      "passAA": 157,
+      "passAAA": 157,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-07-30T03:22:44.113Z"
+  }
+]

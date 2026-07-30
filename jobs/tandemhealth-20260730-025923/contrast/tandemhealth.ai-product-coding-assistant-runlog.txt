@@ -1,0 +1,43 @@
+
+=== Attempt 1 of 2 ===
+Started: 2026-07-30T03:22:39.922Z
+URL: https://tandemhealth.ai/product/coding-assistant
+Command: /Users/user/code/systemic-accessibility-analyzer/tools/tool_runners/contrast_checker/node_modules/.bin/contrastcheck https://tandemhealth.ai/product/coding-assistant --json --output /Users/user/code/systemic-accessibility-analyzer/tools/jobs/tandemhealth-20260730-025923/reports/contrast-checker/tandemhealth.ai-product-coding-assistant.json
+Exit code: 0
+
+--- STDOUT ---
+ℹ Scanning: https://tandemhealth.ai/product/coding-assistant
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://tandemhealth.ai/product/coding-assistant
+[
+  {
+    "url": "https://tandemhealth.ai/product/coding-assistant",
+    "title": "Coding Assistant for Snomed CT, ICD-10, KVÅ, ICPC-2 | Tandem Health",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 157,
+      "passAA": 157,
+      "passAAA": 157,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-07-30T03:22:44.113Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+
+Parsed JSON from stdout and wrote file: /Users/user/code/systemic-accessibility-analyzer/tools/jobs/tandemhealth-20260730-025923/reports/contrast-checker/tandemhealth.ai-product-coding-assistant.json
+Success: saved /Users/user/code/systemic-accessibility-analyzer/tools/jobs/tandemhealth-20260730-025923/reports/contrast-checker/tandemhealth.ai-product-coding-assistant.json (stdout)
