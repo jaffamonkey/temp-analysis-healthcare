@@ -1,0 +1,36 @@
+Starting contrast check for https://www.healthhero.com/privacy-policy
+
+--- STDOUT ---
+ℹ Scanning: https://www.healthhero.com/privacy-policy
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://www.healthhero.com/privacy-policy
+[
+  {
+    "url": "https://www.healthhero.com/privacy-policy",
+    "title": "GP Privacy Policy - HealthHero",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 201,
+      "passAA": 201,
+      "passAAA": 177,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-08-03T21:52:49.511Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 2 page(s)
+

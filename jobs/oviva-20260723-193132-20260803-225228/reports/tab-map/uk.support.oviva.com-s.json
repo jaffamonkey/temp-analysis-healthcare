@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://uk.support.oviva.com/s/",
+  "landed_url": "https://uk.support.oviva.com/s/",
+  "title": "Home",
+  "page": "uk.support.oviva.com-s",
+  "captured_at": "2026-08-03T22:55:55.701Z",
+  "focusable_count": 3,
+  "frame_count": 4,
+  "same_origin_frame_count": 1,
+  "cross_origin_frame_count": 3,
+  "image": "uk.support.oviva.com-s.png",
+  "preview_image": "uk.support.oviva.com-s.png",
+  "preview_dir": "visual-preview",
+  "json": "uk.support.oviva.com-s.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Accept All"
+    }
+  ]
+}

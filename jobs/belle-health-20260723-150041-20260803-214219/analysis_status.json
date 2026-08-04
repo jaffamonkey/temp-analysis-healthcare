@@ -1,0 +1,13 @@
+{
+  "job_id": "belle-health-20260723-150041-20260803-214219",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/belle-health-20260723-150041-20260803-214219/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/belle-health-20260723-150041-20260803-214219/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/belle-health-20260723-150041-20260803-214219/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/belle-health-20260723-150041-20260803-214219/analysis/accessibility_analysis.xlsx",
+  "violations": 721,
+  "pages": 5,
+  "screenshots": {
+    "job_id": "belle-health-20260723-150041-20260803-214219",
+    "message": "Artifacts processed"
+  }
+}

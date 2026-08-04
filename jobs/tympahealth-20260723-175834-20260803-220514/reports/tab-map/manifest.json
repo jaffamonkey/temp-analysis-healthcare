@@ -1,0 +1,106 @@
+[
+  {
+    "tool": "tab-map",
+    "url": "https://tympahealth.com/about-us/",
+    "landed_url": "https://tympahealth.com/about-us/",
+    "title": "About TympaHealth | Ear & Hearing Health Innovation",
+    "page": "tympahealth.com-about-us",
+    "captured_at": "2026-08-03T22:09:57.449Z",
+    "focusable_count": 36,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "tympahealth.com-about-us.png",
+    "preview_image": "tympahealth.com-about-us.png",
+    "preview_dir": "visual-preview",
+    "json": "tympahealth.com-about-us.json",
+    "consent_actions": [
+      {
+        "action": "removed",
+        "detail": "1 overlay(s)"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://tympahealth.com/",
+    "landed_url": "https://tympahealth.com/",
+    "title": "TympaHealth: Making Ear and Hearing Healthcare Accessible to All",
+    "page": "tympahealth.com",
+    "captured_at": "2026-08-03T22:09:57.457Z",
+    "focusable_count": 60,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "tympahealth.com.png",
+    "preview_image": "tympahealth.com.png",
+    "preview_dir": "visual-preview",
+    "json": "tympahealth.com.json",
+    "consent_actions": [
+      {
+        "action": "removed",
+        "detail": "1 overlay(s)"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://tympahealth.com/system/",
+    "landed_url": "https://tympahealth.com/system/",
+    "title": "Access Restricted | Shield Security PRO",
+    "page": "tympahealth.com-system",
+    "captured_at": "2026-08-03T22:10:17.886Z",
+    "focusable_count": 1,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "tympahealth.com-system.png",
+    "preview_image": "tympahealth.com-system.png",
+    "preview_dir": "visual-preview",
+    "json": "tympahealth.com-system.json",
+    "consent_actions": []
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://tympahealth.com/contact/",
+    "landed_url": "https://tympahealth.com/contact/",
+    "title": "Contact TympaHealth - Ear & Hearing Health Support",
+    "page": "tympahealth.com-contact",
+    "captured_at": "2026-08-03T22:10:17.887Z",
+    "focusable_count": 36,
+    "frame_count": 3,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 3,
+    "image": "tympahealth.com-contact.png",
+    "preview_image": "tympahealth.com-contact.png",
+    "preview_dir": "visual-preview",
+    "json": "tympahealth.com-contact.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      },
+      {
+        "action": "removed",
+        "detail": "1 overlay(s)"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://tympahealth.com/privacy-policy/",
+    "landed_url": "https://tympahealth.com/privacy-policy/",
+    "title": "",
+    "page": "tympahealth.com-privacy-policy",
+    "captured_at": "2026-08-03T22:10:26.118Z",
+    "focusable_count": 0,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "tympahealth.com-privacy-policy.png",
+    "preview_image": "tympahealth.com-privacy-policy.png",
+    "preview_dir": "visual-preview",
+    "json": "tympahealth.com-privacy-policy.json",
+    "consent_actions": []
+  }
+]

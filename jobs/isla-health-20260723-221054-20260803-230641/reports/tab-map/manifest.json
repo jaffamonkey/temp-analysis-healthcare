@@ -1,0 +1,53 @@
+[
+  {
+    "tool": "tab-map",
+    "url": "https://isla.health/",
+    "landed_url": "https://isla.health/",
+    "title": "Isla Health | Digital Pathway Platform | Class 1 Medical Device",
+    "page": "isla.health",
+    "captured_at": "2026-08-03T23:09:11.411Z",
+    "focusable_count": 30,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "isla.health.png",
+    "preview_image": "isla.health.png",
+    "preview_dir": "visual-preview",
+    "json": "isla.health.json",
+    "consent_actions": []
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://isla.health/about-us/",
+    "landed_url": "https://isla.health/about-us/",
+    "title": "About Isla Health: Digital Pathway Platform and Medical Device",
+    "page": "isla.health-about-us",
+    "captured_at": "2026-08-03T23:09:11.418Z",
+    "focusable_count": 27,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "isla.health-about-us.png",
+    "preview_image": "isla.health-about-us.png",
+    "preview_dir": "visual-preview",
+    "json": "isla.health-about-us.json",
+    "consent_actions": []
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://isla.health/privacy-policy/",
+    "landed_url": "https://isla.health/privacy-policy/",
+    "title": "Privacy-policy - Isla Health",
+    "page": "isla.health-privacy-policy",
+    "captured_at": "2026-08-03T23:09:20.975Z",
+    "focusable_count": 29,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "isla.health-privacy-policy.png",
+    "preview_image": "isla.health-privacy-policy.png",
+    "preview_dir": "visual-preview",
+    "json": "isla.health-privacy-policy.json",
+    "consent_actions": []
+  }
+]

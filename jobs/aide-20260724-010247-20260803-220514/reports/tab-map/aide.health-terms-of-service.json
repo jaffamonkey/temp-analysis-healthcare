@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://aide.health/terms-of-service",
+  "landed_url": "https://aide.health/terms-of-service",
+  "title": "Terms of Service",
+  "page": "aide.health-terms-of-service",
+  "captured_at": "2026-08-03T22:14:09.763Z",
+  "focusable_count": 32,
+  "frame_count": 0,
+  "same_origin_frame_count": 0,
+  "cross_origin_frame_count": 0,
+  "image": "aide.health-terms-of-service.png",
+  "preview_image": "aide.health-terms-of-service.png",
+  "preview_dir": "visual-preview",
+  "json": "aide.health-terms-of-service.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Accept"
+    }
+  ]
+}

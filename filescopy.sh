@@ -74,3 +74,4 @@ for folder in "${SUBFOLDERS[@]}"; do
 done
 
 echo "Done! All files replaced successfully."
+

@@ -1,0 +1,616 @@
+Starting contrast check for https://peppy.health/
+
+--- STDOUT ---
+ℹ Scanning: https://peppy.health/
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://peppy.health/
+[
+  {
+    "url": "https://peppy.health/",
+    "title": "Transform Employee Health | Support for Key Life Stages | Peppy",
+    "pairs": [
+      {
+        "text": "Find out more",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.body-wrapper.hs-content-id-201016542309.hs-site-page.page.pwr-v--47.line-numbers:nth-of-type(2) > div:nth-of-type(2) > header.header > div.header__container:nth-of-type(1) > div.hs_cos_wrapper.hs_cos_wrapper_widget.hs_cos_wrapper_type_module > div.pwr-burger.closed.vanilla.pwr--light.pwr--page-editor-fix.header-inner.header-inner-2026:nth-of-type(1) > div.pwr-burger-bottom-bar.pwr-a11y-menu:nth-of-type(2) > div.pwr-burger-bottom-bar__item.pwr-cta.pwr-cta--primary-solid:nth-of-type(2) > a.pwr-cta_button",
+        "xpath": "//*[@id=\"pwr-js-burger\"]/div[2]/div[2]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--clr-btn-lt",
+        "bgVar": "--clr-btn-lt",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLMQ0AAAwCMLJM/LTOBGjgJKF/l39wDEwNDTlBAAAA//9zlO84AAAABklEQVQDALNOApQG9R8PAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Find out more",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(251, 247, 239)",
+        "selector": "div.body-wrapper.hs-content-id-201016542309.hs-site-page.page.pwr-v--47.line-numbers:nth-of-type(2) > div:nth-of-type(2) > header.header > div.header__container:nth-of-type(1) > div.hs_cos_wrapper.hs_cos_wrapper_widget.hs_cos_wrapper_type_module > div.pwr-header.vanilla.pwr-header-fixed.pwr--light.pwr-header--transparent.pwr-header--light-on-scroll.pwr--page-editor-fix.header-inner.header-inner-2026:nth-of-type(3) > div.pwr--full-width.pwr-header--padding:nth-of-type(1) > div.pwr-header-full.pwr--clearfix > div.pwr-header-right-bar:nth-of-type(3) > div.pwr-header-right-bar__item.pwr-header-right-bar__cta.pwr-cta.pwr-cta--primary-solid:nth-of-type(2) > a.pwr-cta_button",
+        "xpath": "//*[@id=\"pwr-js-header-right-bar\"]/div[2]/a[1]",
+        "boundingRect": {
+          "x": 1071.84375,
+          "y": 91.484375,
+          "width": 168.15625,
+          "height": 55.59375
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--clr-btn-lt",
+        "bgVar": "--clr-accent-lt",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 251,
+          "g": 247,
+          "b": 239,
+          "a": 1
+        },
+        "contrastRatio": 1.07,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 121,
+            "g": 117,
+            "b": 110,
+            "a": 1
+          },
+          "hex": "#79756e",
+          "ratio": 4.58,
+          "property": "background-color",
+          "deltaE": 0.41202576172668204
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Explore our services",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.body-wrapper.hs-content-id-201016542309.hs-site-page.page.pwr-v--47.line-numbers:nth-of-type(2) > main.body-container-wrapper > div.body-container > div.container-fluid > div.row-fluid-wrapper > div.row-fluid > div.span12.widget-span.widget-type-cell > div.row-fluid-wrapper.row-depth-1.row-number-19.dnd-section.dnd_area-row-5-padding:nth-of-type(6) > div.row-fluid > div.span12.widget-span.widget-type-cell.dnd-column > div.row-fluid-wrapper.row-depth-1.row-number-21.dnd-row:nth-of-type(2) > div.row-fluid > div.span12.widget-span.widget-type-custom_widget.dnd-module > div.hs_cos_wrapper.hs_cos_wrapper_widget.hs_cos_wrapper_type_module > div.l-button-group.l-flex.l-flex--wrap.l-flex--justify-content-center.l-flex--align-items-center > a.c-button.l-flex.pwr-cta_button.c-button--medium.c-button--arrow",
+        "xpath": "//*[@id=\"hs_cos_wrapper_widget_1764582322519\"]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 533.546875,
+          "y": 2971.203125,
+          "width": 212.90625,
+          "height": 55.59375
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--clr-btn-lt",
+        "bgVar": "--clr-btn-lt",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "See how Peppy drives business outcomes",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.body-wrapper.hs-content-id-201016542309.hs-site-page.page.pwr-v--47.line-numbers:nth-of-type(2) > main.body-container-wrapper > div.body-container > div.container-fluid > div.row-fluid-wrapper > div.row-fluid > div.span12.widget-span.widget-type-cell > div.row-fluid-wrapper.row-depth-1.row-number-28.dnd-section.dnd_area-row-10-padding.dnd_area-row-10-vertical-alignment:nth-of-type(11) > div.row-fluid > div.span12.widget-span.widget-type-cell.cell_17640682832092-vertical-alignment.cell_17640682832092-padding.dnd-column > div.row-fluid-wrapper.row-depth-1.row-number-29.dnd-row > div.row-fluid > div.span12.widget-span.widget-type-custom_widget.dnd-module > div.hs_cos_wrapper.hs_cos_wrapper_widget.hs_cos_wrapper_type_module > div.l-button-group.l-flex.l-flex--wrap.l-flex--justify-content-center.l-flex--align-items-center > a.c-button.l-flex.pwr-cta_button.c-button--medium.c-button--arrow",
+        "xpath": "//*[@id=\"hs_cos_wrapper_widget_1764582714751\"]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 475.453125,
+          "y": 3913.1875,
+          "width": 384.078125,
+          "height": 55.59375
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--clr-btn-lt",
+        "bgVar": "--clr-btn-lt",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Read more",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.body-wrapper.hs-content-id-201016542309.hs-site-page.page.pwr-v--47.line-numbers:nth-of-type(2) > main.body-container-wrapper > div.body-container > div.container-fluid > div.row-fluid-wrapper > div.row-fluid > div.span12.widget-span.widget-type-cell > div.row-fluid-wrapper.row-depth-1.row-number-45.dnd-section.dnd_area-row-14-padding:nth-of-type(15) > div.row-fluid > div.span12.widget-span.widget-type-cell.dnd-column > div.row-fluid-wrapper.row-depth-1.row-number-47.dnd-row:nth-of-type(2) > div.row-fluid > div.span12.widget-span.widget-type-custom_widget.dnd-module > div.hs_cos_wrapper.hs_cos_wrapper_widget.hs_cos_wrapper_type_module > div.l-button-group.l-flex.l-flex--wrap.l-flex--justify-content-center.l-flex--align-items-center > a.c-button.l-flex.pwr-cta_button.c-button--medium.c-button--no-icon",
+        "xpath": "//*[@id=\"hs_cos_wrapper_module_1764603421930\"]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 576.625,
+          "y": 6392.15625,
+          "width": 126.734375,
+          "height": 55.59375
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--clr-btn-lt",
+        "bgVar": "--clr-btn-lt",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      }
+    ],
+    "violations": [
+      {
+        "text": "Find out more",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.body-wrapper.hs-content-id-201016542309.hs-site-page.page.pwr-v--47.line-numbers:nth-of-type(2) > div:nth-of-type(2) > header.header > div.header__container:nth-of-type(1) > div.hs_cos_wrapper.hs_cos_wrapper_widget.hs_cos_wrapper_type_module > div.pwr-burger.closed.vanilla.pwr--light.pwr--page-editor-fix.header-inner.header-inner-2026:nth-of-type(1) > div.pwr-burger-bottom-bar.pwr-a11y-menu:nth-of-type(2) > div.pwr-burger-bottom-bar__item.pwr-cta.pwr-cta--primary-solid:nth-of-type(2) > a.pwr-cta_button",
+        "xpath": "//*[@id=\"pwr-js-burger\"]/div[2]/div[2]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--clr-btn-lt",
+        "bgVar": "--clr-btn-lt",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLMQ0AAAwCMLJM/LTOBGjgJKF/l39wDEwNDTlBAAAA//9zlO84AAAABklEQVQDALNOApQG9R8PAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Find out more",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(251, 247, 239)",
+        "selector": "div.body-wrapper.hs-content-id-201016542309.hs-site-page.page.pwr-v--47.line-numbers:nth-of-type(2) > div:nth-of-type(2) > header.header > div.header__container:nth-of-type(1) > div.hs_cos_wrapper.hs_cos_wrapper_widget.hs_cos_wrapper_type_module > div.pwr-header.vanilla.pwr-header-fixed.pwr--light.pwr-header--transparent.pwr-header--light-on-scroll.pwr--page-editor-fix.header-inner.header-inner-2026:nth-of-type(3) > div.pwr--full-width.pwr-header--padding:nth-of-type(1) > div.pwr-header-full.pwr--clearfix > div.pwr-header-right-bar:nth-of-type(3) > div.pwr-header-right-bar__item.pwr-header-right-bar__cta.pwr-cta.pwr-cta--primary-solid:nth-of-type(2) > a.pwr-cta_button",
+        "xpath": "//*[@id=\"pwr-js-header-right-bar\"]/div[2]/a[1]",
+        "boundingRect": {
+          "x": 1071.84375,
+          "y": 91.484375,
+          "width": 168.15625,
+          "height": 55.59375
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--clr-btn-lt",
+        "bgVar": "--clr-accent-lt",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 251,
+          "g": 247,
+          "b": 239,
+          "a": 1
+        },
+        "contrastRatio": 1.07,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 121,
+            "g": 117,
+            "b": 110,
+            "a": 1
+          },
+          "hex": "#79756e",
+          "ratio": 4.58,
+          "property": "background-color",
+          "deltaE": 0.41202576172668204
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Explore our services",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.body-wrapper.hs-content-id-201016542309.hs-site-page.page.pwr-v--47.line-numbers:nth-of-type(2) > main.body-container-wrapper > div.body-container > div.container-fluid > div.row-fluid-wrapper > div.row-fluid > div.span12.widget-span.widget-type-cell > div.row-fluid-wrapper.row-depth-1.row-number-19.dnd-section.dnd_area-row-5-padding:nth-of-type(6) > div.row-fluid > div.span12.widget-span.widget-type-cell.dnd-column > div.row-fluid-wrapper.row-depth-1.row-number-21.dnd-row:nth-of-type(2) > div.row-fluid > div.span12.widget-span.widget-type-custom_widget.dnd-module > div.hs_cos_wrapper.hs_cos_wrapper_widget.hs_cos_wrapper_type_module > div.l-button-group.l-flex.l-flex--wrap.l-flex--justify-content-center.l-flex--align-items-center > a.c-button.l-flex.pwr-cta_button.c-button--medium.c-button--arrow",
+        "xpath": "//*[@id=\"hs_cos_wrapper_widget_1764582322519\"]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 533.546875,
+          "y": 2971.203125,
+          "width": 212.90625,
+          "height": 55.59375
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--clr-btn-lt",
+        "bgVar": "--clr-btn-lt",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "See how Peppy drives business outcomes",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.body-wrapper.hs-content-id-201016542309.hs-site-page.page.pwr-v--47.line-numbers:nth-of-type(2) > main.body-container-wrapper > div.body-container > div.container-fluid > div.row-fluid-wrapper > div.row-fluid > div.span12.widget-span.widget-type-cell > div.row-fluid-wrapper.row-depth-1.row-number-28.dnd-section.dnd_area-row-10-padding.dnd_area-row-10-vertical-alignment:nth-of-type(11) > div.row-fluid > div.span12.widget-span.widget-type-cell.cell_17640682832092-vertical-alignment.cell_17640682832092-padding.dnd-column > div.row-fluid-wrapper.row-depth-1.row-number-29.dnd-row > div.row-fluid > div.span12.widget-span.widget-type-custom_widget.dnd-module > div.hs_cos_wrapper.hs_cos_wrapper_widget.hs_cos_wrapper_type_module > div.l-button-group.l-flex.l-flex--wrap.l-flex--justify-content-center.l-flex--align-items-center > a.c-button.l-flex.pwr-cta_button.c-button--medium.c-button--arrow",
+        "xpath": "//*[@id=\"hs_cos_wrapper_widget_1764582714751\"]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 475.453125,
+          "y": 3913.1875,
+          "width": 384.078125,
+          "height": 55.59375
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--clr-btn-lt",
+        "bgVar": "--clr-btn-lt",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Read more",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.body-wrapper.hs-content-id-201016542309.hs-site-page.page.pwr-v--47.line-numbers:nth-of-type(2) > main.body-container-wrapper > div.body-container > div.container-fluid > div.row-fluid-wrapper > div.row-fluid > div.span12.widget-span.widget-type-cell > div.row-fluid-wrapper.row-depth-1.row-number-45.dnd-section.dnd_area-row-14-padding:nth-of-type(15) > div.row-fluid > div.span12.widget-span.widget-type-cell.dnd-column > div.row-fluid-wrapper.row-depth-1.row-number-47.dnd-row:nth-of-type(2) > div.row-fluid > div.span12.widget-span.widget-type-custom_widget.dnd-module > div.hs_cos_wrapper.hs_cos_wrapper_widget.hs_cos_wrapper_type_module > div.l-button-group.l-flex.l-flex--wrap.l-flex--justify-content-center.l-flex--align-items-center > a.c-button.l-flex.pwr-cta_button.c-button--medium.c-button--no-icon",
+        "xpath": "//*[@id=\"hs_cos_wrapper_module_1764603421930\"]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 576.625,
+          "y": 6392.15625,
+          "width": 126.734375,
+          "height": 55.59375
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--clr-btn-lt",
+        "bgVar": "--clr-btn-lt",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--clr-btn-lt",
+        "property": "color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#ffffff",
+        "againstVariable": "--clr-btn-lt",
+        "againstValue": "rgb(255, 255, 255)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 4,
+        "suggestedFix": {
+          "variable": "--clr-btn-lt",
+          "newValue": "color(srgb 0.462 0.462 0.462)",
+          "newHex": "#767676",
+          "contrastRatio": 4.54,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.body-wrapper.hs-content-id-201016542309.hs-site-page.page.pwr-v--47.line-numbers:nth-of-type(2) > div:nth-of-type(2) > header.header > div.header__container:nth-of-type(1) > div.hs_cos_wrapper.hs_cos_wrapper_widget.hs_cos_wrapper_type_module > div.pwr-burger.closed.vanilla.pwr--light.pwr--page-editor-fix.header-inner.header-inner-2026:nth-of-type(1) > div.pwr-burger-bottom-bar.pwr-a11y-menu:nth-of-type(2) > div.pwr-burger-bottom-bar__item.pwr-cta.pwr-cta--primary-solid:nth-of-type(2) > a.pwr-cta_button",
+            "text": "Find out more",
+            "xpath": "//*[@id=\"pwr-js-burger\"]/div[2]/div[2]/a[1]"
+          },
+          {
+            "selector": "div.body-wrapper.hs-content-id-201016542309.hs-site-page.page.pwr-v--47.line-numbers:nth-of-type(2) > main.body-container-wrapper > div.body-container > div.container-fluid > div.row-fluid-wrapper > div.row-fluid > div.span12.widget-span.widget-type-cell > div.row-fluid-wrapper.row-depth-1.row-number-19.dnd-section.dnd_area-row-5-padding:nth-of-type(6) > div.row-fluid > div.span12.widget-span.widget-type-cell.dnd-column > div.row-fluid-wrapper.row-depth-1.row-number-21.dnd-row:nth-of-type(2) > div.row-fluid > div.span12.widget-span.widget-type-custom_widget.dnd-module > div.hs_cos_wrapper.hs_cos_wrapper_widget.hs_cos_wrapper_type_module > div.l-button-group.l-flex.l-flex--wrap.l-flex--justify-content-center.l-flex--align-items-center > a.c-button.l-flex.pwr-cta_button.c-button--medium.c-button--arrow",
+            "text": "Explore our services",
+            "xpath": "//*[@id=\"hs_cos_wrapper_widget_1764582322519\"]/div[1]/a[1]"
+          },
+          {
+            "selector": "div.body-wrapper.hs-content-id-201016542309.hs-site-page.page.pwr-v--47.line-numbers:nth-of-type(2) > main.body-container-wrapper > div.body-container > div.container-fluid > div.row-fluid-wrapper > div.row-fluid > div.span12.widget-span.widget-type-cell > div.row-fluid-wrapper.row-depth-1.row-number-28.dnd-section.dnd_area-row-10-padding.dnd_area-row-10-vertical-alignment:nth-of-type(11) > div.row-fluid > div.span12.widget-span.widget-type-cell.cell_17640682832092-vertical-alignment.cell_17640682832092-padding.dnd-column > div.row-fluid-wrapper.row-depth-1.row-number-29.dnd-row > div.row-fluid > div.span12.widget-span.widget-type-custom_widget.dnd-module > div.hs_cos_wrapper.hs_cos_wrapper_widget.hs_cos_wrapper_type_module > div.l-button-group.l-flex.l-flex--wrap.l-flex--justify-content-center.l-flex--align-items-center > a.c-button.l-flex.pwr-cta_button.c-button--medium.c-button--arrow",
+            "text": "See how Peppy drives business outcomes",
+            "xpath": "//*[@id=\"hs_cos_wrapper_widget_1764582714751\"]/div[1]/a[1]"
+          },
+          {
+            "selector": "div.body-wrapper.hs-content-id-201016542309.hs-site-page.page.pwr-v--47.line-numbers:nth-of-type(2) > main.body-container-wrapper > div.body-container > div.container-fluid > div.row-fluid-wrapper > div.row-fluid > div.span12.widget-span.widget-type-cell > div.row-fluid-wrapper.row-depth-1.row-number-45.dnd-section.dnd_area-row-14-padding:nth-of-type(15) > div.row-fluid > div.span12.widget-span.widget-type-cell.dnd-column > div.row-fluid-wrapper.row-depth-1.row-number-47.dnd-row:nth-of-type(2) > div.row-fluid > div.span12.widget-span.widget-type-custom_widget.dnd-module > div.hs_cos_wrapper.hs_cos_wrapper_widget.hs_cos_wrapper_type_module > div.l-button-group.l-flex.l-flex--wrap.l-flex--justify-content-center.l-flex--align-items-center > a.c-button.l-flex.pwr-cta_button.c-button--medium.c-button--no-icon",
+            "text": "Read more",
+            "xpath": "//*[@id=\"hs_cos_wrapper_module_1764603421930\"]/div[1]/a[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--clr-btn-lt",
+        "property": "color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#ffffff",
+        "againstVariable": "--clr-accent-lt",
+        "againstValue": "rgb(251, 247, 239)",
+        "againstHex": "#fbf7ef",
+        "contrastRatio": 1.07,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--clr-btn-lt",
+          "newValue": "color(srgb 0.445 0.445 0.445)",
+          "newHex": "#717171",
+          "contrastRatio": 4.57,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.body-wrapper.hs-content-id-201016542309.hs-site-page.page.pwr-v--47.line-numbers:nth-of-type(2) > div:nth-of-type(2) > header.header > div.header__container:nth-of-type(1) > div.hs_cos_wrapper.hs_cos_wrapper_widget.hs_cos_wrapper_type_module > div.pwr-header.vanilla.pwr-header-fixed.pwr--light.pwr-header--transparent.pwr-header--light-on-scroll.pwr--page-editor-fix.header-inner.header-inner-2026:nth-of-type(3) > div.pwr--full-width.pwr-header--padding:nth-of-type(1) > div.pwr-header-full.pwr--clearfix > div.pwr-header-right-bar:nth-of-type(3) > div.pwr-header-right-bar__item.pwr-header-right-bar__cta.pwr-cta.pwr-cta--primary-solid:nth-of-type(2) > a.pwr-cta_button",
+            "text": "Find out more",
+            "xpath": "//*[@id=\"pwr-js-header-right-bar\"]/div[2]/a[1]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 233,
+      "passAA": 228,
+      "passAAA": 220,
+      "failAA": 5,
+      "failAAA": 5
+    },
+    "variableStats": {
+      "uniqueIssues": 2,
+      "affectedElements": 5,
+      "oneOffIssues": 0
+    },
+    "healthScore": 98,
+    "scannedAt": "2026-08-03T21:47:26.113Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 5 violation(s)
+

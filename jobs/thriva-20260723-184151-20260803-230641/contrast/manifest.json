@@ -1,0 +1,26 @@
+[
+  {
+    "page": "thriva.co",
+    "url": "https://thriva.co/",
+    "title": "Home blood testing for optimal health and performance",
+    "json": "thriva.co.json",
+    "report": "thriva.co.json",
+    "ok": true
+  },
+  {
+    "page": "thriva.co-how",
+    "url": "https://thriva.co/how",
+    "title": "How it works | Thriva",
+    "json": "thriva.co-how.json",
+    "report": "thriva.co-how.json",
+    "ok": true
+  },
+  {
+    "page": "thriva.co-privacy-policy",
+    "url": "https://thriva.co/privacy-policy",
+    "title": "Thriva - Marketing | Thriva",
+    "json": "thriva.co-privacy-policy.json",
+    "report": "thriva.co-privacy-policy.json",
+    "ok": true
+  }
+]

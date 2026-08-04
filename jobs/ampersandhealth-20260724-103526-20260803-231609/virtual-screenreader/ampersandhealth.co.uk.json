@@ -1,0 +1,8 @@
+{
+  "tool": "virtual-screenreader",
+  "url": "https://ampersandhealth.co.uk/",
+  "page": "ampersandhealth.co.uk",
+  "captured_at": "2026-08-03T23:27:35.147Z",
+  "error": "page.goto: Timeout 120000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://ampersandhealth.co.uk/\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "lines": []
+}

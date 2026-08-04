@@ -1,0 +1,26 @@
+[
+  {
+    "page": "www.huma.com",
+    "url": "https://www.huma.com/",
+    "title": "Huma",
+    "report": "www.huma.com.json",
+    "line_count": 1641,
+    "ok": true
+  },
+  {
+    "page": "www.huma.com-about",
+    "url": "https://www.huma.com/about",
+    "title": "About | Huma",
+    "report": "www.huma.com-about.json",
+    "line_count": 430,
+    "ok": true
+  },
+  {
+    "page": "www.huma.com-products",
+    "url": "https://www.huma.com/products",
+    "title": "Products | Huma",
+    "report": "www.huma.com-products.json",
+    "line_count": 463,
+    "ok": true
+  }
+]

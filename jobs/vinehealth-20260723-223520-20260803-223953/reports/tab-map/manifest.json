@@ -1,0 +1,90 @@
+[
+  {
+    "tool": "tab-map",
+    "url": "https://www.sciensus.com/about-us/",
+    "landed_url": "https://www.sciensus.com/about-us/",
+    "title": "Sciensus - About us",
+    "page": "www.sciensus.com-about-us",
+    "captured_at": "2026-08-03T22:44:10.839Z",
+    "focusable_count": 70,
+    "frame_count": 6,
+    "same_origin_frame_count": 3,
+    "cross_origin_frame_count": 3,
+    "image": "www.sciensus.com-about-us.png",
+    "preview_image": "www.sciensus.com-about-us.png",
+    "preview_dir": "visual-preview",
+    "json": "www.sciensus.com-about-us.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.sciensus.com/",
+    "landed_url": "https://www.sciensus.com/",
+    "title": "UK's leading provider of clinical care at home | Sciensus",
+    "page": "www.sciensus.com",
+    "captured_at": "2026-08-03T22:44:10.865Z",
+    "focusable_count": 75,
+    "frame_count": 3,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 2,
+    "image": "www.sciensus.com.png",
+    "preview_image": "www.sciensus.com.png",
+    "preview_dir": "visual-preview",
+    "json": "www.sciensus.com.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.sciensus.com/contact-us/",
+    "landed_url": "https://www.sciensus.com/contact-us/",
+    "title": "Contact us - Sciensus",
+    "page": "www.sciensus.com-contact-us",
+    "captured_at": "2026-08-03T22:44:22.211Z",
+    "focusable_count": 45,
+    "frame_count": 2,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 1,
+    "image": "www.sciensus.com-contact-us.png",
+    "preview_image": "www.sciensus.com-contact-us.png",
+    "preview_dir": "visual-preview",
+    "json": "www.sciensus.com-contact-us.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Allow all"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.sciensus.com/privacy-notices-menu/",
+    "landed_url": "https://www.sciensus.com/privacy-notices-menu/",
+    "title": "Privacy notices - Sciensus",
+    "page": "www.sciensus.com-privacy-notices-menu",
+    "captured_at": "2026-08-03T22:44:22.209Z",
+    "focusable_count": 47,
+    "frame_count": 2,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 1,
+    "image": "www.sciensus.com-privacy-notices-menu.png",
+    "preview_image": "www.sciensus.com-privacy-notices-menu.png",
+    "preview_dir": "visual-preview",
+    "json": "www.sciensus.com-privacy-notices-menu.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Allow all"
+      }
+    ]
+  }
+]

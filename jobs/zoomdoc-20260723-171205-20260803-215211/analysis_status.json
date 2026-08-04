@@ -1,0 +1,13 @@
+{
+  "job_id": "zoomdoc-20260723-171205-20260803-215211",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/zoomdoc-20260723-171205-20260803-215211/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/zoomdoc-20260723-171205-20260803-215211/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/zoomdoc-20260723-171205-20260803-215211/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/zoomdoc-20260723-171205-20260803-215211/analysis/accessibility_analysis.xlsx",
+  "violations": 1090,
+  "pages": 5,
+  "screenshots": {
+    "job_id": "zoomdoc-20260723-171205-20260803-215211",
+    "message": "Artifacts processed"
+  }
+}

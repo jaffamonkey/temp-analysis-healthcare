@@ -1,0 +1,17 @@
+{
+  "tool": "tab-map",
+  "url": "https://evaro.com/about-us",
+  "landed_url": "https://evaro.com/about-us",
+  "title": "Evaro - Healthcare Platform Integration",
+  "page": "evaro.com-about-us",
+  "captured_at": "2026-08-03T23:26:50.017Z",
+  "focusable_count": 34,
+  "frame_count": 0,
+  "same_origin_frame_count": 0,
+  "cross_origin_frame_count": 0,
+  "image": "evaro.com-about-us.png",
+  "preview_image": "evaro.com-about-us.png",
+  "preview_dir": "visual-preview",
+  "json": "evaro.com-about-us.json",
+  "consent_actions": []
+}

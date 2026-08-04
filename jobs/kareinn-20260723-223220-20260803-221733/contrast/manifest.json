@@ -1,0 +1,34 @@
+[
+  {
+    "page": "kareinn.com",
+    "url": "https://kareinn.com/",
+    "title": "Digital Care Management & Care Home Planning Software | KareInn",
+    "json": "kareinn.com.json",
+    "report": "kareinn.com.json",
+    "ok": true
+  },
+  {
+    "page": "kareinn.com-digital-care-planning-software-and-so-much-more-our-founders",
+    "url": "https://kareinn.com/digital-care-planning-software-and-so-much-more-our-founders/",
+    "title": "Digital Care Planning Software | About Us | KareInn",
+    "json": "kareinn.com-digital-care-planning-software-and-so-much-more-our-founders.json",
+    "report": "kareinn.com-digital-care-planning-software-and-so-much-more-our-founders.json",
+    "ok": true
+  },
+  {
+    "page": "kareinn.com-contact-us-at-kareinn",
+    "url": "https://kareinn.com/contact-us-at-kareinn/",
+    "title": "Contact Us - KareInn",
+    "json": "kareinn.com-contact-us-at-kareinn.json",
+    "report": "kareinn.com-contact-us-at-kareinn.json",
+    "ok": true
+  },
+  {
+    "page": "kareinn.com-features",
+    "url": "https://kareinn.com/features/",
+    "title": "Features - KareInn",
+    "json": "kareinn.com-features.json",
+    "report": "kareinn.com-features.json",
+    "ok": true
+  }
+]

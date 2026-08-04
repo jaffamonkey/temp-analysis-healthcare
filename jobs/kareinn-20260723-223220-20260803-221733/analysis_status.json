@@ -1,0 +1,13 @@
+{
+  "job_id": "kareinn-20260723-223220-20260803-221733",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/kareinn-20260723-223220-20260803-221733/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/kareinn-20260723-223220-20260803-221733/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/kareinn-20260723-223220-20260803-221733/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/kareinn-20260723-223220-20260803-221733/analysis/accessibility_analysis.xlsx",
+  "violations": 959,
+  "pages": 4,
+  "screenshots": {
+    "job_id": "kareinn-20260723-223220-20260803-221733",
+    "message": "Artifacts processed"
+  }
+}

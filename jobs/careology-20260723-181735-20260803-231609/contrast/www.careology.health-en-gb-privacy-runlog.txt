@@ -1,0 +1,2443 @@
+Starting contrast check for https://www.careology.health/en-gb/privacy
+
+--- STDOUT ---
+ℹ Scanning: https://www.careology.health/en-gb/privacy
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://www.careology.health/en-gb/privacy
+[
+  {
+    "url": "https://www.careology.health/en-gb/privacy",
+    "title": "Privacy Policy | Careology",
+    "pairs": [
+      {
+        "text": "www.careology.health",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > p:nth-of-type(1) > u:nth-of-type(1) > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 552.28125,
+          "y": 416,
+          "width": 157.140625,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "https://pro.careology.health/",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > p:nth-of-type(1) > u:nth-of-type(2) > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]/u[2]/a[1]",
+        "boundingRect": {
+          "x": 192,
+          "y": 444,
+          "width": 203.90625,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANsAAAAjCAIAAACSIOhjAAANL0lEQVR4nOyceXBV1R3Hb172fV/IHhMSIAkJBAhbIYAIoiCIC2JdipR2amec6Tpa2z+c6Yz9o5062plqi9qqLagIIiCyaVEYCFtYErIQsicv28v2sm/93HvC5fI2YjTTV7zfydw5995zz/md3/77PdFtdHRU0qHDaWCQdOhwJugaqcO5oGukDueCrpE6nAu6RupwLugaqcO5oGukDueCrpE6nAu6RupwLrjZezEyPNJU12pwNUTEhEo6Jg2DA4OtxnY3D7ewqGBp0tBc3zo8NBIWHeLm5ip9Y7Q1d/T3DgSHB3p6e1i86u3u62jt8vLxDAoLkCYEuz6yvaVz79uH9mw/KP1PkX+04MiHX4qxqan94I4vKq7WSHcQ6q4b4fO+fxyWJhMfv3mIXUzGNunbwIH3jrHatSuV1q+KzpbxShWZTYyMjB56//i5/1y2fjU0ODTBqH3y4Nkdr+0tKSgXt+VXqrg9vu+09K2ir7e/4EShqalD3J4/frm6tA77k3Q4Dcwd3Yj+o799Ov5PygsrK4trBvoGrF+99fL7btKE0FTX0mnqwo+K2/bWTm6/lYigRWF+KdcZc6aK26qSWncPtykJEZIOp8FA/yCi/1qfFOaXcM2cP83ieY+59/WX3r29Rl67XHnp1FVmR8WFL1k738PTfc+bn5Fi8uriyaKWBpN/kG/xBdlZElWJ8ss2LOKTmmt1abNSKq5W8zAg2H/eimw+FwtWldZe+PKKuaPHL9AnIS1u1uJ0Qc3etw+HRATd88gSdeviC9e4TpuVwhWrGh4eSc26i3F1WR3+Mi4lmkXqKoyeXh5o7fScqcqr+vPHL0UnRnV1mBsqm5ZvWBidFAUZl0+XwDj/YD9WS8u+y+ZJiSb5Ry/UljfA5cjYsLnLsgJC/Hk+PDTMdpUltf19A8FhgbO+lxGdGMlz4g7HTM5IZP1Ok3nzc+tJuztaO09+do5T48uT0xOyF6Wr6zO/sqSmr6efY+YszYyICbNJhoNpZ7+4dL2wamR0NGlaHD6mtbENbn+1P59kdN7ybE6qMK28+HwZ3yIsi5WZn3+sAD8CH5bcn0siKJ7boxmhnDp0Hu8DZ8KjQxaunuPr76NdsOhsKSSJMaLPmHdTyc4cKygvqh4dGU3JTIST6nN4i/L4B/n5BfpakHf4AznW314jj+0+IQbXi6ohce1TK5sVdRRorGnu7uxRb5vrTf29/XUVDezadGNaT1fv3rcObdi6Ojw6tOxSxed7Tsobu7k2mXuZ01jbvHpTXmON7HT54/AGg4vMJlMXK0fFh7u5y64XlZJkw5ouKaqvXZ/A8eX+/IG+waxFM9pufdVt7iUTJfSrLIZgY3XT0nXzrU+687W9Xe1mdU1s4KEf3xcYGrDr9QMEAR4aDIa6LiM2sObx5bHJUxho90JRmqqbyaLGtu7saTW2UVKsfFi2sV1vHGi9kcbxquZa/fINi5CWBQ0Oph3+4LiaQ+MLVN6S2/BJwYkioZFYO6cICgu0PiBcUvmw++8Hn/7Vw5iQ0Q7NzPn3K3vwAi4uLqOjozCElOn7P9uorWYQBJajir7DBJdcxHP+xHPoIbKpWn71XBnX6Tkptsg7jfndPo+cv3L2tt89nrtiFmOoh74f/nazKMCzFs7Y8sKmR55dm7N0JrfYpfLqpk0/8fONT/7iIR8/b8ZYocrKjNw0Prz/ybsZc06cUOK02EX3zkXSQh3B5VNX5ZmK2Q0NDTdUNfr4e1tUcOufWbX1N4/Fp8ZIsv+4qH3FFqwWEh4o1HHBPTmcYum6BYxJf02N7RbHLDxTiiBdXQ2PPrt2y/ObkCjCgFpmCnXEBW598bGo+AgxWfvtglU57IWNHdklWznOe+uLm+9/YgVjdAgzKym4jqRh3QM/uIdXyRkJvDr+ySnMT7uOg2nQJtQRQXCQZesXql+lz03jWl/ZyBXHKYwqM9cyJgIY+MwLmx7ctkZSaoimetmW7NF89dw1OIDs+ASGoFXcVhTfUlYuXjMPoxVjRC/UQADPxZMpCXIwIWaqz4VGzpiTak1e7fWGu2bE314jZy6Q3dK02WNKTYCQxoeAYD9vXy8CQe7dsjabGmXT9/T2FCQSXMKmhKCy/Lm6uSKG9LmpOB71c+bgk5KmxzEuVUooEb61kE3K1bBcEQ/80nrrhavmsJqxpoUxZIishXgdFCrrdHlRlcVSlQqvU2Ym4RTxykvW5iIk3wDfkMggNOCpXz5MywNuCpfQ1nxToVFExM9exCM8lrJLsrGqUezLtb6qiVyeAeyOjAvH5PIUw8DMWo0mLQ0OppFLKNzzIA4wmDozSXwC31KV8cjICHPKFNkzLdRWL4kFYTVtJg8v2c+hdg5oJmHg4A9sWUWOVHqxnOYRz1saWqXxgXQf2gSduFvxEEfb2WZG7uR+1p8gcWgbb2Xj6j5WtYz/PzknWREDfKckq/IQ12XrF1CXIVdMnz+ROAouaGGsaYZZqCOnkpSegiQ7g1SbG8FfdBeRcFrxRF2wvUWu0wND/dXJwRGB+DzUy2IR4VqEvgKy3ns3LxPjE5+esXCKWpBHioEapyx6H51tXYIwVUtQCwwVJtBG8PRy18y0O61DqR5Iv6wJwCZjkqJIIUi7zYpNTs1MkmxB1QMRiIjFDmimIb17+8HWCTWMcKg3jmAQG4nbK0pNkzEvzfoTfLYke3GfCdba48Fg/5g3JbOUiXOViSOfJY4r1lxBdIAjH/51PxHc4lsRsjNzZfdM05VppOHWiqsCdeSqNoY8vcZyHS8f+RNSTHVmb7dMjI+f5VKy824zD/RbRgCioVBHAmVCagzjM5/fkh6o3Fc3JYgLQxKgDKqvMBL41ZQLDCn26evvLSQxRq23h71pfd19klIWSLaAjNFI8h8cqnxrK2TbhAOaTx05jzpi7WT5eLX97x4lBR/nsjYtB5RevM4u1tkzcHN3Q8QIeqK/IirUi/Mrd/ItcVM7RU35CxUP5xsgl2nv/HHXWy/vpIZFwKimWET4Bnz7sLIgJlVVUodBU9ZIN5I2m5mHUESqJXGr9YUCoijmnMQLSRG2YOuU+Egxoau9WwyoJSW5sVopbikV33jpvX3/PCLmY0gEIMSjFknWUEvXocFhVIS/6IRIvBFxIDJWPgjyEATTEBCss/g9zMG0cGUmcVb48u6uHu2HCWmxGLyYDJ8DlOiEJUOJ5BAOaBb1a2JaLFLA1dlTR60eOwZtGfhPekNAszkhfmoMRdUEfSTRram2pfhcGWa07umVJFuS0kSgapu/MkedtvMvn8ApERqylGoLZjXWtnz0xoGk6fGQKCkFLA9FxUdOhr/EdyKSlMxksYjoAaXNSrYmA/2GEhaUz5MaY31UshlqFGL3jlf3RsSGttSbUHeydVE00G+i7qYMpDk1Jy+L3ADbeO/Pu/FJwpymz55KbwuniEKTbCA2kXvYk3T24vSCrwrRZno0BNNmpXSgFZWTNxO7Qh7v/umjwBB/QTA0eHjd8iucg2mYFnUJOd/O1z4JmxJsHUxRSpohkpIrS4oREnxgyJbnHzW4OvI79miOSoiAAMyDs6vBvd+qrR0YMuYF2M5eWiVw+VSxZKfkEkAlaCHZp1VRfdUCLAwhe9EMVA2niES5RfGFXaJY3Z1jXgc+oqPiMHK/UKmN7nvybuovog8FL+0x4ux9Sn1ncJV3MCg99iv5CulKo4fmGWLgE+v2O+weHhwWYiOsrHhwsQ1ClXqcz1FxaMOLMHPjj9aIVyLgiiuUMJMr5RHqyOmojdCGiNiwbKVjiv2g2aGRcpKHO7/5bzg1O9IUnL0kE6ZxNETLIjQQ6A/g79kU7yU7aYVgGqu0dQSL1c8dTeMgW1bxioNAnigQtburkVoEE5EpylcXS5lKN8Xq4oDmuXlZorFA3kLaI9qHtHjUz8UaKLEoXxC08YYf1aiNi3pL1xYhaotXC6x+LE+e/E3+dSzq4uHlLpo7ktLNIuwSkfF2iJ8QQE8VpfQP9ld7Oip4Tl6odRI4HopcOL799ztgPd0WSe4Znb1yuoTqJ3FanDqT0EmXEe9I4wkLprR093B3TCoNFEJeQIifhR+ldWDxLdZCD8W6f8thsTrH/kaFiKoW/WRluyG0WfUr9mBzGmvCIlGdMGHHqx8zoC8j+rWi0QvzN/10nZiP+aFe44+qNmlmEcR6W4Jhmphmjz9k0vveOYqB5T2wwN4iqOLG9G12ozZZlDQh0DLQ3hK4pa8P9ExLAD/M21v/X6/ske50iCPv2f4Z4YKgTLnGjyWSkgKhjuguvcOLSoIrytgJy26yQQ7AnxiT5j73h2e0bzGeX7/6E5fJ+D8IaH2kNAnQ+kjpOwPa9aePXFBv8eIPbrvXy9tT/RkMB0l7f/xO0TkxKRrZYmwzt5tDIoMDgv2kSQABgoyHTN/eT8N3KojateX1hGwqNjWvgBv83EBCkpKR+P+ujtIkaaQOHROG/q8adDgXdI3U4VzQNVKHc0HXSB3OBV0jdTgXdI3U4VzQNVKHc+G/AAAA//++nVtsAAAABklEQVQDAD0Ke019ElPUAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Information we collect about you",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(1) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 596,
+          "width": 234.59375,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "How we use your information",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(2) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 644,
+          "width": 209.03125,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAAAjCAIAAADt8fqSAAALAUlEQVR4nOxcCVhN6Rs/3UqSRtFEaSQKoaSiooUWgyxRk30ZS2oYRLa/rRSKKJEytsZfsmTN2EIiSwlJlkYRkzVLkez1/537zXPmqO7XvRd/93nm/J77nOc73/a+33ve836/7z2kUlFRwQgQoMAQMQIEKDYEHxWg6BB8VICiQ/BRAYoOwUcFKDoEHxWg6BB8VICiQ/BRAYoOwUcFKDoEHxWg6BB8VICiQ34ffVP29v2794wAAV8Zcvpo6Ysy+3r9gkZHMLLDUduzb4tRpPzieenDv4o+fPjI/MtgrdpzYq951Tbx7fOVMM51BhTg/9z0B03uMz8nI5dRGHC+ocLIh8/411I6evW1v69HytFz4nb+dmBHdqyRaRPmX4by8vJq6/n2+Ur4+JEV3XOIs6aWBgovi18V5P6VdvA8fpvOrmhtbcIoADjfkNdHPwO7rq1lBEjG/80+4+YPbWzUiLtdv2hrzPxNBxNSFMRHOajER+7OPJHtPtTZ1csB9yXPXgaOWm5u2+rnmQNwi2C7flFC1ulrKHfo2s5rnHuz1p8EvKTfk/dsOHwz+7aplbH3L71d+tuT+pfFpXFLdqTsOfPkwTMTcyOn3rZD/PsrK7PUIsQ3SkNT3X/p2AVjI0/9kY6ahb+sdOplO2yqpzQSOUz3Xvi9fv1pkX5cTYBX8A/G+pNCR9MVkEkKkHniMqbKPntdTb2WlaMZHi0X9S+fuYamnIwbKJvbmvoGDoMsbiC9lQMC6m/BW3Iv5dt1s4QNOfvUqCp9jbLC3M4U11cvynBdMinmwZ3HARHjOCd+ePdx2MSYH4z1poT7MF/IRHOGLWncrBF8ZkPoNozVNdBx9ugEN1BSUuL7hmj76iTcHNySQoZlnb6K21q1a6F841K+t7nv7nWHip+UqGuooefIzv4XTl7hNDu09UTQmAjwBjjohdQrMwYsSoz9g2GJQMXMgYt/X7qjVm1Vi85toGXUrA2R09eRUUe2pZ7Ye5ZhCcfLt6/foVBa8up12RtpJPJxfPfpjOOX+TWY9kJqdo0KyCQFa/R1m3Uu+SLWiNujO9N8XGY8e1zMlhNPjXYKgLnadmwFv0lNOjfIanz6sUtkIL2VAxwUDrEuZMu7N+/6jOzGtw9dVfoaZQWOv9hYUXDxZKNMHU11aA7v/8e2+86hRrNeXebLmejk/vSEqL2DrSfgqekbNcxJv4ElbItOYj71DdG92w9ROp9ymRxcyDO2dbOECUJ/jS4rfT0nduLBu5tBU6IPLcTt0skxfP0QtMAY1hwNW58ajlvIwHHq3q2H0MPCvs3Wi6uj9i9IKdqOt2rvhsPv3n6SBwhPnNtjcFcUFsfP9Jk7REqJ0oCigExSUL9syhoU4tKWY43ojzD2vKgEr8frV2/CJq5GU8KF6Ig989GKeXCLcySeN72Vm5910IkxeLFh8GW75tWuo8aXTldVSiNTMG9kOM5t+A23m2Sn0Rf+1H1gFxsXCzT96O2E65HtqVzn5B0ncXXzdvxSJuKGgxYn5cWtS1kam7wYNelHWQ/m+wa7L1h3aYeueVcKUE47cB6EvXkbw9ysW/DrJiaNPUZ3V1FRRpONS3v0RLe7N+8RAWgd4t+PlNt1at2qfXPMk59T8Ob1W9RkpV0l50RNrbpRSQvWHA1lqJBGopSgKCCTlIzjWTA3jNXWphVu0R87UTdvR2VlZfgHmrC9cjsX5rFyMnt878mdP+/RW0lNRXlF2K+rE9ewDhq+c24lB61RVfmMzAcmuX7xJn4FNwpJDdROP5aFAtSGx1/LvAmmgVuojTiN59u0pcGXMhE3w7RIX7J2S0cz8arzK4lgz0xjZg8En4ASOo20oTcoESoL8+8zYsbj7xHE9c6/WoDrs0fF9XW1UGjToYVI9A/7se1mhb0JqwK1hd0R/LExgdDYdbOy79kBrcTQkkCXiEfFSA3YV5ICMklBrMK1hXkzrgazLYqficLmiF24WjmZ8/ubWpqA8xTeelCY/4DSaty2KfO3Q7AxQ7exTm11NUZGg5jZmcphZD7iTkdwdBNSDm9LDZ0QPan3vOT7CYhTvYe7Ylc8mXQO/nAyiaWGvYa7VZ1EbhMRI2DteLtIE3wJY+HWlUSI4NpgMwy73WeBjKIA5o5r8dMXpAd4EveDKuivqqZKmhAJ+HOpqbEsFoQXtD1ybyA2L+d+ncElECom9w0c5TAFwZ+RDGkkUgDiwpUpCsgk5XkRS6oaNNKWpK2eoS6/8sP7D4zY1vRWrsa+Rwd4w764I4hGkkRIUlU+I0sCHAV7NPRBGZEVV7ef2G39iHiLT05kry79O1cdKLeJyK3Gd3WYmqDSwdlCRVXFwd0m41iWlg6bliMhV8+wISPewcEMuN5F95/ihNTERJ/w2TzxO82BcHl9Q10o9/Thc5gScR46XTyVgxcUGweoRpe+dpJUoUusdshHXvK/UPxCE1AUkEkK6Xwt809wJq7n1lX7TK1M9Jqwpsfm09WjE9efvORoQjdKK7k1Nmsavmte2oGMAM/ghb5R27JiKm33dFXlMzId5ExCTszwLZBdcIkbF/MQ+SDoe/0GVYfIbSJGaoja27NB1Ma1PajknvWHoIqGJuvaJBTjgIlvnqQrCNCITv4DLPw4Vg5ixH2ZgOFAGOrUVTc2Mzqx5wy6HUpgcwV4ATo6W/w4kOXgEFGtEuXieCyNRD6wL4CZcGHj4JbjXBNFAZmktLFugeuZwxe4L2EJK/fiKF3y9EXLduzuhpMpyYcz4mcDqoO4aNjSgN5KanQa1ce+3KWPHQIEAuHakC2VpNNVpRsZezeSR69eljFSIzM1G8wBT5Dsq0CvoS64/mdoGK7uw1yqHSW3iRjpAN9Qgb+jZOnQllQ59LIhhYYGOsMDvDaFJ05wnzNwQl8cMjctSwTbRd4UTsxtrP4egQPG94HUHbH7cTt2zmAEA+uu7VBeHrBWSSQybGGQd+V2fMRuRhwSKmlAXs21wfH9xvbA60GRWFV7vF14tOBqrp72Oedz9286yjVRFKCvq5KIVpbGiEnwkmleIW4/OWBHhhQ8RVQ2aKiNnREfZhAFe49whRttDNuOIUhQ1FJTxQGC0lpJCtKQyM7guWJ7xbmEq6erSjcyUpKYEEnWIZP7MRKwyG+let3ajJiz3c27f/v6XZT9goZxjLaLRycka8lR0qmPbbWTyG0ipiZwvqFCejdv2xTz4hUkqQcCZGLLP5aD+SLgkxq/oOEjpnmxJSUlXHB8e1T4JDbwv6R1zOxB5Jhv0ExvQVwAUhvBPpGkCZOHJszif9UgwC5wIP44MmoiZZYZ0yRWwfiQkVczbyJ444eZp6/ww4MRKSvXqIBMUoI2Tg32WYG8DEkp41AVtGEqrM82xQUsGBOBnB9pApDf9vJ1/3sgtZXhcTJoNWHhz6tmbwwZF7k5YyVfOkVV+hqVRErip6RU7aJInp+frMXZBeEc6nXubs1VajX4DkQCS/D06VltmPhME9HB+YZSjX+nBNnjvJwCGBR+XK++ZtUOCOD3Cx4hvwAb8eux3SCp8ayouIGullHrJpRFwtExM8fGapTIB+JKaUlZtV+J6ArIJAVM5k5uobZuPdCvSh9yoDwiEGZAMqFq/ojeKiUoqkpvZPmwePwq5Pal+Ygvt4nowFgl4W/pCJAEpIHc9AfBO+GjzLfDN/g3JQIUH2B9oxynIm/AiOkj800h+KiAagBegZMTmCUOwfY9OzLfFMJeL0DRIfx/JgGKDsFHBSg6BB8VoOgQfFSAouN/AAAA//9tEt+gAAAABklEQVQDAFJ5hmXcR1WCAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Our promotional updates and communications",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(3) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 692,
+          "width": 332.15625,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Who we share your information with",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(4) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 740,
+          "width": 257.078125,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "Where we store your information",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(5) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 788,
+          "width": 233.203125,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "Child safety",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(6) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[6]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 836,
+          "width": 84.5625,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "Payment processing",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(7) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[7]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 884,
+          "width": 146.1875,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "Automated decision making",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(8) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[8]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 932,
+          "width": 200.359375,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "How we protect your information",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(9) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[9]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 980,
+          "width": 234.4375,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "How long we keep your information",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(10) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[10]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 1028,
+          "width": 252.75,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "Your rights",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(11) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[11]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 1076,
+          "width": 78.140625,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "Changes to this policy",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(12) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[12]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 1124,
+          "width": 157.859375,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "Contact us",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(13) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[13]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 1172,
+          "width": 77.1875,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "dpo@careology.health",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > p:nth-of-type(7) > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[7]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 531.46875,
+          "y": 1420,
+          "width": 159.46875,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "Information we collect about you (\"Content\")",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "#info",
+        "xpath": "//*[@id=\"info\"]",
+        "boundingRect": {
+          "x": 192,
+          "y": 1478,
+          "width": 442.8125,
+          "height": 27
+        },
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "\"Your rights\".",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > p:nth-of-type(17) > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[17]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 192,
+          "y": 6380,
+          "width": 858.359375,
+          "height": 47
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "support@careology.health",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > p:nth-of-type(26) > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[26]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 712.515625,
+          "y": 13868,
+          "width": 187.96875,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "How long do we keep your information for",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "#keeping-info",
+        "xpath": "//*[@id=\"keeping-info\"]",
+        "boundingRect": {
+          "x": 192,
+          "y": 16545,
+          "width": 407.90625,
+          "height": 27
+        },
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.html",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > p:nth-of-type(49) > u:nth-of-type(2) > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[49]/u[2]/a[1]",
+        "boundingRect": {
+          "x": 192,
+          "y": 17853,
+          "width": 861.1875,
+          "height": 47
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "Contact Us",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "#contact-us",
+        "xpath": "//*[@id=\"contact-us\"]",
+        "boundingRect": {
+          "x": 192,
+          "y": 18175,
+          "width": 110.3125,
+          "height": 27
+        },
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "GDPR@careology.health",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > p:nth-of-type(55) > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[55]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 192,
+          "y": 18365,
+          "width": 174.015625,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      }
+    ],
+    "violations": [
+      {
+        "text": "www.careology.health",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > p:nth-of-type(1) > u:nth-of-type(1) > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 552.28125,
+          "y": 416,
+          "width": 157.140625,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "https://pro.careology.health/",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > p:nth-of-type(1) > u:nth-of-type(2) > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]/u[2]/a[1]",
+        "boundingRect": {
+          "x": 192,
+          "y": 444,
+          "width": 203.90625,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Information we collect about you",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(1) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 596,
+          "width": 234.59375,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "How we use your information",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(2) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 644,
+          "width": 209.03125,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Our promotional updates and communications",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(3) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 692,
+          "width": 332.15625,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Who we share your information with",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(4) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 740,
+          "width": 257.078125,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "Where we store your information",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(5) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 788,
+          "width": 233.203125,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "Child safety",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(6) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[6]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 836,
+          "width": 84.5625,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "Payment processing",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(7) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[7]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 884,
+          "width": 146.1875,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "Automated decision making",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(8) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[8]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 932,
+          "width": 200.359375,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "How we protect your information",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(9) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[9]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 980,
+          "width": 234.4375,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "How long we keep your information",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(10) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[10]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 1028,
+          "width": 252.75,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "Your rights",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(11) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[11]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 1076,
+          "width": 78.140625,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "Changes to this policy",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(12) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[12]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 1124,
+          "width": 157.859375,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "Contact us",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(13) > p > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[13]/p[1]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 224,
+          "y": 1172,
+          "width": 77.1875,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "dpo@careology.health",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > p:nth-of-type(7) > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[7]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 531.46875,
+          "y": 1420,
+          "width": 159.46875,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "Information we collect about you (\"Content\")",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "#info",
+        "xpath": "//*[@id=\"info\"]",
+        "boundingRect": {
+          "x": 192,
+          "y": 1478,
+          "width": 442.8125,
+          "height": 27
+        },
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "\"Your rights\".",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > p:nth-of-type(17) > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[17]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 192,
+          "y": 6380,
+          "width": 858.359375,
+          "height": 47
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "support@careology.health",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > p:nth-of-type(26) > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[26]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 712.515625,
+          "y": 13868,
+          "width": 187.96875,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "How long do we keep your information for",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "#keeping-info",
+        "xpath": "//*[@id=\"keeping-info\"]",
+        "boundingRect": {
+          "x": 192,
+          "y": 16545,
+          "width": 407.90625,
+          "height": 27
+        },
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.html",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > p:nth-of-type(49) > u:nth-of-type(2) > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[49]/u[2]/a[1]",
+        "boundingRect": {
+          "x": 192,
+          "y": 17853,
+          "width": 861.1875,
+          "height": 47
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "Contact Us",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "#contact-us",
+        "xpath": "//*[@id=\"contact-us\"]",
+        "boundingRect": {
+          "x": 192,
+          "y": 18175,
+          "width": 110.3125,
+          "height": 27
+        },
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      },
+      {
+        "text": "GDPR@careology.health",
+        "tag": "a",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > p:nth-of-type(55) > u > a",
+        "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[55]/u[1]/a[1]",
+        "boundingRect": {
+          "x": 192,
+          "y": 18365,
+          "width": 174.015625,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 109,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#856d8f",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.06735697289953835
+        }
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--tw-ring-offset-color",
+        "property": "background-color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#9981a4",
+        "againstVariable": null,
+        "againstValue": "rgb(153, 129, 164)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 3.48,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 23,
+        "suggestedFix": {
+          "variable": "--tw-ring-offset-color",
+          "newValue": "color(srgb 0.136 0.136 0.136)",
+          "newHex": "#232323",
+          "contrastRatio": 4.51,
+          "property": "background-color"
+        },
+        "instances": [
+          {
+            "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > p:nth-of-type(1) > u:nth-of-type(1) > a",
+            "text": "www.careology.health",
+            "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]/u[1]/a[1]"
+          },
+          {
+            "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > p:nth-of-type(1) > u:nth-of-type(2) > a",
+            "text": "https://pro.careology.health/",
+            "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]/u[2]/a[1]"
+          },
+          {
+            "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(1) > p > u > a",
+            "text": "Information we collect about you",
+            "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/p[1]/u[1]/a[1]"
+          },
+          {
+            "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(2) > p > u > a",
+            "text": "How we use your information",
+            "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/p[1]/u[1]/a[1]"
+          },
+          {
+            "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(3) > p > u > a",
+            "text": "Our promotional updates and communications",
+            "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/p[1]/u[1]/a[1]"
+          },
+          {
+            "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(4) > p > u > a",
+            "text": "Who we share your information with",
+            "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/p[1]/u[1]/a[1]"
+          },
+          {
+            "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(5) > p > u > a",
+            "text": "Where we store your information",
+            "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/p[1]/u[1]/a[1]"
+          },
+          {
+            "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(6) > p > u > a",
+            "text": "Child safety",
+            "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[6]/p[1]/u[1]/a[1]"
+          },
+          {
+            "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(7) > p > u > a",
+            "text": "Payment processing",
+            "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[7]/p[1]/u[1]/a[1]"
+          },
+          {
+            "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(8) > p > u > a",
+            "text": "Automated decision making",
+            "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[8]/p[1]/u[1]/a[1]"
+          },
+          {
+            "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(9) > p > u > a",
+            "text": "How we protect your information",
+            "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[9]/p[1]/u[1]/a[1]"
+          },
+          {
+            "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(10) > p > u > a",
+            "text": "How long we keep your information",
+            "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[10]/p[1]/u[1]/a[1]"
+          },
+          {
+            "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(11) > p > u > a",
+            "text": "Your rights",
+            "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[11]/p[1]/u[1]/a[1]"
+          },
+          {
+            "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(12) > p > u > a",
+            "text": "Changes to this policy",
+            "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[12]/p[1]/u[1]/a[1]"
+          },
+          {
+            "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > ul:nth-of-type(1) > li:nth-of-type(13) > p > u > a",
+            "text": "Contact us",
+            "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[13]/p[1]/u[1]/a[1]"
+          },
+          {
+            "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > p:nth-of-type(7) > u > a",
+            "text": "dpo@careology.health",
+            "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[7]/u[1]/a[1]"
+          },
+          {
+            "selector": "#info",
+            "text": "Information we collect about you (\"Content\")",
+            "xpath": "//*[@id=\"info\"]"
+          },
+          {
+            "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > p:nth-of-type(17) > u > a",
+            "text": "\"Your rights\".",
+            "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[17]/u[1]/a[1]"
+          },
+          {
+            "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > p:nth-of-type(26) > u > a",
+            "text": "support@careology.health",
+            "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[26]/u[1]/a[1]"
+          },
+          {
+            "selector": "#keeping-info",
+            "text": "How long do we keep your information for",
+            "xpath": "//*[@id=\"keeping-info\"]"
+          },
+          {
+            "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > p:nth-of-type(49) > u:nth-of-type(2) > a",
+            "text": "http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.html",
+            "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[49]/u[2]/a[1]"
+          },
+          {
+            "selector": "#contact-us",
+            "text": "Contact Us",
+            "xpath": "//*[@id=\"contact-us\"]"
+          },
+          {
+            "selector": "div.z-0.relative:nth-of-type(2) > div:nth-of-type(1) > div.bg-w.h-full.w-full.relative.md:px-10.lg:px-20.px-5:nth-of-type(2) > div.max-w-8xl.mx-auto.-mt-20.pt-2.pb-20 > div.max-w-8xl.mx-auto.rounded-2xl.shadow-[0px_7px_40px_0px_rgba(0,0,0,0.10)].-mt-44.bg-white-500.bg-linen > div.px-5.py-5.md:py-10.md:px-28.prose.prose-h2:font-neulis.prose-h3:font-neulis.text-violet-950.prose-a:text-violet-500.prose-h2:text-blue-900.prose-strong:font-neulis.prose-p:text-violet-950.prose-strong:text-violet-950 > div > p:nth-of-type(55) > u > a",
+            "text": "GDPR@careology.health",
+            "xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[55]/u[1]/a[1]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 233,
+      "passAA": 210,
+      "passAAA": 209,
+      "failAA": 23,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 1,
+      "affectedElements": 23,
+      "oneOffIssues": 0
+    },
+    "healthScore": 90,
+    "scannedAt": "2026-08-03T23:23:19.880Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 23 violation(s)
+

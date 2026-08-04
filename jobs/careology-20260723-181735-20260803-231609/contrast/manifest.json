@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.careology.health-en-gb",
+    "url": "https://www.careology.health/en-gb",
+    "title": "Careology | Empowering Decisions with Digital Cancer Care",
+    "json": "www.careology.health-en-gb.json",
+    "report": "www.careology.health-en-gb.json",
+    "ok": true
+  },
+  {
+    "page": "www.careology.health-en-gb-about",
+    "url": "https://www.careology.health/en-gb/about",
+    "title": "About: Pioneering Digital Cancer Care Solutions | Careology",
+    "json": "www.careology.health-en-gb-about.json",
+    "report": "www.careology.health-en-gb-about.json",
+    "ok": true
+  },
+  {
+    "page": "www.careology.health-en-gb-contact",
+    "url": "https://www.careology.health/en-gb/contact",
+    "title": "Contact: Get in Touch with Our Team or Book a Demo | Careology",
+    "json": "www.careology.health-en-gb-contact.json",
+    "report": "www.careology.health-en-gb-contact.json",
+    "ok": true
+  },
+  {
+    "page": "www.careology.health-en-gb-solutions-patients",
+    "url": "https://www.careology.health/en-gb/solutions/patients",
+    "title": "Transforming Cancer Care for Patients | Careology",
+    "json": "www.careology.health-en-gb-solutions-patients.json",
+    "report": "www.careology.health-en-gb-solutions-patients.json",
+    "ok": true
+  },
+  {
+    "page": "www.careology.health-en-gb-privacy",
+    "url": "https://www.careology.health/en-gb/privacy",
+    "title": "Privacy Policy | Careology",
+    "json": "www.careology.health-en-gb-privacy.json",
+    "report": "www.careology.health-en-gb-privacy.json",
+    "ok": true
+  }
+]

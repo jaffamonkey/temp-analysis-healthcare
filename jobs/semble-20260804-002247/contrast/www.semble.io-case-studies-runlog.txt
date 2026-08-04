@@ -1,0 +1,1895 @@
+Starting contrast check for https://www.semble.io/case-studies
+
+--- STDOUT ---
+ℹ Scanning: https://www.semble.io/case-studies
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://www.semble.io/case-studies
+[
+  {
+    "url": "https://www.semble.io/case-studies",
+    "title": "Case Studies Library",
+    "pairs": [
+      {
+        "text": "Platform",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(1) > nav.platform-dropdown-open.w-dropdown-list > div.platform-dropdown-open.v2 > div.platform-box-v2:nth-of-type(2) > div.dropdowntitle:nth-of-type(1) > div.platformsectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[2]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Our Solution",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(3) > nav.solution-dropdown.w-dropdown-list > div.solution-dropdown-open.v2 > div.solution-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.solutionsectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-2\"]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Resources",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(5) > nav.resources-dropdown.w-dropdown-list > div.resources-dropdown-open.v2 > div.resources-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.resourcessectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-4\"]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Reduce admin",
+        "tag": "span",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(1) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+        "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[1]/label[1]/span[1]",
+        "boundingRect": {
+          "x": 251.203125,
+          "y": 1513.453125,
+          "width": 116.078125,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 112,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707070",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.1542607330816127
+        }
+      },
+      {
+        "text": "Patient experience",
+        "tag": "span",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(2) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+        "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[2]/label[1]/span[1]",
+        "boundingRect": {
+          "x": 445.28125,
+          "y": 1513.453125,
+          "width": 154.296875,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 112,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707070",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.1542607330816127
+        }
+      },
+      {
+        "text": "Grow services",
+        "tag": "span",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(3) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+        "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[3]/label[1]/span[1]",
+        "boundingRect": {
+          "x": 677.578125,
+          "y": 1513.453125,
+          "width": 115.875,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 112,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707070",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.1542607330816127
+        }
+      },
+      {
+        "text": "Grow your practice",
+        "tag": "span",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(4) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+        "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[4]/label[1]/span[1]",
+        "boundingRect": {
+          "x": 871.453125,
+          "y": 1513.453125,
+          "width": 157.328125,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 112,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707070",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.1542607330816127
+        }
+      },
+      {
+        "text": "Invoice & payments",
+        "tag": "span",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(5) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+        "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[5]/label[1]/span[1]",
+        "boundingRect": {
+          "x": 147.140625,
+          "y": 1584.453125,
+          "width": 162.03125,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 112,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707070",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.1542607330816127
+        }
+      },
+      {
+        "text": "Integrations & API",
+        "tag": "span",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(6) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+        "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[6]/label[1]/span[1]",
+        "boundingRect": {
+          "x": 387.171875,
+          "y": 1584.453125,
+          "width": 147.234375,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 112,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707070",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.1542607330816127
+        }
+      },
+      {
+        "text": "Telehealth & patient engagement",
+        "tag": "span",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(7) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+        "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[7]/label[1]/span[1]",
+        "boundingRect": {
+          "x": 612.40625,
+          "y": 1584.453125,
+          "width": 272.40625,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 112,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707070",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.1542607330816127
+        }
+      },
+      {
+        "text": "Patient management",
+        "tag": "span",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(8) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+        "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[8]/label[1]/span[1]",
+        "boundingRect": {
+          "x": 962.8125,
+          "y": 1584.453125,
+          "width": 170.03125,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 112,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707070",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.1542607330816127
+        }
+      },
+      {
+        "text": "Data migration",
+        "tag": "span",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(9) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+        "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[9]/label[1]/span[1]",
+        "boundingRect": {
+          "x": 579.390625,
+          "y": 1655.453125,
+          "width": 121.21875,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 112,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707070",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.1542607330816127
+        }
+      },
+      {
+        "text": "Clear All Filters",
+        "tag": "a",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > a.filter-tag.filtertagtext.clear-filters.w-button",
+        "xpath": "//*[@id=\"email-form\"]/a[1]",
+        "boundingRect": {
+          "x": 537.40625,
+          "y": 1704.453125,
+          "width": 200.171875,
+          "height": 54
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 112,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707070",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.1542607330816127
+        }
+      },
+      {
+        "text": "Showing",
+        "tag": "div",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > div.div-block-23:nth-of-type(1) > div:nth-of-type(1)",
+        "xpath": "/html/body/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 527.921875,
+          "y": 1774.453125,
+          "width": 70.09375,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--card",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.68,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.13426073308161268
+        }
+      },
+      {
+        "text": "32",
+        "tag": "div",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "#articles-visible",
+        "xpath": "//*[@id=\"articles-visible\"]",
+        "boundingRect": {
+          "x": 598.015625,
+          "y": 1774.453125,
+          "width": 19.6875,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--card",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.68,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.13426073308161268
+        }
+      },
+      {
+        "text": "out of",
+        "tag": "div",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > div.div-block-23:nth-of-type(1) > div:nth-of-type(3)",
+        "xpath": "/html/body/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+        "boundingRect": {
+          "x": 617.703125,
+          "y": 1774.453125,
+          "width": 56.625,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--card",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.68,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.13426073308161268
+        }
+      },
+      {
+        "text": "results",
+        "tag": "div",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > div.div-block-23:nth-of-type(1) > div:nth-of-type(5)",
+        "xpath": "/html/body/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]",
+        "boundingRect": {
+          "x": 694.015625,
+          "y": 1774.453125,
+          "width": 58.046875,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--card",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.68,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.13426073308161268
+        }
+      }
+    ],
+    "violations": [
+      {
+        "text": "Platform",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(1) > nav.platform-dropdown-open.w-dropdown-list > div.platform-dropdown-open.v2 > div.platform-box-v2:nth-of-type(2) > div.dropdowntitle:nth-of-type(1) > div.platformsectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[2]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Our Solution",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(3) > nav.solution-dropdown.w-dropdown-list > div.solution-dropdown-open.v2 > div.solution-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.solutionsectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-2\"]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Resources",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(5) > nav.resources-dropdown.w-dropdown-list > div.resources-dropdown-open.v2 > div.resources-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.resourcessectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-4\"]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Reduce admin",
+        "tag": "span",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(1) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+        "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[1]/label[1]/span[1]",
+        "boundingRect": {
+          "x": 251.203125,
+          "y": 1513.453125,
+          "width": 116.078125,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 112,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707070",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.1542607330816127
+        }
+      },
+      {
+        "text": "Patient experience",
+        "tag": "span",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(2) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+        "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[2]/label[1]/span[1]",
+        "boundingRect": {
+          "x": 445.28125,
+          "y": 1513.453125,
+          "width": 154.296875,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 112,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707070",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.1542607330816127
+        }
+      },
+      {
+        "text": "Grow services",
+        "tag": "span",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(3) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+        "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[3]/label[1]/span[1]",
+        "boundingRect": {
+          "x": 677.578125,
+          "y": 1513.453125,
+          "width": 115.875,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 112,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707070",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.1542607330816127
+        }
+      },
+      {
+        "text": "Grow your practice",
+        "tag": "span",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(4) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+        "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[4]/label[1]/span[1]",
+        "boundingRect": {
+          "x": 871.453125,
+          "y": 1513.453125,
+          "width": 157.328125,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 112,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707070",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.1542607330816127
+        }
+      },
+      {
+        "text": "Invoice & payments",
+        "tag": "span",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(5) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+        "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[5]/label[1]/span[1]",
+        "boundingRect": {
+          "x": 147.140625,
+          "y": 1584.453125,
+          "width": 162.03125,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 112,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707070",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.1542607330816127
+        }
+      },
+      {
+        "text": "Integrations & API",
+        "tag": "span",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(6) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+        "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[6]/label[1]/span[1]",
+        "boundingRect": {
+          "x": 387.171875,
+          "y": 1584.453125,
+          "width": 147.234375,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 112,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707070",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.1542607330816127
+        }
+      },
+      {
+        "text": "Telehealth & patient engagement",
+        "tag": "span",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(7) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+        "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[7]/label[1]/span[1]",
+        "boundingRect": {
+          "x": 612.40625,
+          "y": 1584.453125,
+          "width": 272.40625,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 112,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707070",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.1542607330816127
+        }
+      },
+      {
+        "text": "Patient management",
+        "tag": "span",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(8) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+        "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[8]/label[1]/span[1]",
+        "boundingRect": {
+          "x": 962.8125,
+          "y": 1584.453125,
+          "width": 170.03125,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 112,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707070",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.1542607330816127
+        }
+      },
+      {
+        "text": "Data migration",
+        "tag": "span",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(9) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+        "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[9]/label[1]/span[1]",
+        "boundingRect": {
+          "x": 579.390625,
+          "y": 1655.453125,
+          "width": 121.21875,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 112,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707070",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.1542607330816127
+        }
+      },
+      {
+        "text": "Clear All Filters",
+        "tag": "a",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(246, 245, 243)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > a.filter-tag.filtertagtext.clear-filters.w-button",
+        "xpath": "//*[@id=\"email-form\"]/a[1]",
+        "boundingRect": {
+          "x": 537.40625,
+          "y": 1704.453125,
+          "width": 200.171875,
+          "height": 54
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--background",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 243,
+          "a": 1
+        },
+        "contrastRatio": 2.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 112,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707070",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.1542607330816127
+        }
+      },
+      {
+        "text": "Showing",
+        "tag": "div",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > div.div-block-23:nth-of-type(1) > div:nth-of-type(1)",
+        "xpath": "/html/body/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 527.921875,
+          "y": 1774.453125,
+          "width": 70.09375,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--card",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.68,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.13426073308161268
+        }
+      },
+      {
+        "text": "32",
+        "tag": "div",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "#articles-visible",
+        "xpath": "//*[@id=\"articles-visible\"]",
+        "boundingRect": {
+          "x": 598.015625,
+          "y": 1774.453125,
+          "width": 19.6875,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--card",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.68,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.13426073308161268
+        }
+      },
+      {
+        "text": "out of",
+        "tag": "div",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > div.div-block-23:nth-of-type(1) > div:nth-of-type(3)",
+        "xpath": "/html/body/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+        "boundingRect": {
+          "x": 617.703125,
+          "y": 1774.453125,
+          "width": 56.625,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--card",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.68,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.13426073308161268
+        }
+      },
+      {
+        "text": "results",
+        "tag": "div",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > div.div-block-23:nth-of-type(1) > div:nth-of-type(5)",
+        "xpath": "/html/body/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]",
+        "boundingRect": {
+          "x": 694.015625,
+          "y": 1774.453125,
+          "width": 58.046875,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-300",
+        "bgVar": "--_apps---colors--card",
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.68,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.13426073308161268
+        }
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--_colour-tints---mid-green-tint-2",
+        "property": "color",
+        "currentValue": "rgb(39, 171, 133)",
+        "currentHex": "#27ab85",
+        "againstVariable": null,
+        "againstValue": "rgb(250, 251, 252)",
+        "againstHex": "#fafbfc",
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 3,
+        "suggestedFix": {
+          "variable": "--_colour-tints---mid-green-tint-2",
+          "newValue": "color(srgb -0.158 0.515 0.375)",
+          "newHex": "#008360",
+          "contrastRatio": 4.59,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(1) > nav.platform-dropdown-open.w-dropdown-list > div.platform-dropdown-open.v2 > div.platform-box-v2:nth-of-type(2) > div.dropdowntitle:nth-of-type(1) > div.platformsectiontitle",
+            "text": "Platform",
+            "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[2]/div[1]/div[1]"
+          },
+          {
+            "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(3) > nav.solution-dropdown.w-dropdown-list > div.solution-dropdown-open.v2 > div.solution-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.solutionsectiontitle",
+            "text": "Our Solution",
+            "xpath": "//*[@id=\"w-dropdown-list-2\"]/div[1]/div[1]/div[1]/div[1]"
+          },
+          {
+            "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(5) > nav.resources-dropdown.w-dropdown-list > div.resources-dropdown-open.v2 > div.resources-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.resourcessectiontitle",
+            "text": "Resources",
+            "xpath": "//*[@id=\"w-dropdown-list-4\"]/div[1]/div[1]/div[1]/div[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--_colour-greys---grey-300",
+        "property": "color",
+        "currentValue": "rgb(158, 158, 158)",
+        "currentHex": "#9e9e9e",
+        "againstVariable": "--_apps---colors--background",
+        "againstValue": "rgb(246, 245, 243)",
+        "againstHex": "#f6f5f3",
+        "contrastRatio": 2.46,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 10,
+        "suggestedFix": {
+          "variable": "--_colour-greys---grey-300",
+          "newValue": "color(srgb 0.439 0.439 0.439)",
+          "newHex": "#707070",
+          "contrastRatio": 4.55,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(1) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+            "text": "Reduce admin",
+            "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[1]/label[1]/span[1]"
+          },
+          {
+            "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(2) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+            "text": "Patient experience",
+            "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[2]/label[1]/span[1]"
+          },
+          {
+            "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(3) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+            "text": "Grow services",
+            "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[3]/label[1]/span[1]"
+          },
+          {
+            "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(4) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+            "text": "Grow your practice",
+            "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[4]/label[1]/span[1]"
+          },
+          {
+            "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(5) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+            "text": "Invoice & payments",
+            "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[5]/label[1]/span[1]"
+          },
+          {
+            "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(6) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+            "text": "Integrations & API",
+            "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[6]/label[1]/span[1]"
+          },
+          {
+            "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(7) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+            "text": "Telehealth & patient engagement",
+            "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[7]/label[1]/span[1]"
+          },
+          {
+            "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(8) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+            "text": "Patient management",
+            "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[8]/label[1]/span[1]"
+          },
+          {
+            "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > div.w-dyn-list > div.filtercollectionlist.w-dyn-items > div.w-dyn-item:nth-of-type(9) > label.w-checkbox.filter-tag > span.filtertagtext.w-form-label",
+            "text": "Data migration",
+            "xpath": "//*[@id=\"email-form\"]/div[1]/div[1]/div[9]/label[1]/span[1]"
+          },
+          {
+            "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > form.filterform > a.filter-tag.filtertagtext.clear-filters.w-button",
+            "text": "Clear All Filters",
+            "xpath": "//*[@id=\"email-form\"]/a[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--_colour-greys---grey-300",
+        "property": "color",
+        "currentValue": "rgb(158, 158, 158)",
+        "currentHex": "#9e9e9e",
+        "againstVariable": "--_apps---colors--card",
+        "againstValue": "rgb(255, 255, 255)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 2.68,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 4,
+        "suggestedFix": {
+          "variable": "--_colour-greys---grey-300",
+          "newValue": "color(srgb 0.462 0.462 0.462)",
+          "newHex": "#767676",
+          "contrastRatio": 4.54,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > div.div-block-23:nth-of-type(1) > div:nth-of-type(1)",
+            "text": "Showing",
+            "xpath": "/html/body/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+          },
+          {
+            "selector": "#articles-visible",
+            "text": "32",
+            "xpath": "//*[@id=\"articles-visible\"]"
+          },
+          {
+            "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > div.div-block-23:nth-of-type(1) > div:nth-of-type(3)",
+            "text": "out of",
+            "xpath": "/html/body/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+          },
+          {
+            "selector": "div.component-resourcelibrary-casestudy:nth-of-type(6) > div.bob.nav > div.resourceinternal > div.resourcelibrary-filtersection:nth-of-type(1) > div.w-form.w-form-loading > div.div-block-23:nth-of-type(1) > div:nth-of-type(5)",
+            "text": "results",
+            "xpath": "/html/body/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 424,
+      "passAA": 407,
+      "passAAA": 406,
+      "failAA": 17,
+      "failAAA": 17
+    },
+    "variableStats": {
+      "uniqueIssues": 3,
+      "affectedElements": 17,
+      "oneOffIssues": 0
+    },
+    "healthScore": 96,
+    "scannedAt": "2026-08-04T00:25:29.177Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 17 violation(s)
+

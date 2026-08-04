@@ -1,0 +1,42 @@
+[
+  {
+    "page": "tympahealth.com",
+    "url": "https://tympahealth.com/",
+    "title": "TympaHealth: Making Ear and Hearing Healthcare Accessible to All",
+    "json": "tympahealth.com.json",
+    "report": "tympahealth.com.json",
+    "ok": true
+  },
+  {
+    "page": "tympahealth.com-about-us",
+    "url": "https://tympahealth.com/about-us/",
+    "title": "About TympaHealth | Ear & Hearing Health Innovation",
+    "json": "tympahealth.com-about-us.json",
+    "report": "tympahealth.com-about-us.json",
+    "ok": true
+  },
+  {
+    "page": "tympahealth.com-contact",
+    "url": "https://tympahealth.com/contact/",
+    "title": "Contact TympaHealth - Ear & Hearing Health Support",
+    "json": "tympahealth.com-contact.json",
+    "report": "tympahealth.com-contact.json",
+    "ok": true
+  },
+  {
+    "page": "tympahealth.com-system",
+    "url": "https://tympahealth.com/system/",
+    "title": "Access Restricted | Shield Security PRO",
+    "json": "tympahealth.com-system.json",
+    "report": "tympahealth.com-system.json",
+    "ok": true
+  },
+  {
+    "page": "tympahealth.com-privacy-policy",
+    "url": "https://tympahealth.com/privacy-policy/",
+    "title": "https://tympahealth.com/privacy-policy/",
+    "json": "tympahealth.com-privacy-policy.json",
+    "report": "tympahealth.com-privacy-policy.json",
+    "ok": true
+  }
+]

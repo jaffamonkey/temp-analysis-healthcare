@@ -1,0 +1,35 @@
+Starting contrast check for https://www.betterhelp.com/about/
+
+--- STDOUT ---
+ℹ Scanning: https://www.betterhelp.com/about/
+ℹ Scanning page 1/1: https://www.betterhelp.com/about/
+[
+  {
+    "url": "https://www.betterhelp.com/about/",
+    "title": "About Us - The Largest Online Therapy Provider | BetterHelp",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 75,
+      "passAA": 75,
+      "passAAA": 53,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-08-03T23:12:49.045Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 1 page(s)
+

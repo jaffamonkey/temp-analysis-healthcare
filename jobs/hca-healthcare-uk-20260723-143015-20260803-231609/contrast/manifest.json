@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.hcahealthcare.co.uk",
+    "url": "https://www.hcahealthcare.co.uk/",
+    "title": "HCA Healthcare UK | Private Hospitals in the UK",
+    "json": "www.hcahealthcare.co.uk.json",
+    "report": "www.hcahealthcare.co.uk.json",
+    "ok": true
+  },
+  {
+    "page": "www.hcahealthcare.co.uk-about-us",
+    "url": "https://www.hcahealthcare.co.uk/about-us",
+    "title": "About HCA UK",
+    "json": "www.hcahealthcare.co.uk-about-us.json",
+    "report": "www.hcahealthcare.co.uk-about-us.json",
+    "ok": true
+  },
+  {
+    "page": "www.hcahealthcare.co.uk-contact-us",
+    "url": "https://www.hcahealthcare.co.uk/contact-us",
+    "title": "Contact us at HCA Healthcare UK",
+    "json": "www.hcahealthcare.co.uk-contact-us.json",
+    "report": "www.hcahealthcare.co.uk-contact-us.json",
+    "ok": true
+  },
+  {
+    "page": "www.hcahealthcare.co.uk-locations",
+    "url": "https://www.hcahealthcare.co.uk/locations",
+    "title": "Our Locations | Private Hospitals & Clinics | HCA UK",
+    "json": "www.hcahealthcare.co.uk-locations.json",
+    "report": "www.hcahealthcare.co.uk-locations.json",
+    "ok": true
+  },
+  {
+    "page": "www.hcahealthcare.co.uk-legal-privacy-policy",
+    "url": "https://www.hcahealthcare.co.uk/legal/privacy-policy",
+    "title": "Our privacy policy",
+    "json": "www.hcahealthcare.co.uk-legal-privacy-policy.json",
+    "report": "www.hcahealthcare.co.uk-legal-privacy-policy.json",
+    "ok": true
+  }
+]

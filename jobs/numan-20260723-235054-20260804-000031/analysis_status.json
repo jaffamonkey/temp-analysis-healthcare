@@ -1,0 +1,13 @@
+{
+  "job_id": "numan-20260723-235054-20260804-000031",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/numan-20260723-235054-20260804-000031/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/numan-20260723-235054-20260804-000031/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/numan-20260723-235054-20260804-000031/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/numan-20260723-235054-20260804-000031/analysis/accessibility_analysis.xlsx",
+  "violations": 821,
+  "pages": 5,
+  "screenshots": {
+    "job_id": "numan-20260723-235054-20260804-000031",
+    "message": "Artifacts processed"
+  }
+}

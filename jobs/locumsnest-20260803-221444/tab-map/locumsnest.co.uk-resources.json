@@ -1,0 +1,26 @@
+{
+  "tool": "tab-map",
+  "url": "https://locumsnest.co.uk/resources",
+  "landed_url": "https://locumsnest.co.uk/resources",
+  "title": "Resources — Locum's Nest | Your total workforce solution",
+  "page": "locumsnest.co.uk-resources",
+  "captured_at": "2026-08-03T22:18:58.935Z",
+  "focusable_count": 38,
+  "frame_count": 1,
+  "same_origin_frame_count": 1,
+  "cross_origin_frame_count": 0,
+  "image": "locumsnest.co.uk-resources.png",
+  "preview_image": "locumsnest.co.uk-resources.png",
+  "preview_dir": "visual-preview",
+  "json": "locumsnest.co.uk-resources.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Accept All"
+    },
+    {
+      "action": "removed",
+      "detail": "1 overlay(s)"
+    }
+  ]
+}

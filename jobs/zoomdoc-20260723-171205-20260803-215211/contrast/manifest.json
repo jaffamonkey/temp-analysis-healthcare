@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.zoomdoc.com",
+    "url": "https://www.zoomdoc.com/",
+    "title": "ZoomDoc Health: Trusted Medical Letters and Certificates",
+    "json": "www.zoomdoc.com.json",
+    "report": "www.zoomdoc.com.json",
+    "ok": true
+  },
+  {
+    "page": "www.zoomdoc.com-about",
+    "url": "https://www.zoomdoc.com/about",
+    "title": "About Us - ZoomDoc Health",
+    "json": "www.zoomdoc.com-about.json",
+    "report": "www.zoomdoc.com-about.json",
+    "ok": true
+  },
+  {
+    "page": "www.zoomdoc.com-contact-us",
+    "url": "https://www.zoomdoc.com/contact-us",
+    "title": "Contact Us - ZoomDoc Health",
+    "json": "www.zoomdoc.com-contact-us.json",
+    "report": "www.zoomdoc.com-contact-us.json",
+    "ok": true
+  },
+  {
+    "page": "www.zoomdoc.com-product-category-visa-medical-certificates",
+    "url": "https://www.zoomdoc.com/product-category/visa-medical-certificates",
+    "title": "Visa Medical Certificates - ZoomDoc Health",
+    "json": "www.zoomdoc.com-product-category-visa-medical-certificates.json",
+    "report": "www.zoomdoc.com-product-category-visa-medical-certificates.json",
+    "ok": true
+  },
+  {
+    "page": "www.zoomdoc.com-privacy-policy",
+    "url": "https://www.zoomdoc.com/privacy-policy",
+    "title": "Privacy Policy - ZoomDoc Health",
+    "json": "www.zoomdoc.com-privacy-policy.json",
+    "report": "www.zoomdoc.com-privacy-policy.json",
+    "ok": true
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.coloplast.co.uk/",
+  "landed_url": "https://www.coloplast.co.uk/",
+  "title": "Access Denied",
+  "page": "www.coloplast.co.uk",
+  "captured_at": "2026-08-04T00:03:56.212Z",
+  "focusable_count": 0,
+  "frame_count": 0,
+  "same_origin_frame_count": 0,
+  "cross_origin_frame_count": 0,
+  "image": "www.coloplast.co.uk.png",
+  "preview_image": "www.coloplast.co.uk.png",
+  "preview_dir": "visual-preview",
+  "json": "www.coloplast.co.uk.json",
+  "consent_actions": []
+}

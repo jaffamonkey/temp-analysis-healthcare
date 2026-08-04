@@ -1,0 +1,17 @@
+{
+  "tool": "tab-map",
+  "url": "https://anya.health/about-us/",
+  "landed_url": "https://anya.health/about-us/",
+  "title": "About Us - Healthcare Innovators",
+  "page": "anya.health-about-us",
+  "captured_at": "2026-08-03T22:44:49.507Z",
+  "focusable_count": 49,
+  "frame_count": 1,
+  "same_origin_frame_count": 1,
+  "cross_origin_frame_count": 0,
+  "image": "anya.health-about-us.png",
+  "preview_image": "anya.health-about-us.png",
+  "preview_dir": "visual-preview",
+  "json": "anya.health-about-us.json",
+  "consent_actions": []
+}

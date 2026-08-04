@@ -1,0 +1,112 @@
+[
+  {
+    "tool": "tab-map",
+    "url": "https://www.levaclinic.com/about",
+    "landed_url": "https://www.levaclinic.com/about",
+    "title": "Leva Clinic | About us | Find pain-life balance",
+    "page": "www.levaclinic.com-about",
+    "captured_at": "2026-08-03T21:57:20.639Z",
+    "focusable_count": 32,
+    "frame_count": 3,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 2,
+    "image": "www.levaclinic.com-about.png",
+    "preview_image": "www.levaclinic.com-about.png",
+    "preview_dir": "visual-preview",
+    "json": "www.levaclinic.com-about.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Allow all"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.levaclinic.com/",
+    "landed_url": "https://www.levaclinic.com/",
+    "title": "Treat your chronic pain with Leva pain management clinic",
+    "page": "www.levaclinic.com",
+    "captured_at": "2026-08-03T21:57:20.598Z",
+    "focusable_count": 79,
+    "frame_count": 7,
+    "same_origin_frame_count": 6,
+    "cross_origin_frame_count": 1,
+    "image": "www.levaclinic.com.png",
+    "preview_image": "www.levaclinic.com.png",
+    "preview_dir": "visual-preview",
+    "json": "www.levaclinic.com.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Allow all"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.levaclinic.com/contact-us",
+    "landed_url": "https://www.levaclinic.com/contact-us",
+    "title": "Leva Clinic | Contact us",
+    "page": "www.levaclinic.com-contact-us",
+    "captured_at": "2026-08-03T21:57:42.998Z",
+    "focusable_count": 32,
+    "frame_count": 2,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 1,
+    "image": "www.levaclinic.com-contact-us.png",
+    "preview_image": "www.levaclinic.com-contact-us.png",
+    "preview_dir": "visual-preview",
+    "json": "www.levaclinic.com-contact-us.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Allow all"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.levaclinic.com/discover-cannabinoid-based-medication",
+    "landed_url": "https://www.levaclinic.com/discover-cannabinoid-based-medication",
+    "title": "Discover cannabis-based medication | Leva Clinic",
+    "page": "www.levaclinic.com-discover-cannabinoid-based-medication",
+    "captured_at": "2026-08-03T21:57:42.997Z",
+    "focusable_count": 44,
+    "frame_count": 3,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 2,
+    "image": "www.levaclinic.com-discover-cannabinoid-based-medication.png",
+    "preview_image": "www.levaclinic.com-discover-cannabinoid-based-medication.png",
+    "preview_dir": "visual-preview",
+    "json": "www.levaclinic.com-discover-cannabinoid-based-medication.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Allow all"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.levaclinic.com/privacy-policy",
+    "landed_url": "https://www.levaclinic.com/privacy-policy",
+    "title": "Leva Clinic - Privacy Policy",
+    "page": "www.levaclinic.com-privacy-policy",
+    "captured_at": "2026-08-03T21:57:48.562Z",
+    "focusable_count": 29,
+    "frame_count": 2,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 1,
+    "image": "www.levaclinic.com-privacy-policy.png",
+    "preview_image": "www.levaclinic.com-privacy-policy.png",
+    "preview_dir": "visual-preview",
+    "json": "www.levaclinic.com-privacy-policy.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Allow all"
+      }
+    ]
+  }
+]

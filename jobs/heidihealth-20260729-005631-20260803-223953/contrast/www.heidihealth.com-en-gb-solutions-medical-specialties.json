@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://www.heidihealth.com/en-gb/solutions/medical-specialties",
+    "title": "Best AI Care Partner for Medical Specialists - Heidi",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 128,
+      "passAA": 128,
+      "passAAA": 116,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-08-03T22:46:07.166Z"
+  }
+]

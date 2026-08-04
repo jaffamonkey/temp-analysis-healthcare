@@ -1,0 +1,26 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.numan.com/diagnostics",
+  "landed_url": "https://www.numan.com/diagnostics",
+  "title": "Blood Test Package | Online Blood Test UK",
+  "page": "www.numan.com-diagnostics",
+  "captured_at": "2026-08-04T00:06:36.259Z",
+  "focusable_count": 137,
+  "frame_count": 10,
+  "same_origin_frame_count": 1,
+  "cross_origin_frame_count": 9,
+  "image": "www.numan.com-diagnostics.png",
+  "preview_image": "www.numan.com-diagnostics.png",
+  "preview_dir": "visual-preview",
+  "json": "www.numan.com-diagnostics.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Accept All"
+    },
+    {
+      "action": "removed",
+      "detail": "1 overlay(s)"
+    }
+  ]
+}

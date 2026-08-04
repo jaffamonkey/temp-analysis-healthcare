@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.betterhelp.com",
+    "url": "https://www.betterhelp.com/",
+    "title": "BetterHelp | Professional Therapy With A Licensed Therapist",
+    "json": "www.betterhelp.com.json",
+    "report": "www.betterhelp.com.json",
+    "ok": true
+  },
+  {
+    "page": "www.betterhelp.com-about",
+    "url": "https://www.betterhelp.com/about/",
+    "title": "About Us - The Largest Online Therapy Provider | BetterHelp",
+    "json": "www.betterhelp.com-about.json",
+    "report": "www.betterhelp.com-about.json",
+    "ok": true
+  },
+  {
+    "page": "www.betterhelp.com-faq",
+    "url": "https://www.betterhelp.com/faq/",
+    "title": "FAQ - Get Answers To Common Questions About Therapy | BetterHelp",
+    "json": "www.betterhelp.com-faq.json",
+    "report": "www.betterhelp.com-faq.json",
+    "ok": true
+  },
+  {
+    "page": "www.betterhelp.com-advice",
+    "url": "https://www.betterhelp.com/advice/",
+    "title": "Advice | Definitions, Research, Treatment, News, Mental Health Awareness, And Advice",
+    "json": "www.betterhelp.com-advice.json",
+    "report": "www.betterhelp.com-advice.json",
+    "ok": true
+  },
+  {
+    "page": "www.betterhelp.com-careers",
+    "url": "https://www.betterhelp.com/careers/",
+    "title": "Careers | Betterhelp",
+    "json": "www.betterhelp.com-careers.json",
+    "report": "www.betterhelp.com-careers.json",
+    "ok": true
+  }
+]

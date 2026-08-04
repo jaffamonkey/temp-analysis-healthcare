@@ -1,0 +1,50 @@
+[
+  {
+    "page": "tandemhealth.ai",
+    "url": "https://tandemhealth.ai/",
+    "title": "Your AI assistant for every step of care | Tandem Health",
+    "json": "tandemhealth.ai.json",
+    "report": "tandemhealth.ai.json",
+    "ok": true
+  },
+  {
+    "page": "tandemhealth.ai-product-overview",
+    "url": "https://tandemhealth.ai/product/overview",
+    "title": "Clinical AI for every step of care | Tandem Health",
+    "json": "tandemhealth.ai-product-overview.json",
+    "report": "tandemhealth.ai-product-overview.json",
+    "ok": true
+  },
+  {
+    "page": "tandemhealth.ai-product-ai-scribe",
+    "url": "https://tandemhealth.ai/product/ai-scribe",
+    "title": "AI scribe for clinical documentation | Tandem Health",
+    "json": "tandemhealth.ai-product-ai-scribe.json",
+    "report": "tandemhealth.ai-product-ai-scribe.json",
+    "ok": true
+  },
+  {
+    "page": "tandemhealth.ai-product-coding-assistant",
+    "url": "https://tandemhealth.ai/product/coding-assistant",
+    "title": "Coding Assistant for Snomed CT, ICD-10, KVÅ, ICPC-2 | Tandem Health",
+    "json": "tandemhealth.ai-product-coding-assistant.json",
+    "report": "tandemhealth.ai-product-coding-assistant.json",
+    "ok": true
+  },
+  {
+    "page": "tandemhealth.ai-about-our-story",
+    "url": "https://tandemhealth.ai/about/our-story",
+    "title": "Our role in modern healthcare | Tandem Health",
+    "json": "tandemhealth.ai-about-our-story.json",
+    "report": "tandemhealth.ai-about-our-story.json",
+    "ok": true
+  },
+  {
+    "page": "tandemhealth.ai-contact-us",
+    "url": "https://tandemhealth.ai/contact-us",
+    "title": "Contact Tandem Health | Get in touch",
+    "json": "tandemhealth.ai-contact-us.json",
+    "report": "tandemhealth.ai-contact-us.json",
+    "ok": true
+  }
+]

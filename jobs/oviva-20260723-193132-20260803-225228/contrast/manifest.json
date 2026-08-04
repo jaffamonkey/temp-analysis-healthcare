@@ -1,0 +1,35 @@
+[
+  {
+    "page": "oviva.com-uk-en",
+    "url": "https://oviva.com/uk/en/",
+    "title": "Medical weight loss - covered by the NHS | Sign up with Oviva",
+    "json": "oviva.com-uk-en.json",
+    "report": "oviva.com-uk-en.json",
+    "ok": true
+  },
+  {
+    "page": "oviva.com-global-en-about-us",
+    "url": "https://oviva.com/global/en/about-us/",
+    "title": "About us | Oviva Group",
+    "json": "oviva.com-global-en-about-us.json",
+    "report": "oviva.com-global-en-about-us.json",
+    "ok": true
+  },
+  {
+    "page": "uk.support.oviva.com-s",
+    "url": "https://uk.support.oviva.com/s/",
+    "title": "uk.support.oviva.com-s",
+    "json": "uk.support.oviva.com-s.json",
+    "report": "uk.support.oviva.com-s.json",
+    "ok": false,
+    "error": "Failed to extract valid JSON from contrast tool stdout. Exit status: 1"
+  },
+  {
+    "page": "oviva.com-uk-en-how-it-works",
+    "url": "https://oviva.com/uk/en/how-it-works/",
+    "title": "How it works | Oviva UK | Join us",
+    "json": "oviva.com-uk-en-how-it-works.json",
+    "report": "oviva.com-uk-en-how-it-works.json",
+    "ok": true
+  }
+]

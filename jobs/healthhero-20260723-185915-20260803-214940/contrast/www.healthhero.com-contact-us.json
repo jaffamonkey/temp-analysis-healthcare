@@ -1,0 +1,1858 @@
+[
+  {
+    "url": "https://www.healthhero.com/contact-us",
+    "title": "Contact us | HealthHero",
+    "pairs": [
+      {
+        "text": "Contacts",
+        "tag": "a",
+        "color": "rgb(255, 91, 97)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > div.contacts-header:nth-of-type(1) > div.contacts-header-container.container > div.contacts-header-container-right-block > nav.contacts-header-nav > ul.contacts-header-nav-list > li:nth-of-type(5) > a.contacts-header-nav-link.contacts-header-nav-link--active",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[5]/a[1]",
+        "boundingRect": {
+          "x": 923.171875,
+          "y": 61.5,
+          "width": 78.453125,
+          "height": 23
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 91,
+          "b": 97,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.03,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 218,
+            "g": 55,
+            "b": 68,
+            "a": 1
+          },
+          "hex": "#da3744",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.10066718744711034
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Contact us",
+        "tag": "h1",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(62, 142, 239)",
+        "selector": "#hero-title",
+        "xpath": "//*[@id=\"hero-title\"]",
+        "boundingRect": {
+          "x": 67.3125,
+          "y": 319.953125,
+          "width": 590.40625,
+          "height": 60.25
+        },
+        "fontSize": "50.2154px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 62,
+          "g": 142,
+          "b": 239,
+          "a": 1
+        },
+        "contrastRatio": 3.32,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 62,
+            "g": 142,
+            "b": 239,
+            "a": 1
+          },
+          "hex": "#3e8eef",
+          "ratio": 3.32,
+          "property": "background-color",
+          "deltaE": 0.000010686721122366016
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "HealthHero HQ, 3rd Floor, Portman House, 2 Portman Street, London W1H 6DU",
+        "tag": "p",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(62, 142, 239)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > div.page-content:nth-of-type(2) > section.hero.container > div.hero-panel.isContactsPage > div.hero-panel-left > div.hero-text > div > p.hero-subtitle.isContactsPage",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 67.3125,
+          "y": 399.890625,
+          "width": 406.640625,
+          "height": 40
+        },
+        "fontSize": "13.7846px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 62,
+          "g": 142,
+          "b": 239,
+          "a": 1
+        },
+        "contrastRatio": 3.32,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 36,
+            "g": 118,
+            "b": 213,
+            "a": 1
+          },
+          "hex": "#2476d5",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.0749893132788777
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Press Enquiries",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(62, 142, 239)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > div.page-content:nth-of-type(2) > section.hero.container > div.hero-panel.isContactsPage > div.hero-panel-left > div.hero-text > div > a.button.blue.hero-button",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 67.3125,
+          "y": 459.890625,
+          "width": 179.203125,
+          "height": 43
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 62,
+          "g": 142,
+          "b": 239,
+          "a": 1
+        },
+        "contrastRatio": 3.32,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 36,
+            "g": 118,
+            "b": 213,
+            "a": 1
+          },
+          "hex": "#2476d5",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.0749893132788777
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Easthampstead Road, Bracknell, Berkshire, RG12 1YQ, UK",
+        "tag": "span",
+        "color": "rgb(146, 131, 136)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > section.countryGrid.container > article.countryCard:nth-of-type(1) > section.countryCard-body > span.countryCard-address",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/section[1]/article[1]/section[1]/span[1]",
+        "boundingRect": {
+          "x": 69,
+          "y": 739.296875,
+          "width": 516,
+          "height": 19
+        },
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 146,
+          "g": 131,
+          "b": 136,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 129,
+            "g": 115,
+            "b": 120,
+            "a": 1
+          },
+          "hex": "#817378",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.05499245231529848
+        }
+      },
+      {
+        "text": "Fox Talbot House, Greenways Business Park, Bellinger Close, Chippenham, SN15 1BN, UK",
+        "tag": "span",
+        "color": "rgb(146, 131, 136)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > section.countryGrid.container > article.countryCard:nth-of-type(1) > section.countryCard-body > div.countryCard-second-address:nth-of-type(2) > span.countryCard-address",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/section[1]/article[1]/section[1]/div[2]/span[1]",
+        "boundingRect": {
+          "x": 69,
+          "y": 804.296875,
+          "width": 499.25,
+          "height": 42
+        },
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 146,
+          "g": 131,
+          "b": 136,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 129,
+            "g": 115,
+            "b": 120,
+            "a": 1
+          },
+          "hex": "#817378",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.05499245231529848
+        }
+      },
+      {
+        "text": "healthhero.com/uk/",
+        "tag": "a",
+        "color": "rgb(62, 142, 239)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > section.countryGrid.container > article.countryCard:nth-of-type(1) > a.countryCard-link",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/section[1]/article[1]/a[1]",
+        "boundingRect": {
+          "x": 69,
+          "y": 907.296875,
+          "width": 516,
+          "height": 23
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 62,
+          "g": 142,
+          "b": 239,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.32,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 36,
+            "g": 118,
+            "b": 213,
+            "a": 1
+          },
+          "hex": "#2476d5",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.0749893132788777
+        }
+      },
+      {
+        "text": "Münzstrasse 12, 10178 Berlin, Germany",
+        "tag": "span",
+        "color": "rgb(146, 131, 136)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > section.countryGrid.container > article.countryCard:nth-of-type(2) > section.countryCard-body > span.countryCard-address",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/section[1]/article[2]/section[1]/span[1]",
+        "boundingRect": {
+          "x": 695,
+          "y": 739.296875,
+          "width": 516,
+          "height": 19
+        },
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 146,
+          "g": 131,
+          "b": 136,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 129,
+            "g": 115,
+            "b": 120,
+            "a": 1
+          },
+          "hex": "#817378",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.05499245231529848
+        }
+      },
+      {
+        "text": "healthhero.com/de/",
+        "tag": "a",
+        "color": "rgb(62, 142, 239)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > section.countryGrid.container > article.countryCard:nth-of-type(2) > a.countryCard-link",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/section[1]/article[2]/a[1]",
+        "boundingRect": {
+          "x": 695,
+          "y": 907.296875,
+          "width": 516,
+          "height": 23
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 62,
+          "g": 142,
+          "b": 239,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.32,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 36,
+            "g": 118,
+            "b": 213,
+            "a": 1
+          },
+          "hex": "#2476d5",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.0749893132788777
+        }
+      },
+      {
+        "text": "34 rue Laffitte, 75009 Paris, France",
+        "tag": "span",
+        "color": "rgb(146, 131, 136)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > section.countryGrid.container > article.countryCard:nth-of-type(3) > section.countryCard-body > span.countryCard-address",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/section[1]/article[3]/section[1]/span[1]",
+        "boundingRect": {
+          "x": 69,
+          "y": 1170.296875,
+          "width": 516,
+          "height": 19
+        },
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 146,
+          "g": 131,
+          "b": 136,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 129,
+            "g": 115,
+            "b": 120,
+            "a": 1
+          },
+          "hex": "#817378",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.05499245231529848
+        }
+      },
+      {
+        "text": "qare.fr",
+        "tag": "a",
+        "color": "rgb(62, 142, 239)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > section.countryGrid.container > article.countryCard:nth-of-type(3) > a.countryCard-link",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/section[1]/article[3]/a[1]",
+        "boundingRect": {
+          "x": 69,
+          "y": 1338.296875,
+          "width": 516,
+          "height": 23
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 62,
+          "g": 142,
+          "b": 239,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.32,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 36,
+            "g": 118,
+            "b": 213,
+            "a": 1
+          },
+          "hex": "#2476d5",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.0749893132788777
+        }
+      },
+      {
+        "text": "2 Dublin Landings, North Dock, Dublin, DO1 V4A3, Ireland",
+        "tag": "span",
+        "color": "rgb(146, 131, 136)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > section.countryGrid.container > article.countryCard:nth-of-type(4) > section.countryCard-body > span.countryCard-address",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/section[1]/article[4]/section[1]/span[1]",
+        "boundingRect": {
+          "x": 695,
+          "y": 1170.296875,
+          "width": 516,
+          "height": 19
+        },
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 146,
+          "g": 131,
+          "b": 136,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 129,
+            "g": 115,
+            "b": 120,
+            "a": 1
+          },
+          "hex": "#817378",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.05499245231529848
+        }
+      },
+      {
+        "text": "healthhero.ie",
+        "tag": "a",
+        "color": "rgb(62, 142, 239)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > section.countryGrid.container > article.countryCard:nth-of-type(4) > a.countryCard-link",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/section[1]/article[4]/a[1]",
+        "boundingRect": {
+          "x": 695,
+          "y": 1338.296875,
+          "width": 516,
+          "height": 23
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 62,
+          "g": 142,
+          "b": 239,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.32,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 36,
+            "g": 118,
+            "b": 213,
+            "a": 1
+          },
+          "hex": "#2476d5",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.0749893132788777
+        }
+      },
+      {
+        "text": "Home",
+        "tag": "a",
+        "color": "rgb(146, 131, 136)",
+        "background": "rgb(246, 242, 242)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > div.contacts-page-footer:nth-of-type(3) > footer.footer > div.footer-container.footer-top.container:nth-of-type(1) > ul.footer-pages > li:nth-of-type(1) > a.footer-logo",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/div[3]/footer[1]/div[1]/ul[1]/li[1]/a[1]",
+        "boundingRect": {
+          "x": 619.28125,
+          "y": 1542.296875,
+          "width": 64.1875,
+          "height": 30
+        },
+        "fontSize": "21px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 146,
+          "g": 131,
+          "b": 136,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 242,
+          "b": 242,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 121,
+            "g": 106,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#796a6f",
+          "ratio": 4.61,
+          "property": "color",
+          "deltaE": 0.0849924523152985
+        }
+      },
+      {
+        "text": "Technology",
+        "tag": "a",
+        "color": "rgb(146, 131, 136)",
+        "background": "rgb(246, 242, 242)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > div.contacts-page-footer:nth-of-type(3) > footer.footer > div.footer-container.footer-top.container:nth-of-type(1) > ul.footer-pages > li:nth-of-type(2) > a",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/div[3]/footer[1]/div[1]/ul[1]/li[2]/a[1]",
+        "boundingRect": {
+          "x": 723.46875,
+          "y": 1542.296875,
+          "width": 127.46875,
+          "height": 30
+        },
+        "fontSize": "21px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 146,
+          "g": 131,
+          "b": 136,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 242,
+          "b": 242,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 121,
+            "g": 106,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#796a6f",
+          "ratio": 4.61,
+          "property": "color",
+          "deltaE": 0.0849924523152985
+        }
+      },
+      {
+        "text": "About us",
+        "tag": "a",
+        "color": "rgb(146, 131, 136)",
+        "background": "rgb(246, 242, 242)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > div.contacts-page-footer:nth-of-type(3) > footer.footer > div.footer-container.footer-top.container:nth-of-type(1) > ul.footer-pages > li:nth-of-type(3) > a",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/div[3]/footer[1]/div[1]/ul[1]/li[3]/a[1]",
+        "boundingRect": {
+          "x": 890.9375,
+          "y": 1542.296875,
+          "width": 96.5,
+          "height": 30
+        },
+        "fontSize": "21px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 146,
+          "g": 131,
+          "b": 136,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 242,
+          "b": 242,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 121,
+            "g": 106,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#796a6f",
+          "ratio": 4.61,
+          "property": "color",
+          "deltaE": 0.0849924523152985
+        }
+      },
+      {
+        "text": "Careers",
+        "tag": "a",
+        "color": "rgb(146, 131, 136)",
+        "background": "rgb(246, 242, 242)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > div.contacts-page-footer:nth-of-type(3) > footer.footer > div.footer-container.footer-top.container:nth-of-type(1) > ul.footer-pages > li:nth-of-type(4) > a",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/div[3]/footer[1]/div[1]/ul[1]/li[4]/a[1]",
+        "boundingRect": {
+          "x": 1027.4375,
+          "y": 1542.296875,
+          "width": 87.015625,
+          "height": 30
+        },
+        "fontSize": "21px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 146,
+          "g": 131,
+          "b": 136,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 242,
+          "b": 242,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 121,
+            "g": 106,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#796a6f",
+          "ratio": 4.61,
+          "property": "color",
+          "deltaE": 0.0849924523152985
+        }
+      },
+      {
+        "text": "Contacts",
+        "tag": "a",
+        "color": "rgb(146, 131, 136)",
+        "background": "rgb(246, 242, 242)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > div.contacts-page-footer:nth-of-type(3) > footer.footer > div.footer-container.footer-top.container:nth-of-type(1) > ul.footer-pages > li:nth-of-type(5) > a",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/div[3]/footer[1]/div[1]/ul[1]/li[5]/a[1]",
+        "boundingRect": {
+          "x": 1154.453125,
+          "y": 1542.296875,
+          "width": 101.546875,
+          "height": 30
+        },
+        "fontSize": "21px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 146,
+          "g": 131,
+          "b": 136,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 242,
+          "b": 242,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 121,
+            "g": 106,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#796a6f",
+          "ratio": 4.61,
+          "property": "color",
+          "deltaE": 0.0849924523152985
+        }
+      },
+      {
+        "text": "© 2025 HealthHero. All rights reserved.",
+        "tag": "div",
+        "color": "rgb(146, 131, 136)",
+        "background": "rgb(246, 242, 242)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > div.contacts-page-footer:nth-of-type(3) > footer.footer > div.footer-container.footer-container-bottom.container:nth-of-type(2) > div.footer-right > div",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/div[3]/footer[1]/div[2]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 890.109375,
+          "y": 1661.296875,
+          "width": 239.890625,
+          "height": 18
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 146,
+          "g": 131,
+          "b": 136,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 242,
+          "b": 242,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 121,
+            "g": 106,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#796a6f",
+          "ratio": 4.61,
+          "property": "color",
+          "deltaE": 0.0849924523152985
+        }
+      }
+    ],
+    "violations": [
+      {
+        "text": "Contacts",
+        "tag": "a",
+        "color": "rgb(255, 91, 97)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > div.contacts-header:nth-of-type(1) > div.contacts-header-container.container > div.contacts-header-container-right-block > nav.contacts-header-nav > ul.contacts-header-nav-list > li:nth-of-type(5) > a.contacts-header-nav-link.contacts-header-nav-link--active",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[5]/a[1]",
+        "boundingRect": {
+          "x": 923.171875,
+          "y": 61.5,
+          "width": 78.453125,
+          "height": 23
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 91,
+          "b": 97,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.03,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 218,
+            "g": 55,
+            "b": 68,
+            "a": 1
+          },
+          "hex": "#da3744",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.10066718744711034
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Contact us",
+        "tag": "h1",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(62, 142, 239)",
+        "selector": "#hero-title",
+        "xpath": "//*[@id=\"hero-title\"]",
+        "boundingRect": {
+          "x": 67.3125,
+          "y": 319.953125,
+          "width": 590.40625,
+          "height": 60.25
+        },
+        "fontSize": "50.2154px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 62,
+          "g": 142,
+          "b": 239,
+          "a": 1
+        },
+        "contrastRatio": 3.32,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 62,
+            "g": 142,
+            "b": 239,
+            "a": 1
+          },
+          "hex": "#3e8eef",
+          "ratio": 3.32,
+          "property": "background-color",
+          "deltaE": 0.000010686721122366016
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "HealthHero HQ, 3rd Floor, Portman House, 2 Portman Street, London W1H 6DU",
+        "tag": "p",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(62, 142, 239)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > div.page-content:nth-of-type(2) > section.hero.container > div.hero-panel.isContactsPage > div.hero-panel-left > div.hero-text > div > p.hero-subtitle.isContactsPage",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 67.3125,
+          "y": 399.890625,
+          "width": 406.640625,
+          "height": 40
+        },
+        "fontSize": "13.7846px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 62,
+          "g": 142,
+          "b": 239,
+          "a": 1
+        },
+        "contrastRatio": 3.32,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 36,
+            "g": 118,
+            "b": 213,
+            "a": 1
+          },
+          "hex": "#2476d5",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.0749893132788777
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Press Enquiries",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(62, 142, 239)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > div.page-content:nth-of-type(2) > section.hero.container > div.hero-panel.isContactsPage > div.hero-panel-left > div.hero-text > div > a.button.blue.hero-button",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 67.3125,
+          "y": 459.890625,
+          "width": 179.203125,
+          "height": 43
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 62,
+          "g": 142,
+          "b": 239,
+          "a": 1
+        },
+        "contrastRatio": 3.32,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 36,
+            "g": 118,
+            "b": 213,
+            "a": 1
+          },
+          "hex": "#2476d5",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.0749893132788777
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Easthampstead Road, Bracknell, Berkshire, RG12 1YQ, UK",
+        "tag": "span",
+        "color": "rgb(146, 131, 136)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > section.countryGrid.container > article.countryCard:nth-of-type(1) > section.countryCard-body > span.countryCard-address",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/section[1]/article[1]/section[1]/span[1]",
+        "boundingRect": {
+          "x": 69,
+          "y": 739.296875,
+          "width": 516,
+          "height": 19
+        },
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 146,
+          "g": 131,
+          "b": 136,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 129,
+            "g": 115,
+            "b": 120,
+            "a": 1
+          },
+          "hex": "#817378",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.05499245231529848
+        }
+      },
+      {
+        "text": "Fox Talbot House, Greenways Business Park, Bellinger Close, Chippenham, SN15 1BN, UK",
+        "tag": "span",
+        "color": "rgb(146, 131, 136)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > section.countryGrid.container > article.countryCard:nth-of-type(1) > section.countryCard-body > div.countryCard-second-address:nth-of-type(2) > span.countryCard-address",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/section[1]/article[1]/section[1]/div[2]/span[1]",
+        "boundingRect": {
+          "x": 69,
+          "y": 804.296875,
+          "width": 499.25,
+          "height": 42
+        },
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 146,
+          "g": 131,
+          "b": 136,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 129,
+            "g": 115,
+            "b": 120,
+            "a": 1
+          },
+          "hex": "#817378",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.05499245231529848
+        }
+      },
+      {
+        "text": "healthhero.com/uk/",
+        "tag": "a",
+        "color": "rgb(62, 142, 239)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > section.countryGrid.container > article.countryCard:nth-of-type(1) > a.countryCard-link",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/section[1]/article[1]/a[1]",
+        "boundingRect": {
+          "x": 69,
+          "y": 907.296875,
+          "width": 516,
+          "height": 23
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 62,
+          "g": 142,
+          "b": 239,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.32,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 36,
+            "g": 118,
+            "b": 213,
+            "a": 1
+          },
+          "hex": "#2476d5",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.0749893132788777
+        }
+      },
+      {
+        "text": "Münzstrasse 12, 10178 Berlin, Germany",
+        "tag": "span",
+        "color": "rgb(146, 131, 136)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > section.countryGrid.container > article.countryCard:nth-of-type(2) > section.countryCard-body > span.countryCard-address",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/section[1]/article[2]/section[1]/span[1]",
+        "boundingRect": {
+          "x": 695,
+          "y": 739.296875,
+          "width": 516,
+          "height": 19
+        },
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 146,
+          "g": 131,
+          "b": 136,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 129,
+            "g": 115,
+            "b": 120,
+            "a": 1
+          },
+          "hex": "#817378",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.05499245231529848
+        }
+      },
+      {
+        "text": "healthhero.com/de/",
+        "tag": "a",
+        "color": "rgb(62, 142, 239)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > section.countryGrid.container > article.countryCard:nth-of-type(2) > a.countryCard-link",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/section[1]/article[2]/a[1]",
+        "boundingRect": {
+          "x": 695,
+          "y": 907.296875,
+          "width": 516,
+          "height": 23
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 62,
+          "g": 142,
+          "b": 239,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.32,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 36,
+            "g": 118,
+            "b": 213,
+            "a": 1
+          },
+          "hex": "#2476d5",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.0749893132788777
+        }
+      },
+      {
+        "text": "34 rue Laffitte, 75009 Paris, France",
+        "tag": "span",
+        "color": "rgb(146, 131, 136)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > section.countryGrid.container > article.countryCard:nth-of-type(3) > section.countryCard-body > span.countryCard-address",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/section[1]/article[3]/section[1]/span[1]",
+        "boundingRect": {
+          "x": 69,
+          "y": 1170.296875,
+          "width": 516,
+          "height": 19
+        },
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 146,
+          "g": 131,
+          "b": 136,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 129,
+            "g": 115,
+            "b": 120,
+            "a": 1
+          },
+          "hex": "#817378",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.05499245231529848
+        }
+      },
+      {
+        "text": "qare.fr",
+        "tag": "a",
+        "color": "rgb(62, 142, 239)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > section.countryGrid.container > article.countryCard:nth-of-type(3) > a.countryCard-link",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/section[1]/article[3]/a[1]",
+        "boundingRect": {
+          "x": 69,
+          "y": 1338.296875,
+          "width": 516,
+          "height": 23
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 62,
+          "g": 142,
+          "b": 239,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.32,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 36,
+            "g": 118,
+            "b": 213,
+            "a": 1
+          },
+          "hex": "#2476d5",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.0749893132788777
+        }
+      },
+      {
+        "text": "2 Dublin Landings, North Dock, Dublin, DO1 V4A3, Ireland",
+        "tag": "span",
+        "color": "rgb(146, 131, 136)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > section.countryGrid.container > article.countryCard:nth-of-type(4) > section.countryCard-body > span.countryCard-address",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/section[1]/article[4]/section[1]/span[1]",
+        "boundingRect": {
+          "x": 695,
+          "y": 1170.296875,
+          "width": 516,
+          "height": 19
+        },
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 146,
+          "g": 131,
+          "b": 136,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 129,
+            "g": 115,
+            "b": 120,
+            "a": 1
+          },
+          "hex": "#817378",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.05499245231529848
+        }
+      },
+      {
+        "text": "healthhero.ie",
+        "tag": "a",
+        "color": "rgb(62, 142, 239)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > section.countryGrid.container > article.countryCard:nth-of-type(4) > a.countryCard-link",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/section[1]/article[4]/a[1]",
+        "boundingRect": {
+          "x": 695,
+          "y": 1338.296875,
+          "width": 516,
+          "height": 23
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 62,
+          "g": 142,
+          "b": 239,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.32,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 36,
+            "g": 118,
+            "b": 213,
+            "a": 1
+          },
+          "hex": "#2476d5",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.0749893132788777
+        }
+      },
+      {
+        "text": "Home",
+        "tag": "a",
+        "color": "rgb(146, 131, 136)",
+        "background": "rgb(246, 242, 242)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > div.contacts-page-footer:nth-of-type(3) > footer.footer > div.footer-container.footer-top.container:nth-of-type(1) > ul.footer-pages > li:nth-of-type(1) > a.footer-logo",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/div[3]/footer[1]/div[1]/ul[1]/li[1]/a[1]",
+        "boundingRect": {
+          "x": 619.28125,
+          "y": 1542.296875,
+          "width": 64.1875,
+          "height": 30
+        },
+        "fontSize": "21px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 146,
+          "g": 131,
+          "b": 136,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 242,
+          "b": 242,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 121,
+            "g": 106,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#796a6f",
+          "ratio": 4.61,
+          "property": "color",
+          "deltaE": 0.0849924523152985
+        }
+      },
+      {
+        "text": "Technology",
+        "tag": "a",
+        "color": "rgb(146, 131, 136)",
+        "background": "rgb(246, 242, 242)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > div.contacts-page-footer:nth-of-type(3) > footer.footer > div.footer-container.footer-top.container:nth-of-type(1) > ul.footer-pages > li:nth-of-type(2) > a",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/div[3]/footer[1]/div[1]/ul[1]/li[2]/a[1]",
+        "boundingRect": {
+          "x": 723.46875,
+          "y": 1542.296875,
+          "width": 127.46875,
+          "height": 30
+        },
+        "fontSize": "21px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 146,
+          "g": 131,
+          "b": 136,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 242,
+          "b": 242,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 121,
+            "g": 106,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#796a6f",
+          "ratio": 4.61,
+          "property": "color",
+          "deltaE": 0.0849924523152985
+        }
+      },
+      {
+        "text": "About us",
+        "tag": "a",
+        "color": "rgb(146, 131, 136)",
+        "background": "rgb(246, 242, 242)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > div.contacts-page-footer:nth-of-type(3) > footer.footer > div.footer-container.footer-top.container:nth-of-type(1) > ul.footer-pages > li:nth-of-type(3) > a",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/div[3]/footer[1]/div[1]/ul[1]/li[3]/a[1]",
+        "boundingRect": {
+          "x": 890.9375,
+          "y": 1542.296875,
+          "width": 96.5,
+          "height": 30
+        },
+        "fontSize": "21px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 146,
+          "g": 131,
+          "b": 136,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 242,
+          "b": 242,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 121,
+            "g": 106,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#796a6f",
+          "ratio": 4.61,
+          "property": "color",
+          "deltaE": 0.0849924523152985
+        }
+      },
+      {
+        "text": "Careers",
+        "tag": "a",
+        "color": "rgb(146, 131, 136)",
+        "background": "rgb(246, 242, 242)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > div.contacts-page-footer:nth-of-type(3) > footer.footer > div.footer-container.footer-top.container:nth-of-type(1) > ul.footer-pages > li:nth-of-type(4) > a",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/div[3]/footer[1]/div[1]/ul[1]/li[4]/a[1]",
+        "boundingRect": {
+          "x": 1027.4375,
+          "y": 1542.296875,
+          "width": 87.015625,
+          "height": 30
+        },
+        "fontSize": "21px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 146,
+          "g": 131,
+          "b": 136,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 242,
+          "b": 242,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 121,
+            "g": 106,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#796a6f",
+          "ratio": 4.61,
+          "property": "color",
+          "deltaE": 0.0849924523152985
+        }
+      },
+      {
+        "text": "Contacts",
+        "tag": "a",
+        "color": "rgb(146, 131, 136)",
+        "background": "rgb(246, 242, 242)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > div.contacts-page-footer:nth-of-type(3) > footer.footer > div.footer-container.footer-top.container:nth-of-type(1) > ul.footer-pages > li:nth-of-type(5) > a",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/div[3]/footer[1]/div[1]/ul[1]/li[5]/a[1]",
+        "boundingRect": {
+          "x": 1154.453125,
+          "y": 1542.296875,
+          "width": 101.546875,
+          "height": 30
+        },
+        "fontSize": "21px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 146,
+          "g": 131,
+          "b": 136,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 242,
+          "b": 242,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 121,
+            "g": 106,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#796a6f",
+          "ratio": 4.61,
+          "property": "color",
+          "deltaE": 0.0849924523152985
+        }
+      },
+      {
+        "text": "© 2025 HealthHero. All rights reserved.",
+        "tag": "div",
+        "color": "rgb(146, 131, 136)",
+        "background": "rgb(246, 242, 242)",
+        "selector": "div:nth-of-type(3) > main.contacts-page > div.contacts-page-footer:nth-of-type(3) > footer.footer > div.footer-container.footer-container-bottom.container:nth-of-type(2) > div.footer-right > div",
+        "xpath": "//*[@id=\"react-root\"]/main[1]/div[3]/footer[1]/div[2]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 890.109375,
+          "y": 1661.296875,
+          "width": 239.890625,
+          "height": 18
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 146,
+          "g": 131,
+          "b": 136,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 242,
+          "b": 242,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 121,
+            "g": 106,
+            "b": 111,
+            "a": 1
+          },
+          "hex": "#796a6f",
+          "ratio": 4.61,
+          "property": "color",
+          "deltaE": 0.0849924523152985
+        }
+      }
+    ],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 38,
+      "passAA": 19,
+      "passAAA": 19,
+      "failAA": 19,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 19
+    },
+    "healthScore": 50,
+    "scannedAt": "2026-08-03T21:52:41.826Z"
+  }
+]

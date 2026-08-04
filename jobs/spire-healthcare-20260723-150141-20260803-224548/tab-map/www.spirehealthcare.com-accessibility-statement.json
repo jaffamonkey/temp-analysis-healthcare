@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.spirehealthcare.com/accessibility-statement/",
+  "landed_url": "https://www.spirehealthcare.com/accessibility-statement/",
+  "title": "Spire Healthcare Accessibility Statement",
+  "page": "www.spirehealthcare.com-accessibility-statement",
+  "captured_at": "2026-08-03T22:48:49.558Z",
+  "focusable_count": 41,
+  "frame_count": 6,
+  "same_origin_frame_count": 4,
+  "cross_origin_frame_count": 2,
+  "image": "www.spirehealthcare.com-accessibility-statement.png",
+  "preview_image": "www.spirehealthcare.com-accessibility-statement.png",
+  "preview_dir": "visual-preview",
+  "json": "www.spirehealthcare.com-accessibility-statement.json",
+  "consent_actions": [
+    {
+      "action": "removed",
+      "detail": "2 overlay(s)"
+    }
+  ]
+}

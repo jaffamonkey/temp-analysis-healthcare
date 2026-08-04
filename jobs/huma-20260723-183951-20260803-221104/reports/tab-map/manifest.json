@@ -1,0 +1,68 @@
+[
+  {
+    "tool": "tab-map",
+    "url": "https://www.huma.com/about",
+    "landed_url": "https://www.huma.com/about",
+    "title": "About | Huma",
+    "page": "www.huma.com-about",
+    "captured_at": "2026-08-03T22:13:47.295Z",
+    "focusable_count": 45,
+    "frame_count": 1,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 1,
+    "image": "www.huma.com-about.png",
+    "preview_image": "www.huma.com-about.png",
+    "preview_dir": "visual-preview",
+    "json": "www.huma.com-about.json",
+    "consent_actions": [
+      {
+        "action": "removed",
+        "detail": "1 overlay(s)"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.huma.com/",
+    "landed_url": "https://www.huma.com/",
+    "title": "Huma",
+    "page": "www.huma.com",
+    "captured_at": "2026-08-03T22:13:47.290Z",
+    "focusable_count": 110,
+    "frame_count": 1,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 1,
+    "image": "www.huma.com.png",
+    "preview_image": "www.huma.com.png",
+    "preview_dir": "visual-preview",
+    "json": "www.huma.com.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept all"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.huma.com/products",
+    "landed_url": "https://www.huma.com/products",
+    "title": "Products | Huma",
+    "page": "www.huma.com-products",
+    "captured_at": "2026-08-03T22:13:55.808Z",
+    "focusable_count": 61,
+    "frame_count": 1,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 1,
+    "image": "www.huma.com-products.png",
+    "preview_image": "www.huma.com-products.png",
+    "preview_dir": "visual-preview",
+    "json": "www.huma.com-products.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      }
+    ]
+  }
+]

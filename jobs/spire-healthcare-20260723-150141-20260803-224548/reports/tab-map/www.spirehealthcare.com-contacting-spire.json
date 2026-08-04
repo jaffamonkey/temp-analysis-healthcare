@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.spirehealthcare.com/contacting-spire/",
+  "landed_url": "https://www.spirehealthcare.com/contacting-spire/",
+  "title": "Contacting Spire Hospitals | Spire Healthcare",
+  "page": "www.spirehealthcare.com-contacting-spire",
+  "captured_at": "2026-08-03T22:48:38.329Z",
+  "focusable_count": 56,
+  "frame_count": 7,
+  "same_origin_frame_count": 4,
+  "cross_origin_frame_count": 3,
+  "image": "www.spirehealthcare.com-contacting-spire.png",
+  "preview_image": "www.spirehealthcare.com-contacting-spire.png",
+  "preview_dir": "visual-preview",
+  "json": "www.spirehealthcare.com-contacting-spire.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "#onetrust-accept-btn-handler"
+    }
+  ]
+}

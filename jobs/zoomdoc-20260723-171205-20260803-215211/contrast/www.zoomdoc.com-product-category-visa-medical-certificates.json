@@ -1,0 +1,363 @@
+[
+  {
+    "url": "https://www.zoomdoc.com/product-category/visa-medical-certificates",
+    "title": "Visa Medical Certificates - ZoomDoc Health",
+    "pairs": [
+      {
+        "text": "Sale!",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(239, 143, 97)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div.et-boc > div.et-l.et-l--body > div.et_builder_inner_content.et_pb_gutters3.product > div.et_pb_section.et_pb_section_4_tb_body.c-prod-sec.et_section_regular:nth-of-type(5) > div.et_pb_row.et_pb_row_6_tb_body > div.et_pb_column.et_pb_column_4_4.et_pb_column_6_tb_body.et_pb_css_mix_blend_mode_passthrough.et-last-child > div.et_pb_module.et_pb_shop.et_pb_shop_0_tb_body.c-product-grid.et_pb_text_align_center > div.woocommerce.columns-3 > ul.products.columns-3 > li.product.type-product.post-67719.status-publish.last.instock.product_cat-gp-referral-letters.product_cat-travel-and-holiday-letters.product_cat-fit-to-fly.product_cat-visa-medical-certificates.has-post-thumbnail.sale.purchasable.product-type-simple.et_pb_shop_item_0_2:nth-of-type(3) > span.onsale:nth-of-type(1)",
+        "xpath": "//*[@id=\"et-boc\"]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/span[1]",
+        "boundingRect": {
+          "x": 883,
+          "y": 1017.828125,
+          "width": 80.5625,
+          "height": 38
+        },
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--cart-text",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 239,
+          "g": 143,
+          "b": 97,
+          "a": 1
+        },
+        "contrastRatio": 2.39,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 184,
+            "g": 93,
+            "b": 47,
+            "a": 1
+          },
+          "hex": "#b85d2f",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.16177023446798278
+        }
+      },
+      {
+        "text": "[widget widget_name=\"Footer Area #6\"]",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(105, 143, 164)",
+        "selector": "#footer-info",
+        "xpath": "//*[@id=\"footer-info\"]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "colorVar": "--cart-text",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 105,
+          "g": 143,
+          "b": 164,
+          "a": 1
+        },
+        "contrastRatio": 3.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 85,
+            "g": 122,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#557a8f",
+          "ratio": 4.6,
+          "property": "background-color",
+          "deltaE": 0.06956488678446027
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAS0lEQVR4nOTRsQkAIAxE0a+4ixO4o1urhUKKBCOCjVekSngcSblU9DQIYs4kzCjbI9E+kAJrbgSE0DwCQsAjXHVwCZwKPO3w8x86AAAA//+RjiJPAAAABklEQVQDAFICIBfCtdlMAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "0",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 71, 87)",
+        "selector": "div.rmenu-cart:nth-of-type(4) > button.rwc_cart-button.plugincy_pos_fixed > span.cart-count:nth-of-type(2)",
+        "xpath": "/html/body/div[4]/button[1]/span[2]",
+        "boundingRect": {
+          "x": 1220,
+          "y": 463,
+          "width": 20,
+          "height": 20
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--cart-text",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 71,
+          "b": 87,
+          "a": 1
+        },
+        "contrastRatio": 3.34,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 228,
+            "g": 39,
+            "b": 65,
+            "a": 1
+          },
+          "hex": "#e42741",
+          "ratio": 4.5,
+          "property": "background-color",
+          "deltaE": 0.07391700100650633
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAIAAABuYg/PAAAE5UlEQVR4nKRX3W/cRBCf2bV9l7vc+S7NVxuFgigURUgBVKlSJV7KCy8VEuIPRarECyAh+kAECgUekEBtkRBNLpePyyVpSc5rT2c/7LN9dhu1E8f2rnfnNzM7X+ctLL0NlhAI+UH8l82Ym34gujn3UY/5X0xXoia+E/Ik+kGj2WoJKSFJUMWQxAkpz3KhjFPK9DWInJzETOI4jqKJjw0pBAjSk4n0+JkkiRVWA1NOqxw2VclhmbM6+qvBsMYBw5OJIfmr9CTF2nBeQTBAvKxmVevI2dVaXqmEQP83A59YP5AevDERVMvCeiulYkqEFL5kc3qCqLiYHOV4UXpBdlkTumVo9XSeNB3rpRRHKppEbGLUp0dk3FBfQEkeFKxpc1PgwCwwQeGIC5gai7VSMfLJTSZJFPG8V2OGOpORY5UGCLopp9SsMcHqx/aU3uXOTFsB3g2Cq76/4nmrZtdAqYGKd5V6Esep2XG6oUAJgykRYX9xvSgMzsgGoZT3ut0136+U5Gmk7p89P9bHIUxkC2YihKRUfRQ8FJ7vy7lWWNAhlzWshJutua/CsMe5oIa6Umw2g+dJsscnhMJED3pae3QOZBVgFymB5VMUr/y41fy805Wvij5e8F7gPyPaUyb4GVMLl3o134XmIOr286qeFHfnO1W8OQNVbLzbaoZ62qbYQsrRsInOIKVAw+xxLwz9kk5hF25twvKilmVvH355CGfPso+8+MuF9e+CO2wwMOm4tNull+yyT5aNHa/sEXNN+OxTjbf9Ozz8Axb7etgI8kuWktGVZERp9Jf0qDXjtWAmKq6tQmsOtrbh7yfw12P4+TfozMPqcmkVg6VxX6YKMLtqzZtx9J5xpYNDN9w/nE7maJE14/PJp7aUaoKaqCKq2IzMZBK54eRC35uNMhiN67JSrRkr3P3kVHtwu+WG820zeVbeyAnWZs2Z7FoLNlRReer4RN+vpxnHvozHpVUjMV+nmTFjsemwtBepd4KiiZ7uwNEINjcg8HWcfXADhgewOyxxPIIO1JBXyIZkRzoqh5Eqr40T+HELbn8CG+9r6wyG8NP2rNeNRKeuk6nN+o8uLvaVWiqVBQ7h7x+AJ7VYcTy7a4zt/8RyWtEKbRnkz8w2YtkwIrp/fBxXWp9bsyqkBPCB/DDWNRIrlZuClQ8O2UfUD6dncGn6Vd4Yi64RGfO1OyPZbId5ndBVdjezM5mcxcn1RvDyxD8Bb0vefCTXOSuml0hb1wJYL8/GftQewsXQAA+i6M/z8xXfD2tK2h72vvU+OpBXTDHTSAC2qolyJe4vvQVFsKyTwSyVmsfG2hfLNFqh8YrJEYwxxJDvpxxYGoYD3ihk3mfVgswbswNLm9wMIkvddCo7p9R+DGt52TRre9cvL0OCgutXNEdojWng0FWpfGBlPy9s6wGYR1q7in1zRIMhHRxSESxtGJyi00qrTasbNtf3zYA5SOtTDomL+Z3bwjQDsHETv/6Gm0eQc+2wrE0F6f29/i3bz6A1mrvQNFUCitZj4bgv9SRyqeDU1mxoLbXrZwwJsaBlofXEvgYzSDYyHDBmMKVzOhrRP//SQh+7HY20vKglciurUkVpLusdRB4gg6k0yu5gyqQ6N9r+ErPzy4ld9o9X0U4OTEzLN+V/r1jM6W+XrHdBnF6Xof/PYXzi3l8AAAD//+i7u4EAAAAGSURBVAMA84cHs9viq9MAAAAASUVORK5CYII="
+      }
+    ],
+    "violations": [
+      {
+        "text": "Sale!",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(239, 143, 97)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div.et-boc > div.et-l.et-l--body > div.et_builder_inner_content.et_pb_gutters3.product > div.et_pb_section.et_pb_section_4_tb_body.c-prod-sec.et_section_regular:nth-of-type(5) > div.et_pb_row.et_pb_row_6_tb_body > div.et_pb_column.et_pb_column_4_4.et_pb_column_6_tb_body.et_pb_css_mix_blend_mode_passthrough.et-last-child > div.et_pb_module.et_pb_shop.et_pb_shop_0_tb_body.c-product-grid.et_pb_text_align_center > div.woocommerce.columns-3 > ul.products.columns-3 > li.product.type-product.post-67719.status-publish.last.instock.product_cat-gp-referral-letters.product_cat-travel-and-holiday-letters.product_cat-fit-to-fly.product_cat-visa-medical-certificates.has-post-thumbnail.sale.purchasable.product-type-simple.et_pb_shop_item_0_2:nth-of-type(3) > span.onsale:nth-of-type(1)",
+        "xpath": "//*[@id=\"et-boc\"]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/span[1]",
+        "boundingRect": {
+          "x": 883,
+          "y": 1017.828125,
+          "width": 80.5625,
+          "height": 38
+        },
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--cart-text",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 239,
+          "g": 143,
+          "b": 97,
+          "a": 1
+        },
+        "contrastRatio": 2.39,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 184,
+            "g": 93,
+            "b": 47,
+            "a": 1
+          },
+          "hex": "#b85d2f",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.16177023446798278
+        }
+      },
+      {
+        "text": "[widget widget_name=\"Footer Area #6\"]",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(105, 143, 164)",
+        "selector": "#footer-info",
+        "xpath": "//*[@id=\"footer-info\"]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "colorVar": "--cart-text",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 105,
+          "g": 143,
+          "b": 164,
+          "a": 1
+        },
+        "contrastRatio": 3.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 85,
+            "g": 122,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#557a8f",
+          "ratio": 4.6,
+          "property": "background-color",
+          "deltaE": 0.06956488678446027
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAS0lEQVR4nOTRsQkAIAxE0a+4ixO4o1urhUKKBCOCjVekSngcSblU9DQIYs4kzCjbI9E+kAJrbgSE0DwCQsAjXHVwCZwKPO3w8x86AAAA//+RjiJPAAAABklEQVQDAFICIBfCtdlMAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "0",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 71, 87)",
+        "selector": "div.rmenu-cart:nth-of-type(4) > button.rwc_cart-button.plugincy_pos_fixed > span.cart-count:nth-of-type(2)",
+        "xpath": "/html/body/div[4]/button[1]/span[2]",
+        "boundingRect": {
+          "x": 1220,
+          "y": 463,
+          "width": 20,
+          "height": 20
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--cart-text",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 71,
+          "b": 87,
+          "a": 1
+        },
+        "contrastRatio": 3.34,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 228,
+            "g": 39,
+            "b": 65,
+            "a": 1
+          },
+          "hex": "#e42741",
+          "ratio": 4.5,
+          "property": "background-color",
+          "deltaE": 0.07391700100650633
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAIAAABuYg/PAAAE5UlEQVR4nKRX3W/cRBCf2bV9l7vc+S7NVxuFgigURUgBVKlSJV7KCy8VEuIPRarECyAh+kAECgUekEBtkRBNLpePyyVpSc5rT2c/7LN9dhu1E8f2rnfnNzM7X+ctLL0NlhAI+UH8l82Ym34gujn3UY/5X0xXoia+E/Ik+kGj2WoJKSFJUMWQxAkpz3KhjFPK9DWInJzETOI4jqKJjw0pBAjSk4n0+JkkiRVWA1NOqxw2VclhmbM6+qvBsMYBw5OJIfmr9CTF2nBeQTBAvKxmVevI2dVaXqmEQP83A59YP5AevDERVMvCeiulYkqEFL5kc3qCqLiYHOV4UXpBdlkTumVo9XSeNB3rpRRHKppEbGLUp0dk3FBfQEkeFKxpc1PgwCwwQeGIC5gai7VSMfLJTSZJFPG8V2OGOpORY5UGCLopp9SsMcHqx/aU3uXOTFsB3g2Cq76/4nmrZtdAqYGKd5V6Esep2XG6oUAJgykRYX9xvSgMzsgGoZT3ut0136+U5Gmk7p89P9bHIUxkC2YihKRUfRQ8FJ7vy7lWWNAhlzWshJutua/CsMe5oIa6Umw2g+dJsscnhMJED3pae3QOZBVgFymB5VMUr/y41fy805Wvij5e8F7gPyPaUyb4GVMLl3o134XmIOr286qeFHfnO1W8OQNVbLzbaoZ62qbYQsrRsInOIKVAw+xxLwz9kk5hF25twvKilmVvH355CGfPso+8+MuF9e+CO2wwMOm4tNull+yyT5aNHa/sEXNN+OxTjbf9Ozz8Axb7etgI8kuWktGVZERp9Jf0qDXjtWAmKq6tQmsOtrbh7yfw12P4+TfozMPqcmkVg6VxX6YKMLtqzZtx9J5xpYNDN9w/nE7maJE14/PJp7aUaoKaqCKq2IzMZBK54eRC35uNMhiN67JSrRkr3P3kVHtwu+WG820zeVbeyAnWZs2Z7FoLNlRReer4RN+vpxnHvozHpVUjMV+nmTFjsemwtBepd4KiiZ7uwNEINjcg8HWcfXADhgewOyxxPIIO1JBXyIZkRzoqh5Eqr40T+HELbn8CG+9r6wyG8NP2rNeNRKeuk6nN+o8uLvaVWiqVBQ7h7x+AJ7VYcTy7a4zt/8RyWtEKbRnkz8w2YtkwIrp/fBxXWp9bsyqkBPCB/DDWNRIrlZuClQ8O2UfUD6dncGn6Vd4Yi64RGfO1OyPZbId5ndBVdjezM5mcxcn1RvDyxD8Bb0vefCTXOSuml0hb1wJYL8/GftQewsXQAA+i6M/z8xXfD2tK2h72vvU+OpBXTDHTSAC2qolyJe4vvQVFsKyTwSyVmsfG2hfLNFqh8YrJEYwxxJDvpxxYGoYD3ihk3mfVgswbswNLm9wMIkvddCo7p9R+DGt52TRre9cvL0OCgutXNEdojWng0FWpfGBlPy9s6wGYR1q7in1zRIMhHRxSESxtGJyi00qrTasbNtf3zYA5SOtTDomL+Z3bwjQDsHETv/6Gm0eQc+2wrE0F6f29/i3bz6A1mrvQNFUCitZj4bgv9SRyqeDU1mxoLbXrZwwJsaBlofXEvgYzSDYyHDBmMKVzOhrRP//SQh+7HY20vKglciurUkVpLusdRB4gg6k0yu5gyqQ6N9r+ErPzy4ld9o9X0U4OTEzLN+V/r1jM6W+XrHdBnF6Xof/PYXzi3l8AAAD//+i7u4EAAAAGSURBVAMA84cHs9viq9MAAAAASUVORK5CYII="
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--cart-text",
+        "property": "color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#ffffff",
+        "againstVariable": null,
+        "againstValue": "rgb(239, 143, 97)",
+        "againstHex": "#ef8f61",
+        "contrastRatio": 2.39,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 3,
+        "suggestedFix": {
+          "variable": "--cart-text",
+          "newValue": "color(srgb 0.239 0.239 0.239)",
+          "newHex": "#3d3d3d",
+          "contrastRatio": 4.54,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div.et-boc > div.et-l.et-l--body > div.et_builder_inner_content.et_pb_gutters3.product > div.et_pb_section.et_pb_section_4_tb_body.c-prod-sec.et_section_regular:nth-of-type(5) > div.et_pb_row.et_pb_row_6_tb_body > div.et_pb_column.et_pb_column_4_4.et_pb_column_6_tb_body.et_pb_css_mix_blend_mode_passthrough.et-last-child > div.et_pb_module.et_pb_shop.et_pb_shop_0_tb_body.c-product-grid.et_pb_text_align_center > div.woocommerce.columns-3 > ul.products.columns-3 > li.product.type-product.post-67719.status-publish.last.instock.product_cat-gp-referral-letters.product_cat-travel-and-holiday-letters.product_cat-fit-to-fly.product_cat-visa-medical-certificates.has-post-thumbnail.sale.purchasable.product-type-simple.et_pb_shop_item_0_2:nth-of-type(3) > span.onsale:nth-of-type(1)",
+            "text": "Sale!",
+            "xpath": "//*[@id=\"et-boc\"]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/span[1]"
+          },
+          {
+            "selector": "#footer-info",
+            "text": "[widget widget_name=\"Footer Area #6\"]",
+            "xpath": "//*[@id=\"footer-info\"]"
+          },
+          {
+            "selector": "div.rmenu-cart:nth-of-type(4) > button.rwc_cart-button.plugincy_pos_fixed > span.cart-count:nth-of-type(2)",
+            "text": "0",
+            "xpath": "/html/body/div[4]/button[1]/span[2]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 275,
+      "passAA": 272,
+      "passAAA": 231,
+      "failAA": 3,
+      "failAAA": 1
+    },
+    "variableStats": {
+      "uniqueIssues": 1,
+      "affectedElements": 3,
+      "oneOffIssues": 0
+    },
+    "healthScore": 99,
+    "scannedAt": "2026-08-03T21:56:02.214Z"
+  }
+]

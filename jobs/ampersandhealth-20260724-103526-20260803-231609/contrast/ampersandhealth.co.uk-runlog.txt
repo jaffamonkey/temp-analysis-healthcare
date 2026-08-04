@@ -1,0 +1,1222 @@
+Starting contrast check for https://ampersandhealth.co.uk/
+
+--- STDOUT ---
+ℹ Scanning: https://ampersandhealth.co.uk/
+ℹ Scanning page 1/1: https://ampersandhealth.co.uk/
+[
+  {
+    "url": "https://ampersandhealth.co.uk/",
+    "title": "Ampersand Health: Digital Therapy for Inflammatory Conditions",
+    "pairs": [
+      {
+        "text": "For Clinicians",
+        "tag": "a",
+        "color": "rgba(35, 45, 149, 0.5)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "header.header > div.header__container.container > div.header__user-toggle:nth-of-type(1) > ul.header__user-list > li:nth-of-type(2) > a.header__user-item",
+        "xpath": "//*[@id=\"header\"]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+        "boundingRect": {
+          "x": 415.46875,
+          "y": 31.328125,
+          "width": 118.53125,
+          "height": 32.65625
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 0.5
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.83,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": null,
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIYAAAAwCAIAAABbiJWuAAAFVElEQVR4nOya2U8bRxzH1/e5BsxlcxoIRzkSICUJbRLCVaVSVKl9aKU8tC996Uv/nz60UqVKTUkElXqpVRMIkAChAZK0hhQQOLaxDbaJ79vu1zZyHEMguMaaVvN5sAbP7uzMfOb3m12z/FgsxlBIgstQCIMqIQ6qhDioEuKgSoiDKiEOqoQ4qBLioEqIgyohDqqEOKgS4qBKiIMqIQ6qhDioEuL4byiJRGJWm9flCqS+cTj9P/+2FgpFmf8dfCanmMyum2MrGV9+/lkPky1uT3BiUrf5zBGNxv/7KZXw+/s0DXVFfn9kbX13sC/q8Ua+Hfmr91xlW2vpqxq5ObZcWCAaHqjPojb/5FhJkqtDDRJpDlpGKNy4pZXJhNeuniovk/l84aUnlpkHxqoKNnWMQMBVlctYhfCQdlRlMrlcmF1t/jkRJWqVnGVzMMjbE5sSseCjD94QCHj4UyIRDPRpEC5cLodh9pKYUMC79m7j4e1cersm69r8cyJKDsSy7bk3q9/e9shZUWdHeXsizxiMzukZfUdb2cycsaOt9HxPZep4xITB6HpnsD7pI0XCx0uMjGp7z1VVVykWlkwOZ1Ai5mtXrLFY7ELPXjabmNKxcuHZLjXKeoNzdt5os/sUrLC7U9XSVJKqhezFR2ac63IHlUXiS2/VVFaw2K6+G9WeP1uBALVavVhtw4P1MqkgEolOTD1bXbcLhTz0v6dbzeSIE1Fye2KDx9u7cahQyzFaTMGt75cxfpTtu77p+/pgMNzdqcaAt3e8c/PGlubimpqC9Eawn+OztFhy5OVsNl8wFEHB4w1rV3ZamoqHBjSra/Y7k5s11QqWFTldAS4nLtJscY/98DQ5g1tmN3ajplPFqdpwJPrcERgeqFMoRIuPLD/9uvbpJ50xJma3++7NGbBdYTXA3+wD4+AVzZ/anb9XbUMDdX5/2LjlCoUiGUsna05EiUjMF/D3lGAR4fOPBRPWF0aCcm11AaYAYdF1RpU8ZvBKXe3LPgAnMU3Jz9cHya3/sgZzV6lWYL1bbT4oSdVioqsq2f7LtShragszzkUORA8DwYjHHUTMPVw0ud1BsSQ+RW92qZobi5mEftxroAATXB6XlYsaG5RwzOSOE1Fy8UJ1xl6CJV+veTEFqnI51rXTFWTik85Upm3XKUoS8WHe9iiVRwdKCmWhOJnZeDwOVgMWfnotAjS9Gxlgpd+5q9vYfF5QIEou+dQrbsVKabIgFvOTbULDlsmNnCmVCDJS7r8kT3sJDDnSniqczgBMICMjJyDF8fkHPB5h8E2NyvmHW40NRek5wb7rR6J/1YU43MOiCldM70YGyEXIbB9f75BKBR5v6Muvl140uy9Yccz77zV7faGVp9bpGYNKJUf0M7kgT4+Kp9vKkNyRSQKBsMnivj9naG0pPdBEOhd7q8Ph6Mjosk7vQKLAhjQ+qfvmxhPkbiYrWppLVtd2k93QG52Lj83ptW5PCLElEsX1Lz22HN7U+sbu/IIJotTqeIjHojl7aTRPUYLEjQ0DN1e/j28gsbS2lOB+5siz5DLh9Q/bxyc3f/xlFQ/wTGKZYydAosP9G3N8sPN7PMG7Uzp0A+v+dHt5NG0qkX8w0V98tSgS8rrOlGM7TF70QLAdLiyZZ+YMKGObqclRiABOnt8Jxo8iUqkQi/FYZ+GOE/kKT4UKVsTlHu/c/WDILlcQmWd/mMIQtnQ8nL5OD9GO2x1Cr5BjmdzBoa9pkwb9JZg4qBLioEqIgyohDqqEOKgS4qBKiIMqIQ6qhDioEuKgSoiDKiEOqoQ4qBLioEqIgyohDqqEOKgS4vgHAAD//2+82s4AAAAGSURBVAMAZJMXTx6T1QQAAAAASUVORK5CYII="
+      },
+      {
+        "text": "Arthritis",
+        "tag": "button",
+        "color": "rgba(35, 45, 149, 0.5)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.global-wrapper:nth-of-type(5) > main > section.tabs.wrapper:nth-of-type(4) > div.tabs__container.container > div.tabs-list.swiper-container.swiper-container-initialized.swiper-container-horizontal:nth-of-type(2) > div.swiper-wrapper > div.tabs-list__btn-wrapper.swiper-slide.swiper-slide-next:nth-of-type(2) > button.tabs-list__btn",
+        "xpath": "/html/body/div[5]/main[1]/section[4]/div[1]/div[2]/div[1]/div[2]/button[1]",
+        "boundingRect": {
+          "x": 566.125,
+          "y": 2436.34375,
+          "width": 128.609375,
+          "height": 60
+        },
+        "fontSize": "22px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 0.5
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.83,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": null
+      },
+      {
+        "text": "Derm",
+        "tag": "button",
+        "color": "rgba(35, 45, 149, 0.5)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.global-wrapper:nth-of-type(5) > main > section.tabs.wrapper:nth-of-type(4) > div.tabs__container.container > div.tabs-list.swiper-container.swiper-container-initialized.swiper-container-horizontal:nth-of-type(2) > div.swiper-wrapper > div.tabs-list__btn-wrapper.swiper-slide:nth-of-type(3) > button.tabs-list__btn",
+        "xpath": "/html/body/div[5]/main[1]/section[4]/div[1]/div[2]/div[1]/div[3]/button[1]",
+        "boundingRect": {
+          "x": 738.734375,
+          "y": 2436.34375,
+          "width": 103.421875,
+          "height": 60
+        },
+        "fontSize": "22px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 0.5
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.83,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": null
+      },
+      {
+        "text": "Clinicians",
+        "tag": "button",
+        "color": "rgba(35, 45, 149, 0.5)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.global-wrapper:nth-of-type(5) > main > section.tabs.wrapper:nth-of-type(6) > div.tabs__container.container > div.tabs-list.swiper-container.swiper-container-initialized.swiper-container-horizontal:nth-of-type(2) > div.swiper-wrapper > div.tabs-list__btn-wrapper.swiper-slide.swiper-slide-next:nth-of-type(2) > button.tabs-list__btn",
+        "xpath": "/html/body/div[5]/main[1]/section[6]/div[1]/div[2]/div[1]/div[2]/button[1]",
+        "boundingRect": {
+          "x": 568.125,
+          "y": 5033.34375,
+          "width": 140.875,
+          "height": 60
+        },
+        "fontSize": "22px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 0.5
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.83,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": null
+      },
+      {
+        "text": "Partners",
+        "tag": "button",
+        "color": "rgba(35, 45, 149, 0.5)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.global-wrapper:nth-of-type(5) > main > section.tabs.wrapper:nth-of-type(6) > div.tabs__container.container > div.tabs-list.swiper-container.swiper-container-initialized.swiper-container-horizontal:nth-of-type(2) > div.swiper-wrapper > div.tabs-list__btn-wrapper.swiper-slide:nth-of-type(3) > button.tabs-list__btn",
+        "xpath": "/html/body/div[5]/main[1]/section[6]/div[1]/div[2]/div[1]/div[3]/button[1]",
+        "boundingRect": {
+          "x": 753,
+          "y": 5033.34375,
+          "width": 131.125,
+          "height": 60
+        },
+        "fontSize": "22px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 0.5
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.83,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": null
+      },
+      {
+        "text": "Please select the subject*",
+        "tag": "option",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgb(35, 45, 149)",
+        "selector": "section.stay-tuned > div.subscribe:nth-of-type(1) > div.subscribe__container.container > div.subscribe__form.white-form > div.wpcf7.js > form.wpcf7-form.init > fieldset.subscribe__fields:nth-of-type(2) > label.subscribe__column-half.select-menu__wrapper:nth-of-type(1) > span.wpcf7-form-control-wrap > select.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.select-menu > option:nth-of-type(1)",
+        "xpath": "//*[@id=\"wpcf7-f903-o2\"]/form[1]/fieldset[2]/label[1]/span[1]/select[1]/option[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--wp--preset--spacing--20",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 1
+        },
+        "contrastRatio": 1.88,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 108,
+            "b": 217,
+            "a": 1
+          },
+          "hex": "#546cd9",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.20317155828196504
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAqElEQVR4nIRSSxYDIQhDH/e/VrvpkZSiGRlE2mGhSMInKr/eH3LWe9dVltVa9VimKaQRBgy2OUaiLnMb2PCJGBiocGK+q0JI8Iy0m/c5kNB/s4UCYlOJKFTeShRaKFRxYMTB+lb+0nCalTwhTqlb2v+EkPPcIeSU2IDqydbR9SZMwHjeMu9KPw4Jx5KH0Dsyd1dJBG+S9jGn2uH6bVkfH+fWGmX2a7YvAAAA//8GiZgYAAAABklEQVQDANbZe4b/FQW8AAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "My IBD Care",
+        "tag": "option",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgb(35, 45, 149)",
+        "selector": "section.stay-tuned > div.subscribe:nth-of-type(1) > div.subscribe__container.container > div.subscribe__form.white-form > div.wpcf7.js > form.wpcf7-form.init > fieldset.subscribe__fields:nth-of-type(2) > label.subscribe__column-half.select-menu__wrapper:nth-of-type(1) > span.wpcf7-form-control-wrap > select.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.select-menu > option:nth-of-type(2)",
+        "xpath": "//*[@id=\"wpcf7-f903-o2\"]/form[1]/fieldset[2]/label[1]/span[1]/select[1]/option[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--wp--preset--spacing--20",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 1
+        },
+        "contrastRatio": 1.88,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 108,
+            "b": 217,
+            "a": 1
+          },
+          "hex": "#546cd9",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.20317155828196504
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAqElEQVR4nIRSSxYDIQhDH/e/VrvpkZSiGRlE2mGhSMInKr/eH3LWe9dVltVa9VimKaQRBgy2OUaiLnMb2PCJGBiocGK+q0JI8Iy0m/c5kNB/s4UCYlOJKFTeShRaKFRxYMTB+lb+0nCalTwhTqlb2v+EkPPcIeSU2IDqydbR9SZMwHjeMu9KPw4Jx5KH0Dsyd1dJBG+S9jGn2uH6bVkfH+fWGmX2a7YvAAAA//8GiZgYAAAABklEQVQDANbZe4b/FQW8AAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "My Arthritis",
+        "tag": "option",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgb(35, 45, 149)",
+        "selector": "section.stay-tuned > div.subscribe:nth-of-type(1) > div.subscribe__container.container > div.subscribe__form.white-form > div.wpcf7.js > form.wpcf7-form.init > fieldset.subscribe__fields:nth-of-type(2) > label.subscribe__column-half.select-menu__wrapper:nth-of-type(1) > span.wpcf7-form-control-wrap > select.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.select-menu > option:nth-of-type(3)",
+        "xpath": "//*[@id=\"wpcf7-f903-o2\"]/form[1]/fieldset[2]/label[1]/span[1]/select[1]/option[3]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--wp--preset--spacing--20",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 1
+        },
+        "contrastRatio": 1.88,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 108,
+            "b": 217,
+            "a": 1
+          },
+          "hex": "#546cd9",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.20317155828196504
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAqElEQVR4nIRSSxYDIQhDH/e/VrvpkZSiGRlE2mGhSMInKr/eH3LWe9dVltVa9VimKaQRBgy2OUaiLnMb2PCJGBiocGK+q0JI8Iy0m/c5kNB/s4UCYlOJKFTeShRaKFRxYMTB+lb+0nCalTwhTqlb2v+EkPPcIeSU2IDqydbR9SZMwHjeMu9KPw4Jx5KH0Dsyd1dJBG+S9jGn2uH6bVkfH+fWGmX2a7YvAAAA//8GiZgYAAAABklEQVQDANbZe4b/FQW8AAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "General Enquiry",
+        "tag": "option",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgb(35, 45, 149)",
+        "selector": "section.stay-tuned > div.subscribe:nth-of-type(1) > div.subscribe__container.container > div.subscribe__form.white-form > div.wpcf7.js > form.wpcf7-form.init > fieldset.subscribe__fields:nth-of-type(2) > label.subscribe__column-half.select-menu__wrapper:nth-of-type(1) > span.wpcf7-form-control-wrap > select.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.select-menu > option:nth-of-type(4)",
+        "xpath": "//*[@id=\"wpcf7-f903-o2\"]/form[1]/fieldset[2]/label[1]/span[1]/select[1]/option[4]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--wp--preset--spacing--20",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 1
+        },
+        "contrastRatio": 1.88,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 108,
+            "b": 217,
+            "a": 1
+          },
+          "hex": "#546cd9",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.20317155828196504
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAqElEQVR4nIRSSxYDIQhDH/e/VrvpkZSiGRlE2mGhSMInKr/eH3LWe9dVltVa9VimKaQRBgy2OUaiLnMb2PCJGBiocGK+q0JI8Iy0m/c5kNB/s4UCYlOJKFTeShRaKFRxYMTB+lb+0nCalTwhTqlb2v+EkPPcIeSU2IDqydbR9SZMwHjeMu9KPw4Jx5KH0Dsyd1dJBG+S9jGn2uH6bVkfH+fWGmX2a7YvAAAA//8GiZgYAAAABklEQVQDANbZe4b/FQW8AAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Career Opportunities",
+        "tag": "option",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgb(35, 45, 149)",
+        "selector": "section.stay-tuned > div.subscribe:nth-of-type(1) > div.subscribe__container.container > div.subscribe__form.white-form > div.wpcf7.js > form.wpcf7-form.init > fieldset.subscribe__fields:nth-of-type(2) > label.subscribe__column-half.select-menu__wrapper:nth-of-type(1) > span.wpcf7-form-control-wrap > select.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.select-menu > option:nth-of-type(5)",
+        "xpath": "//*[@id=\"wpcf7-f903-o2\"]/form[1]/fieldset[2]/label[1]/span[1]/select[1]/option[5]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--wp--preset--spacing--20",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 1
+        },
+        "contrastRatio": 1.88,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 108,
+            "b": 217,
+            "a": 1
+          },
+          "hex": "#546cd9",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.20317155828196504
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAqElEQVR4nIRSSxYDIQhDH/e/VrvpkZSiGRlE2mGhSMInKr/eH3LWe9dVltVa9VimKaQRBgy2OUaiLnMb2PCJGBiocGK+q0JI8Iy0m/c5kNB/s4UCYlOJKFTeShRaKFRxYMTB+lb+0nCalTwhTqlb2v+EkPPcIeSU2IDqydbR9SZMwHjeMu9KPw4Jx5KH0Dsyd1dJBG+S9jGn2uH6bVkfH+fWGmX2a7YvAAAA//8GiZgYAAAABklEQVQDANbZe4b/FQW8AAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Clinician Enquiry",
+        "tag": "option",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgb(35, 45, 149)",
+        "selector": "section.stay-tuned > div.subscribe:nth-of-type(1) > div.subscribe__container.container > div.subscribe__form.white-form > div.wpcf7.js > form.wpcf7-form.init > fieldset.subscribe__fields:nth-of-type(2) > label.subscribe__column-half.select-menu__wrapper:nth-of-type(1) > span.wpcf7-form-control-wrap > select.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.select-menu > option:nth-of-type(6)",
+        "xpath": "//*[@id=\"wpcf7-f903-o2\"]/form[1]/fieldset[2]/label[1]/span[1]/select[1]/option[6]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--wp--preset--spacing--20",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 1
+        },
+        "contrastRatio": 1.88,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 108,
+            "b": 217,
+            "a": 1
+          },
+          "hex": "#546cd9",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.20317155828196504
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAqElEQVR4nIRSSxYDIQhDH/e/VrvpkZSiGRlE2mGhSMInKr/eH3LWe9dVltVa9VimKaQRBgy2OUaiLnMb2PCJGBiocGK+q0JI8Iy0m/c5kNB/s4UCYlOJKFTeShRaKFRxYMTB+lb+0nCalTwhTqlb2v+EkPPcIeSU2IDqydbR9SZMwHjeMu9KPw4Jx5KH0Dsyd1dJBG+S9jGn2uH6bVkfH+fWGmX2a7YvAAAA//8GiZgYAAAABklEQVQDANbZe4b/FQW8AAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Partner Enquiry",
+        "tag": "option",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgb(35, 45, 149)",
+        "selector": "section.stay-tuned > div.subscribe:nth-of-type(1) > div.subscribe__container.container > div.subscribe__form.white-form > div.wpcf7.js > form.wpcf7-form.init > fieldset.subscribe__fields:nth-of-type(2) > label.subscribe__column-half.select-menu__wrapper:nth-of-type(1) > span.wpcf7-form-control-wrap > select.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.select-menu > option:nth-of-type(7)",
+        "xpath": "//*[@id=\"wpcf7-f903-o2\"]/form[1]/fieldset[2]/label[1]/span[1]/select[1]/option[7]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--wp--preset--spacing--20",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 1
+        },
+        "contrastRatio": 1.88,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 108,
+            "b": 217,
+            "a": 1
+          },
+          "hex": "#546cd9",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.20317155828196504
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAqElEQVR4nIRSSxYDIQhDH/e/VrvpkZSiGRlE2mGhSMInKr/eH3LWe9dVltVa9VimKaQRBgy2OUaiLnMb2PCJGBiocGK+q0JI8Iy0m/c5kNB/s4UCYlOJKFTeShRaKFRxYMTB+lb+0nCalTwhTqlb2v+EkPPcIeSU2IDqydbR9SZMwHjeMu9KPw4Jx5KH0Dsyd1dJBG+S9jGn2uH6bVkfH+fWGmX2a7YvAAAA//8GiZgYAAAABklEQVQDANbZe4b/FQW8AAAAAElFTkSuQmCC"
+      }
+    ],
+    "violations": [
+      {
+        "text": "For Clinicians",
+        "tag": "a",
+        "color": "rgba(35, 45, 149, 0.5)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "header.header > div.header__container.container > div.header__user-toggle:nth-of-type(1) > ul.header__user-list > li:nth-of-type(2) > a.header__user-item",
+        "xpath": "//*[@id=\"header\"]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+        "boundingRect": {
+          "x": 415.46875,
+          "y": 31.328125,
+          "width": 118.53125,
+          "height": 32.65625
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 0.5
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.83,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": null,
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIYAAAAwCAIAAABbiJWuAAAFVElEQVR4nOya2U8bRxzH1/e5BsxlcxoIRzkSICUJbRLCVaVSVKl9aKU8tC996Uv/nz60UqVKTUkElXqpVRMIkAChAZK0hhQQOLaxDbaJ79vu1zZyHEMguMaaVvN5sAbP7uzMfOb3m12z/FgsxlBIgstQCIMqIQ6qhDioEuKgSoiDKiEOqoQ4qBLioEqIgyohDqqEOKgS4qBKiIMqIQ6qhDioEuL4byiJRGJWm9flCqS+cTj9P/+2FgpFmf8dfCanmMyum2MrGV9+/lkPky1uT3BiUrf5zBGNxv/7KZXw+/s0DXVFfn9kbX13sC/q8Ua+Hfmr91xlW2vpqxq5ObZcWCAaHqjPojb/5FhJkqtDDRJpDlpGKNy4pZXJhNeuniovk/l84aUnlpkHxqoKNnWMQMBVlctYhfCQdlRlMrlcmF1t/jkRJWqVnGVzMMjbE5sSseCjD94QCHj4UyIRDPRpEC5cLodh9pKYUMC79m7j4e1cersm69r8cyJKDsSy7bk3q9/e9shZUWdHeXsizxiMzukZfUdb2cycsaOt9HxPZep4xITB6HpnsD7pI0XCx0uMjGp7z1VVVykWlkwOZ1Ai5mtXrLFY7ELPXjabmNKxcuHZLjXKeoNzdt5os/sUrLC7U9XSVJKqhezFR2ac63IHlUXiS2/VVFaw2K6+G9WeP1uBALVavVhtw4P1MqkgEolOTD1bXbcLhTz0v6dbzeSIE1Fye2KDx9u7cahQyzFaTMGt75cxfpTtu77p+/pgMNzdqcaAt3e8c/PGlubimpqC9Eawn+OztFhy5OVsNl8wFEHB4w1rV3ZamoqHBjSra/Y7k5s11QqWFTldAS4nLtJscY/98DQ5g1tmN3ajplPFqdpwJPrcERgeqFMoRIuPLD/9uvbpJ50xJma3++7NGbBdYTXA3+wD4+AVzZ/anb9XbUMDdX5/2LjlCoUiGUsna05EiUjMF/D3lGAR4fOPBRPWF0aCcm11AaYAYdF1RpU8ZvBKXe3LPgAnMU3Jz9cHya3/sgZzV6lWYL1bbT4oSdVioqsq2f7LtShragszzkUORA8DwYjHHUTMPVw0ud1BsSQ+RW92qZobi5mEftxroAATXB6XlYsaG5RwzOSOE1Fy8UJ1xl6CJV+veTEFqnI51rXTFWTik85Upm3XKUoS8WHe9iiVRwdKCmWhOJnZeDwOVgMWfnotAjS9Gxlgpd+5q9vYfF5QIEou+dQrbsVKabIgFvOTbULDlsmNnCmVCDJS7r8kT3sJDDnSniqczgBMICMjJyDF8fkHPB5h8E2NyvmHW40NRek5wb7rR6J/1YU43MOiCldM70YGyEXIbB9f75BKBR5v6Muvl140uy9Yccz77zV7faGVp9bpGYNKJUf0M7kgT4+Kp9vKkNyRSQKBsMnivj9naG0pPdBEOhd7q8Ph6Mjosk7vQKLAhjQ+qfvmxhPkbiYrWppLVtd2k93QG52Lj83ptW5PCLElEsX1Lz22HN7U+sbu/IIJotTqeIjHojl7aTRPUYLEjQ0DN1e/j28gsbS2lOB+5siz5DLh9Q/bxyc3f/xlFQ/wTGKZYydAosP9G3N8sPN7PMG7Uzp0A+v+dHt5NG0qkX8w0V98tSgS8rrOlGM7TF70QLAdLiyZZ+YMKGObqclRiABOnt8Jxo8iUqkQi/FYZ+GOE/kKT4UKVsTlHu/c/WDILlcQmWd/mMIQtnQ8nL5OD9GO2x1Cr5BjmdzBoa9pkwb9JZg4qBLioEqIgyohDqqEOKgS4qBKiIMqIQ6qhDioEuKgSoiDKiEOqoQ4qBLioEqIgyohDqqEOKgS4vgHAAD//2+82s4AAAAGSURBVAMAZJMXTx6T1QQAAAAASUVORK5CYII="
+      },
+      {
+        "text": "Arthritis",
+        "tag": "button",
+        "color": "rgba(35, 45, 149, 0.5)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.global-wrapper:nth-of-type(5) > main > section.tabs.wrapper:nth-of-type(4) > div.tabs__container.container > div.tabs-list.swiper-container.swiper-container-initialized.swiper-container-horizontal:nth-of-type(2) > div.swiper-wrapper > div.tabs-list__btn-wrapper.swiper-slide.swiper-slide-next:nth-of-type(2) > button.tabs-list__btn",
+        "xpath": "/html/body/div[5]/main[1]/section[4]/div[1]/div[2]/div[1]/div[2]/button[1]",
+        "boundingRect": {
+          "x": 566.125,
+          "y": 2436.34375,
+          "width": 128.609375,
+          "height": 60
+        },
+        "fontSize": "22px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 0.5
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.83,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": null
+      },
+      {
+        "text": "Derm",
+        "tag": "button",
+        "color": "rgba(35, 45, 149, 0.5)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.global-wrapper:nth-of-type(5) > main > section.tabs.wrapper:nth-of-type(4) > div.tabs__container.container > div.tabs-list.swiper-container.swiper-container-initialized.swiper-container-horizontal:nth-of-type(2) > div.swiper-wrapper > div.tabs-list__btn-wrapper.swiper-slide:nth-of-type(3) > button.tabs-list__btn",
+        "xpath": "/html/body/div[5]/main[1]/section[4]/div[1]/div[2]/div[1]/div[3]/button[1]",
+        "boundingRect": {
+          "x": 738.734375,
+          "y": 2436.34375,
+          "width": 103.421875,
+          "height": 60
+        },
+        "fontSize": "22px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 0.5
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.83,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": null
+      },
+      {
+        "text": "Clinicians",
+        "tag": "button",
+        "color": "rgba(35, 45, 149, 0.5)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.global-wrapper:nth-of-type(5) > main > section.tabs.wrapper:nth-of-type(6) > div.tabs__container.container > div.tabs-list.swiper-container.swiper-container-initialized.swiper-container-horizontal:nth-of-type(2) > div.swiper-wrapper > div.tabs-list__btn-wrapper.swiper-slide.swiper-slide-next:nth-of-type(2) > button.tabs-list__btn",
+        "xpath": "/html/body/div[5]/main[1]/section[6]/div[1]/div[2]/div[1]/div[2]/button[1]",
+        "boundingRect": {
+          "x": 568.125,
+          "y": 5033.34375,
+          "width": 140.875,
+          "height": 60
+        },
+        "fontSize": "22px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 0.5
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.83,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": null
+      },
+      {
+        "text": "Partners",
+        "tag": "button",
+        "color": "rgba(35, 45, 149, 0.5)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.global-wrapper:nth-of-type(5) > main > section.tabs.wrapper:nth-of-type(6) > div.tabs__container.container > div.tabs-list.swiper-container.swiper-container-initialized.swiper-container-horizontal:nth-of-type(2) > div.swiper-wrapper > div.tabs-list__btn-wrapper.swiper-slide:nth-of-type(3) > button.tabs-list__btn",
+        "xpath": "/html/body/div[5]/main[1]/section[6]/div[1]/div[2]/div[1]/div[3]/button[1]",
+        "boundingRect": {
+          "x": 753,
+          "y": 5033.34375,
+          "width": 131.125,
+          "height": 60
+        },
+        "fontSize": "22px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 0.5
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.83,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": null
+      },
+      {
+        "text": "Please select the subject*",
+        "tag": "option",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgb(35, 45, 149)",
+        "selector": "section.stay-tuned > div.subscribe:nth-of-type(1) > div.subscribe__container.container > div.subscribe__form.white-form > div.wpcf7.js > form.wpcf7-form.init > fieldset.subscribe__fields:nth-of-type(2) > label.subscribe__column-half.select-menu__wrapper:nth-of-type(1) > span.wpcf7-form-control-wrap > select.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.select-menu > option:nth-of-type(1)",
+        "xpath": "//*[@id=\"wpcf7-f903-o2\"]/form[1]/fieldset[2]/label[1]/span[1]/select[1]/option[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--wp--preset--spacing--20",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 1
+        },
+        "contrastRatio": 1.88,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 108,
+            "b": 217,
+            "a": 1
+          },
+          "hex": "#546cd9",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.20317155828196504
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAqElEQVR4nIRSSxYDIQhDH/e/VrvpkZSiGRlE2mGhSMInKr/eH3LWe9dVltVa9VimKaQRBgy2OUaiLnMb2PCJGBiocGK+q0JI8Iy0m/c5kNB/s4UCYlOJKFTeShRaKFRxYMTB+lb+0nCalTwhTqlb2v+EkPPcIeSU2IDqydbR9SZMwHjeMu9KPw4Jx5KH0Dsyd1dJBG+S9jGn2uH6bVkfH+fWGmX2a7YvAAAA//8GiZgYAAAABklEQVQDANbZe4b/FQW8AAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "My IBD Care",
+        "tag": "option",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgb(35, 45, 149)",
+        "selector": "section.stay-tuned > div.subscribe:nth-of-type(1) > div.subscribe__container.container > div.subscribe__form.white-form > div.wpcf7.js > form.wpcf7-form.init > fieldset.subscribe__fields:nth-of-type(2) > label.subscribe__column-half.select-menu__wrapper:nth-of-type(1) > span.wpcf7-form-control-wrap > select.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.select-menu > option:nth-of-type(2)",
+        "xpath": "//*[@id=\"wpcf7-f903-o2\"]/form[1]/fieldset[2]/label[1]/span[1]/select[1]/option[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--wp--preset--spacing--20",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 1
+        },
+        "contrastRatio": 1.88,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 108,
+            "b": 217,
+            "a": 1
+          },
+          "hex": "#546cd9",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.20317155828196504
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAqElEQVR4nIRSSxYDIQhDH/e/VrvpkZSiGRlE2mGhSMInKr/eH3LWe9dVltVa9VimKaQRBgy2OUaiLnMb2PCJGBiocGK+q0JI8Iy0m/c5kNB/s4UCYlOJKFTeShRaKFRxYMTB+lb+0nCalTwhTqlb2v+EkPPcIeSU2IDqydbR9SZMwHjeMu9KPw4Jx5KH0Dsyd1dJBG+S9jGn2uH6bVkfH+fWGmX2a7YvAAAA//8GiZgYAAAABklEQVQDANbZe4b/FQW8AAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "My Arthritis",
+        "tag": "option",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgb(35, 45, 149)",
+        "selector": "section.stay-tuned > div.subscribe:nth-of-type(1) > div.subscribe__container.container > div.subscribe__form.white-form > div.wpcf7.js > form.wpcf7-form.init > fieldset.subscribe__fields:nth-of-type(2) > label.subscribe__column-half.select-menu__wrapper:nth-of-type(1) > span.wpcf7-form-control-wrap > select.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.select-menu > option:nth-of-type(3)",
+        "xpath": "//*[@id=\"wpcf7-f903-o2\"]/form[1]/fieldset[2]/label[1]/span[1]/select[1]/option[3]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--wp--preset--spacing--20",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 1
+        },
+        "contrastRatio": 1.88,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 108,
+            "b": 217,
+            "a": 1
+          },
+          "hex": "#546cd9",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.20317155828196504
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAqElEQVR4nIRSSxYDIQhDH/e/VrvpkZSiGRlE2mGhSMInKr/eH3LWe9dVltVa9VimKaQRBgy2OUaiLnMb2PCJGBiocGK+q0JI8Iy0m/c5kNB/s4UCYlOJKFTeShRaKFRxYMTB+lb+0nCalTwhTqlb2v+EkPPcIeSU2IDqydbR9SZMwHjeMu9KPw4Jx5KH0Dsyd1dJBG+S9jGn2uH6bVkfH+fWGmX2a7YvAAAA//8GiZgYAAAABklEQVQDANbZe4b/FQW8AAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "General Enquiry",
+        "tag": "option",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgb(35, 45, 149)",
+        "selector": "section.stay-tuned > div.subscribe:nth-of-type(1) > div.subscribe__container.container > div.subscribe__form.white-form > div.wpcf7.js > form.wpcf7-form.init > fieldset.subscribe__fields:nth-of-type(2) > label.subscribe__column-half.select-menu__wrapper:nth-of-type(1) > span.wpcf7-form-control-wrap > select.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.select-menu > option:nth-of-type(4)",
+        "xpath": "//*[@id=\"wpcf7-f903-o2\"]/form[1]/fieldset[2]/label[1]/span[1]/select[1]/option[4]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--wp--preset--spacing--20",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 1
+        },
+        "contrastRatio": 1.88,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 108,
+            "b": 217,
+            "a": 1
+          },
+          "hex": "#546cd9",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.20317155828196504
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAqElEQVR4nIRSSxYDIQhDH/e/VrvpkZSiGRlE2mGhSMInKr/eH3LWe9dVltVa9VimKaQRBgy2OUaiLnMb2PCJGBiocGK+q0JI8Iy0m/c5kNB/s4UCYlOJKFTeShRaKFRxYMTB+lb+0nCalTwhTqlb2v+EkPPcIeSU2IDqydbR9SZMwHjeMu9KPw4Jx5KH0Dsyd1dJBG+S9jGn2uH6bVkfH+fWGmX2a7YvAAAA//8GiZgYAAAABklEQVQDANbZe4b/FQW8AAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Career Opportunities",
+        "tag": "option",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgb(35, 45, 149)",
+        "selector": "section.stay-tuned > div.subscribe:nth-of-type(1) > div.subscribe__container.container > div.subscribe__form.white-form > div.wpcf7.js > form.wpcf7-form.init > fieldset.subscribe__fields:nth-of-type(2) > label.subscribe__column-half.select-menu__wrapper:nth-of-type(1) > span.wpcf7-form-control-wrap > select.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.select-menu > option:nth-of-type(5)",
+        "xpath": "//*[@id=\"wpcf7-f903-o2\"]/form[1]/fieldset[2]/label[1]/span[1]/select[1]/option[5]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--wp--preset--spacing--20",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 1
+        },
+        "contrastRatio": 1.88,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 108,
+            "b": 217,
+            "a": 1
+          },
+          "hex": "#546cd9",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.20317155828196504
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAqElEQVR4nIRSSxYDIQhDH/e/VrvpkZSiGRlE2mGhSMInKr/eH3LWe9dVltVa9VimKaQRBgy2OUaiLnMb2PCJGBiocGK+q0JI8Iy0m/c5kNB/s4UCYlOJKFTeShRaKFRxYMTB+lb+0nCalTwhTqlb2v+EkPPcIeSU2IDqydbR9SZMwHjeMu9KPw4Jx5KH0Dsyd1dJBG+S9jGn2uH6bVkfH+fWGmX2a7YvAAAA//8GiZgYAAAABklEQVQDANbZe4b/FQW8AAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Clinician Enquiry",
+        "tag": "option",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgb(35, 45, 149)",
+        "selector": "section.stay-tuned > div.subscribe:nth-of-type(1) > div.subscribe__container.container > div.subscribe__form.white-form > div.wpcf7.js > form.wpcf7-form.init > fieldset.subscribe__fields:nth-of-type(2) > label.subscribe__column-half.select-menu__wrapper:nth-of-type(1) > span.wpcf7-form-control-wrap > select.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.select-menu > option:nth-of-type(6)",
+        "xpath": "//*[@id=\"wpcf7-f903-o2\"]/form[1]/fieldset[2]/label[1]/span[1]/select[1]/option[6]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--wp--preset--spacing--20",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 1
+        },
+        "contrastRatio": 1.88,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 108,
+            "b": 217,
+            "a": 1
+          },
+          "hex": "#546cd9",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.20317155828196504
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAqElEQVR4nIRSSxYDIQhDH/e/VrvpkZSiGRlE2mGhSMInKr/eH3LWe9dVltVa9VimKaQRBgy2OUaiLnMb2PCJGBiocGK+q0JI8Iy0m/c5kNB/s4UCYlOJKFTeShRaKFRxYMTB+lb+0nCalTwhTqlb2v+EkPPcIeSU2IDqydbR9SZMwHjeMu9KPw4Jx5KH0Dsyd1dJBG+S9jGn2uH6bVkfH+fWGmX2a7YvAAAA//8GiZgYAAAABklEQVQDANbZe4b/FQW8AAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Partner Enquiry",
+        "tag": "option",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgb(35, 45, 149)",
+        "selector": "section.stay-tuned > div.subscribe:nth-of-type(1) > div.subscribe__container.container > div.subscribe__form.white-form > div.wpcf7.js > form.wpcf7-form.init > fieldset.subscribe__fields:nth-of-type(2) > label.subscribe__column-half.select-menu__wrapper:nth-of-type(1) > span.wpcf7-form-control-wrap > select.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.select-menu > option:nth-of-type(7)",
+        "xpath": "//*[@id=\"wpcf7-f903-o2\"]/form[1]/fieldset[2]/label[1]/span[1]/select[1]/option[7]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--wp--preset--spacing--20",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 35,
+          "g": 45,
+          "b": 149,
+          "a": 1
+        },
+        "contrastRatio": 1.88,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 108,
+            "b": 217,
+            "a": 1
+          },
+          "hex": "#546cd9",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.20317155828196504
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAqElEQVR4nIRSSxYDIQhDH/e/VrvpkZSiGRlE2mGhSMInKr/eH3LWe9dVltVa9VimKaQRBgy2OUaiLnMb2PCJGBiocGK+q0JI8Iy0m/c5kNB/s4UCYlOJKFTeShRaKFRxYMTB+lb+0nCalTwhTqlb2v+EkPPcIeSU2IDqydbR9SZMwHjeMu9KPw4Jx5KH0Dsyd1dJBG+S9jGn2uH6bVkfH+fWGmX2a7YvAAAA//8GiZgYAAAABklEQVQDANbZe4b/FQW8AAAAAElFTkSuQmCC"
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--wp--preset--color--white",
+        "property": "background-color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#232d95",
+        "againstVariable": null,
+        "againstValue": "rgba(35, 45, 149, 0.5)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 2.83,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 5,
+        "suggestedFix": null,
+        "instances": [
+          {
+            "selector": "header.header > div.header__container.container > div.header__user-toggle:nth-of-type(1) > ul.header__user-list > li:nth-of-type(2) > a.header__user-item",
+            "text": "For Clinicians",
+            "xpath": "//*[@id=\"header\"]/div[1]/div[1]/ul[1]/li[2]/a[1]"
+          },
+          {
+            "selector": "div.global-wrapper:nth-of-type(5) > main > section.tabs.wrapper:nth-of-type(4) > div.tabs__container.container > div.tabs-list.swiper-container.swiper-container-initialized.swiper-container-horizontal:nth-of-type(2) > div.swiper-wrapper > div.tabs-list__btn-wrapper.swiper-slide.swiper-slide-next:nth-of-type(2) > button.tabs-list__btn",
+            "text": "Arthritis",
+            "xpath": "/html/body/div[5]/main[1]/section[4]/div[1]/div[2]/div[1]/div[2]/button[1]"
+          },
+          {
+            "selector": "div.global-wrapper:nth-of-type(5) > main > section.tabs.wrapper:nth-of-type(4) > div.tabs__container.container > div.tabs-list.swiper-container.swiper-container-initialized.swiper-container-horizontal:nth-of-type(2) > div.swiper-wrapper > div.tabs-list__btn-wrapper.swiper-slide:nth-of-type(3) > button.tabs-list__btn",
+            "text": "Derm",
+            "xpath": "/html/body/div[5]/main[1]/section[4]/div[1]/div[2]/div[1]/div[3]/button[1]"
+          },
+          {
+            "selector": "div.global-wrapper:nth-of-type(5) > main > section.tabs.wrapper:nth-of-type(6) > div.tabs__container.container > div.tabs-list.swiper-container.swiper-container-initialized.swiper-container-horizontal:nth-of-type(2) > div.swiper-wrapper > div.tabs-list__btn-wrapper.swiper-slide.swiper-slide-next:nth-of-type(2) > button.tabs-list__btn",
+            "text": "Clinicians",
+            "xpath": "/html/body/div[5]/main[1]/section[6]/div[1]/div[2]/div[1]/div[2]/button[1]"
+          },
+          {
+            "selector": "div.global-wrapper:nth-of-type(5) > main > section.tabs.wrapper:nth-of-type(6) > div.tabs__container.container > div.tabs-list.swiper-container.swiper-container-initialized.swiper-container-horizontal:nth-of-type(2) > div.swiper-wrapper > div.tabs-list__btn-wrapper.swiper-slide:nth-of-type(3) > button.tabs-list__btn",
+            "text": "Partners",
+            "xpath": "/html/body/div[5]/main[1]/section[6]/div[1]/div[2]/div[1]/div[3]/button[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--wp--preset--spacing--20",
+        "property": "color",
+        "currentValue": "rgb(0, 0, 0)",
+        "currentHex": "#000000",
+        "againstVariable": null,
+        "againstValue": "rgb(35, 45, 149)",
+        "againstHex": "#232d95",
+        "contrastRatio": 1.88,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 7,
+        "suggestedFix": {
+          "variable": "--wp--preset--spacing--20",
+          "newValue": "color(srgb 0.651 0.651 0.651)",
+          "newHex": "#a6a6a6",
+          "contrastRatio": 4.59,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "section.stay-tuned > div.subscribe:nth-of-type(1) > div.subscribe__container.container > div.subscribe__form.white-form > div.wpcf7.js > form.wpcf7-form.init > fieldset.subscribe__fields:nth-of-type(2) > label.subscribe__column-half.select-menu__wrapper:nth-of-type(1) > span.wpcf7-form-control-wrap > select.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.select-menu > option:nth-of-type(1)",
+            "text": "Please select the subject*",
+            "xpath": "//*[@id=\"wpcf7-f903-o2\"]/form[1]/fieldset[2]/label[1]/span[1]/select[1]/option[1]"
+          },
+          {
+            "selector": "section.stay-tuned > div.subscribe:nth-of-type(1) > div.subscribe__container.container > div.subscribe__form.white-form > div.wpcf7.js > form.wpcf7-form.init > fieldset.subscribe__fields:nth-of-type(2) > label.subscribe__column-half.select-menu__wrapper:nth-of-type(1) > span.wpcf7-form-control-wrap > select.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.select-menu > option:nth-of-type(2)",
+            "text": "My IBD Care",
+            "xpath": "//*[@id=\"wpcf7-f903-o2\"]/form[1]/fieldset[2]/label[1]/span[1]/select[1]/option[2]"
+          },
+          {
+            "selector": "section.stay-tuned > div.subscribe:nth-of-type(1) > div.subscribe__container.container > div.subscribe__form.white-form > div.wpcf7.js > form.wpcf7-form.init > fieldset.subscribe__fields:nth-of-type(2) > label.subscribe__column-half.select-menu__wrapper:nth-of-type(1) > span.wpcf7-form-control-wrap > select.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.select-menu > option:nth-of-type(3)",
+            "text": "My Arthritis",
+            "xpath": "//*[@id=\"wpcf7-f903-o2\"]/form[1]/fieldset[2]/label[1]/span[1]/select[1]/option[3]"
+          },
+          {
+            "selector": "section.stay-tuned > div.subscribe:nth-of-type(1) > div.subscribe__container.container > div.subscribe__form.white-form > div.wpcf7.js > form.wpcf7-form.init > fieldset.subscribe__fields:nth-of-type(2) > label.subscribe__column-half.select-menu__wrapper:nth-of-type(1) > span.wpcf7-form-control-wrap > select.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.select-menu > option:nth-of-type(4)",
+            "text": "General Enquiry",
+            "xpath": "//*[@id=\"wpcf7-f903-o2\"]/form[1]/fieldset[2]/label[1]/span[1]/select[1]/option[4]"
+          },
+          {
+            "selector": "section.stay-tuned > div.subscribe:nth-of-type(1) > div.subscribe__container.container > div.subscribe__form.white-form > div.wpcf7.js > form.wpcf7-form.init > fieldset.subscribe__fields:nth-of-type(2) > label.subscribe__column-half.select-menu__wrapper:nth-of-type(1) > span.wpcf7-form-control-wrap > select.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.select-menu > option:nth-of-type(5)",
+            "text": "Career Opportunities",
+            "xpath": "//*[@id=\"wpcf7-f903-o2\"]/form[1]/fieldset[2]/label[1]/span[1]/select[1]/option[5]"
+          },
+          {
+            "selector": "section.stay-tuned > div.subscribe:nth-of-type(1) > div.subscribe__container.container > div.subscribe__form.white-form > div.wpcf7.js > form.wpcf7-form.init > fieldset.subscribe__fields:nth-of-type(2) > label.subscribe__column-half.select-menu__wrapper:nth-of-type(1) > span.wpcf7-form-control-wrap > select.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.select-menu > option:nth-of-type(6)",
+            "text": "Clinician Enquiry",
+            "xpath": "//*[@id=\"wpcf7-f903-o2\"]/form[1]/fieldset[2]/label[1]/span[1]/select[1]/option[6]"
+          },
+          {
+            "selector": "section.stay-tuned > div.subscribe:nth-of-type(1) > div.subscribe__container.container > div.subscribe__form.white-form > div.wpcf7.js > form.wpcf7-form.init > fieldset.subscribe__fields:nth-of-type(2) > label.subscribe__column-half.select-menu__wrapper:nth-of-type(1) > span.wpcf7-form-control-wrap > select.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.select-menu > option:nth-of-type(7)",
+            "text": "Partner Enquiry",
+            "xpath": "//*[@id=\"wpcf7-f903-o2\"]/form[1]/fieldset[2]/label[1]/span[1]/select[1]/option[7]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 222,
+      "passAA": 210,
+      "passAAA": 208,
+      "failAA": 12,
+      "failAAA": 12
+    },
+    "variableStats": {
+      "uniqueIssues": 2,
+      "affectedElements": 12,
+      "oneOffIssues": 0
+    },
+    "healthScore": 95,
+    "scannedAt": "2026-08-03T23:28:16.346Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 1 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 12 violation(s)
+

@@ -1,0 +1,9 @@
+{
+  "analyzer_error": true,
+  "tool": "tab-map",
+  "url": "https://ampersandhealth.co.uk/about-us/",
+  "page": "ampersandhealth.co.uk-about-us",
+  "captured_at": "2026-08-03T23:25:46.872Z",
+  "error": "page.goto: Timeout 120000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://ampersandhealth.co.uk/about-us/\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "error_type": "TimeoutError"
+}

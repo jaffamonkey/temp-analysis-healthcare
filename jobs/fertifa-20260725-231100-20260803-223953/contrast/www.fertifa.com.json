@@ -1,0 +1,283 @@
+[
+  {
+    "url": "https://www.fertifa.com/",
+    "title": "Reproductive Health Benefits for Employers | Fertifa",
+    "pairs": [
+      {
+        "text": "100",
+        "tag": "div",
+        "color": "rgb(71, 3, 140)",
+        "background": "rgb(110, 17, 232)",
+        "selector": "#headcount",
+        "xpath": "//*[@id=\"headcount\"]",
+        "boundingRect": {
+          "x": 158.078125,
+          "y": 3325.1875,
+          "width": 54.140625,
+          "height": 44.796875
+        },
+        "fontSize": "32px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--primary-700",
+        "bgVar": "--primary-500",
+        "fgParsed": {
+          "r": 71,
+          "g": 3,
+          "b": 140,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 110,
+          "g": 17,
+          "b": 232,
+          "a": 1
+        },
+        "contrastRatio": 1.75,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 86,
+            "b": 255,
+            "a": 1
+          },
+          "hex": "#9556ff",
+          "ratio": 3.04,
+          "property": "background-color",
+          "deltaE": 0.14257590387619895
+        }
+      },
+      {
+        "text": "employees",
+        "tag": "div",
+        "color": "rgb(71, 3, 140)",
+        "background": "rgb(110, 17, 232)",
+        "selector": "#headcount",
+        "xpath": "//*[@id=\"headcount\"]",
+        "boundingRect": {
+          "x": 152.5,
+          "y": 3369.984375,
+          "width": 65.296875,
+          "height": 19.59375
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--primary-700",
+        "bgVar": "--primary-500",
+        "fgParsed": {
+          "r": 71,
+          "g": 3,
+          "b": 140,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 110,
+          "g": 17,
+          "b": 232,
+          "a": 1
+        },
+        "contrastRatio": 1.75,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 182,
+            "g": 127,
+            "b": 255,
+            "a": 1
+          },
+          "hex": "#b67fff",
+          "ratio": 4.5,
+          "property": "background-color",
+          "deltaE": 0.25757590387619905
+        }
+      }
+    ],
+    "violations": [
+      {
+        "text": "100",
+        "tag": "div",
+        "color": "rgb(71, 3, 140)",
+        "background": "rgb(110, 17, 232)",
+        "selector": "#headcount",
+        "xpath": "//*[@id=\"headcount\"]",
+        "boundingRect": {
+          "x": 158.078125,
+          "y": 3325.1875,
+          "width": 54.140625,
+          "height": 44.796875
+        },
+        "fontSize": "32px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--primary-700",
+        "bgVar": "--primary-500",
+        "fgParsed": {
+          "r": 71,
+          "g": 3,
+          "b": 140,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 110,
+          "g": 17,
+          "b": 232,
+          "a": 1
+        },
+        "contrastRatio": 1.75,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 86,
+            "b": 255,
+            "a": 1
+          },
+          "hex": "#9556ff",
+          "ratio": 3.04,
+          "property": "background-color",
+          "deltaE": 0.14257590387619895
+        }
+      },
+      {
+        "text": "employees",
+        "tag": "div",
+        "color": "rgb(71, 3, 140)",
+        "background": "rgb(110, 17, 232)",
+        "selector": "#headcount",
+        "xpath": "//*[@id=\"headcount\"]",
+        "boundingRect": {
+          "x": 152.5,
+          "y": 3369.984375,
+          "width": 65.296875,
+          "height": 19.59375
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--primary-700",
+        "bgVar": "--primary-500",
+        "fgParsed": {
+          "r": 71,
+          "g": 3,
+          "b": 140,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 110,
+          "g": 17,
+          "b": 232,
+          "a": 1
+        },
+        "contrastRatio": 1.75,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 182,
+            "g": 127,
+            "b": 255,
+            "a": 1
+          },
+          "hex": "#b67fff",
+          "ratio": 4.5,
+          "property": "background-color",
+          "deltaE": 0.25757590387619905
+        }
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--primary-700",
+        "property": "color",
+        "currentValue": "rgb(71, 3, 140)",
+        "currentHex": "#47038c",
+        "againstVariable": "--primary-500",
+        "againstValue": "rgb(110, 17, 232)",
+        "againstHex": "#6e11e8",
+        "contrastRatio": 1.75,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--primary-700",
+          "newValue": "color(srgb 0.74 0.581 1.1)",
+          "newHex": "#bd94ff",
+          "contrastRatio": 3.04,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "#headcount",
+            "text": "100",
+            "xpath": "//*[@id=\"headcount\"]"
+          }
+        ]
+      },
+      {
+        "variable": "--primary-700",
+        "property": "color",
+        "currentValue": "rgb(71, 3, 140)",
+        "currentHex": "#47038c",
+        "againstVariable": "--primary-500",
+        "againstValue": "rgb(110, 17, 232)",
+        "againstHex": "#6e11e8",
+        "contrastRatio": 1.75,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--primary-700",
+          "newValue": "color(srgb 0.903 0.747 1.282)",
+          "newHex": "#e6beff",
+          "contrastRatio": 4.53,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "#headcount",
+            "text": "employees",
+            "xpath": "//*[@id=\"headcount\"]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 367,
+      "passAA": 365,
+      "passAAA": 350,
+      "failAA": 2,
+      "failAAA": 2
+    },
+    "variableStats": {
+      "uniqueIssues": 2,
+      "affectedElements": 2,
+      "oneOffIssues": 0
+    },
+    "healthScore": 99,
+    "scannedAt": "2026-08-03T22:45:31.274Z"
+  }
+]

@@ -1,0 +1,3790 @@
+[
+  {
+    "url": "https://global.infervision.com/about-us",
+    "title": "Infervision - Company | About Us",
+    "pairs": [
+      {
+        "text": "InferRead®",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(221, 221, 221)",
+        "selector": "div.wrap > div.navbar.w-nav:nth-of-type(1) > div.div-block-49:nth-of-type(1) > div.navbar-container > nav.nav-menu.w-nav-menu > div > div.dropdown-2.w-dropdown > nav.dropdown-list.w-dropdown-list > div.div-block-39 > a.nav-link-3.w-nav-link:nth-of-type(1)",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 221,
+          "g": 221,
+          "b": 221,
+          "a": 1
+        },
+        "contrastRatio": 1.36,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.3325468705785313
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAH0lEQVR4nOzLMQ0AAADCMIJ/0WjYSbL+baAGMhh+wgAAAP//d+d3/gAAAAZJREFUAwA3IAAhr7r9yAAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "CT Lung",
+        "tag": "a",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(221, 221, 221)",
+        "selector": "div.wrap > div.navbar.w-nav:nth-of-type(1) > div.div-block-49:nth-of-type(1) > div.navbar-container > nav.nav-menu.w-nav-menu > div > div.dropdown-2.w-dropdown > nav.dropdown-list.w-dropdown-list > div.div-block-39 > div.div-block-215:nth-of-type(1) > a.nav-link-3.child.w-nav-link:nth-of-type(1)",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 221,
+          "g": 221,
+          "b": 221,
+          "a": 1
+        },
+        "contrastRatio": 1.97,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 96,
+            "g": 96,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#606060",
+          "ratio": 4.63,
+          "property": "color",
+          "deltaE": 0.20926073308161275
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAH0lEQVR4nOzLMQ0AAADCMIJ/0WjYSbL+baAGMhh+wgAAAP//d+d3/gAAAAZJREFUAwA3IAAhr7r9yAAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "DR Chest",
+        "tag": "a",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(221, 221, 221)",
+        "selector": "div.wrap > div.navbar.w-nav:nth-of-type(1) > div.div-block-49:nth-of-type(1) > div.navbar-container > nav.nav-menu.w-nav-menu > div > div.dropdown-2.w-dropdown > nav.dropdown-list.w-dropdown-list > div.div-block-39 > div.div-block-215:nth-of-type(1) > a.nav-link-3.child.w-nav-link:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[1]/a[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 221,
+          "g": 221,
+          "b": 221,
+          "a": 1
+        },
+        "contrastRatio": 1.97,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 96,
+            "g": 96,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#606060",
+          "ratio": 4.63,
+          "property": "color",
+          "deltaE": 0.20926073308161275
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAH0lEQVR4nOzLMQ0AAADCMIJ/0WjYSbL+baAGMhh+wgAAAP//d+d3/gAAAAZJREFUAwA3IAAhr7r9yAAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "InferOperate® Suite",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(221, 221, 221)",
+        "selector": "div.wrap > div.navbar.w-nav:nth-of-type(1) > div.div-block-49:nth-of-type(1) > div.navbar-container > nav.nav-menu.w-nav-menu > div > div.dropdown-2.w-dropdown > nav.dropdown-list.w-dropdown-list > div.div-block-39 > a.nav-link-3.w-nav-link:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/a[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 221,
+          "g": 221,
+          "b": 221,
+          "a": 1
+        },
+        "contrastRatio": 1.36,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.3325468705785313
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAH0lEQVR4nOzLMQ0AAADCMIJ/0WjYSbL+baAGMhh+wgAAAP//d+d3/gAAAAZJREFUAwA3IAAhr7r9yAAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Thorax Planning",
+        "tag": "a",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(221, 221, 221)",
+        "selector": "div.wrap > div.navbar.w-nav:nth-of-type(1) > div.div-block-49:nth-of-type(1) > div.navbar-container > nav.nav-menu.w-nav-menu > div > div.dropdown-2.w-dropdown > nav.dropdown-list.w-dropdown-list > div.div-block-39 > div.div-block-215:nth-of-type(2) > a.nav-link-3.child.w-nav-link:nth-of-type(1)",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[2]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 221,
+          "g": 221,
+          "b": 221,
+          "a": 1
+        },
+        "contrastRatio": 1.97,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 96,
+            "g": 96,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#606060",
+          "ratio": 4.63,
+          "property": "color",
+          "deltaE": 0.20926073308161275
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAH0lEQVR4nOzLMQ0AAADCMIJ/0WjYSbL+baAGMhh+wgAAAP//d+d3/gAAAAZJREFUAwA3IAAhr7r9yAAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Liver Planning",
+        "tag": "a",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(221, 221, 221)",
+        "selector": "div.wrap > div.navbar.w-nav:nth-of-type(1) > div.div-block-49:nth-of-type(1) > div.navbar-container > nav.nav-menu.w-nav-menu > div > div.dropdown-2.w-dropdown > nav.dropdown-list.w-dropdown-list > div.div-block-39 > div.div-block-215:nth-of-type(2) > a.nav-link-3.child.w-nav-link:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[2]/a[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 221,
+          "g": 221,
+          "b": 221,
+          "a": 1
+        },
+        "contrastRatio": 1.97,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 96,
+            "g": 96,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#606060",
+          "ratio": 4.63,
+          "property": "color",
+          "deltaE": 0.20926073308161275
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAH0lEQVR4nOzLMQ0AAADCMIJ/0WjYSbL+baAGMhh+wgAAAP//d+d3/gAAAAZJREFUAwA3IAAhr7r9yAAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Urology Planning",
+        "tag": "a",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(221, 221, 221)",
+        "selector": "div.wrap > div.navbar.w-nav:nth-of-type(1) > div.div-block-49:nth-of-type(1) > div.navbar-container > nav.nav-menu.w-nav-menu > div > div.dropdown-2.w-dropdown > nav.dropdown-list.w-dropdown-list > div.div-block-39 > div.div-block-215:nth-of-type(2) > a.nav-link-3.child.w-nav-link:nth-of-type(3)",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[2]/a[3]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 221,
+          "g": 221,
+          "b": 221,
+          "a": 1
+        },
+        "contrastRatio": 1.97,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 96,
+            "g": 96,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#606060",
+          "ratio": 4.63,
+          "property": "color",
+          "deltaE": 0.20926073308161275
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAH0lEQVR4nOzLMQ0AAADCMIJ/0WjYSbL+baAGMhh+wgAAAP//d+d3/gAAAAZJREFUAwA3IAAhr7r9yAAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "InferScholar®",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(221, 221, 221)",
+        "selector": "div.wrap > div.navbar.w-nav:nth-of-type(1) > div.div-block-49:nth-of-type(1) > div.navbar-container > nav.nav-menu.w-nav-menu > div > div.dropdown-2.w-dropdown > nav.dropdown-list.w-dropdown-list > div.div-block-39 > a.nav-link-3.w-nav-link:nth-of-type(3)",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/a[3]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 221,
+          "g": 221,
+          "b": 221,
+          "a": 1
+        },
+        "contrastRatio": 1.36,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.3325468705785313
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAH0lEQVR4nOzLMQ0AAADCMIJ/0WjYSbL+baAGMhh+wgAAAP//d+d3/gAAAAZJREFUAwA3IAAhr7r9yAAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Infervision is a leading AI medical technology company established in 2016. With a focus on improvin...",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(1) > div.w-layout-vflex.inner-section > p.text-grey-1.ablou-text-1.left",
+        "xpath": "/html/body/div[1]/div[3]/div[1]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 160,
+          "y": 840,
+          "width": 960,
+          "height": 287.96875
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Adopting a vertical and horizontal product strategy, Infervision offers a comprehensive series of AI...",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(1) > div.w-layout-vflex.inner-section > p.text-grey-1.ablou-text-1.left",
+        "xpath": "/html/body/div[1]/div[3]/div[1]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 160,
+          "y": 840,
+          "width": 960,
+          "height": 287.96875
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Infervision founded",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(1) > div.timeline-col:nth-of-type(2) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 700,
+          "y": 1507.15625,
+          "width": 490,
+          "height": 57.59375
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Angel financing completed",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(1) > div.timeline-col:nth-of-type(2) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 700,
+          "y": 1507.15625,
+          "width": 490,
+          "height": 57.59375
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Series A and B financing completed",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(2) > div.timeline-col.left:nth-of-type(1) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 90,
+          "y": 1697.75,
+          "width": 490,
+          "height": 86.390625
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Recognized as National High-Tech Company",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(2) > div.timeline-col.left:nth-of-type(1) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 90,
+          "y": 1697.75,
+          "width": 490,
+          "height": 86.390625
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "US, Europe and Japan offices established",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(3) > div.timeline-col:nth-of-type(2) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[3]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 700,
+          "y": 1904.140625,
+          "width": 490,
+          "height": 57.59375
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Series B+ and C financing completed",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(3) > div.timeline-col:nth-of-type(2) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[3]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 700,
+          "y": 1904.140625,
+          "width": 490,
+          "height": 57.59375
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "AI going overseas: Participate in world-renowned radiology conferences (ECR, CCR, RSNA, etc.)",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(4) > div.timeline-col.left:nth-of-type(1) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[4]/div[1]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 90,
+          "y": 2094.734375,
+          "width": 490,
+          "height": 57.59375
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Fight against COVID-19 pandemic with AI technology",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(5) > div.timeline-col:nth-of-type(2) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[5]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 700,
+          "y": 2285.328125,
+          "width": 490,
+          "height": 86.390625
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Four main marketing approvals: CE, PMDA, FDA, NMPA",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(5) > div.timeline-col:nth-of-type(2) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[5]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 700,
+          "y": 2285.328125,
+          "width": 490,
+          "height": 86.390625
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "InferRead® CT Stroke received 510(k) clearance from the FDA",
+        "tag": "span",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(6) > div.timeline-col.left:nth-of-type(1) > div > p.text-grey.mb-0.text-2 > span.text-span-7",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[6]/div[1]/div[1]/p[1]/span[1]",
+        "boundingRect": {
+          "x": 68.03125,
+          "y": 2491.71875,
+          "width": 511.96875,
+          "height": 28.796875
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Product procured by the European Commission, and included in the medical devices ordering list under...",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(6) > div.timeline-col.left:nth-of-type(1) > div > p.text-grey.mb-0.text-2",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[6]/div[1]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 90,
+          "y": 2491.71875,
+          "width": 490,
+          "height": 172.78125
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "InferRead® CT Fracture and InferRead® CT Stroke received the NMPA Class III medical device registrat...",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(7) > div.timeline-col:nth-of-type(2) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[7]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 700,
+          "y": 2784.5,
+          "width": 490,
+          "height": 115.1875
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Product selected into procurement list of NHS",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(7) > div.timeline-col:nth-of-type(2) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[7]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 700,
+          "y": 2784.5,
+          "width": 490,
+          "height": 115.1875
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "InferRead® CT Target Reconstruction, InferRead® CTA Coronary, and InferOperate® Thorax Planning rece...",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(8) > div.timeline-col.left:nth-of-type(1) > div > p.text-grey.mb-0.text-2",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[8]/div[1]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 90,
+          "y": 3019.6875,
+          "width": 490,
+          "height": 201.578125
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "InferRead® DR Chest received MDR CE and UKCA marking",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(8) > div.timeline-col.left:nth-of-type(1) > div > p.text-grey.mb-0.text-2",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[8]/div[1]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 90,
+          "y": 3019.6875,
+          "width": 490,
+          "height": 201.578125
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Product procured by the UN to East Europe and Central Asia",
+        "tag": "span",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(8) > div.timeline-col.left:nth-of-type(1) > div > p.text-grey.mb-0.text-2 > span.text-span-7",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[8]/div[1]/div[1]/p[1]/span[1]",
+        "boundingRect": {
+          "x": 79.09375,
+          "y": 3192.46875,
+          "width": 500.90625,
+          "height": 28.796875
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Partnered with SimonMed, one of the largest outpatient medical imaging providers in the US",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(9) > div.timeline-col:nth-of-type(2) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[9]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 700,
+          "y": 3341.265625,
+          "width": 490,
+          "height": 143.984375
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "InferOperate® Liver Planning and Urology Planning received NMPA Class lll medical device registratio...",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(9) > div.timeline-col:nth-of-type(2) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[9]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 700,
+          "y": 3341.265625,
+          "width": 490,
+          "height": 143.984375
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Mar 26, 2026",
+        "tag": "div",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div.wrap > section.section-9:nth-of-type(1) > div.container > div.blog-post-links:nth-of-type(2) > div.collection-list-wrapper-3.w-dyn-list > div.collection-list-3.w-dyn-items > div.collection-item-4.w-dyn-item:nth-of-type(1) > a.blog-post-link.w-inline-block > div.blog-post-link-content-wrap:nth-of-type(1) > div.blog-post-link-content > div:nth-of-type(2) > div.post-date",
+        "xpath": "/html/body/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]/div[1]/div[1]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 97,
+          "y": 5078.21875,
+          "width": 83.328125,
+          "height": 17
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 108,
+            "g": 112,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#6c7079",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.10381233427072967
+        }
+      },
+      {
+        "text": "Dec 5, 2025",
+        "tag": "div",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div.wrap > section.section-9:nth-of-type(1) > div.container > div.blog-post-links:nth-of-type(2) > div.collection-list-wrapper-3.w-dyn-list > div.collection-list-3.w-dyn-items > div.collection-item-4.w-dyn-item:nth-of-type(2) > a.blog-post-link.w-inline-block > div.blog-post-link-content-wrap:nth-of-type(1) > div.blog-post-link-content > div:nth-of-type(2) > div.post-date",
+        "xpath": "/html/body/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/div[2]/a[1]/div[1]/div[1]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 475.65625,
+          "y": 5078.21875,
+          "width": 76.390625,
+          "height": 17
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 108,
+            "g": 112,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#6c7079",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.10381233427072967
+        }
+      },
+      {
+        "text": "Nov 5, 2025",
+        "tag": "div",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div.wrap > section.section-9:nth-of-type(1) > div.container > div.blog-post-links:nth-of-type(2) > div.collection-list-wrapper-3.w-dyn-list > div.collection-list-3.w-dyn-items > div.collection-item-4.w-dyn-item:nth-of-type(3) > a.blog-post-link.w-inline-block > div.blog-post-link-content-wrap:nth-of-type(1) > div.blog-post-link-content > div:nth-of-type(2) > div.post-date",
+        "xpath": "/html/body/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/div[3]/a[1]/div[1]/div[1]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 854.328125,
+          "y": 5078.21875,
+          "width": 76.390625,
+          "height": 17
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 108,
+            "g": 112,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#6c7079",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.10381233427072967
+        }
+      },
+      {
+        "text": "Thank you! Your submission has been received!",
+        "tag": "div",
+        "color": "rgb(83, 253, 202)",
+        "background": "rgba(83, 253, 202, 0.1)",
+        "selector": "div.wrap > div.section.white.mb-0:nth-of-type(5) > div.section.pt-0 > div.inner-section > div.inner-section.dark-grey.round.pt-0 > div.row.flex-center.w-row > div.w-col.w-col-8:nth-of-type(1) > div.w-form:nth-of-type(2) > div.form-success.w-form-done:nth-of-type(1) > div",
+        "xpath": "/html/body/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 83,
+          "g": 253,
+          "b": 202,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 83,
+          "g": 253,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 133,
+            "b": 90,
+            "a": 1
+          },
+          "hex": "#00855a",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.3694283502645985
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAH0lEQVR4nOzLMQ0AAADCMIJ/0WjYSbL+baAGMhh+wgAAAP//d+d3/gAAAAZJREFUAwA3IAAhr7r9yAAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Oops! Something went wrong while submitting the form.",
+        "tag": "div",
+        "color": "rgb(238, 181, 36)",
+        "background": "rgba(238, 181, 36, 0.1)",
+        "selector": "div.wrap > div.section.white.mb-0:nth-of-type(5) > div.section.pt-0 > div.inner-section > div.inner-section.dark-grey.round.pt-0 > div.row.flex-center.w-row > div.w-col.w-col-8:nth-of-type(1) > div.w-form:nth-of-type(2) > div.error-message.w-form-fail:nth-of-type(2) > div",
+        "xpath": "/html/body/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 238,
+          "g": 181,
+          "b": 36,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 238,
+          "g": 181,
+          "b": 36,
+          "a": 0.1
+        },
+        "contrastRatio": 1.76,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 157,
+            "g": 103,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#9d6700",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.24906220011847402
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAH0lEQVR4nOzLMQ0AAADCMIJ/0WjYSbL+baAGMhh+wgAAAP//d+d3/gAAAAZJREFUAwA3IAAhr7r9yAAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "20-22 Wenlock Road,",
+        "tag": "div",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div.wrap > section.section.light:nth-of-type(2) > div.container > div.center-block.mb-60 > div.row.align-center.w-row > div.mb-20-fixed.w-col.w-col-4:nth-of-type(1) > div.text-grey.text-medium",
+        "xpath": "/html/body/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 90,
+          "y": 5930.53125,
+          "width": 353.328125,
+          "height": 51.1875
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 108,
+            "g": 112,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#6c7079",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.10381233427072967
+        }
+      },
+      {
+        "text": "London, N1 7GU, UK",
+        "tag": "div",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div.wrap > section.section.light:nth-of-type(2) > div.container > div.center-block.mb-60 > div.row.align-center.w-row > div.mb-20-fixed.w-col.w-col-4:nth-of-type(1) > div.text-grey.text-medium",
+        "xpath": "/html/body/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 90,
+          "y": 5930.53125,
+          "width": 353.328125,
+          "height": 51.1875
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 108,
+            "g": 112,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#6c7079",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.10381233427072967
+        }
+      },
+      {
+        "text": "Mainzer Str. 75,",
+        "tag": "div",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div.wrap > section.section.light:nth-of-type(2) > div.container > div.center-block.mb-60 > div.row.align-center.w-row > div.mb-20-fixed.w-col.w-col-4:nth-of-type(2) > div.text-grey.text-medium",
+        "xpath": "/html/body/div[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 463.328125,
+          "y": 5930.53125,
+          "width": 353.328125,
+          "height": 51.1875
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 108,
+            "g": 112,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#6c7079",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.10381233427072967
+        }
+      },
+      {
+        "text": "Wiesbaden, 65189, Germany",
+        "tag": "div",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div.wrap > section.section.light:nth-of-type(2) > div.container > div.center-block.mb-60 > div.row.align-center.w-row > div.mb-20-fixed.w-col.w-col-4:nth-of-type(2) > div.text-grey.text-medium",
+        "xpath": "/html/body/div[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 463.328125,
+          "y": 5930.53125,
+          "width": 353.328125,
+          "height": 51.1875
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 108,
+            "g": 112,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#6c7079",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.10381233427072967
+        }
+      },
+      {
+        "text": "1099 Wall St W, Lyndhurst,",
+        "tag": "div",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div.wrap > section.section.light:nth-of-type(2) > div.container > div.center-block.mb-60 > div.row.align-center.w-row > div.mb-20-fixed.w-col.w-col-4:nth-of-type(3) > div.text-grey.text-medium",
+        "xpath": "/html/body/div[1]/section[2]/div[1]/div[1]/div[1]/div[3]/div[1]",
+        "boundingRect": {
+          "x": 836.65625,
+          "y": 5930.53125,
+          "width": 353.328125,
+          "height": 51.1875
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 108,
+            "g": 112,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#6c7079",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.10381233427072967
+        }
+      },
+      {
+        "text": "New Jersey",
+        "tag": "div",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div.wrap > section.section.light:nth-of-type(2) > div.container > div.center-block.mb-60 > div.row.align-center.w-row > div.mb-20-fixed.w-col.w-col-4:nth-of-type(3) > div.text-grey.text-medium",
+        "xpath": "/html/body/div[1]/section[2]/div[1]/div[1]/div[1]/div[3]/div[1]",
+        "boundingRect": {
+          "x": 836.65625,
+          "y": 5930.53125,
+          "width": 353.328125,
+          "height": 51.1875
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 108,
+            "g": 112,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#6c7079",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.10381233427072967
+        }
+      }
+    ],
+    "violations": [
+      {
+        "text": "InferRead®",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(221, 221, 221)",
+        "selector": "div.wrap > div.navbar.w-nav:nth-of-type(1) > div.div-block-49:nth-of-type(1) > div.navbar-container > nav.nav-menu.w-nav-menu > div > div.dropdown-2.w-dropdown > nav.dropdown-list.w-dropdown-list > div.div-block-39 > a.nav-link-3.w-nav-link:nth-of-type(1)",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 221,
+          "g": 221,
+          "b": 221,
+          "a": 1
+        },
+        "contrastRatio": 1.36,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.3325468705785313
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAH0lEQVR4nOzLMQ0AAADCMIJ/0WjYSbL+baAGMhh+wgAAAP//d+d3/gAAAAZJREFUAwA3IAAhr7r9yAAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "CT Lung",
+        "tag": "a",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(221, 221, 221)",
+        "selector": "div.wrap > div.navbar.w-nav:nth-of-type(1) > div.div-block-49:nth-of-type(1) > div.navbar-container > nav.nav-menu.w-nav-menu > div > div.dropdown-2.w-dropdown > nav.dropdown-list.w-dropdown-list > div.div-block-39 > div.div-block-215:nth-of-type(1) > a.nav-link-3.child.w-nav-link:nth-of-type(1)",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 221,
+          "g": 221,
+          "b": 221,
+          "a": 1
+        },
+        "contrastRatio": 1.97,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 96,
+            "g": 96,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#606060",
+          "ratio": 4.63,
+          "property": "color",
+          "deltaE": 0.20926073308161275
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAH0lEQVR4nOzLMQ0AAADCMIJ/0WjYSbL+baAGMhh+wgAAAP//d+d3/gAAAAZJREFUAwA3IAAhr7r9yAAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "DR Chest",
+        "tag": "a",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(221, 221, 221)",
+        "selector": "div.wrap > div.navbar.w-nav:nth-of-type(1) > div.div-block-49:nth-of-type(1) > div.navbar-container > nav.nav-menu.w-nav-menu > div > div.dropdown-2.w-dropdown > nav.dropdown-list.w-dropdown-list > div.div-block-39 > div.div-block-215:nth-of-type(1) > a.nav-link-3.child.w-nav-link:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[1]/a[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 221,
+          "g": 221,
+          "b": 221,
+          "a": 1
+        },
+        "contrastRatio": 1.97,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 96,
+            "g": 96,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#606060",
+          "ratio": 4.63,
+          "property": "color",
+          "deltaE": 0.20926073308161275
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAH0lEQVR4nOzLMQ0AAADCMIJ/0WjYSbL+baAGMhh+wgAAAP//d+d3/gAAAAZJREFUAwA3IAAhr7r9yAAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "InferOperate® Suite",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(221, 221, 221)",
+        "selector": "div.wrap > div.navbar.w-nav:nth-of-type(1) > div.div-block-49:nth-of-type(1) > div.navbar-container > nav.nav-menu.w-nav-menu > div > div.dropdown-2.w-dropdown > nav.dropdown-list.w-dropdown-list > div.div-block-39 > a.nav-link-3.w-nav-link:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/a[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 221,
+          "g": 221,
+          "b": 221,
+          "a": 1
+        },
+        "contrastRatio": 1.36,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.3325468705785313
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAH0lEQVR4nOzLMQ0AAADCMIJ/0WjYSbL+baAGMhh+wgAAAP//d+d3/gAAAAZJREFUAwA3IAAhr7r9yAAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Thorax Planning",
+        "tag": "a",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(221, 221, 221)",
+        "selector": "div.wrap > div.navbar.w-nav:nth-of-type(1) > div.div-block-49:nth-of-type(1) > div.navbar-container > nav.nav-menu.w-nav-menu > div > div.dropdown-2.w-dropdown > nav.dropdown-list.w-dropdown-list > div.div-block-39 > div.div-block-215:nth-of-type(2) > a.nav-link-3.child.w-nav-link:nth-of-type(1)",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[2]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 221,
+          "g": 221,
+          "b": 221,
+          "a": 1
+        },
+        "contrastRatio": 1.97,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 96,
+            "g": 96,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#606060",
+          "ratio": 4.63,
+          "property": "color",
+          "deltaE": 0.20926073308161275
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAH0lEQVR4nOzLMQ0AAADCMIJ/0WjYSbL+baAGMhh+wgAAAP//d+d3/gAAAAZJREFUAwA3IAAhr7r9yAAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Liver Planning",
+        "tag": "a",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(221, 221, 221)",
+        "selector": "div.wrap > div.navbar.w-nav:nth-of-type(1) > div.div-block-49:nth-of-type(1) > div.navbar-container > nav.nav-menu.w-nav-menu > div > div.dropdown-2.w-dropdown > nav.dropdown-list.w-dropdown-list > div.div-block-39 > div.div-block-215:nth-of-type(2) > a.nav-link-3.child.w-nav-link:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[2]/a[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 221,
+          "g": 221,
+          "b": 221,
+          "a": 1
+        },
+        "contrastRatio": 1.97,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 96,
+            "g": 96,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#606060",
+          "ratio": 4.63,
+          "property": "color",
+          "deltaE": 0.20926073308161275
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAH0lEQVR4nOzLMQ0AAADCMIJ/0WjYSbL+baAGMhh+wgAAAP//d+d3/gAAAAZJREFUAwA3IAAhr7r9yAAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Urology Planning",
+        "tag": "a",
+        "color": "rgb(158, 158, 158)",
+        "background": "rgb(221, 221, 221)",
+        "selector": "div.wrap > div.navbar.w-nav:nth-of-type(1) > div.div-block-49:nth-of-type(1) > div.navbar-container > nav.nav-menu.w-nav-menu > div > div.dropdown-2.w-dropdown > nav.dropdown-list.w-dropdown-list > div.div-block-39 > div.div-block-215:nth-of-type(2) > a.nav-link-3.child.w-nav-link:nth-of-type(3)",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[2]/a[3]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 158,
+          "g": 158,
+          "b": 158,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 221,
+          "g": 221,
+          "b": 221,
+          "a": 1
+        },
+        "contrastRatio": 1.97,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 96,
+            "g": 96,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#606060",
+          "ratio": 4.63,
+          "property": "color",
+          "deltaE": 0.20926073308161275
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAH0lEQVR4nOzLMQ0AAADCMIJ/0WjYSbL+baAGMhh+wgAAAP//d+d3/gAAAAZJREFUAwA3IAAhr7r9yAAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "InferScholar®",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(221, 221, 221)",
+        "selector": "div.wrap > div.navbar.w-nav:nth-of-type(1) > div.div-block-49:nth-of-type(1) > div.navbar-container > nav.nav-menu.w-nav-menu > div > div.dropdown-2.w-dropdown > nav.dropdown-list.w-dropdown-list > div.div-block-39 > a.nav-link-3.w-nav-link:nth-of-type(3)",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/a[3]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 221,
+          "g": 221,
+          "b": 221,
+          "a": 1
+        },
+        "contrastRatio": 1.36,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.3325468705785313
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAH0lEQVR4nOzLMQ0AAADCMIJ/0WjYSbL+baAGMhh+wgAAAP//d+d3/gAAAAZJREFUAwA3IAAhr7r9yAAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Infervision is a leading AI medical technology company established in 2016. With a focus on improvin...",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(1) > div.w-layout-vflex.inner-section > p.text-grey-1.ablou-text-1.left",
+        "xpath": "/html/body/div[1]/div[3]/div[1]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 160,
+          "y": 840,
+          "width": 960,
+          "height": 287.96875
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Adopting a vertical and horizontal product strategy, Infervision offers a comprehensive series of AI...",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(1) > div.w-layout-vflex.inner-section > p.text-grey-1.ablou-text-1.left",
+        "xpath": "/html/body/div[1]/div[3]/div[1]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 160,
+          "y": 840,
+          "width": 960,
+          "height": 287.96875
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Infervision founded",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(1) > div.timeline-col:nth-of-type(2) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 700,
+          "y": 1507.15625,
+          "width": 490,
+          "height": 57.59375
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Angel financing completed",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(1) > div.timeline-col:nth-of-type(2) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 700,
+          "y": 1507.15625,
+          "width": 490,
+          "height": 57.59375
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Series A and B financing completed",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(2) > div.timeline-col.left:nth-of-type(1) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 90,
+          "y": 1697.75,
+          "width": 490,
+          "height": 86.390625
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Recognized as National High-Tech Company",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(2) > div.timeline-col.left:nth-of-type(1) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 90,
+          "y": 1697.75,
+          "width": 490,
+          "height": 86.390625
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "US, Europe and Japan offices established",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(3) > div.timeline-col:nth-of-type(2) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[3]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 700,
+          "y": 1904.140625,
+          "width": 490,
+          "height": 57.59375
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Series B+ and C financing completed",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(3) > div.timeline-col:nth-of-type(2) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[3]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 700,
+          "y": 1904.140625,
+          "width": 490,
+          "height": 57.59375
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "AI going overseas: Participate in world-renowned radiology conferences (ECR, CCR, RSNA, etc.)",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(4) > div.timeline-col.left:nth-of-type(1) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[4]/div[1]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 90,
+          "y": 2094.734375,
+          "width": 490,
+          "height": 57.59375
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Fight against COVID-19 pandemic with AI technology",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(5) > div.timeline-col:nth-of-type(2) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[5]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 700,
+          "y": 2285.328125,
+          "width": 490,
+          "height": 86.390625
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Four main marketing approvals: CE, PMDA, FDA, NMPA",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(5) > div.timeline-col:nth-of-type(2) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[5]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 700,
+          "y": 2285.328125,
+          "width": 490,
+          "height": 86.390625
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "InferRead® CT Stroke received 510(k) clearance from the FDA",
+        "tag": "span",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(6) > div.timeline-col.left:nth-of-type(1) > div > p.text-grey.mb-0.text-2 > span.text-span-7",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[6]/div[1]/div[1]/p[1]/span[1]",
+        "boundingRect": {
+          "x": 68.03125,
+          "y": 2491.71875,
+          "width": 511.96875,
+          "height": 28.796875
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Product procured by the European Commission, and included in the medical devices ordering list under...",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(6) > div.timeline-col.left:nth-of-type(1) > div > p.text-grey.mb-0.text-2",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[6]/div[1]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 90,
+          "y": 2491.71875,
+          "width": 490,
+          "height": 172.78125
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "InferRead® CT Fracture and InferRead® CT Stroke received the NMPA Class III medical device registrat...",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(7) > div.timeline-col:nth-of-type(2) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[7]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 700,
+          "y": 2784.5,
+          "width": 490,
+          "height": 115.1875
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Product selected into procurement list of NHS",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(7) > div.timeline-col:nth-of-type(2) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[7]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 700,
+          "y": 2784.5,
+          "width": 490,
+          "height": 115.1875
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "InferRead® CT Target Reconstruction, InferRead® CTA Coronary, and InferOperate® Thorax Planning rece...",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(8) > div.timeline-col.left:nth-of-type(1) > div > p.text-grey.mb-0.text-2",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[8]/div[1]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 90,
+          "y": 3019.6875,
+          "width": 490,
+          "height": 201.578125
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "InferRead® DR Chest received MDR CE and UKCA marking",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(8) > div.timeline-col.left:nth-of-type(1) > div > p.text-grey.mb-0.text-2",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[8]/div[1]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 90,
+          "y": 3019.6875,
+          "width": 490,
+          "height": 201.578125
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Product procured by the UN to East Europe and Central Asia",
+        "tag": "span",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(8) > div.timeline-col.left:nth-of-type(1) > div > p.text-grey.mb-0.text-2 > span.text-span-7",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[8]/div[1]/div[1]/p[1]/span[1]",
+        "boundingRect": {
+          "x": 79.09375,
+          "y": 3192.46875,
+          "width": 500.90625,
+          "height": 28.796875
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Partnered with SimonMed, one of the largest outpatient medical imaging providers in the US",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(9) > div.timeline-col:nth-of-type(2) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[9]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 700,
+          "y": 3341.265625,
+          "width": 490,
+          "height": 143.984375
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "InferOperate® Liver Planning and Urology Planning received NMPA Class lll medical device registratio...",
+        "tag": "p",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap > div.section.white.pt-0:nth-of-type(3) > div.container:nth-of-type(2) > div.timeline:nth-of-type(2) > div.timeline-row:nth-of-type(9) > div.timeline-col:nth-of-type(2) > div > p.text-grey.mb-0",
+        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[9]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 700,
+          "y": 3341.265625,
+          "width": 490,
+          "height": 143.984375
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 118,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#71767f",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.08381233427072965
+        }
+      },
+      {
+        "text": "Mar 26, 2026",
+        "tag": "div",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div.wrap > section.section-9:nth-of-type(1) > div.container > div.blog-post-links:nth-of-type(2) > div.collection-list-wrapper-3.w-dyn-list > div.collection-list-3.w-dyn-items > div.collection-item-4.w-dyn-item:nth-of-type(1) > a.blog-post-link.w-inline-block > div.blog-post-link-content-wrap:nth-of-type(1) > div.blog-post-link-content > div:nth-of-type(2) > div.post-date",
+        "xpath": "/html/body/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]/div[1]/div[1]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 97,
+          "y": 5078.21875,
+          "width": 83.328125,
+          "height": 17
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 108,
+            "g": 112,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#6c7079",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.10381233427072967
+        }
+      },
+      {
+        "text": "Dec 5, 2025",
+        "tag": "div",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div.wrap > section.section-9:nth-of-type(1) > div.container > div.blog-post-links:nth-of-type(2) > div.collection-list-wrapper-3.w-dyn-list > div.collection-list-3.w-dyn-items > div.collection-item-4.w-dyn-item:nth-of-type(2) > a.blog-post-link.w-inline-block > div.blog-post-link-content-wrap:nth-of-type(1) > div.blog-post-link-content > div:nth-of-type(2) > div.post-date",
+        "xpath": "/html/body/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/div[2]/a[1]/div[1]/div[1]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 475.65625,
+          "y": 5078.21875,
+          "width": 76.390625,
+          "height": 17
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 108,
+            "g": 112,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#6c7079",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.10381233427072967
+        }
+      },
+      {
+        "text": "Nov 5, 2025",
+        "tag": "div",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div.wrap > section.section-9:nth-of-type(1) > div.container > div.blog-post-links:nth-of-type(2) > div.collection-list-wrapper-3.w-dyn-list > div.collection-list-3.w-dyn-items > div.collection-item-4.w-dyn-item:nth-of-type(3) > a.blog-post-link.w-inline-block > div.blog-post-link-content-wrap:nth-of-type(1) > div.blog-post-link-content > div:nth-of-type(2) > div.post-date",
+        "xpath": "/html/body/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/div[3]/a[1]/div[1]/div[1]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 854.328125,
+          "y": 5078.21875,
+          "width": 76.390625,
+          "height": 17
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 108,
+            "g": 112,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#6c7079",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.10381233427072967
+        }
+      },
+      {
+        "text": "Thank you! Your submission has been received!",
+        "tag": "div",
+        "color": "rgb(83, 253, 202)",
+        "background": "rgba(83, 253, 202, 0.1)",
+        "selector": "div.wrap > div.section.white.mb-0:nth-of-type(5) > div.section.pt-0 > div.inner-section > div.inner-section.dark-grey.round.pt-0 > div.row.flex-center.w-row > div.w-col.w-col-8:nth-of-type(1) > div.w-form:nth-of-type(2) > div.form-success.w-form-done:nth-of-type(1) > div",
+        "xpath": "/html/body/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 83,
+          "g": 253,
+          "b": 202,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 83,
+          "g": 253,
+          "b": 202,
+          "a": 0.1
+        },
+        "contrastRatio": 1.25,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 133,
+            "b": 90,
+            "a": 1
+          },
+          "hex": "#00855a",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.3694283502645985
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAH0lEQVR4nOzLMQ0AAADCMIJ/0WjYSbL+baAGMhh+wgAAAP//d+d3/gAAAAZJREFUAwA3IAAhr7r9yAAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Oops! Something went wrong while submitting the form.",
+        "tag": "div",
+        "color": "rgb(238, 181, 36)",
+        "background": "rgba(238, 181, 36, 0.1)",
+        "selector": "div.wrap > div.section.white.mb-0:nth-of-type(5) > div.section.pt-0 > div.inner-section > div.inner-section.dark-grey.round.pt-0 > div.row.flex-center.w-row > div.w-col.w-col-8:nth-of-type(1) > div.w-form:nth-of-type(2) > div.error-message.w-form-fail:nth-of-type(2) > div",
+        "xpath": "/html/body/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 238,
+          "g": 181,
+          "b": 36,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 238,
+          "g": 181,
+          "b": 36,
+          "a": 0.1
+        },
+        "contrastRatio": 1.76,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 157,
+            "g": 103,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#9d6700",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.24906220011847402
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAH0lEQVR4nOzLMQ0AAADCMIJ/0WjYSbL+baAGMhh+wgAAAP//d+d3/gAAAAZJREFUAwA3IAAhr7r9yAAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "20-22 Wenlock Road,",
+        "tag": "div",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div.wrap > section.section.light:nth-of-type(2) > div.container > div.center-block.mb-60 > div.row.align-center.w-row > div.mb-20-fixed.w-col.w-col-4:nth-of-type(1) > div.text-grey.text-medium",
+        "xpath": "/html/body/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 90,
+          "y": 5930.53125,
+          "width": 353.328125,
+          "height": 51.1875
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 108,
+            "g": 112,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#6c7079",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.10381233427072967
+        }
+      },
+      {
+        "text": "London, N1 7GU, UK",
+        "tag": "div",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div.wrap > section.section.light:nth-of-type(2) > div.container > div.center-block.mb-60 > div.row.align-center.w-row > div.mb-20-fixed.w-col.w-col-4:nth-of-type(1) > div.text-grey.text-medium",
+        "xpath": "/html/body/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 90,
+          "y": 5930.53125,
+          "width": 353.328125,
+          "height": 51.1875
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 108,
+            "g": 112,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#6c7079",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.10381233427072967
+        }
+      },
+      {
+        "text": "Mainzer Str. 75,",
+        "tag": "div",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div.wrap > section.section.light:nth-of-type(2) > div.container > div.center-block.mb-60 > div.row.align-center.w-row > div.mb-20-fixed.w-col.w-col-4:nth-of-type(2) > div.text-grey.text-medium",
+        "xpath": "/html/body/div[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 463.328125,
+          "y": 5930.53125,
+          "width": 353.328125,
+          "height": 51.1875
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 108,
+            "g": 112,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#6c7079",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.10381233427072967
+        }
+      },
+      {
+        "text": "Wiesbaden, 65189, Germany",
+        "tag": "div",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div.wrap > section.section.light:nth-of-type(2) > div.container > div.center-block.mb-60 > div.row.align-center.w-row > div.mb-20-fixed.w-col.w-col-4:nth-of-type(2) > div.text-grey.text-medium",
+        "xpath": "/html/body/div[1]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 463.328125,
+          "y": 5930.53125,
+          "width": 353.328125,
+          "height": 51.1875
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 108,
+            "g": 112,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#6c7079",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.10381233427072967
+        }
+      },
+      {
+        "text": "1099 Wall St W, Lyndhurst,",
+        "tag": "div",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div.wrap > section.section.light:nth-of-type(2) > div.container > div.center-block.mb-60 > div.row.align-center.w-row > div.mb-20-fixed.w-col.w-col-4:nth-of-type(3) > div.text-grey.text-medium",
+        "xpath": "/html/body/div[1]/section[2]/div[1]/div[1]/div[1]/div[3]/div[1]",
+        "boundingRect": {
+          "x": 836.65625,
+          "y": 5930.53125,
+          "width": 353.328125,
+          "height": 51.1875
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 108,
+            "g": 112,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#6c7079",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.10381233427072967
+        }
+      },
+      {
+        "text": "New Jersey",
+        "tag": "div",
+        "color": "rgb(138, 143, 152)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div.wrap > section.section.light:nth-of-type(2) > div.container > div.center-block.mb-60 > div.row.align-center.w-row > div.mb-20-fixed.w-col.w-col-4:nth-of-type(3) > div.text-grey.text-medium",
+        "xpath": "/html/body/div[1]/section[2]/div[1]/div[1]/div[1]/div[3]/div[1]",
+        "boundingRect": {
+          "x": 836.65625,
+          "y": 5930.53125,
+          "width": 353.328125,
+          "height": 51.1875
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 138,
+          "g": 143,
+          "b": 152,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 108,
+            "g": 112,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#6c7079",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.10381233427072967
+        }
+      }
+    ],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 76,
+      "passAA": 37,
+      "passAAA": 17,
+      "failAA": 39,
+      "failAAA": 10
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 39
+    },
+    "healthScore": 49,
+    "scannedAt": "2026-08-03T22:57:38.230Z"
+  }
+]

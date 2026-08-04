@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.semble.io/case-studies",
+  "landed_url": "https://www.semble.io/case-studies",
+  "title": "Case Studies Library",
+  "page": "www.semble.io-case-studies",
+  "captured_at": "2026-08-04T00:25:08.080Z",
+  "focusable_count": 52,
+  "frame_count": 3,
+  "same_origin_frame_count": 2,
+  "cross_origin_frame_count": 1,
+  "image": "www.semble.io-case-studies.png",
+  "preview_image": "www.semble.io-case-studies.png",
+  "preview_dir": "visual-preview",
+  "json": "www.semble.io-case-studies.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll"
+    }
+  ]
+}

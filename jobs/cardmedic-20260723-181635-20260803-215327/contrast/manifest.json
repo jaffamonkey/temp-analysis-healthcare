@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.cardmedic.com",
+    "url": "https://www.cardmedic.com/",
+    "title": "CardMedic | Reduce Health Inequalities & Improve Patient Safety",
+    "json": "www.cardmedic.com.json",
+    "report": "www.cardmedic.com.json",
+    "ok": true
+  },
+  {
+    "page": "www.cardmedic.com-about-us",
+    "url": "https://www.cardmedic.com/about-us/",
+    "title": "About Us | Improving Communication In Healthcare",
+    "json": "www.cardmedic.com-about-us.json",
+    "report": "www.cardmedic.com-about-us.json",
+    "ok": true
+  },
+  {
+    "page": "www.cardmedic.com-contact",
+    "url": "https://www.cardmedic.com/contact/",
+    "title": "Contact CardMedic | Medical Communication Solutions",
+    "json": "www.cardmedic.com-contact.json",
+    "report": "www.cardmedic.com-contact.json",
+    "ok": true
+  },
+  {
+    "page": "www.cardmedic.com-clients-and-case-studies",
+    "url": "https://www.cardmedic.com/clients-and-case-studies/",
+    "title": "Our Clients | See how the world's leading hospitals are improving health equity",
+    "json": "www.cardmedic.com-clients-and-case-studies.json",
+    "report": "www.cardmedic.com-clients-and-case-studies.json",
+    "ok": true
+  },
+  {
+    "page": "www.cardmedic.com-help",
+    "url": "https://www.cardmedic.com/help/",
+    "title": "Help & FAQs | Get Help With CardMedic Communication Tools",
+    "json": "www.cardmedic.com-help.json",
+    "report": "www.cardmedic.com-help.json",
+    "ok": true
+  }
+]

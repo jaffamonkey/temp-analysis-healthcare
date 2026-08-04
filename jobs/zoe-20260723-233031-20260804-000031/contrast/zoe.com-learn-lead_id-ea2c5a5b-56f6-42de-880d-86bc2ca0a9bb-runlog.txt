@@ -1,0 +1,36 @@
+Starting contrast check for https://zoe.com/learn?lead_id=ea2c5a5b-56f6-42de-880d-86bc2ca0a9bb
+
+--- STDOUT ---
+ℹ Scanning: https://zoe.com/learn?lead_id=ea2c5a5b-56f6-42de-880d-86bc2ca0a9bb
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://zoe.com/learn?lead_id=ea2c5a5b-56f6-42de-880d-86bc2ca0a9bb
+[
+  {
+    "url": "https://zoe.com/learn?lead_id=ea2c5a5b-56f6-42de-880d-86bc2ca0a9bb",
+    "title": "ZOE Health Academy — Nutrition and health information",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 170,
+      "passAA": 170,
+      "passAAA": 168,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-08-04T00:05:55.027Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+

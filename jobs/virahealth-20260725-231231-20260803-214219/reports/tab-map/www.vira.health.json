@@ -1,0 +1,26 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.vira.health/",
+  "landed_url": "https://www.vira.health/",
+  "title": "Vira Health - Healthcare support for every employee, everywhere",
+  "page": "www.vira.health",
+  "captured_at": "2026-08-03T21:46:50.861Z",
+  "focusable_count": 20,
+  "frame_count": 0,
+  "same_origin_frame_count": 0,
+  "cross_origin_frame_count": 0,
+  "image": "www.vira.health.png",
+  "preview_image": "www.vira.health.png",
+  "preview_dir": "visual-preview",
+  "json": "www.vira.health.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Accept All"
+    },
+    {
+      "action": "removed",
+      "detail": "1 overlay(s)"
+    }
+  ]
+}

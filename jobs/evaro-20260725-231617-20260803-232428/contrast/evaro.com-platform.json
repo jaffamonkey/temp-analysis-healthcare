@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://evaro.com/platform",
+    "title": "Platform | Evaro",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 187,
+      "passAA": 187,
+      "passAAA": 180,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-08-03T23:26:52.944Z"
+  }
+]

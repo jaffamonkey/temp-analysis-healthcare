@@ -1,0 +1,35 @@
+Starting contrast check for https://www.betterhelp.com/faq/
+
+--- STDOUT ---
+ℹ Scanning: https://www.betterhelp.com/faq/
+ℹ Scanning page 1/1: https://www.betterhelp.com/faq/
+[
+  {
+    "url": "https://www.betterhelp.com/faq/",
+    "title": "FAQ - Get Answers To Common Questions About Therapy | BetterHelp",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 132,
+      "passAA": 132,
+      "passAAA": 119,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-08-03T23:12:53.355Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 1 page(s)
+

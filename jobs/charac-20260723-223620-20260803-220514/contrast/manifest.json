@@ -1,0 +1,34 @@
+[
+  {
+    "page": "charac.co.uk",
+    "url": "https://charac.co.uk/",
+    "title": "Pharmacy Tech Solutions by Charac - Prescription & Consultation",
+    "json": "charac.co.uk.json",
+    "report": "charac.co.uk.json",
+    "ok": true
+  },
+  {
+    "page": "charac.co.uk-about-us",
+    "url": "https://charac.co.uk/about-us",
+    "title": "Digital Solutions for Pharmacies in the UK - About Us - Charac",
+    "json": "charac.co.uk-about-us.json",
+    "report": "charac.co.uk-about-us.json",
+    "ok": true
+  },
+  {
+    "page": "charac.co.uk-contact-us",
+    "url": "https://charac.co.uk/contact-us",
+    "title": "Contact Charac - Get in Touch Today",
+    "json": "charac.co.uk-contact-us.json",
+    "report": "charac.co.uk-contact-us.json",
+    "ok": true
+  },
+  {
+    "page": "charac.co.uk-privacy-policy",
+    "url": "https://charac.co.uk/privacy-policy",
+    "title": "Privacy Policy - Charac",
+    "json": "charac.co.uk-privacy-policy.json",
+    "report": "charac.co.uk-privacy-policy.json",
+    "ok": true
+  }
+]

@@ -1,0 +1,1246 @@
+[
+  {
+    "url": "https://www.herohealthsoftware.net/",
+    "title": "Hero Health | Triage, communication & appointment booking for NHS GPs",
+    "pairs": [
+      {
+        "text": "Consent",
+        "tag": "a",
+        "color": "rgb(0, 214, 200)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "#CybotCookiebotDialogNavDeclaration",
+        "xpath": "//*[@id=\"CybotCookiebotDialogNavDeclaration\"]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "bgVar": "--colours--white",
+        "fgParsed": {
+          "r": 0,
+          "g": 214,
+          "b": 200,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1.83,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 133,
+            "b": 122,
+            "a": 1
+          },
+          "hex": "#00857a",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.25355275573642844
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAaklEQVR4nIxQyQ3AIAzDkvefpINVXcJVH0iQUCd+EeIDw+u5RwOYBw7ArDMoHdYyAhi3Uxqzm3dgzpdNO5XWxogJkoLHj3YKULZedMgJATmQqhhhZuNBix2+b7WMdMOSEQXaSfL0TgfswwsAAP//3t9GqwAAAAZJREFUAwCZDRjGju6pzwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Show details",
+        "tag": "a",
+        "color": "rgb(0, 214, 200)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "#CybotCookiebotDialogBodyEdgeMoreDetailsLink",
+        "xpath": "//*[@id=\"CybotCookiebotDialogBodyEdgeMoreDetailsLink\"]",
+        "boundingRect": {
+          "x": 262.125,
+          "y": 666,
+          "width": 118.328125,
+          "height": 30
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "bgVar": "--colours--white",
+        "fgParsed": {
+          "r": 0,
+          "g": 214,
+          "b": 200,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1.83,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 133,
+            "b": 122,
+            "a": 1
+          },
+          "hex": "#00857a",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.25355275573642844
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Learn more about this provider",
+        "tag": "a",
+        "color": "rgb(0, 214, 200)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.CybotEdge.CybotCookiebotDialogActive:nth-of-type(1) > div.CybotCookiebotDialogContentWrapper > div:nth-of-type(3) > div.CybotCookiebotScrollContainer.CybotCookiebotDialogHide:nth-of-type(2) > div.CybotCookiebotDialogTabPanel.CybotCookiebotDialogHide.CybotCookiebotScrollArea:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div > div > ul > li.CookieCard:nth-of-type(1) > div > div.CollapseCard.CybotCookiebotDialogHide:nth-of-type(3) > div.CybotCookiebotDialogDetailBodyContentCookieTypeTableContainer > ul.CybotCookiebotDialogDetailBodyContentCookieTabContent > li.CybotCookiebotDialogDetailBodyContentCookieGroup:nth-of-type(1) > a.CybotCookiebotDialogDetailBodyContentCookieLink:nth-of-type(2)",
+        "xpath": "//*[@id=\"CybotCookiebotDialogDetailBodyContentCookieTabsNecessary\"]/div[1]/ul[1]/li[1]/a[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "bgVar": "--colours--white",
+        "fgParsed": {
+          "r": 0,
+          "g": 214,
+          "b": 200,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1.83,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 133,
+            "b": 122,
+            "a": 1
+          },
+          "hex": "#00857a",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.25355275573642844
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAaklEQVR4nIxQyQ3AIAzDkvefpINVXcJVH0iQUCd+EeIDw+u5RwOYBw7ArDMoHdYyAhi3Uxqzm3dgzpdNO5XWxogJkoLHj3YKULZedMgJATmQqhhhZuNBix2+b7WMdMOSEQXaSfL0TgfswwsAAP//3t9GqwAAAAZJREFUAwCZDRjGju6pzwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "herohealthsoftware.net",
+        "tag": "a",
+        "color": "rgb(0, 214, 200)",
+        "background": "rgba(0, 0, 0, 0.05)",
+        "selector": "div.CybotEdge.CybotCookiebotDialogActive:nth-of-type(1) > div.CybotCookiebotDialogContentWrapper > div:nth-of-type(3) > div.CybotCookiebotScrollContainer.CybotCookiebotDialogHide:nth-of-type(2) > div.CybotCookiebotDialogTabPanel.CybotCookiebotDialogHide.CybotCookiebotScrollArea:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div.CybotCookiebotDialogHide:nth-of-type(2) > dl > dt > a",
+        "xpath": "//*[@id=\"CybotCookiebotDialogDetailBulkConsentList\"]/dt[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 0,
+          "g": 214,
+          "b": 200,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0.05
+        },
+        "contrastRatio": 1.64,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 124,
+            "b": 113,
+            "a": 1
+          },
+          "hex": "#007c71",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.28355275573642846
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAaklEQVR4nIxQyQ3AIAzDkvefpINVXcJVH0iQUCd+EeIDw+u5RwOYBw7ArDMoHdYyAhi3Uxqzm3dgzpdNO5XWxogJkoLHj3YKULZedMgJATmQqhhhZuNBix2+b7WMdMOSEQXaSfL0TgfswwsAAP//3t9GqwAAAAZJREFUAwCZDRjGju6pzwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Cookiebot",
+        "tag": "a",
+        "color": "rgb(0, 214, 200)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.CybotEdge.CybotCookiebotDialogActive:nth-of-type(1) > div.CybotCookiebotDialogContentWrapper > div:nth-of-type(3) > div.CybotCookiebotScrollContainer.CybotCookiebotDialogHide:nth-of-type(2) > div.CybotCookiebotDialogTabPanel.CybotCookiebotDialogHide.CybotCookiebotScrollArea:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > a",
+        "xpath": "//*[@id=\"CybotCookiebotDialogDetailFooter\"]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "bgVar": "--colours--white",
+        "fgParsed": {
+          "r": 0,
+          "g": 214,
+          "b": 200,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1.83,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 133,
+            "b": 122,
+            "a": 1
+          },
+          "hex": "#00857a",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.25355275573642844
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAaklEQVR4nIxQyQ3AIAzDkvefpINVXcJVH0iQUCd+EeIDw+u5RwOYBw7ArDMoHdYyAhi3Uxqzm3dgzpdNO5XWxogJkoLHj3YKULZedMgJATmQqhhhZuNBix2+b7WMdMOSEQXaSfL0TgfswwsAAP//3t9GqwAAAAZJREFUAwCZDRjGju6pzwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Learn more",
+        "tag": "a",
+        "color": "rgb(35, 181, 167)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "section:nth-of-type(2) > div.container-old > div.div-block-25:nth-of-type(2) > div.div-block-26:nth-of-type(1) > a",
+        "xpath": "//*[@id=\"w-node-_60a79c4d-6f27-e30b-f9c7-49a479390813-7939080b\"]/a[1]",
+        "boundingRect": {
+          "x": 24,
+          "y": 2214,
+          "width": 88.484375,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--colours--hero-primary-700",
+        "bgVar": "--colours--white",
+        "fgParsed": {
+          "r": 35,
+          "g": 181,
+          "b": 167,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.55,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 133,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#008579",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.15321309187498755
+        }
+      },
+      {
+        "text": "Text Link",
+        "tag": "a",
+        "color": "rgb(35, 181, 167)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "section:nth-of-type(7) > div.container-old > div.div-block-10 > div.collection-list-wrapper.w-dyn-list:nth-of-type(1) > div.div-block-45.w-dyn-items > div.collection-item.w-dyn-item:nth-of-type(1) > div.use-case-wrapper > a.use-case-link.hidden",
+        "xpath": "/html/body/section[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "colorVar": "--colours--hero-primary-700",
+        "bgVar": "--colours--white",
+        "fgParsed": {
+          "r": 35,
+          "g": 181,
+          "b": 167,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.55,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 133,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#008579",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.15321309187498755
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAaklEQVR4nIxQyQ3AIAzDkvefpINVXcJVH0iQUCd+EeIDw+u5RwOYBw7ArDMoHdYyAhi3Uxqzm3dgzpdNO5XWxogJkoLHj3YKULZedMgJATmQqhhhZuNBix2+b7WMdMOSEQXaSfL0TgfswwsAAP//3t9GqwAAAAZJREFUAwCZDRjGju6pzwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Service Manager",
+        "tag": "div",
+        "color": "rgb(255, 64, 129)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "section:nth-of-type(8) > div.bg-public-header-with-shaped-image > div.container-old > div.div-block-15 > div.div-block-16:nth-of-type(1) > div.text-block-5:nth-of-type(3)",
+        "xpath": "//*[@id=\"w-node-_2506b252-73dc-cf38-59b2-380c6669b700-6669b6fa\"]/div[3]",
+        "boundingRect": {
+          "x": 229.46875,
+          "y": 8411.8125,
+          "width": 133.046875,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--colours--violet-red-500",
+        "bgVar": "--colours--white",
+        "fgParsed": {
+          "r": 255,
+          "g": 64,
+          "b": 129,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.33,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 227,
+            "g": 26,
+            "b": 106,
+            "a": 1
+          },
+          "hex": "#e31a6a",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.0770389772654343
+        }
+      },
+      {
+        "text": "Digital Transformation",
+        "tag": "div",
+        "color": "rgb(255, 64, 129)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "section:nth-of-type(8) > div.bg-public-header-with-shaped-image > div.container-old > div.div-block-15 > div.div-block-16:nth-of-type(2) > div.text-block-5:nth-of-type(3)",
+        "xpath": "//*[@id=\"w-node-_2506b252-73dc-cf38-59b2-380c6669b708-6669b6fa\"]/div[3]",
+        "boundingRect": {
+          "x": 552.84375,
+          "y": 8467.8125,
+          "width": 174.296875,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--colours--violet-red-500",
+        "bgVar": "--colours--white",
+        "fgParsed": {
+          "r": 255,
+          "g": 64,
+          "b": 129,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.33,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 227,
+            "g": 26,
+            "b": 106,
+            "a": 1
+          },
+          "hex": "#e31a6a",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.0770389772654343
+        }
+      },
+      {
+        "text": "Clinical Director",
+        "tag": "div",
+        "color": "rgb(255, 64, 129)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "section:nth-of-type(8) > div.bg-public-header-with-shaped-image > div.container-old > div.div-block-15 > div.div-block-16:nth-of-type(3) > div.text-block-5:nth-of-type(3)",
+        "xpath": "//*[@id=\"w-node-_2506b252-73dc-cf38-59b2-380c6669b710-6669b6fa\"]/div[3]",
+        "boundingRect": {
+          "x": 921.609375,
+          "y": 8383.8125,
+          "width": 124.78125,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--colours--violet-red-500",
+        "bgVar": "--colours--white",
+        "fgParsed": {
+          "r": 255,
+          "g": 64,
+          "b": 129,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.33,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 227,
+            "g": 26,
+            "b": 106,
+            "a": 1
+          },
+          "hex": "#e31a6a",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.0770389772654343
+        }
+      },
+      {
+        "text": "Learn more",
+        "tag": "div",
+        "color": "rgb(35, 181, 167)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "section:nth-of-type(9) > div.container-old > div.div-block-10 > div.w-dyn-list:nth-of-type(2) > div.div-block-49.w-dyn-items > div.w-dyn-item:nth-of-type(1) > a.div-block-50-copy.w-inline-block > div.text-block-17:nth-of-type(2)",
+        "xpath": "/html/body/section[9]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]",
+        "boundingRect": {
+          "x": 73,
+          "y": 9206.8125,
+          "width": 88.484375,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--colours--hero-primary-700",
+        "bgVar": "--colours--white",
+        "fgParsed": {
+          "r": 35,
+          "g": 181,
+          "b": 167,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.55,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 133,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#008579",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.15321309187498755
+        }
+      }
+    ],
+    "violations": [
+      {
+        "text": "Consent",
+        "tag": "a",
+        "color": "rgb(0, 214, 200)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "#CybotCookiebotDialogNavDeclaration",
+        "xpath": "//*[@id=\"CybotCookiebotDialogNavDeclaration\"]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "bgVar": "--colours--white",
+        "fgParsed": {
+          "r": 0,
+          "g": 214,
+          "b": 200,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1.83,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 133,
+            "b": 122,
+            "a": 1
+          },
+          "hex": "#00857a",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.25355275573642844
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAaklEQVR4nIxQyQ3AIAzDkvefpINVXcJVH0iQUCd+EeIDw+u5RwOYBw7ArDMoHdYyAhi3Uxqzm3dgzpdNO5XWxogJkoLHj3YKULZedMgJATmQqhhhZuNBix2+b7WMdMOSEQXaSfL0TgfswwsAAP//3t9GqwAAAAZJREFUAwCZDRjGju6pzwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Show details",
+        "tag": "a",
+        "color": "rgb(0, 214, 200)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "#CybotCookiebotDialogBodyEdgeMoreDetailsLink",
+        "xpath": "//*[@id=\"CybotCookiebotDialogBodyEdgeMoreDetailsLink\"]",
+        "boundingRect": {
+          "x": 262.125,
+          "y": 666,
+          "width": 118.328125,
+          "height": 30
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "bgVar": "--colours--white",
+        "fgParsed": {
+          "r": 0,
+          "g": 214,
+          "b": 200,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1.83,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 133,
+            "b": 122,
+            "a": 1
+          },
+          "hex": "#00857a",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.25355275573642844
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Learn more about this provider",
+        "tag": "a",
+        "color": "rgb(0, 214, 200)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.CybotEdge.CybotCookiebotDialogActive:nth-of-type(1) > div.CybotCookiebotDialogContentWrapper > div:nth-of-type(3) > div.CybotCookiebotScrollContainer.CybotCookiebotDialogHide:nth-of-type(2) > div.CybotCookiebotDialogTabPanel.CybotCookiebotDialogHide.CybotCookiebotScrollArea:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div > div > ul > li.CookieCard:nth-of-type(1) > div > div.CollapseCard.CybotCookiebotDialogHide:nth-of-type(3) > div.CybotCookiebotDialogDetailBodyContentCookieTypeTableContainer > ul.CybotCookiebotDialogDetailBodyContentCookieTabContent > li.CybotCookiebotDialogDetailBodyContentCookieGroup:nth-of-type(1) > a.CybotCookiebotDialogDetailBodyContentCookieLink:nth-of-type(2)",
+        "xpath": "//*[@id=\"CybotCookiebotDialogDetailBodyContentCookieTabsNecessary\"]/div[1]/ul[1]/li[1]/a[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "bgVar": "--colours--white",
+        "fgParsed": {
+          "r": 0,
+          "g": 214,
+          "b": 200,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1.83,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 133,
+            "b": 122,
+            "a": 1
+          },
+          "hex": "#00857a",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.25355275573642844
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAaklEQVR4nIxQyQ3AIAzDkvefpINVXcJVH0iQUCd+EeIDw+u5RwOYBw7ArDMoHdYyAhi3Uxqzm3dgzpdNO5XWxogJkoLHj3YKULZedMgJATmQqhhhZuNBix2+b7WMdMOSEQXaSfL0TgfswwsAAP//3t9GqwAAAAZJREFUAwCZDRjGju6pzwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "herohealthsoftware.net",
+        "tag": "a",
+        "color": "rgb(0, 214, 200)",
+        "background": "rgba(0, 0, 0, 0.05)",
+        "selector": "div.CybotEdge.CybotCookiebotDialogActive:nth-of-type(1) > div.CybotCookiebotDialogContentWrapper > div:nth-of-type(3) > div.CybotCookiebotScrollContainer.CybotCookiebotDialogHide:nth-of-type(2) > div.CybotCookiebotDialogTabPanel.CybotCookiebotDialogHide.CybotCookiebotScrollArea:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div.CybotCookiebotDialogHide:nth-of-type(2) > dl > dt > a",
+        "xpath": "//*[@id=\"CybotCookiebotDialogDetailBulkConsentList\"]/dt[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 0,
+          "g": 214,
+          "b": 200,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0.05
+        },
+        "contrastRatio": 1.64,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 124,
+            "b": 113,
+            "a": 1
+          },
+          "hex": "#007c71",
+          "ratio": 4.55,
+          "property": "color",
+          "deltaE": 0.28355275573642846
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAaklEQVR4nIxQyQ3AIAzDkvefpINVXcJVH0iQUCd+EeIDw+u5RwOYBw7ArDMoHdYyAhi3Uxqzm3dgzpdNO5XWxogJkoLHj3YKULZedMgJATmQqhhhZuNBix2+b7WMdMOSEQXaSfL0TgfswwsAAP//3t9GqwAAAAZJREFUAwCZDRjGju6pzwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Cookiebot",
+        "tag": "a",
+        "color": "rgb(0, 214, 200)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.CybotEdge.CybotCookiebotDialogActive:nth-of-type(1) > div.CybotCookiebotDialogContentWrapper > div:nth-of-type(3) > div.CybotCookiebotScrollContainer.CybotCookiebotDialogHide:nth-of-type(2) > div.CybotCookiebotDialogTabPanel.CybotCookiebotDialogHide.CybotCookiebotScrollArea:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > a",
+        "xpath": "//*[@id=\"CybotCookiebotDialogDetailFooter\"]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "bgVar": "--colours--white",
+        "fgParsed": {
+          "r": 0,
+          "g": 214,
+          "b": 200,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1.83,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 133,
+            "b": 122,
+            "a": 1
+          },
+          "hex": "#00857a",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.25355275573642844
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAaklEQVR4nIxQyQ3AIAzDkvefpINVXcJVH0iQUCd+EeIDw+u5RwOYBw7ArDMoHdYyAhi3Uxqzm3dgzpdNO5XWxogJkoLHj3YKULZedMgJATmQqhhhZuNBix2+b7WMdMOSEQXaSfL0TgfswwsAAP//3t9GqwAAAAZJREFUAwCZDRjGju6pzwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Learn more",
+        "tag": "a",
+        "color": "rgb(35, 181, 167)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "section:nth-of-type(2) > div.container-old > div.div-block-25:nth-of-type(2) > div.div-block-26:nth-of-type(1) > a",
+        "xpath": "//*[@id=\"w-node-_60a79c4d-6f27-e30b-f9c7-49a479390813-7939080b\"]/a[1]",
+        "boundingRect": {
+          "x": 24,
+          "y": 2214,
+          "width": 88.484375,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--colours--hero-primary-700",
+        "bgVar": "--colours--white",
+        "fgParsed": {
+          "r": 35,
+          "g": 181,
+          "b": 167,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.55,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 133,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#008579",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.15321309187498755
+        }
+      },
+      {
+        "text": "Text Link",
+        "tag": "a",
+        "color": "rgb(35, 181, 167)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "section:nth-of-type(7) > div.container-old > div.div-block-10 > div.collection-list-wrapper.w-dyn-list:nth-of-type(1) > div.div-block-45.w-dyn-items > div.collection-item.w-dyn-item:nth-of-type(1) > div.use-case-wrapper > a.use-case-link.hidden",
+        "xpath": "/html/body/section[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "colorVar": "--colours--hero-primary-700",
+        "bgVar": "--colours--white",
+        "fgParsed": {
+          "r": 35,
+          "g": 181,
+          "b": 167,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.55,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 133,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#008579",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.15321309187498755
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAaklEQVR4nIxQyQ3AIAzDkvefpINVXcJVH0iQUCd+EeIDw+u5RwOYBw7ArDMoHdYyAhi3Uxqzm3dgzpdNO5XWxogJkoLHj3YKULZedMgJATmQqhhhZuNBix2+b7WMdMOSEQXaSfL0TgfswwsAAP//3t9GqwAAAAZJREFUAwCZDRjGju6pzwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Service Manager",
+        "tag": "div",
+        "color": "rgb(255, 64, 129)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "section:nth-of-type(8) > div.bg-public-header-with-shaped-image > div.container-old > div.div-block-15 > div.div-block-16:nth-of-type(1) > div.text-block-5:nth-of-type(3)",
+        "xpath": "//*[@id=\"w-node-_2506b252-73dc-cf38-59b2-380c6669b700-6669b6fa\"]/div[3]",
+        "boundingRect": {
+          "x": 229.46875,
+          "y": 8411.8125,
+          "width": 133.046875,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--colours--violet-red-500",
+        "bgVar": "--colours--white",
+        "fgParsed": {
+          "r": 255,
+          "g": 64,
+          "b": 129,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.33,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 227,
+            "g": 26,
+            "b": 106,
+            "a": 1
+          },
+          "hex": "#e31a6a",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.0770389772654343
+        }
+      },
+      {
+        "text": "Digital Transformation",
+        "tag": "div",
+        "color": "rgb(255, 64, 129)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "section:nth-of-type(8) > div.bg-public-header-with-shaped-image > div.container-old > div.div-block-15 > div.div-block-16:nth-of-type(2) > div.text-block-5:nth-of-type(3)",
+        "xpath": "//*[@id=\"w-node-_2506b252-73dc-cf38-59b2-380c6669b708-6669b6fa\"]/div[3]",
+        "boundingRect": {
+          "x": 552.84375,
+          "y": 8467.8125,
+          "width": 174.296875,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--colours--violet-red-500",
+        "bgVar": "--colours--white",
+        "fgParsed": {
+          "r": 255,
+          "g": 64,
+          "b": 129,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.33,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 227,
+            "g": 26,
+            "b": 106,
+            "a": 1
+          },
+          "hex": "#e31a6a",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.0770389772654343
+        }
+      },
+      {
+        "text": "Clinical Director",
+        "tag": "div",
+        "color": "rgb(255, 64, 129)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "section:nth-of-type(8) > div.bg-public-header-with-shaped-image > div.container-old > div.div-block-15 > div.div-block-16:nth-of-type(3) > div.text-block-5:nth-of-type(3)",
+        "xpath": "//*[@id=\"w-node-_2506b252-73dc-cf38-59b2-380c6669b710-6669b6fa\"]/div[3]",
+        "boundingRect": {
+          "x": 921.609375,
+          "y": 8383.8125,
+          "width": 124.78125,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--colours--violet-red-500",
+        "bgVar": "--colours--white",
+        "fgParsed": {
+          "r": 255,
+          "g": 64,
+          "b": 129,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.33,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 227,
+            "g": 26,
+            "b": 106,
+            "a": 1
+          },
+          "hex": "#e31a6a",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.0770389772654343
+        }
+      },
+      {
+        "text": "Learn more",
+        "tag": "div",
+        "color": "rgb(35, 181, 167)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "section:nth-of-type(9) > div.container-old > div.div-block-10 > div.w-dyn-list:nth-of-type(2) > div.div-block-49.w-dyn-items > div.w-dyn-item:nth-of-type(1) > a.div-block-50-copy.w-inline-block > div.text-block-17:nth-of-type(2)",
+        "xpath": "/html/body/section[9]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]",
+        "boundingRect": {
+          "x": 73,
+          "y": 9206.8125,
+          "width": 88.484375,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--colours--hero-primary-700",
+        "bgVar": "--colours--white",
+        "fgParsed": {
+          "r": 35,
+          "g": 181,
+          "b": 167,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.55,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 133,
+            "b": 121,
+            "a": 1
+          },
+          "hex": "#008579",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.15321309187498755
+        }
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--colours--white",
+        "property": "background-color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#00d6c8",
+        "againstVariable": null,
+        "againstValue": "rgb(0, 214, 200)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 1.83,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 4,
+        "suggestedFix": {
+          "variable": "--colours--white",
+          "newValue": "color(srgb 0.307 0.307 0.307)",
+          "newHex": "#4e4e4e",
+          "contrastRatio": 4.54,
+          "property": "background-color"
+        },
+        "instances": [
+          {
+            "selector": "#CybotCookiebotDialogNavDeclaration",
+            "text": "Consent",
+            "xpath": "//*[@id=\"CybotCookiebotDialogNavDeclaration\"]"
+          },
+          {
+            "selector": "#CybotCookiebotDialogBodyEdgeMoreDetailsLink",
+            "text": "Show details",
+            "xpath": "//*[@id=\"CybotCookiebotDialogBodyEdgeMoreDetailsLink\"]"
+          },
+          {
+            "selector": "div.CybotEdge.CybotCookiebotDialogActive:nth-of-type(1) > div.CybotCookiebotDialogContentWrapper > div:nth-of-type(3) > div.CybotCookiebotScrollContainer.CybotCookiebotDialogHide:nth-of-type(2) > div.CybotCookiebotDialogTabPanel.CybotCookiebotDialogHide.CybotCookiebotScrollArea:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div > div > ul > li.CookieCard:nth-of-type(1) > div > div.CollapseCard.CybotCookiebotDialogHide:nth-of-type(3) > div.CybotCookiebotDialogDetailBodyContentCookieTypeTableContainer > ul.CybotCookiebotDialogDetailBodyContentCookieTabContent > li.CybotCookiebotDialogDetailBodyContentCookieGroup:nth-of-type(1) > a.CybotCookiebotDialogDetailBodyContentCookieLink:nth-of-type(2)",
+            "text": "Learn more about this provider",
+            "xpath": "//*[@id=\"CybotCookiebotDialogDetailBodyContentCookieTabsNecessary\"]/div[1]/ul[1]/li[1]/a[2]"
+          },
+          {
+            "selector": "div.CybotEdge.CybotCookiebotDialogActive:nth-of-type(1) > div.CybotCookiebotDialogContentWrapper > div:nth-of-type(3) > div.CybotCookiebotScrollContainer.CybotCookiebotDialogHide:nth-of-type(2) > div.CybotCookiebotDialogTabPanel.CybotCookiebotDialogHide.CybotCookiebotScrollArea:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > a",
+            "text": "Cookiebot",
+            "xpath": "//*[@id=\"CybotCookiebotDialogDetailFooter\"]/a[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--colours--hero-primary-700",
+        "property": "color",
+        "currentValue": "rgb(35, 181, 167)",
+        "currentHex": "#23b5a7",
+        "againstVariable": "--colours--white",
+        "againstValue": "rgb(255, 255, 255)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 2.55,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 3,
+        "suggestedFix": {
+          "variable": "--colours--hero-primary-700",
+          "newValue": "color(srgb -0.197 0.522 0.473)",
+          "newHex": "#008579",
+          "contrastRatio": 4.53,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "section:nth-of-type(2) > div.container-old > div.div-block-25:nth-of-type(2) > div.div-block-26:nth-of-type(1) > a",
+            "text": "Learn more",
+            "xpath": "//*[@id=\"w-node-_60a79c4d-6f27-e30b-f9c7-49a479390813-7939080b\"]/a[1]"
+          },
+          {
+            "selector": "section:nth-of-type(7) > div.container-old > div.div-block-10 > div.collection-list-wrapper.w-dyn-list:nth-of-type(1) > div.div-block-45.w-dyn-items > div.collection-item.w-dyn-item:nth-of-type(1) > div.use-case-wrapper > a.use-case-link.hidden",
+            "text": "Text Link",
+            "xpath": "/html/body/section[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]"
+          },
+          {
+            "selector": "section:nth-of-type(9) > div.container-old > div.div-block-10 > div.w-dyn-list:nth-of-type(2) > div.div-block-49.w-dyn-items > div.w-dyn-item:nth-of-type(1) > a.div-block-50-copy.w-inline-block > div.text-block-17:nth-of-type(2)",
+            "text": "Learn more",
+            "xpath": "/html/body/section[9]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]"
+          }
+        ]
+      },
+      {
+        "variable": "--colours--violet-red-500",
+        "property": "color",
+        "currentValue": "rgb(255, 64, 129)",
+        "currentHex": "#ff4081",
+        "againstVariable": "--colours--white",
+        "againstValue": "rgb(255, 255, 255)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 3.33,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 3,
+        "suggestedFix": {
+          "variable": "--colours--violet-red-500",
+          "newValue": "color(srgb 0.888 0.103 0.418)",
+          "newHex": "#e31a6a",
+          "contrastRatio": 4.54,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "section:nth-of-type(8) > div.bg-public-header-with-shaped-image > div.container-old > div.div-block-15 > div.div-block-16:nth-of-type(1) > div.text-block-5:nth-of-type(3)",
+            "text": "Service Manager",
+            "xpath": "//*[@id=\"w-node-_2506b252-73dc-cf38-59b2-380c6669b700-6669b6fa\"]/div[3]"
+          },
+          {
+            "selector": "section:nth-of-type(8) > div.bg-public-header-with-shaped-image > div.container-old > div.div-block-15 > div.div-block-16:nth-of-type(2) > div.text-block-5:nth-of-type(3)",
+            "text": "Digital Transformation",
+            "xpath": "//*[@id=\"w-node-_2506b252-73dc-cf38-59b2-380c6669b708-6669b6fa\"]/div[3]"
+          },
+          {
+            "selector": "section:nth-of-type(8) > div.bg-public-header-with-shaped-image > div.container-old > div.div-block-15 > div.div-block-16:nth-of-type(3) > div.text-block-5:nth-of-type(3)",
+            "text": "Clinical Director",
+            "xpath": "//*[@id=\"w-node-_2506b252-73dc-cf38-59b2-380c6669b710-6669b6fa\"]/div[3]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 377,
+      "passAA": 366,
+      "passAAA": 360,
+      "failAA": 11,
+      "failAAA": 8
+    },
+    "variableStats": {
+      "uniqueIssues": 3,
+      "affectedElements": 10,
+      "oneOffIssues": 1
+    },
+    "healthScore": 97,
+    "scannedAt": "2026-08-03T23:51:41.872Z"
+  }
+]

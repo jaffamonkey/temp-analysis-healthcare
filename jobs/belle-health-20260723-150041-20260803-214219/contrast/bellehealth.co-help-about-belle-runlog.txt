@@ -1,0 +1,1950 @@
+Starting contrast check for https://bellehealth.co/help/about-belle/
+
+--- STDOUT ---
+ℹ Scanning: https://bellehealth.co/help/about-belle/
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://bellehealth.co/help/about-belle/
+[
+  {
+    "url": "https://bellehealth.co/help/about-belle/",
+    "title": "About Belle - Belle Health",
+    "pairs": [
+      {
+        "text": "Help Center",
+        "tag": "a",
+        "color": "rgb(138, 140, 138)",
+        "background": "rgb(255, 250, 240)",
+        "selector": "main.bh-help > div.hc-wrap > nav.hc-breadcrumb > a",
+        "xpath": "/html/body/main[1]/div[1]/nav[1]/a[1]",
+        "boundingRect": {
+          "x": 90,
+          "y": 113,
+          "width": 70.34375,
+          "height": 17
+        },
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--hc-muted",
+        "bgVar": "--hc-cream",
+        "fgParsed": {
+          "r": 138,
+          "g": 140,
+          "b": 138,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "contrastRatio": 3.26,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 114,
+            "g": 116,
+            "b": 114,
+            "a": 1
+          },
+          "hex": "#727472",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.08278501781648051
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAAAhCAIAAADME8vZAAAD0ElEQVR4nOxZWU8TURS+hTLTiKUgQqFSgUIBhYCA7Ai4VAUJQYQoaDCQGP0vvvEm8UGDiWKCC2iABEzEGEXAspZNgQKlUOgCLUo38NQm4wjTlpYYYrhfJk175p7v3vPdc87ctuwtkw4dbHihAw8sAZYAS4CwBAhLgLAECEuAsAQIS4CcS/B9Wm4ymegWhXJxdU3vaPzs3MKbtndo17BarXOKhS99A7KxSaPRiPYJbCf3XrS0l5cURkYIKUtrx3tR+PFzeVmM41Ur6nnlItodpmZmm1s7LRYLl+u7vv4T5MhMSz6TlYbcgWJh0WrdPC4UoD2AjfYD45NTza0duZmnIWwWiwWWicnp/hEZKMJmu7Gkj919h319902Czz3SHumgyWQWhoWWFV+iL31geLS3f4hDkMolFZd7uCAnI1Ysovu2dXYlJ8ZnpadQlhhxJFyOmIGwr3+YQ5JQiRwOWXpFIjwmqHvwyGi01enoxLfLF/Li42IYHaUDMpJDzCuUd6pv+Pv77QzERTvs/trf3tlFXQbDD7t9ZGziw6ceqIiq8pIVtRZKhu5lNls0Gl3YsZCqihKhIBQ2fGl5hboLOQ8tJi5GxDgjIzMQqjVasSiiurIMtr2p2Wa8XXkthB8UJQqvvVURGy1y5LisVvP8uLU3K6DiGGd0IcGa3gCrpy5Yvd3eKx1KPZUAwoeGBFeUFsrnFFtbW3RH2Pz8nAxBCL/oYkFQYKB0YIQuAbz6+PgwzuiIGQjTUhP5QUclZ3PMZjOICIGRBAG5FuDPgw135EiSRJGkIDAwwNvbm3FGF4Ugyc+lt8OHDY32N1rdmmpZLR2U2T9CPau1WkckUKvwsKA+EgQBq5mbV0I8Owe7ZOYH27wsViuxO0eYDjmFh70AkipOHJWTkUo3zsgVjINXNJojATy6RRQphE6WkhTv5fUnDXW6NahVt5g9XhIdHh6NTsZEQ+9ZUtkqHJ7tM/L5bQMMhnW7UTY+KZ9VxJ8Q0+8Wns/f3Nysf/xMuaiCdAWNnja1QIrBE8ElMx2Q/6t62zkFSNxy/IsEeQRo5tAmGhpfwtyQctnpKRHhYeh3+tkHwPa2tHdubBgh5/Oy06Miw+nuJEneral8/bbjyfNXdoufH/f61WIIySUzHUkJcdD27tfVSwpy3XKkg7XHn0/1egM0qm1G6EzwULxXUwVnPojWOcPqqv7QIc7O7sjIvBOQTXrDOrRGdx0p7PVo5Hwyl/EDeDyuB8wUIN3o8e/ekcI/OR1CUxPwg9F/Ahb+HwF/WcYSYAkQlgBhCRCWAGEJEJYA8AsAAP//0hobwAAAAAZJREFUAwATpgXrY5R9eAAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "/",
+        "tag": "span",
+        "color": "rgb(138, 140, 138)",
+        "background": "rgb(255, 250, 240)",
+        "selector": "main.bh-help > div.hc-wrap > nav.hc-breadcrumb > span.hc-breadcrumb-sep:nth-of-type(1)",
+        "xpath": "/html/body/main[1]/div[1]/nav[1]/span[1]",
+        "boundingRect": {
+          "x": 171.375,
+          "y": 113,
+          "width": 6.0625,
+          "height": 17
+        },
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--hc-muted",
+        "bgVar": "--hc-cream",
+        "fgParsed": {
+          "r": 138,
+          "g": 140,
+          "b": 138,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "contrastRatio": 3.26,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 114,
+            "g": 116,
+            "b": 114,
+            "a": 1
+          },
+          "hex": "#727472",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.08278501781648051
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAhCAIAAABSqcx5AAAAuklEQVR4nOyVSw6CMBBAh4aUDbgw8hEa4v2vpIkaQD4q1AUGBVI9gAyExrDp23by8qab0cWbgxwEpFEKpVhSIYS4V1xKkebF/nAcetVhAnGSMd+br6j4o+s6f+vOV5yjxN6sCRlceeQvmuZV18+QBcjMSMUpii3LNAyKzGAVfd+XJd+FDFCwiviSUUpXlgkoWEWaFSzwYIzBivx6EwCeY8NsRZSkvuvABH4r2rYlGpmyxRdN3RGl+I/iAwAA///SwCw3AAAABklEQVQDAGsyPIIN77FhAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Last updated\t\t\t\t\t\t19/06/2026",
+        "tag": "span",
+        "color": "rgb(138, 140, 138)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.bh-help > section.hc-featured-section:nth-of-type(2) > div.hc-wrap > a.hc-featured-card > div:nth-of-type(1) > span.hc-featured-meta:nth-of-type(2)",
+        "xpath": "/html/body/main[1]/section[2]/div[1]/a[1]/div[1]/span[2]",
+        "boundingRect": {
+          "x": 131,
+          "y": 671.140625,
+          "width": 166.59375,
+          "height": 15
+        },
+        "fontSize": "11px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--hc-muted",
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 138,
+          "g": 140,
+          "b": 138,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.39,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 116,
+            "g": 118,
+            "b": 116,
+            "a": 1
+          },
+          "hex": "#747674",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.0727850178164805
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "No chatbot. No ticket queue. Write to us when something feels off — someone will get back to you.",
+        "tag": "p",
+        "color": "rgba(255, 255, 255, 0.85)",
+        "background": "rgb(24, 122, 129)",
+        "selector": "main.bh-help > section.hc-contact-row:nth-of-type(3) > div.hc-wrap > div.hc-contact-card > div.hc-contact-card-text:nth-of-type(1) > p",
+        "xpath": "/html/body/main[1]/section[3]/div[1]/div[1]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 146,
+          "y": 1003.53125,
+          "width": 476,
+          "height": 46.5
+        },
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--hc-teal",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0.85
+        },
+        "bgParsed": {
+          "r": 24,
+          "g": 122,
+          "b": 129,
+          "a": 1
+        },
+        "contrastRatio": 4.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 7,
+            "g": 115,
+            "b": 122,
+            "a": 1
+          },
+          "hex": "#07737a",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.025314583782846123
+        }
+      },
+      {
+        "text": "Email the team",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(255, 255, 255, 0.08)",
+        "selector": "main.bh-help > section.hc-contact-row:nth-of-type(3) > div.hc-wrap > div.hc-contact-card > div.hc-contact-actions:nth-of-type(2) > a.hc-contact-action > div.hc-contact-action-text > div.hc-contact-action-name",
+        "xpath": "/html/body/main[1]/section[3]/div[1]/div[1]/div[2]/a[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 737,
+          "y": 986.8125,
+          "width": 326,
+          "height": 26.34375
+        },
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0.08
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Sign up for the",
+        "tag": "h2",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex.sm:flex-1.sm:justify-end:nth-of-type(1) > h2.font-fraunces.text-2xl.text-offwhite.lg:text-4xl",
+        "xpath": "//*[@id=\"subscription-footer\"]/div[1]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "36px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--hc-cream",
+        "bgVar": "--hc-teal-hover",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 162,
+            "b": 159,
+            "a": 1
+          },
+          "hex": "#00a29f",
+          "ratio": 3.03,
+          "property": "background-color",
+          "deltaE": 0.04224877276023997
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Belle Newsletter",
+        "tag": "h2",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex.sm:flex-1.sm:justify-end:nth-of-type(1) > h2.font-fraunces.text-2xl.text-offwhite.lg:text-4xl",
+        "xpath": "//*[@id=\"subscription-footer\"]/div[1]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "36px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--hc-cream",
+        "bgVar": "--hc-teal-hover",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 162,
+            "b": 159,
+            "a": 1
+          },
+          "hex": "#00a29f",
+          "ratio": 3.03,
+          "property": "background-color",
+          "deltaE": 0.04224877276023997
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Name",
+        "tag": "label",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > label.block.font-vollkorn.text-base/tight.font-bold.lowercase.text-offwhite:nth-of-type(1)",
+        "xpath": "//*[@id=\"newsletter-form\"]/label[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "colorVar": "--hc-cream",
+        "bgVar": "--hc-teal-hover",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 129,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#00817f",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.14724877276024007
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Email",
+        "tag": "label",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > label.mt-5.block.font-vollkorn.text-base/tight.font-bold.lowercase.text-offwhite:nth-of-type(2)",
+        "xpath": "//*[@id=\"newsletter-form\"]/label[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "colorVar": "--hc-cream",
+        "bgVar": "--hc-teal-hover",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 129,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#00817f",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.14724877276024007
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "*",
+        "tag": "small",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > label.mt-5.block.font-vollkorn.text-base/tight.font-bold.lowercase.text-offwhite:nth-of-type(2) > small.text-xs",
+        "xpath": "//*[@id=\"newsletter-form\"]/label[2]/small[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "colorVar": "--hc-cream",
+        "bgVar": "--hc-teal-hover",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 129,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#00817f",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.14724877276024007
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "By clicking on subscribe, you accept our",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > div.mt-6.flex.flex-col.gap-y-4.sm:flex-row.sm:items-center.sm:justify-between.sm:gap-x-4.sm:gap-y-0 > p.text-xs.text-offwhite",
+        "xpath": "//*[@id=\"newsletter-form\"]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--hc-cream",
+        "bgVar": "--hc-teal-hover",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 129,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#00817f",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.14724877276024007
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Privacy Policy",
+        "tag": "a",
+        "color": "rgb(24, 122, 129)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > div.mt-6.flex.flex-col.gap-y-4.sm:flex-row.sm:items-center.sm:justify-between.sm:gap-x-4.sm:gap-y-0 > p.text-xs.text-offwhite > a.font-medium.text-primary.underline",
+        "xpath": "//*[@id=\"newsletter-form\"]/div[1]/p[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--hc-teal",
+        "bgVar": "--hc-teal-hover",
+        "fgParsed": {
+          "r": 24,
+          "g": 122,
+          "b": 129,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 1.87,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 59,
+            "b": 67,
+            "a": 1
+          },
+          "hex": "#003b43",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.2203145837828463
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": ".",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > div.mt-6.flex.flex-col.gap-y-4.sm:flex-row.sm:items-center.sm:justify-between.sm:gap-x-4.sm:gap-y-0 > p.text-xs.text-offwhite",
+        "xpath": "//*[@id=\"newsletter-form\"]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--hc-cream",
+        "bgVar": "--hc-teal-hover",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 129,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#00817f",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.14724877276024007
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Hooray! You're officially on the path to hormonal bliss!",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgba(255, 250, 240, 0.2)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > div.mt-8.hidden.items-center.gap-x-2.5.rounded-xl.border.border-offwhite.border-opacity-25.bg-offwhite.bg-opacity-20.px-5.py-3.opacity-0.transition-opacity.duration-400:nth-of-type(1) > p.text-base.font-medium.text-offwhite",
+        "xpath": "//*[@id=\"newsletter-success-message\"]/p[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--hc-cream",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 0.2
+        },
+        "contrastRatio": 1.03,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 122,
+            "g": 117,
+            "b": 109,
+            "a": 1
+          },
+          "hex": "#7a756d",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.42123275995283316
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Oopsie! Looks like there's a tiny typo in your name or email address, try again.",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(233, 106, 97)",
+        "selector": "#newsletter-failure-validation-text",
+        "xpath": "//*[@id=\"newsletter-failure-validation-text\"]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--hc-cream",
+        "bgVar": "--hc-coral",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 233,
+          "g": 106,
+          "b": 97,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 197,
+            "g": 74,
+            "b": 67,
+            "a": 1
+          },
+          "hex": "#c54a43",
+          "ratio": 4.55,
+          "property": "background-color",
+          "deltaE": 0.10161289993675438
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Oppsie! Something went wrong, please try again later.",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(233, 106, 97)",
+        "selector": "#newsletter-failure-error-text",
+        "xpath": "//*[@id=\"newsletter-failure-error-text\"]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--hc-cream",
+        "bgVar": "--hc-coral",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 233,
+          "g": 106,
+          "b": 97,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 197,
+            "g": 74,
+            "b": 67,
+            "a": 1
+          },
+          "hex": "#c54a43",
+          "ratio": 4.55,
+          "property": "background-color",
+          "deltaE": 0.10161289993675438
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      }
+    ],
+    "violations": [
+      {
+        "text": "Help Center",
+        "tag": "a",
+        "color": "rgb(138, 140, 138)",
+        "background": "rgb(255, 250, 240)",
+        "selector": "main.bh-help > div.hc-wrap > nav.hc-breadcrumb > a",
+        "xpath": "/html/body/main[1]/div[1]/nav[1]/a[1]",
+        "boundingRect": {
+          "x": 90,
+          "y": 113,
+          "width": 70.34375,
+          "height": 17
+        },
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--hc-muted",
+        "bgVar": "--hc-cream",
+        "fgParsed": {
+          "r": 138,
+          "g": 140,
+          "b": 138,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "contrastRatio": 3.26,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 114,
+            "g": 116,
+            "b": 114,
+            "a": 1
+          },
+          "hex": "#727472",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.08278501781648051
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAAAhCAIAAADME8vZAAAD0ElEQVR4nOxZWU8TURS+hTLTiKUgQqFSgUIBhYCA7Ai4VAUJQYQoaDCQGP0vvvEm8UGDiWKCC2iABEzEGEXAspZNgQKlUOgCLUo38NQm4wjTlpYYYrhfJk175p7v3vPdc87ctuwtkw4dbHihAw8sAZYAS4CwBAhLgLAECEuAsAQIS4CcS/B9Wm4ymegWhXJxdU3vaPzs3MKbtndo17BarXOKhS99A7KxSaPRiPYJbCf3XrS0l5cURkYIKUtrx3tR+PFzeVmM41Ur6nnlItodpmZmm1s7LRYLl+u7vv4T5MhMSz6TlYbcgWJh0WrdPC4UoD2AjfYD45NTza0duZmnIWwWiwWWicnp/hEZKMJmu7Gkj919h319902Czz3SHumgyWQWhoWWFV+iL31geLS3f4hDkMolFZd7uCAnI1Ysovu2dXYlJ8ZnpadQlhhxJFyOmIGwr3+YQ5JQiRwOWXpFIjwmqHvwyGi01enoxLfLF/Li42IYHaUDMpJDzCuUd6pv+Pv77QzERTvs/trf3tlFXQbDD7t9ZGziw6ceqIiq8pIVtRZKhu5lNls0Gl3YsZCqihKhIBQ2fGl5hboLOQ8tJi5GxDgjIzMQqjVasSiiurIMtr2p2Wa8XXkthB8UJQqvvVURGy1y5LisVvP8uLU3K6DiGGd0IcGa3gCrpy5Yvd3eKx1KPZUAwoeGBFeUFsrnFFtbW3RH2Pz8nAxBCL/oYkFQYKB0YIQuAbz6+PgwzuiIGQjTUhP5QUclZ3PMZjOICIGRBAG5FuDPgw135EiSRJGkIDAwwNvbm3FGF4Ugyc+lt8OHDY32N1rdmmpZLR2U2T9CPau1WkckUKvwsKA+EgQBq5mbV0I8Owe7ZOYH27wsViuxO0eYDjmFh70AkipOHJWTkUo3zsgVjINXNJojATy6RRQphE6WkhTv5fUnDXW6NahVt5g9XhIdHh6NTsZEQ+9ZUtkqHJ7tM/L5bQMMhnW7UTY+KZ9VxJ8Q0+8Wns/f3Nysf/xMuaiCdAWNnja1QIrBE8ElMx2Q/6t62zkFSNxy/IsEeQRo5tAmGhpfwtyQctnpKRHhYeh3+tkHwPa2tHdubBgh5/Oy06Miw+nuJEneral8/bbjyfNXdoufH/f61WIIySUzHUkJcdD27tfVSwpy3XKkg7XHn0/1egM0qm1G6EzwULxXUwVnPojWOcPqqv7QIc7O7sjIvBOQTXrDOrRGdx0p7PVo5Hwyl/EDeDyuB8wUIN3o8e/ekcI/OR1CUxPwg9F/Ahb+HwF/WcYSYAkQlgBhCRCWAGEJEJYA8AsAAP//0hobwAAAAAZJREFUAwATpgXrY5R9eAAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "/",
+        "tag": "span",
+        "color": "rgb(138, 140, 138)",
+        "background": "rgb(255, 250, 240)",
+        "selector": "main.bh-help > div.hc-wrap > nav.hc-breadcrumb > span.hc-breadcrumb-sep:nth-of-type(1)",
+        "xpath": "/html/body/main[1]/div[1]/nav[1]/span[1]",
+        "boundingRect": {
+          "x": 171.375,
+          "y": 113,
+          "width": 6.0625,
+          "height": 17
+        },
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--hc-muted",
+        "bgVar": "--hc-cream",
+        "fgParsed": {
+          "r": 138,
+          "g": 140,
+          "b": 138,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "contrastRatio": 3.26,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 114,
+            "g": 116,
+            "b": 114,
+            "a": 1
+          },
+          "hex": "#727472",
+          "ratio": 4.53,
+          "property": "color",
+          "deltaE": 0.08278501781648051
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAhCAIAAABSqcx5AAAAuklEQVR4nOyVSw6CMBBAh4aUDbgw8hEa4v2vpIkaQD4q1AUGBVI9gAyExrDp23by8qab0cWbgxwEpFEKpVhSIYS4V1xKkebF/nAcetVhAnGSMd+br6j4o+s6f+vOV5yjxN6sCRlceeQvmuZV18+QBcjMSMUpii3LNAyKzGAVfd+XJd+FDFCwiviSUUpXlgkoWEWaFSzwYIzBivx6EwCeY8NsRZSkvuvABH4r2rYlGpmyxRdN3RGl+I/iAwAA///SwCw3AAAABklEQVQDAGsyPIIN77FhAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Last updated\t\t\t\t\t\t19/06/2026",
+        "tag": "span",
+        "color": "rgb(138, 140, 138)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.bh-help > section.hc-featured-section:nth-of-type(2) > div.hc-wrap > a.hc-featured-card > div:nth-of-type(1) > span.hc-featured-meta:nth-of-type(2)",
+        "xpath": "/html/body/main[1]/section[2]/div[1]/a[1]/div[1]/span[2]",
+        "boundingRect": {
+          "x": 131,
+          "y": 671.140625,
+          "width": 166.59375,
+          "height": 15
+        },
+        "fontSize": "11px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--hc-muted",
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 138,
+          "g": 140,
+          "b": 138,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.39,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 116,
+            "g": 118,
+            "b": 116,
+            "a": 1
+          },
+          "hex": "#747674",
+          "ratio": 4.58,
+          "property": "color",
+          "deltaE": 0.0727850178164805
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "No chatbot. No ticket queue. Write to us when something feels off — someone will get back to you.",
+        "tag": "p",
+        "color": "rgba(255, 255, 255, 0.85)",
+        "background": "rgb(24, 122, 129)",
+        "selector": "main.bh-help > section.hc-contact-row:nth-of-type(3) > div.hc-wrap > div.hc-contact-card > div.hc-contact-card-text:nth-of-type(1) > p",
+        "xpath": "/html/body/main[1]/section[3]/div[1]/div[1]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 146,
+          "y": 1003.53125,
+          "width": 476,
+          "height": 46.5
+        },
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--hc-teal",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0.85
+        },
+        "bgParsed": {
+          "r": 24,
+          "g": 122,
+          "b": 129,
+          "a": 1
+        },
+        "contrastRatio": 4.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 7,
+            "g": 115,
+            "b": 122,
+            "a": 1
+          },
+          "hex": "#07737a",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.025314583782846123
+        }
+      },
+      {
+        "text": "Email the team",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(255, 255, 255, 0.08)",
+        "selector": "main.bh-help > section.hc-contact-row:nth-of-type(3) > div.hc-wrap > div.hc-contact-card > div.hc-contact-actions:nth-of-type(2) > a.hc-contact-action > div.hc-contact-action-text > div.hc-contact-action-name",
+        "xpath": "/html/body/main[1]/section[3]/div[1]/div[1]/div[2]/a[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 737,
+          "y": 986.8125,
+          "width": 326,
+          "height": 26.34375
+        },
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0.08
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Sign up for the",
+        "tag": "h2",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex.sm:flex-1.sm:justify-end:nth-of-type(1) > h2.font-fraunces.text-2xl.text-offwhite.lg:text-4xl",
+        "xpath": "//*[@id=\"subscription-footer\"]/div[1]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "36px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--hc-cream",
+        "bgVar": "--hc-teal-hover",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 162,
+            "b": 159,
+            "a": 1
+          },
+          "hex": "#00a29f",
+          "ratio": 3.03,
+          "property": "background-color",
+          "deltaE": 0.04224877276023997
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Belle Newsletter",
+        "tag": "h2",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex.sm:flex-1.sm:justify-end:nth-of-type(1) > h2.font-fraunces.text-2xl.text-offwhite.lg:text-4xl",
+        "xpath": "//*[@id=\"subscription-footer\"]/div[1]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "36px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--hc-cream",
+        "bgVar": "--hc-teal-hover",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 162,
+            "b": 159,
+            "a": 1
+          },
+          "hex": "#00a29f",
+          "ratio": 3.03,
+          "property": "background-color",
+          "deltaE": 0.04224877276023997
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Name",
+        "tag": "label",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > label.block.font-vollkorn.text-base/tight.font-bold.lowercase.text-offwhite:nth-of-type(1)",
+        "xpath": "//*[@id=\"newsletter-form\"]/label[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "colorVar": "--hc-cream",
+        "bgVar": "--hc-teal-hover",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 129,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#00817f",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.14724877276024007
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Email",
+        "tag": "label",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > label.mt-5.block.font-vollkorn.text-base/tight.font-bold.lowercase.text-offwhite:nth-of-type(2)",
+        "xpath": "//*[@id=\"newsletter-form\"]/label[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "colorVar": "--hc-cream",
+        "bgVar": "--hc-teal-hover",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 129,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#00817f",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.14724877276024007
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "*",
+        "tag": "small",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > label.mt-5.block.font-vollkorn.text-base/tight.font-bold.lowercase.text-offwhite:nth-of-type(2) > small.text-xs",
+        "xpath": "//*[@id=\"newsletter-form\"]/label[2]/small[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "colorVar": "--hc-cream",
+        "bgVar": "--hc-teal-hover",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 129,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#00817f",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.14724877276024007
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "By clicking on subscribe, you accept our",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > div.mt-6.flex.flex-col.gap-y-4.sm:flex-row.sm:items-center.sm:justify-between.sm:gap-x-4.sm:gap-y-0 > p.text-xs.text-offwhite",
+        "xpath": "//*[@id=\"newsletter-form\"]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--hc-cream",
+        "bgVar": "--hc-teal-hover",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 129,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#00817f",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.14724877276024007
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Privacy Policy",
+        "tag": "a",
+        "color": "rgb(24, 122, 129)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > div.mt-6.flex.flex-col.gap-y-4.sm:flex-row.sm:items-center.sm:justify-between.sm:gap-x-4.sm:gap-y-0 > p.text-xs.text-offwhite > a.font-medium.text-primary.underline",
+        "xpath": "//*[@id=\"newsletter-form\"]/div[1]/p[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--hc-teal",
+        "bgVar": "--hc-teal-hover",
+        "fgParsed": {
+          "r": 24,
+          "g": 122,
+          "b": 129,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 1.87,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 59,
+            "b": 67,
+            "a": 1
+          },
+          "hex": "#003b43",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.2203145837828463
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": ".",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(11, 175, 172)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > div.mt-6.flex.flex-col.gap-y-4.sm:flex-row.sm:items-center.sm:justify-between.sm:gap-x-4.sm:gap-y-0 > p.text-xs.text-offwhite",
+        "xpath": "//*[@id=\"newsletter-form\"]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--hc-cream",
+        "bgVar": "--hc-teal-hover",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 175,
+          "b": 172,
+          "a": 1
+        },
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 129,
+            "b": 127,
+            "a": 1
+          },
+          "hex": "#00817f",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.14724877276024007
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Hooray! You're officially on the path to hormonal bliss!",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgba(255, 250, 240, 0.2)",
+        "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > div.mt-8.hidden.items-center.gap-x-2.5.rounded-xl.border.border-offwhite.border-opacity-25.bg-offwhite.bg-opacity-20.px-5.py-3.opacity-0.transition-opacity.duration-400:nth-of-type(1) > p.text-base.font-medium.text-offwhite",
+        "xpath": "//*[@id=\"newsletter-success-message\"]/p[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--hc-cream",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 0.2
+        },
+        "contrastRatio": 1.03,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 122,
+            "g": 117,
+            "b": 109,
+            "a": 1
+          },
+          "hex": "#7a756d",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.42123275995283316
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Oopsie! Looks like there's a tiny typo in your name or email address, try again.",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(233, 106, 97)",
+        "selector": "#newsletter-failure-validation-text",
+        "xpath": "//*[@id=\"newsletter-failure-validation-text\"]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--hc-cream",
+        "bgVar": "--hc-coral",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 233,
+          "g": 106,
+          "b": 97,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 197,
+            "g": 74,
+            "b": 67,
+            "a": 1
+          },
+          "hex": "#c54a43",
+          "ratio": 4.55,
+          "property": "background-color",
+          "deltaE": 0.10161289993675438
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Oppsie! Something went wrong, please try again later.",
+        "tag": "p",
+        "color": "rgb(255, 250, 240)",
+        "background": "rgb(233, 106, 97)",
+        "selector": "#newsletter-failure-error-text",
+        "xpath": "//*[@id=\"newsletter-failure-error-text\"]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--hc-cream",
+        "bgVar": "--hc-coral",
+        "fgParsed": {
+          "r": 255,
+          "g": 250,
+          "b": 240,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 233,
+          "g": 106,
+          "b": 97,
+          "a": 1
+        },
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 197,
+            "g": 74,
+            "b": 67,
+            "a": 1
+          },
+          "hex": "#c54a43",
+          "ratio": 4.55,
+          "property": "background-color",
+          "deltaE": 0.10161289993675438
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLoQ0AAAwCMLLs/1unZ+AGJAn1Xf7BMTA1NOQEAQAA//8m+BIpAAAABklEQVQDACGUAwx2bazxAAAAAElFTkSuQmCC"
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--hc-muted",
+        "property": "color",
+        "currentValue": "rgb(138, 140, 138)",
+        "currentHex": "#8a8c8a",
+        "againstVariable": "--hc-cream",
+        "againstValue": "rgb(255, 250, 240)",
+        "againstHex": "#fffaf0",
+        "contrastRatio": 3.26,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 2,
+        "suggestedFix": {
+          "variable": "--hc-muted",
+          "newValue": "color(srgb 0.445 0.453 0.445)",
+          "newHex": "#727472",
+          "contrastRatio": 4.53,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "main.bh-help > div.hc-wrap > nav.hc-breadcrumb > a",
+            "text": "Help Center",
+            "xpath": "/html/body/main[1]/div[1]/nav[1]/a[1]"
+          },
+          {
+            "selector": "main.bh-help > div.hc-wrap > nav.hc-breadcrumb > span.hc-breadcrumb-sep:nth-of-type(1)",
+            "text": "/",
+            "xpath": "/html/body/main[1]/div[1]/nav[1]/span[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--hc-muted",
+        "property": "color",
+        "currentValue": "rgb(138, 140, 138)",
+        "currentHex": "#8a8c8a",
+        "againstVariable": "--tw-ring-offset-color",
+        "againstValue": "rgb(255, 255, 255)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 3.39,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--hc-muted",
+          "newValue": "color(srgb 0.457 0.464 0.457)",
+          "newHex": "#747674",
+          "contrastRatio": 4.58,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "main.bh-help > section.hc-featured-section:nth-of-type(2) > div.hc-wrap > a.hc-featured-card > div:nth-of-type(1) > span.hc-featured-meta:nth-of-type(2)",
+            "text": "Last updated\t\t\t\t\t\t19/06/2026",
+            "xpath": "/html/body/main[1]/section[2]/div[1]/a[1]/div[1]/span[2]"
+          }
+        ]
+      },
+      {
+        "variable": "--hc-teal",
+        "property": "background-color",
+        "currentValue": "rgb(24, 122, 129)",
+        "currentHex": "#ffffff",
+        "againstVariable": null,
+        "againstValue": "rgba(255, 255, 255, 0.85)",
+        "againstHex": "#187a81",
+        "contrastRatio": 4.14,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--hc-teal",
+          "newValue": "color(srgb 0.029 0.449 0.476)",
+          "newHex": "#07737a",
+          "contrastRatio": 4.53,
+          "property": "background-color"
+        },
+        "instances": [
+          {
+            "selector": "main.bh-help > section.hc-contact-row:nth-of-type(3) > div.hc-wrap > div.hc-contact-card > div.hc-contact-card-text:nth-of-type(1) > p",
+            "text": "No chatbot. No ticket queue. Write to us when something feels off — someone will get back to you.",
+            "xpath": "/html/body/main[1]/section[3]/div[1]/div[1]/div[1]/p[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--tw-ring-offset-color",
+        "property": "color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#ffffff",
+        "againstVariable": null,
+        "againstValue": "rgba(255, 255, 255, 0.08)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--tw-ring-offset-color",
+          "newValue": "color(srgb 0.462 0.462 0.462)",
+          "newHex": "#767676",
+          "contrastRatio": 4.54,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "main.bh-help > section.hc-contact-row:nth-of-type(3) > div.hc-wrap > div.hc-contact-card > div.hc-contact-actions:nth-of-type(2) > a.hc-contact-action > div.hc-contact-action-text > div.hc-contact-action-name",
+            "text": "Email the team",
+            "xpath": "/html/body/main[1]/section[3]/div[1]/div[1]/div[2]/a[1]/div[1]/div[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--hc-cream",
+        "property": "color",
+        "currentValue": "rgb(255, 250, 240)",
+        "currentHex": "#fffaf0",
+        "againstVariable": "--hc-teal-hover",
+        "againstValue": "rgb(11, 175, 172)",
+        "againstHex": "#0bafac",
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 2,
+        "suggestedFix": {
+          "variable": "--hc-cream",
+          "newValue": "color(srgb 0.327 0.311 0.279)",
+          "newHex": "#534f47",
+          "contrastRatio": 3,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex.sm:flex-1.sm:justify-end:nth-of-type(1) > h2.font-fraunces.text-2xl.text-offwhite.lg:text-4xl",
+            "text": "Sign up for the",
+            "xpath": "//*[@id=\"subscription-footer\"]/div[1]/div[1]/h2[1]"
+          },
+          {
+            "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex.sm:flex-1.sm:justify-end:nth-of-type(1) > h2.font-fraunces.text-2xl.text-offwhite.lg:text-4xl",
+            "text": "Belle Newsletter",
+            "xpath": "//*[@id=\"subscription-footer\"]/div[1]/div[1]/h2[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--hc-cream",
+        "property": "color",
+        "currentValue": "rgb(255, 250, 240)",
+        "currentHex": "#fffaf0",
+        "againstVariable": "--hc-teal-hover",
+        "againstValue": "rgb(11, 175, 172)",
+        "againstHex": "#0bafac",
+        "contrastRatio": 2.61,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 5,
+        "suggestedFix": {
+          "variable": "--hc-cream",
+          "newValue": "color(srgb 0.223 0.207 0.177)",
+          "newHex": "#39352d",
+          "contrastRatio": 4.5,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > label.block.font-vollkorn.text-base/tight.font-bold.lowercase.text-offwhite:nth-of-type(1)",
+            "text": "Name",
+            "xpath": "//*[@id=\"newsletter-form\"]/label[1]"
+          },
+          {
+            "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > label.mt-5.block.font-vollkorn.text-base/tight.font-bold.lowercase.text-offwhite:nth-of-type(2)",
+            "text": "Email",
+            "xpath": "//*[@id=\"newsletter-form\"]/label[2]"
+          },
+          {
+            "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > label.mt-5.block.font-vollkorn.text-base/tight.font-bold.lowercase.text-offwhite:nth-of-type(2) > small.text-xs",
+            "text": "*",
+            "xpath": "//*[@id=\"newsletter-form\"]/label[2]/small[1]"
+          },
+          {
+            "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > div.mt-6.flex.flex-col.gap-y-4.sm:flex-row.sm:items-center.sm:justify-between.sm:gap-x-4.sm:gap-y-0 > p.text-xs.text-offwhite",
+            "text": "By clicking on subscribe, you accept our",
+            "xpath": "//*[@id=\"newsletter-form\"]/div[1]/p[1]"
+          },
+          {
+            "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > div.mt-6.flex.flex-col.gap-y-4.sm:flex-row.sm:items-center.sm:justify-between.sm:gap-x-4.sm:gap-y-0 > p.text-xs.text-offwhite",
+            "text": ".",
+            "xpath": "//*[@id=\"newsletter-form\"]/div[1]/p[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--hc-teal",
+        "property": "color",
+        "currentValue": "rgb(24, 122, 129)",
+        "currentHex": "#187a81",
+        "againstVariable": "--hc-teal-hover",
+        "againstValue": "rgb(11, 175, 172)",
+        "againstHex": "#0bafac",
+        "contrastRatio": 1.87,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--hc-teal",
+          "newValue": "color(srgb -0.133 0.233 0.261)",
+          "newHex": "#003b43",
+          "contrastRatio": 4.54,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > form > div.mt-6.flex.flex-col.gap-y-4.sm:flex-row.sm:items-center.sm:justify-between.sm:gap-x-4.sm:gap-y-0 > p.text-xs.text-offwhite > a.font-medium.text-primary.underline",
+            "text": "Privacy Policy",
+            "xpath": "//*[@id=\"newsletter-form\"]/div[1]/p[1]/a[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--hc-cream",
+        "property": "color",
+        "currentValue": "rgb(255, 250, 240)",
+        "currentHex": "#fffaf0",
+        "againstVariable": null,
+        "againstValue": "rgba(255, 250, 240, 0.2)",
+        "againstHex": "#fffaf0",
+        "contrastRatio": 1.03,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--hc-cream",
+          "newValue": "color(srgb 0.478 0.46 0.426)",
+          "newHex": "#7a756d",
+          "contrastRatio": 4.54,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "footer.relative.z-30 > div.bg-primary-light.py-6.sm:py-8.lg:py-16:nth-of-type(1) > div.flex.flex-col.gap-y-4.px-4.font-normal.sm:container.sm:mx-auto.sm:flex-row.sm:items-center.sm:gap-x-16.sm:gap-y-0.md:px-8.lg:gap-x-24.2xl:max-w-screen-xl > div.sm:flex-1:nth-of-type(2) > div.mt-8.hidden.items-center.gap-x-2.5.rounded-xl.border.border-offwhite.border-opacity-25.bg-offwhite.bg-opacity-20.px-5.py-3.opacity-0.transition-opacity.duration-400:nth-of-type(1) > p.text-base.font-medium.text-offwhite",
+            "text": "Hooray! You're officially on the path to hormonal bliss!",
+            "xpath": "//*[@id=\"newsletter-success-message\"]/p[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--hc-cream",
+        "property": "color",
+        "currentValue": "rgb(255, 250, 240)",
+        "currentHex": "#fffaf0",
+        "againstVariable": "--hc-coral",
+        "againstValue": "rgb(233, 106, 97)",
+        "againstHex": "#e96a61",
+        "contrastRatio": 3.01,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 2,
+        "suggestedFix": {
+          "variable": "--hc-cream",
+          "newValue": "color(srgb 0.178 0.163 0.134)",
+          "newHex": "#2d2a22",
+          "contrastRatio": 4.57,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "#newsletter-failure-validation-text",
+            "text": "Oopsie! Looks like there's a tiny typo in your name or email address, try again.",
+            "xpath": "//*[@id=\"newsletter-failure-validation-text\"]"
+          },
+          {
+            "selector": "#newsletter-failure-error-text",
+            "text": "Oppsie! Something went wrong, please try again later.",
+            "xpath": "//*[@id=\"newsletter-failure-error-text\"]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 129,
+      "passAA": 113,
+      "passAAA": 35,
+      "failAA": 16,
+      "failAAA": 10
+    },
+    "variableStats": {
+      "uniqueIssues": 9,
+      "affectedElements": 16,
+      "oneOffIssues": 0
+    },
+    "healthScore": 88,
+    "scannedAt": "2026-08-03T21:47:24.654Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 16 violation(s)
+

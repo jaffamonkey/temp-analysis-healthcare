@@ -1,0 +1,25 @@
+Starting contrast check for https://uk.support.oviva.com/s/
+
+--- STDOUT ---
+ℹ Scanning: https://uk.support.oviva.com/s/
+ℹ Scanning page 1/1: https://uk.support.oviva.com/s/
+⚠ Failed to scan https://uk.support.oviva.com/s/: page.evaluate: TypeError: Cannot read properties of null (reading 'id')
+    at getXPath (eval at evaluate (:302:30), <anonymous>:3:19)
+    at getXPath (eval at evaluate (:302:30), <anonymous>:14:18)
+    at getXPath (eval at evaluate (:302:30), <anonymous>:14:18)
+    at getXPath (eval at evaluate (:302:30), <anonymous>:14:18)
+    at getXPath (eval at evaluate (:302:30), <anonymous>:14:18)
+    at extractFromPage (eval at evaluate (:302:30), <anonymous>:172:16)
+    at UtilityScript.evaluate (<anonymous>:304:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+⚠ 1 page(s) failed to scan
+✖ All pages failed to scan
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 1 page(s)
+
+
+--- ERROR ---
+Failed to extract valid JSON from contrast tool stdout. Exit status: 1

@@ -1,0 +1,13 @@
+{
+  "job_id": "adora-20260723-171405-20260803-214219",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/adora-20260723-171405-20260803-214219/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/adora-20260723-171405-20260803-214219/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/adora-20260723-171405-20260803-214219/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/adora-20260723-171405-20260803-214219/analysis/accessibility_analysis.xlsx",
+  "violations": 1798,
+  "pages": 5,
+  "screenshots": {
+    "job_id": "adora-20260723-171405-20260803-214219",
+    "message": "Artifacts processed"
+  }
+}

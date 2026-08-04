@@ -1,0 +1,50 @@
+[
+  {
+    "page": "evaro.com",
+    "url": "https://evaro.com/",
+    "title": "Evaro - Healthcare Platform Integration",
+    "report": "evaro.com.json",
+    "line_count": 621,
+    "ok": true
+  },
+  {
+    "page": "evaro.com-research",
+    "url": "https://evaro.com/research",
+    "title": "Evaro - Healthcare Platform Integration",
+    "report": "evaro.com-research.json",
+    "line_count": 120,
+    "ok": true
+  },
+  {
+    "page": "evaro.com-platform",
+    "url": "https://evaro.com/platform",
+    "title": "Platform | Evaro",
+    "report": "evaro.com-platform.json",
+    "line_count": 583,
+    "ok": true
+  },
+  {
+    "page": "evaro.com-solutions",
+    "url": "https://evaro.com/solutions",
+    "title": "Solutions | Evaro",
+    "report": "evaro.com-solutions.json",
+    "line_count": 495,
+    "ok": true
+  },
+  {
+    "page": "evaro.com-about-us",
+    "url": "https://evaro.com/about-us",
+    "title": "Evaro - Healthcare Platform Integration",
+    "report": "evaro.com-about-us.json",
+    "line_count": 311,
+    "ok": true
+  },
+  {
+    "page": "evaro.com-patient",
+    "url": "https://evaro.com/patient",
+    "title": "Evaro - Healthcare Platform Integration",
+    "report": "evaro.com-patient.json",
+    "line_count": 492,
+    "ok": true
+  }
+]

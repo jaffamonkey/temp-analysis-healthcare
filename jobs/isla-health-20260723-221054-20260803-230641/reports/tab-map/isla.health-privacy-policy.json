@@ -1,0 +1,17 @@
+{
+  "tool": "tab-map",
+  "url": "https://isla.health/privacy-policy/",
+  "landed_url": "https://isla.health/privacy-policy/",
+  "title": "Privacy-policy - Isla Health",
+  "page": "isla.health-privacy-policy",
+  "captured_at": "2026-08-03T23:09:20.975Z",
+  "focusable_count": 29,
+  "frame_count": 0,
+  "same_origin_frame_count": 0,
+  "cross_origin_frame_count": 0,
+  "image": "isla.health-privacy-policy.png",
+  "preview_image": "isla.health-privacy-policy.png",
+  "preview_dir": "visual-preview",
+  "json": "isla.health-privacy-policy.json",
+  "consent_actions": []
+}

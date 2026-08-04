@@ -1,0 +1,13 @@
+{
+  "job_id": "infervision-20260727-164633-20260803-225228",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/infervision-20260727-164633-20260803-225228/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/infervision-20260727-164633-20260803-225228/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/infervision-20260727-164633-20260803-225228/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/infervision-20260727-164633-20260803-225228/analysis/accessibility_analysis.xlsx",
+  "violations": 643,
+  "pages": 5,
+  "screenshots": {
+    "job_id": "infervision-20260727-164633-20260803-225228",
+    "message": "Artifacts processed"
+  }
+}

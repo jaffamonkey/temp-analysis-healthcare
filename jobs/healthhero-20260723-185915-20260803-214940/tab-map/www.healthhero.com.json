@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.healthhero.com/",
+  "landed_url": "https://www.healthhero.com/",
+  "title": "HealthHero | Europe’s Largest Digital-First Clinic – 30M+ Served",
+  "page": "www.healthhero.com",
+  "captured_at": "2026-08-03T21:52:04.221Z",
+  "focusable_count": 38,
+  "frame_count": 0,
+  "same_origin_frame_count": 0,
+  "cross_origin_frame_count": 0,
+  "image": "www.healthhero.com.png",
+  "preview_image": "www.healthhero.com.png",
+  "preview_dir": "visual-preview",
+  "json": "www.healthhero.com.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Accept All"
+    }
+  ]
+}

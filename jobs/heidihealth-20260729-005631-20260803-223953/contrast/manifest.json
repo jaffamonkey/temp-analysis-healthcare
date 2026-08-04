@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.heidihealth.com-en-gb",
+    "url": "https://www.heidihealth.com/en-gb",
+    "title": "Heidi | Your AI Care Partner for Modern Clinical Practice",
+    "json": "www.heidihealth.com-en-gb.json",
+    "report": "www.heidihealth.com-en-gb.json",
+    "ok": true
+  },
+  {
+    "page": "www.heidihealth.com-en-gb-solutions-primary-care",
+    "url": "https://www.heidihealth.com/en-gb/solutions/primary-care",
+    "title": "Primary Care | Heidi",
+    "json": "www.heidihealth.com-en-gb-solutions-primary-care.json",
+    "report": "www.heidihealth.com-en-gb-solutions-primary-care.json",
+    "ok": true
+  },
+  {
+    "page": "www.heidihealth.com-en-gb-solutions-medical-specialties",
+    "url": "https://www.heidihealth.com/en-gb/solutions/medical-specialties",
+    "title": "Best AI Care Partner for Medical Specialists - Heidi",
+    "json": "www.heidihealth.com-en-gb-solutions-medical-specialties.json",
+    "report": "www.heidihealth.com-en-gb-solutions-medical-specialties.json",
+    "ok": true
+  },
+  {
+    "page": "www.heidihealth.com-en-gb-solutions-nurses",
+    "url": "https://www.heidihealth.com/en-gb/solutions/nurses",
+    "title": "Heidi for Nurses | Heidi",
+    "json": "www.heidihealth.com-en-gb-solutions-nurses.json",
+    "report": "www.heidihealth.com-en-gb-solutions-nurses.json",
+    "ok": true
+  },
+  {
+    "page": "www.heidihealth.com-en-gb-contact",
+    "url": "https://www.heidihealth.com/en-gb/contact",
+    "title": "Contact Heidi Health Customer Support | Global",
+    "json": "www.heidihealth.com-en-gb-contact.json",
+    "report": "www.heidihealth.com-en-gb-contact.json",
+    "ok": true
+  }
+]

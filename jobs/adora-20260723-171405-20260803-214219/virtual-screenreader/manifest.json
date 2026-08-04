@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.adora.health",
+    "url": "https://www.adora.health/",
+    "title": "Adora Women's Health | Trusted Menopause Experts",
+    "report": "www.adora.health.json",
+    "line_count": 354,
+    "ok": true
+  },
+  {
+    "page": "www.adora.health-about",
+    "url": "https://www.adora.health/about",
+    "title": "About | Adora Women's Health",
+    "report": "www.adora.health-about.json",
+    "line_count": 275,
+    "ok": true
+  },
+  {
+    "page": "www.adora.health-contact",
+    "url": "https://www.adora.health/contact",
+    "title": "Contact | Adora Women's Health",
+    "report": "www.adora.health-contact.json",
+    "line_count": 149,
+    "ok": true
+  },
+  {
+    "page": "www.adora.health-for-employers",
+    "url": "https://www.adora.health/for-employers",
+    "title": "Adora menopause — workplace menopause support | digital health app",
+    "report": "www.adora.health-for-employers.json",
+    "line_count": 357,
+    "ok": true
+  },
+  {
+    "page": "www.adora.health-privacy-policy",
+    "url": "https://www.adora.health/privacy-policy",
+    "title": "Privacy Policy | Adora Women's Health",
+    "report": "www.adora.health-privacy-policy.json",
+    "line_count": 1121,
+    "ok": true
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "page": "deephealth.com",
+    "url": "https://deephealth.com/",
+    "title": "DeepHealth - Radiology AI-Powered Health Informatics | RadNet",
+    "json": "deephealth.com.json",
+    "report": "deephealth.com.json",
+    "ok": true
+  },
+  {
+    "page": "deephealth.com-kheiron-medical-technologies",
+    "url": "https://deephealth.com/kheiron-medical-technologies/",
+    "title": "Kheiron Medical Technologies - DeepHealth",
+    "json": "deephealth.com-kheiron-medical-technologies.json",
+    "report": "deephealth.com-kheiron-medical-technologies.json",
+    "ok": true
+  },
+  {
+    "page": "deephealth.com-enterprise-imaging-diagnostic-suite",
+    "url": "https://deephealth.com/enterprise-imaging/diagnostic-suite/",
+    "title": "Diagnostic Suite - DeepHealth",
+    "json": "deephealth.com-enterprise-imaging-diagnostic-suite.json",
+    "report": "deephealth.com-enterprise-imaging-diagnostic-suite.json",
+    "ok": true
+  },
+  {
+    "page": "deephealth.com-evidence-scientific-publications",
+    "url": "https://deephealth.com/evidence/scientific-publications/",
+    "title": "Evidence - Scientific Publications - DeepHealth",
+    "json": "deephealth.com-evidence-scientific-publications.json",
+    "report": "deephealth.com-evidence-scientific-publications.json",
+    "ok": true
+  },
+  {
+    "page": "deephealth.com-about",
+    "url": "https://deephealth.com/about/",
+    "title": "About - DeepHealth",
+    "json": "deephealth.com-about.json",
+    "report": "deephealth.com-about.json",
+    "ok": true
+  }
+]

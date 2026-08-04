@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.semble.io",
+    "url": "https://www.semble.io",
+    "title": "Private Practice Management Software | Semble",
+    "report": "www.semble.io.json",
+    "line_count": 757,
+    "ok": true
+  },
+  {
+    "page": "www.semble.io-about-us",
+    "url": "https://www.semble.io/about-us",
+    "title": "About us",
+    "report": "www.semble.io-about-us.json",
+    "line_count": 548,
+    "ok": true
+  },
+  {
+    "page": "www.semble.io-privacy-policy",
+    "url": "https://www.semble.io/privacy-policy",
+    "title": "Privacy Policy",
+    "report": "www.semble.io-privacy-policy.json",
+    "line_count": 1417,
+    "ok": true
+  },
+  {
+    "page": "www.semble.io-book-a-demo",
+    "url": "https://www.semble.io/book-a-demo",
+    "title": "Book a Demo",
+    "report": "www.semble.io-book-a-demo.json",
+    "line_count": 430,
+    "ok": true
+  },
+  {
+    "page": "www.semble.io-case-studies",
+    "url": "https://www.semble.io/case-studies",
+    "title": "Case Studies Library",
+    "report": "www.semble.io-case-studies.json",
+    "line_count": 706,
+    "ok": true
+  }
+]

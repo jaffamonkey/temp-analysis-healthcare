@@ -1,0 +1,351 @@
+[
+  {
+    "url": "https://www.careology.health/en-gb/contact",
+    "title": "Contact: Get in Touch with Our Team or Book a Demo | Careology",
+    "pairs": [
+      {
+        "text": "Email",
+        "tag": "p",
+        "color": "rgb(133, 104, 146)",
+        "background": "rgb(245, 242, 246)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div.px-5.sm:px-10.lg:px-20.bg-violet-50.pt-10.pb-12 > div.max-w-8xl.mx-auto > div.lg:grid.lg:grid-cols-7.gap-20 > div.lg:pt-10.col-span-3:nth-of-type(1) > div.hidden.lg:block.mt-20.space-y-10:nth-of-type(2) > div.space-y-4 > p.text-lg.text-violet-600.font-normal:nth-of-type(1)",
+        "xpath": "/html/body/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 80,
+          "y": 492,
+          "width": 434.28125,
+          "height": 28
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 133,
+          "g": 104,
+          "b": 146,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 245,
+          "g": 242,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 4.31,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 130,
+            "g": 101,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#82658f",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.011278068081640558
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcIAAAAsCAIAAAB5Qy9UAAAD2klEQVR4nOzcX2xTVRzA8dN7uz/tbTfN2ET+zYISECYqLBkRTSMx+CcYEhMcmphgfPEBn4mPJr5rYmJCfPBlyYwhGER0xpkhM/yZzm2xVthgodtYxwobHe3awVZ+6yWl/Fthhy3c5ftJc3Pv6bK+fXPuObd1J+JJBQCYLUMBADSQUQDQQkYBQAsZBQAtZBQAtJBRANBCRgFACxkFAC1kFAC0kFEA0EJGAUALGQUALWQUALQUymjmbq85MJ5MTaQm7PNwe893Xx2MdA8oAHjkuWd473BD8+nO3jvHV62v3v7Ba+rhmbw2ue+zBsMw9ny+W7nUyPDoYOTC2OgVBQCPvJkympmaPpaUFgfWrsgfX7ZqsXqoJKBVSytKvaXSUABwFnfBv9hWH1z57Ao1l1yGa9eeHQoAHKhwRu/lZPM/Z/+LvPRGbcefoWjkgmEaz9QENm/bdL43+ldLZ2xwpNRbsq529cbgcy7XjUlm/9nBk80dscFLptt4srrq5bfq/I9Z9lvff33IKvO8+f5WBQCOMvuMDvXHon3D+/cdlrt+X7l1cWik/ei/ncfCstDp9Xm8fo+MtP7c5jKNja/UqOzGUVNji5wsXl6ZSqZl1fVMKPLh3p1W2XRJB3qjHrmpBwCnKZzRP348Lo3LXfrKvS9sWZ93aX306S5Z0xweiDV8+YM0dM2LT7/+blBGZK568NtfQydO2Rlt/emEHN/7ZEfVskVy0tR4JNzeLX9TU7dWAYBjFc7o6MX430e6cpfSzfyMBt/ebO8LVS5dZI9sCm6wRwJrlstxLJ6wx+tl9TOT8T/usy9Xb3hKMhrti9XUKQBwrsIZ3frOlpXrqnOXpnHjUdOr6atytMq8ubfkXj55ZTy33CkbR/KampyyL31l3q5j4a7jYemyTFrtwUxmbh5DBYD5Ujijlt9r+Tx3jheVFN02IoukktF7/Z/f9reG2k5Zfo9MZv3lVqRn4EzonAIAh5v9FtMDkemnNFQ6u3tvvbvIlJFiTzEZBbAAzFNGU+NplX3M3jSzawIZdfTQ9I4TN/UAnK5wRpsaWwK3Pn5fuaTC3ny/f7IyIGumY6OJhi8OLAk80dd93r79TyXSCgCcbKaMurITx3Rq4v/2nvzxy7H4dEaz2/G5R+tz5/nf5zSMmz99svPj7Qe++SUWvSQv023Wvvp82+8dQ/3Dd/3k7KfzzVAADuBKxJNqHkmUZQZaXuFXALAgzHdGAWCB4WebAUALGQUALWQUALSQUQDQQkYBQAsZBQAtZBQAtJBRANBCRgFACxkFAC1kFAC0kFEA0EJGAUALGQUALdcBAAD//4zEbdgAAAAGSURBVAMAE/wfwWkp5RMAAAAASUVORK5CYII="
+      },
+      {
+        "text": "*",
+        "tag": "span",
+        "color": "rgb(236, 84, 84)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div.px-5.sm:px-10.lg:px-20.bg-violet-50.pt-10.pb-12 > div.max-w-8xl.mx-auto > div.lg:grid.lg:grid-cols-7.gap-20 > div.col-span-4.mt-10.lg:mt-0:nth-of-type(2) > div.bg-white-500.rounded-2xl.relative.z-40.overflow-hidden > form > div.grid.grid-cols-1.lg:grid-cols-2.p-4.lg:p-10.gap-y-6.gap-x-10.relative.z-50 > div.col-span-1.space-y-4.relative:nth-of-type(1) > label.text-lg.leading-none.peer-disabled:cursor-not-allowed.peer-disabled:opacity-70.text-violet-950.font-semibold > span",
+        "xpath": "/html/body/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/label[1]/span[1]",
+        "boundingRect": {
+          "x": 724.859375,
+          "y": 176,
+          "width": 8.1875,
+          "height": 21
+        },
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 236,
+          "g": 84,
+          "b": 84,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.52,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 214,
+            "g": 63,
+            "b": 66,
+            "a": 1
+          },
+          "hex": "#d63f42",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.060954838479901574
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAlCAIAAADX8b7cAAABg0lEQVR4nOyVP0gCURjA3909j/MqTsOI5AYhEheHaGmrzUKKBtEolxxam5ykpcVBt7ZmByGIBocgoqFrSRAaJAhEaBAyzuyU88/96x0FhXka3S3B/Zb38b673/vee7z3oKZpwApwYBG2yBb9N5Gqgl8co/EiPhZrJBImRKiQz09wjCTBOKBRoplM4gxDhcOAJDGalkqlTqFAsOyEQXWES2QDi/MUTX3v1bpdMZ9Xa7U+xwFZ1gShx3Fqva4KghOph4EtwXX3DJO7O55lPQM5pVoVsln0P4odwSAdjUK/H810qEjvfX15OznK/cwpPK9bKL1YuVIhvF4jiy5a2VhGzeXpzUBCbTRamQwKmFSKCoU0URTSaWAMLF7fo0Zsd1rN9pRr8msEt5uOx1Weh4EA9PmkctkZiYwQ6Wv0EV085Txz0+CvYFJfkvqyg4TQAYEJ8Kuz282FvXLxEZiDeDh/7oo9tHFr26vABPp0dg629g93gTkwRVFw3ILLBLNfWltki0bxDgAA//8Ae0GUAAAABklEQVQDABvphn3UJGKTAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Email",
+        "tag": "p",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(245, 242, 246)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div.px-5.sm:px-10.lg:px-20.bg-violet-50.pt-10.pb-12 > div.max-w-8xl.mx-auto > div.lg:grid.lg:grid-cols-7.gap-20 > div.lg:hidden.mt-10.space-y-10:nth-of-type(3) > div.space-y-4 > p.md:text-xl.text-violet-500.font-medium.pb-4",
+        "xpath": "/html/body/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 245,
+          "g": 242,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 3.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 127,
+            "g": 103,
+            "b": 137,
+            "a": 1
+          },
+          "hex": "#7f6789",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.08735697289953837
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLsQkAAAwCMCn9/9hCnb3BUTB79o9wDEwNDTlBAAAA///pggwfAAAABklEQVQDAPzNAwDIiJShAAAAAElFTkSuQmCC"
+      }
+    ],
+    "violations": [
+      {
+        "text": "Email",
+        "tag": "p",
+        "color": "rgb(133, 104, 146)",
+        "background": "rgb(245, 242, 246)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div.px-5.sm:px-10.lg:px-20.bg-violet-50.pt-10.pb-12 > div.max-w-8xl.mx-auto > div.lg:grid.lg:grid-cols-7.gap-20 > div.lg:pt-10.col-span-3:nth-of-type(1) > div.hidden.lg:block.mt-20.space-y-10:nth-of-type(2) > div.space-y-4 > p.text-lg.text-violet-600.font-normal:nth-of-type(1)",
+        "xpath": "/html/body/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 80,
+          "y": 492,
+          "width": 434.28125,
+          "height": 28
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 133,
+          "g": 104,
+          "b": 146,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 245,
+          "g": 242,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 4.31,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 130,
+            "g": 101,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#82658f",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.011278068081640558
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcIAAAAsCAIAAAB5Qy9UAAAD2klEQVR4nOzcX2xTVRzA8dN7uz/tbTfN2ET+zYISECYqLBkRTSMx+CcYEhMcmphgfPEBn4mPJr5rYmJCfPBlyYwhGER0xpkhM/yZzm2xVthgodtYxwobHe3awVZ+6yWl/Fthhy3c5ftJc3Pv6bK+fXPuObd1J+JJBQCYLUMBADSQUQDQQkYBQAsZBQAtZBQAtJBRANBCRgFACxkFAC1kFAC0kFEA0EJGAUALGQUALWQUALQUymjmbq85MJ5MTaQm7PNwe893Xx2MdA8oAHjkuWd473BD8+nO3jvHV62v3v7Ba+rhmbw2ue+zBsMw9ny+W7nUyPDoYOTC2OgVBQCPvJkympmaPpaUFgfWrsgfX7ZqsXqoJKBVSytKvaXSUABwFnfBv9hWH1z57Ao1l1yGa9eeHQoAHKhwRu/lZPM/Z/+LvPRGbcefoWjkgmEaz9QENm/bdL43+ldLZ2xwpNRbsq529cbgcy7XjUlm/9nBk80dscFLptt4srrq5bfq/I9Z9lvff33IKvO8+f5WBQCOMvuMDvXHon3D+/cdlrt+X7l1cWik/ei/ncfCstDp9Xm8fo+MtP7c5jKNja/UqOzGUVNji5wsXl6ZSqZl1fVMKPLh3p1W2XRJB3qjHrmpBwCnKZzRP348Lo3LXfrKvS9sWZ93aX306S5Z0xweiDV8+YM0dM2LT7/+blBGZK568NtfQydO2Rlt/emEHN/7ZEfVskVy0tR4JNzeLX9TU7dWAYBjFc7o6MX430e6cpfSzfyMBt/ebO8LVS5dZI9sCm6wRwJrlstxLJ6wx+tl9TOT8T/usy9Xb3hKMhrti9XUKQBwrsIZ3frOlpXrqnOXpnHjUdOr6atytMq8ubfkXj55ZTy33CkbR/KampyyL31l3q5j4a7jYemyTFrtwUxmbh5DBYD5Ujijlt9r+Tx3jheVFN02IoukktF7/Z/f9reG2k5Zfo9MZv3lVqRn4EzonAIAh5v9FtMDkemnNFQ6u3tvvbvIlJFiTzEZBbAAzFNGU+NplX3M3jSzawIZdfTQ9I4TN/UAnK5wRpsaWwK3Pn5fuaTC3ny/f7IyIGumY6OJhi8OLAk80dd93r79TyXSCgCcbKaMurITx3Rq4v/2nvzxy7H4dEaz2/G5R+tz5/nf5zSMmz99svPj7Qe++SUWvSQv023Wvvp82+8dQ/3Dd/3k7KfzzVAADuBKxJNqHkmUZQZaXuFXALAgzHdGAWCB4WebAUALGQUALWQUALSQUQDQQkYBQAsZBQAtZBQAtJBRANBCRgFACxkFAC1kFAC0kFEA0EJGAUALGQUALdcBAAD//4zEbdgAAAAGSURBVAMAE/wfwWkp5RMAAAAASUVORK5CYII="
+      },
+      {
+        "text": "*",
+        "tag": "span",
+        "color": "rgb(236, 84, 84)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div.px-5.sm:px-10.lg:px-20.bg-violet-50.pt-10.pb-12 > div.max-w-8xl.mx-auto > div.lg:grid.lg:grid-cols-7.gap-20 > div.col-span-4.mt-10.lg:mt-0:nth-of-type(2) > div.bg-white-500.rounded-2xl.relative.z-40.overflow-hidden > form > div.grid.grid-cols-1.lg:grid-cols-2.p-4.lg:p-10.gap-y-6.gap-x-10.relative.z-50 > div.col-span-1.space-y-4.relative:nth-of-type(1) > label.text-lg.leading-none.peer-disabled:cursor-not-allowed.peer-disabled:opacity-70.text-violet-950.font-semibold > span",
+        "xpath": "/html/body/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/label[1]/span[1]",
+        "boundingRect": {
+          "x": 724.859375,
+          "y": 176,
+          "width": 8.1875,
+          "height": 21
+        },
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 236,
+          "g": 84,
+          "b": 84,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.52,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 214,
+            "g": 63,
+            "b": 66,
+            "a": 1
+          },
+          "hex": "#d63f42",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.060954838479901574
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAlCAIAAADX8b7cAAABg0lEQVR4nOyVP0gCURjA3909j/MqTsOI5AYhEheHaGmrzUKKBtEolxxam5ykpcVBt7ZmByGIBocgoqFrSRAaJAhEaBAyzuyU88/96x0FhXka3S3B/Zb38b673/vee7z3oKZpwApwYBG2yBb9N5Gqgl8co/EiPhZrJBImRKiQz09wjCTBOKBRoplM4gxDhcOAJDGalkqlTqFAsOyEQXWES2QDi/MUTX3v1bpdMZ9Xa7U+xwFZ1gShx3Fqva4KghOph4EtwXX3DJO7O55lPQM5pVoVsln0P4odwSAdjUK/H810qEjvfX15OznK/cwpPK9bKL1YuVIhvF4jiy5a2VhGzeXpzUBCbTRamQwKmFSKCoU0URTSaWAMLF7fo0Zsd1rN9pRr8msEt5uOx1Weh4EA9PmkctkZiYwQ6Wv0EV085Txz0+CvYFJfkvqyg4TQAYEJ8Kuz282FvXLxEZiDeDh/7oo9tHFr26vABPp0dg629g93gTkwRVFw3ILLBLNfWltki0bxDgAA//8Ae0GUAAAABklEQVQDABvphn3UJGKTAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Email",
+        "tag": "p",
+        "color": "rgb(153, 129, 164)",
+        "background": "rgb(245, 242, 246)",
+        "selector": "div.z-0.relative:nth-of-type(2) > div.px-5.sm:px-10.lg:px-20.bg-violet-50.pt-10.pb-12 > div.max-w-8xl.mx-auto > div.lg:grid.lg:grid-cols-7.gap-20 > div.lg:hidden.mt-10.space-y-10:nth-of-type(3) > div.space-y-4 > p.md:text-xl.text-violet-500.font-medium.pb-4",
+        "xpath": "/html/body/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 153,
+          "g": 129,
+          "b": 164,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 245,
+          "g": 242,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 3.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 127,
+            "g": 103,
+            "b": 137,
+            "a": 1
+          },
+          "hex": "#7f6789",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.08735697289953837
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLsQkAAAwCMCn9/9hCnb3BUTB79o9wDEwNDTlBAAAA///pggwfAAAABklEQVQDAPzNAwDIiJShAAAAAElFTkSuQmCC"
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--tw-ring-offset-color",
+        "property": "background-color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#ec5454",
+        "againstVariable": null,
+        "againstValue": "rgb(236, 84, 84)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 3.52,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--tw-ring-offset-color",
+          "newValue": "color(srgb 0.131 0.131 0.131)",
+          "newHex": "#222222",
+          "contrastRatio": 4.52,
+          "property": "background-color"
+        },
+        "instances": [
+          {
+            "selector": "div.z-0.relative:nth-of-type(2) > div.px-5.sm:px-10.lg:px-20.bg-violet-50.pt-10.pb-12 > div.max-w-8xl.mx-auto > div.lg:grid.lg:grid-cols-7.gap-20 > div.col-span-4.mt-10.lg:mt-0:nth-of-type(2) > div.bg-white-500.rounded-2xl.relative.z-40.overflow-hidden > form > div.grid.grid-cols-1.lg:grid-cols-2.p-4.lg:p-10.gap-y-6.gap-x-10.relative.z-50 > div.col-span-1.space-y-4.relative:nth-of-type(1) > label.text-lg.leading-none.peer-disabled:cursor-not-allowed.peer-disabled:opacity-70.text-violet-950.font-semibold > span",
+            "text": "*",
+            "xpath": "/html/body/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/label[1]/span[1]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 47,
+      "passAA": 44,
+      "passAAA": 43,
+      "failAA": 3,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 1,
+      "affectedElements": 1,
+      "oneOffIssues": 2
+    },
+    "healthScore": 94,
+    "scannedAt": "2026-08-03T23:22:55.789Z"
+  }
+]

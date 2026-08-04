@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://bellehealth.co/terms-and-conditions/",
+  "landed_url": "https://bellehealth.co/terms-and-conditions/",
+  "title": "Terms and Conditions - Belle Health",
+  "page": "bellehealth.co-terms-and-conditions",
+  "captured_at": "2026-08-03T21:47:12.570Z",
+  "focusable_count": 67,
+  "frame_count": 1,
+  "same_origin_frame_count": 1,
+  "cross_origin_frame_count": 0,
+  "image": "bellehealth.co-terms-and-conditions.png",
+  "preview_image": "bellehealth.co-terms-and-conditions.png",
+  "preview_dir": "visual-preview",
+  "json": "bellehealth.co-terms-and-conditions.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Accept"
+    }
+  ]
+}

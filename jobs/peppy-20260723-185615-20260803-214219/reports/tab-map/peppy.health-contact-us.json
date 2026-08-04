@@ -1,0 +1,30 @@
+{
+  "tool": "tab-map",
+  "url": "https://peppy.health/contact-us/",
+  "landed_url": "https://peppy.health/contact-us/",
+  "title": "Talk to Our Team: Improve Retention & Reduce Absence",
+  "page": "peppy.health-contact-us",
+  "captured_at": "2026-08-03T21:47:10.428Z",
+  "focusable_count": 56,
+  "frame_count": 6,
+  "same_origin_frame_count": 4,
+  "cross_origin_frame_count": 2,
+  "image": "peppy.health-contact-us.png",
+  "preview_image": "peppy.health-contact-us.png",
+  "preview_dir": "visual-preview",
+  "json": "peppy.health-contact-us.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "input[type=\"submit\"][value*=\"OK\" i]"
+    },
+    {
+      "action": "clicked",
+      "detail": "input[type=\"submit\"][value*=\"OK\" i]"
+    },
+    {
+      "action": "clicked",
+      "detail": "input[type=\"submit\"][value*=\"OK\" i]"
+    }
+  ]
+}

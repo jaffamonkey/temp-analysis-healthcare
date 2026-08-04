@@ -1,0 +1,598 @@
+[
+  {
+    "url": "https://www.sciensus.com/privacy-notices-menu/",
+    "title": "Privacy notices - Sciensus",
+    "pairs": [
+      {
+        "text": "Consent",
+        "tag": "a",
+        "color": "rgb(100, 167, 11)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "#CybotCookiebotDialogNavDeclaration",
+        "xpath": "//*[@id=\"CybotCookiebotDialogNavDeclaration\"]",
+        "boundingRect": {
+          "x": 190,
+          "y": 148.671875,
+          "width": 300,
+          "height": 71.40625
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 100,
+          "g": 167,
+          "b": 11,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.97,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 68,
+            "g": 133,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#448500",
+          "ratio": 4.56,
+          "property": "color",
+          "deltaE": 0.10784387309262256
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Learn more about this provider",
+        "tag": "a",
+        "color": "rgb(100, 167, 11)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.CybotMultilevel.CybotCookiebotDialogActive:nth-of-type(1) > div.CybotCookiebotDialogContentWrapper > div:nth-of-type(3) > div.CybotCookiebotScrollContainer.CybotCookiebotDialogHide:nth-of-type(2) > div.CybotCookiebotDialogTabPanel.CybotCookiebotDialogHide.CybotCookiebotScrollArea:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div > div > ul > li.CookieCard:nth-of-type(1) > div > div.CollapseCard.CybotCookiebotDialogHide:nth-of-type(3) > div.CybotCookiebotDialogDetailBodyContentCookieTypeTableContainer > ul.CybotCookiebotDialogDetailBodyContentCookieTabContent > li.CybotCookiebotDialogDetailBodyContentCookieGroup:nth-of-type(1) > a.CybotCookiebotDialogDetailBodyContentCookieLink:nth-of-type(2)",
+        "xpath": "//*[@id=\"CybotCookiebotDialogDetailBodyContentCookieTabsNecessary\"]/div[1]/ul[1]/li[1]/a[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 100,
+          "g": 167,
+          "b": 11,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.97,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 68,
+            "g": 133,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#448500",
+          "ratio": 4.56,
+          "property": "color",
+          "deltaE": 0.10784387309262256
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLsQkAAAwCMCn9/9jSwdEbHAWzZ/8Ix8DU0JATBAAA//9nkN8UAAAABklEQVQDAP/YAwG312pCAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Cookiebot",
+        "tag": "a",
+        "color": "rgb(100, 167, 11)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.CybotMultilevel.CybotCookiebotDialogActive:nth-of-type(1) > div.CybotCookiebotDialogContentWrapper > div:nth-of-type(3) > div.CybotCookiebotScrollContainer.CybotCookiebotDialogHide:nth-of-type(2) > div.CybotCookiebotDialogTabPanel.CybotCookiebotDialogHide.CybotCookiebotScrollArea:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > a",
+        "xpath": "//*[@id=\"CybotCookiebotDialogDetailFooter\"]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 100,
+          "g": 167,
+          "b": 11,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.97,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 68,
+            "g": 133,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#448500",
+          "ratio": 4.56,
+          "property": "color",
+          "deltaE": 0.10784387309262256
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLsQkAAAwCMCn9/9jSwdEbHAWzZ/8Ix8DU0JATBAAA//9nkN8UAAAABklEQVQDAP/YAwG312pCAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "https://www.sciensus.com/privacy-notices/",
+        "tag": "a",
+        "color": "rgb(100, 167, 11)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.CybotMultilevel.CybotCookiebotDialogActive:nth-of-type(1) > div.CybotCookiebotDialogContentWrapper > div:nth-of-type(3) > div.CybotCookiebotScrollContainer.CybotCookiebotDialogHide:nth-of-type(4) > div.CybotCookiebotDialogTabPanel.CybotCookiebotDialogHide.CybotCookiebotScrollArea:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(2)",
+        "xpath": "//*[@id=\"CybotCookiebotDialogDetailBodyContentTextAbout\"]/div[3]/a[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 100,
+          "g": 167,
+          "b": 11,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.97,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 68,
+            "g": 133,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#448500",
+          "ratio": 4.56,
+          "property": "color",
+          "deltaE": 0.10784387309262256
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLsQkAAAwCMCn9/9jSwdEbHAWzZ/8Ix8DU0JATBAAA//9nkN8UAAAABklEQVQDAP/YAwG312pCAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Allow all",
+        "tag": "button",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(100, 166, 8)",
+        "selector": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll",
+        "xpath": "//*[@id=\"CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll\"]",
+        "boundingRect": {
+          "x": 787.5,
+          "y": 498.828125,
+          "width": 280,
+          "height": 49
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 100,
+          "g": 166,
+          "b": 8,
+          "a": 1
+        },
+        "contrastRatio": 3,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 69,
+            "g": 133,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#458500",
+          "ratio": 4.56,
+          "property": "background-color",
+          "deltaE": 0.10520981526151174
+        },
+        "screenshot": "data:image/png;base64,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"
+      }
+    ],
+    "violations": [
+      {
+        "text": "Consent",
+        "tag": "a",
+        "color": "rgb(100, 167, 11)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "#CybotCookiebotDialogNavDeclaration",
+        "xpath": "//*[@id=\"CybotCookiebotDialogNavDeclaration\"]",
+        "boundingRect": {
+          "x": 190,
+          "y": 148.671875,
+          "width": 300,
+          "height": 71.40625
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 100,
+          "g": 167,
+          "b": 11,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.97,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 68,
+            "g": 133,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#448500",
+          "ratio": 4.56,
+          "property": "color",
+          "deltaE": 0.10784387309262256
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Learn more about this provider",
+        "tag": "a",
+        "color": "rgb(100, 167, 11)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.CybotMultilevel.CybotCookiebotDialogActive:nth-of-type(1) > div.CybotCookiebotDialogContentWrapper > div:nth-of-type(3) > div.CybotCookiebotScrollContainer.CybotCookiebotDialogHide:nth-of-type(2) > div.CybotCookiebotDialogTabPanel.CybotCookiebotDialogHide.CybotCookiebotScrollArea:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div > div > ul > li.CookieCard:nth-of-type(1) > div > div.CollapseCard.CybotCookiebotDialogHide:nth-of-type(3) > div.CybotCookiebotDialogDetailBodyContentCookieTypeTableContainer > ul.CybotCookiebotDialogDetailBodyContentCookieTabContent > li.CybotCookiebotDialogDetailBodyContentCookieGroup:nth-of-type(1) > a.CybotCookiebotDialogDetailBodyContentCookieLink:nth-of-type(2)",
+        "xpath": "//*[@id=\"CybotCookiebotDialogDetailBodyContentCookieTabsNecessary\"]/div[1]/ul[1]/li[1]/a[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 100,
+          "g": 167,
+          "b": 11,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.97,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 68,
+            "g": 133,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#448500",
+          "ratio": 4.56,
+          "property": "color",
+          "deltaE": 0.10784387309262256
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLsQkAAAwCMCn9/9jSwdEbHAWzZ/8Ix8DU0JATBAAA//9nkN8UAAAABklEQVQDAP/YAwG312pCAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Cookiebot",
+        "tag": "a",
+        "color": "rgb(100, 167, 11)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.CybotMultilevel.CybotCookiebotDialogActive:nth-of-type(1) > div.CybotCookiebotDialogContentWrapper > div:nth-of-type(3) > div.CybotCookiebotScrollContainer.CybotCookiebotDialogHide:nth-of-type(2) > div.CybotCookiebotDialogTabPanel.CybotCookiebotDialogHide.CybotCookiebotScrollArea:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > a",
+        "xpath": "//*[@id=\"CybotCookiebotDialogDetailFooter\"]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 100,
+          "g": 167,
+          "b": 11,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.97,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 68,
+            "g": 133,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#448500",
+          "ratio": 4.56,
+          "property": "color",
+          "deltaE": 0.10784387309262256
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLsQkAAAwCMCn9/9jSwdEbHAWzZ/8Ix8DU0JATBAAA//9nkN8UAAAABklEQVQDAP/YAwG312pCAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "https://www.sciensus.com/privacy-notices/",
+        "tag": "a",
+        "color": "rgb(100, 167, 11)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.CybotMultilevel.CybotCookiebotDialogActive:nth-of-type(1) > div.CybotCookiebotDialogContentWrapper > div:nth-of-type(3) > div.CybotCookiebotScrollContainer.CybotCookiebotDialogHide:nth-of-type(4) > div.CybotCookiebotDialogTabPanel.CybotCookiebotDialogHide.CybotCookiebotScrollArea:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(2)",
+        "xpath": "//*[@id=\"CybotCookiebotDialogDetailBodyContentTextAbout\"]/div[3]/a[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 100,
+          "g": 167,
+          "b": 11,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.97,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 68,
+            "g": 133,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#448500",
+          "ratio": 4.56,
+          "property": "color",
+          "deltaE": 0.10784387309262256
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJElEQVR4nOzLsQkAAAwCMCn9/9jSwdEbHAWzZ/8Ix8DU0JATBAAA//9nkN8UAAAABklEQVQDAP/YAwG312pCAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Allow all",
+        "tag": "button",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(100, 166, 8)",
+        "selector": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll",
+        "xpath": "//*[@id=\"CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll\"]",
+        "boundingRect": {
+          "x": 787.5,
+          "y": 498.828125,
+          "width": 280,
+          "height": 49
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 100,
+          "g": 166,
+          "b": 8,
+          "a": 1
+        },
+        "contrastRatio": 3,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 69,
+            "g": 133,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#458500",
+          "ratio": 4.56,
+          "property": "background-color",
+          "deltaE": 0.10520981526151174
+        },
+        "screenshot": "data:image/png;base64,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"
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--wp--preset--color--white",
+        "property": "background-color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#64a70b",
+        "againstVariable": null,
+        "againstValue": "rgb(100, 167, 11)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 2.97,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 4,
+        "suggestedFix": {
+          "variable": "--wp--preset--color--white",
+          "newValue": "color(srgb 0.184 0.184 0.184)",
+          "newHex": "#2f2f2f",
+          "contrastRatio": 4.51,
+          "property": "background-color"
+        },
+        "instances": [
+          {
+            "selector": "#CybotCookiebotDialogNavDeclaration",
+            "text": "Consent",
+            "xpath": "//*[@id=\"CybotCookiebotDialogNavDeclaration\"]"
+          },
+          {
+            "selector": "div.CybotMultilevel.CybotCookiebotDialogActive:nth-of-type(1) > div.CybotCookiebotDialogContentWrapper > div:nth-of-type(3) > div.CybotCookiebotScrollContainer.CybotCookiebotDialogHide:nth-of-type(2) > div.CybotCookiebotDialogTabPanel.CybotCookiebotDialogHide.CybotCookiebotScrollArea:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div > div > ul > li.CookieCard:nth-of-type(1) > div > div.CollapseCard.CybotCookiebotDialogHide:nth-of-type(3) > div.CybotCookiebotDialogDetailBodyContentCookieTypeTableContainer > ul.CybotCookiebotDialogDetailBodyContentCookieTabContent > li.CybotCookiebotDialogDetailBodyContentCookieGroup:nth-of-type(1) > a.CybotCookiebotDialogDetailBodyContentCookieLink:nth-of-type(2)",
+            "text": "Learn more about this provider",
+            "xpath": "//*[@id=\"CybotCookiebotDialogDetailBodyContentCookieTabsNecessary\"]/div[1]/ul[1]/li[1]/a[2]"
+          },
+          {
+            "selector": "div.CybotMultilevel.CybotCookiebotDialogActive:nth-of-type(1) > div.CybotCookiebotDialogContentWrapper > div:nth-of-type(3) > div.CybotCookiebotScrollContainer.CybotCookiebotDialogHide:nth-of-type(2) > div.CybotCookiebotDialogTabPanel.CybotCookiebotDialogHide.CybotCookiebotScrollArea:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > a",
+            "text": "Cookiebot",
+            "xpath": "//*[@id=\"CybotCookiebotDialogDetailFooter\"]/a[1]"
+          },
+          {
+            "selector": "div.CybotMultilevel.CybotCookiebotDialogActive:nth-of-type(1) > div.CybotCookiebotDialogContentWrapper > div:nth-of-type(3) > div.CybotCookiebotScrollContainer.CybotCookiebotDialogHide:nth-of-type(4) > div.CybotCookiebotDialogTabPanel.CybotCookiebotDialogHide.CybotCookiebotScrollArea:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(2)",
+            "text": "https://www.sciensus.com/privacy-notices/",
+            "xpath": "//*[@id=\"CybotCookiebotDialogDetailBodyContentTextAbout\"]/div[3]/a[2]"
+          }
+        ]
+      },
+      {
+        "variable": "--wp--preset--color--white",
+        "property": "color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#ffffff",
+        "againstVariable": null,
+        "againstValue": "rgb(100, 166, 8)",
+        "againstHex": "#64a608",
+        "contrastRatio": 3,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--wp--preset--color--white",
+          "newValue": "color(srgb 0.179 0.179 0.179)",
+          "newHex": "#2e2e2e",
+          "contrastRatio": 4.53,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll",
+            "text": "Allow all",
+            "xpath": "//*[@id=\"CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll\"]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 412,
+      "passAA": 407,
+      "passAAA": 406,
+      "failAA": 5,
+      "failAAA": 4
+    },
+    "variableStats": {
+      "uniqueIssues": 2,
+      "affectedElements": 5,
+      "oneOffIssues": 0
+    },
+    "healthScore": 99,
+    "scannedAt": "2026-08-03T22:45:13.743Z"
+  }
+]

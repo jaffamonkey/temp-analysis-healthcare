@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://www.vira.health/about-us",
+    "title": "About Us | Vira Health",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 71,
+      "passAA": 71,
+      "passAAA": 69,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-08-03T21:47:15.055Z"
+  }
+]

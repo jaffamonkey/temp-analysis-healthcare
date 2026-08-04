@@ -1,0 +1,36 @@
+Starting contrast check for https://www.fertifa.com/solutions/who-we-help
+
+--- STDOUT ---
+ℹ Scanning: https://www.fertifa.com/solutions/who-we-help
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://www.fertifa.com/solutions/who-we-help
+[
+  {
+    "url": "https://www.fertifa.com/solutions/who-we-help",
+    "title": "Who We Help",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 270,
+      "passAA": 270,
+      "passAAA": 265,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-08-03T22:45:50.952Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+

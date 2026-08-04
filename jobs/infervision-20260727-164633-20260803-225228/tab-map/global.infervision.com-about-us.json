@@ -1,0 +1,17 @@
+{
+  "tool": "tab-map",
+  "url": "https://global.infervision.com/about-us",
+  "landed_url": "https://global.infervision.com/about-us",
+  "title": "Infervision - Company | About Us",
+  "page": "global.infervision.com-about-us",
+  "captured_at": "2026-08-03T22:57:36.215Z",
+  "focusable_count": 39,
+  "frame_count": 0,
+  "same_origin_frame_count": 0,
+  "cross_origin_frame_count": 0,
+  "image": "global.infervision.com-about-us.png",
+  "preview_image": "global.infervision.com-about-us.png",
+  "preview_dir": "visual-preview",
+  "json": "global.infervision.com-about-us.json",
+  "consent_actions": []
+}

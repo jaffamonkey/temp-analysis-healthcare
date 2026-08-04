@@ -1,0 +1,379 @@
+Starting contrast check for https://www.semble.io/book-a-demo
+
+--- STDOUT ---
+ℹ Scanning: https://www.semble.io/book-a-demo
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://www.semble.io/book-a-demo
+[
+  {
+    "url": "https://www.semble.io/book-a-demo",
+    "title": "Book a Demo",
+    "pairs": [
+      {
+        "text": "Platform",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(1) > nav.platform-dropdown-open.w-dropdown-list > div.platform-dropdown-open.v2 > div.platform-box-v2:nth-of-type(2) > div.dropdowntitle:nth-of-type(1) > div.platformsectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[2]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Our Solution",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(3) > nav.solution-dropdown.w-dropdown-list > div.solution-dropdown-open.v2 > div.solution-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.solutionsectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-2\"]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Resources",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(5) > nav.resources-dropdown.w-dropdown-list > div.resources-dropdown-open.v2 > div.resources-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.resourcessectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-4\"]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      }
+    ],
+    "violations": [
+      {
+        "text": "Platform",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(1) > nav.platform-dropdown-open.w-dropdown-list > div.platform-dropdown-open.v2 > div.platform-box-v2:nth-of-type(2) > div.dropdowntitle:nth-of-type(1) > div.platformsectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[2]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Our Solution",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(3) > nav.solution-dropdown.w-dropdown-list > div.solution-dropdown-open.v2 > div.solution-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.solutionsectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-2\"]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Resources",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(5) > nav.resources-dropdown.w-dropdown-list > div.resources-dropdown-open.v2 > div.resources-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.resourcessectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-4\"]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--_colour-tints---mid-green-tint-2",
+        "property": "color",
+        "currentValue": "rgb(39, 171, 133)",
+        "currentHex": "#27ab85",
+        "againstVariable": null,
+        "againstValue": "rgb(250, 251, 252)",
+        "againstHex": "#fafbfc",
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 3,
+        "suggestedFix": {
+          "variable": "--_colour-tints---mid-green-tint-2",
+          "newValue": "color(srgb -0.158 0.515 0.375)",
+          "newHex": "#008360",
+          "contrastRatio": 4.59,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(1) > nav.platform-dropdown-open.w-dropdown-list > div.platform-dropdown-open.v2 > div.platform-box-v2:nth-of-type(2) > div.dropdowntitle:nth-of-type(1) > div.platformsectiontitle",
+            "text": "Platform",
+            "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[2]/div[1]/div[1]"
+          },
+          {
+            "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(3) > nav.solution-dropdown.w-dropdown-list > div.solution-dropdown-open.v2 > div.solution-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.solutionsectiontitle",
+            "text": "Our Solution",
+            "xpath": "//*[@id=\"w-dropdown-list-2\"]/div[1]/div[1]/div[1]/div[1]"
+          },
+          {
+            "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(5) > nav.resources-dropdown.w-dropdown-list > div.resources-dropdown-open.v2 > div.resources-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.resourcessectiontitle",
+            "text": "Resources",
+            "xpath": "//*[@id=\"w-dropdown-list-4\"]/div[1]/div[1]/div[1]/div[1]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 350,
+      "passAA": 347,
+      "passAAA": 347,
+      "failAA": 3,
+      "failAAA": 3
+    },
+    "variableStats": {
+      "uniqueIssues": 1,
+      "affectedElements": 3,
+      "oneOffIssues": 0
+    },
+    "healthScore": 99,
+    "scannedAt": "2026-08-04T00:25:23.331Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 3 violation(s)
+

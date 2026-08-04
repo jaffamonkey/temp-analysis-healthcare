@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.koahealth.com-en-gb",
+    "url": "https://www.koahealth.com/en-gb",
+    "title": "Koa Health | Clinical-first mental health from Koa Health",
+    "json": "www.koahealth.com-en-gb.json",
+    "report": "www.koahealth.com-en-gb.json",
+    "ok": true
+  },
+  {
+    "page": "www.koahealth.com-en-gb-about-us",
+    "url": "https://www.koahealth.com/en-gb/about-us",
+    "title": "Koa Health | The team at Koa Health is passionate about improving…",
+    "json": "www.koahealth.com-en-gb-about-us.json",
+    "report": "www.koahealth.com-en-gb-about-us.json",
+    "ok": true
+  },
+  {
+    "page": "www.koahealth.com-en-gb-contact",
+    "url": "https://www.koahealth.com/en-gb/contact",
+    "title": "Koa Health | How to contact Koa Health about research-driven,…",
+    "json": "www.koahealth.com-en-gb-contact.json",
+    "report": "www.koahealth.com-en-gb-contact.json",
+    "ok": true
+  },
+  {
+    "page": "www.koahealth.com-en-gb-solutions",
+    "url": "https://www.koahealth.com/en-gb/solutions",
+    "title": "Koa Health | Our science-based solutions for health",
+    "json": "www.koahealth.com-en-gb-solutions.json",
+    "report": "www.koahealth.com-en-gb-solutions.json",
+    "ok": true
+  },
+  {
+    "page": "www.koahealth.com-en-gb-legal-terms-and-conditions",
+    "url": "https://www.koahealth.com/en-gb/legal/terms-and-conditions",
+    "title": "Koa Health | Koa Health Terms and Conditions",
+    "json": "www.koahealth.com-en-gb-legal-terms-and-conditions.json",
+    "report": "www.koahealth.com-en-gb-legal-terms-and-conditions.json",
+    "ok": true
+  }
+]

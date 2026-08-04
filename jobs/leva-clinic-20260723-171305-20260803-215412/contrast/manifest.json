@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.levaclinic.com",
+    "url": "https://www.levaclinic.com/",
+    "title": "Treat your chronic pain with Leva pain management clinic",
+    "json": "www.levaclinic.com.json",
+    "report": "www.levaclinic.com.json",
+    "ok": true
+  },
+  {
+    "page": "www.levaclinic.com-about",
+    "url": "https://www.levaclinic.com/about",
+    "title": "Leva Clinic | About us | Find pain-life balance",
+    "json": "www.levaclinic.com-about.json",
+    "report": "www.levaclinic.com-about.json",
+    "ok": true
+  },
+  {
+    "page": "www.levaclinic.com-contact-us",
+    "url": "https://www.levaclinic.com/contact-us",
+    "title": "Leva Clinic | Contact us",
+    "json": "www.levaclinic.com-contact-us.json",
+    "report": "www.levaclinic.com-contact-us.json",
+    "ok": true
+  },
+  {
+    "page": "www.levaclinic.com-discover-cannabinoid-based-medication",
+    "url": "https://www.levaclinic.com/discover-cannabinoid-based-medication",
+    "title": "Discover cannabis-based medication | Leva Clinic",
+    "json": "www.levaclinic.com-discover-cannabinoid-based-medication.json",
+    "report": "www.levaclinic.com-discover-cannabinoid-based-medication.json",
+    "ok": true
+  },
+  {
+    "page": "www.levaclinic.com-privacy-policy",
+    "url": "https://www.levaclinic.com/privacy-policy",
+    "title": "Leva Clinic - Privacy Policy",
+    "json": "www.levaclinic.com-privacy-policy.json",
+    "report": "www.levaclinic.com-privacy-policy.json",
+    "ok": true
+  }
+]

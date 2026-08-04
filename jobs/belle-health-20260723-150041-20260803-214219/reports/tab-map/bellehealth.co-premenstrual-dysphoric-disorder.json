@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://bellehealth.co/premenstrual-dysphoric-disorder/",
+  "landed_url": "https://bellehealth.co/premenstrual-dysphoric-disorder/",
+  "title": "Premenstrual Dysphoric Disorder (PMDD) - Belle Health",
+  "page": "bellehealth.co-premenstrual-dysphoric-disorder",
+  "captured_at": "2026-08-03T21:46:57.977Z",
+  "focusable_count": 105,
+  "frame_count": 2,
+  "same_origin_frame_count": 1,
+  "cross_origin_frame_count": 1,
+  "image": "bellehealth.co-premenstrual-dysphoric-disorder.png",
+  "preview_image": "bellehealth.co-premenstrual-dysphoric-disorder.png",
+  "preview_dir": "visual-preview",
+  "json": "bellehealth.co-premenstrual-dysphoric-disorder.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Accept"
+    }
+  ]
+}

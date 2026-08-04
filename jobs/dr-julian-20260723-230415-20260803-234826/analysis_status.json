@@ -1,0 +1,13 @@
+{
+  "job_id": "dr-julian-20260723-230415-20260803-234826",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/dr-julian-20260723-230415-20260803-234826/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/dr-julian-20260723-230415-20260803-234826/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/dr-julian-20260723-230415-20260803-234826/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/dr-julian-20260723-230415-20260803-234826/analysis/accessibility_analysis.xlsx",
+  "violations": 502,
+  "pages": 4,
+  "screenshots": {
+    "job_id": "dr-julian-20260723-230415-20260803-234826",
+    "message": "Artifacts processed"
+  }
+}

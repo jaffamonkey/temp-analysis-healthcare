@@ -1,0 +1,96 @@
+[
+  {
+    "tool": "tab-map",
+    "url": "https://peppy.health/",
+    "landed_url": "https://peppy.health/",
+    "title": "Transform Employee Health | Support for Key Life Stages | Peppy",
+    "page": "peppy.health",
+    "captured_at": "2026-08-03T21:46:57.656Z",
+    "focusable_count": 86,
+    "frame_count": 7,
+    "same_origin_frame_count": 4,
+    "cross_origin_frame_count": 3,
+    "image": "peppy.health.png",
+    "preview_image": "peppy.health.png",
+    "preview_dir": "visual-preview",
+    "json": "peppy.health.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "input[type=\"submit\"][value*=\"OK\" i]"
+      },
+      {
+        "action": "clicked",
+        "detail": "input[type=\"submit\"][value*=\"OK\" i]"
+      },
+      {
+        "action": "clicked",
+        "detail": "input[type=\"submit\"][value*=\"OK\" i]"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://peppy.health/about-us",
+    "landed_url": "https://peppy.health/about-us",
+    "title": "Peppy: Simple, Human, Expert-Led Healthcare for Everyone",
+    "page": "peppy.health-about-us",
+    "captured_at": "2026-08-03T21:46:57.658Z",
+    "focusable_count": 49,
+    "frame_count": 3,
+    "same_origin_frame_count": 2,
+    "cross_origin_frame_count": 1,
+    "image": "peppy.health-about-us.png",
+    "preview_image": "peppy.health-about-us.png",
+    "preview_dir": "visual-preview",
+    "json": "peppy.health-about-us.json",
+    "consent_actions": []
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://peppy.health/contact-us/",
+    "landed_url": "https://peppy.health/contact-us/",
+    "title": "Talk to Our Team: Improve Retention & Reduce Absence",
+    "page": "peppy.health-contact-us",
+    "captured_at": "2026-08-03T21:47:10.428Z",
+    "focusable_count": 56,
+    "frame_count": 6,
+    "same_origin_frame_count": 4,
+    "cross_origin_frame_count": 2,
+    "image": "peppy.health-contact-us.png",
+    "preview_image": "peppy.health-contact-us.png",
+    "preview_dir": "visual-preview",
+    "json": "peppy.health-contact-us.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "input[type=\"submit\"][value*=\"OK\" i]"
+      },
+      {
+        "action": "clicked",
+        "detail": "input[type=\"submit\"][value*=\"OK\" i]"
+      },
+      {
+        "action": "clicked",
+        "detail": "input[type=\"submit\"][value*=\"OK\" i]"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://peppy.health/privacy-policy/",
+    "landed_url": "https://peppy.health/privacy-policy/",
+    "title": "Legal - Privacy Policy",
+    "page": "peppy.health-privacy-policy",
+    "captured_at": "2026-08-03T21:47:10.428Z",
+    "focusable_count": 59,
+    "frame_count": 3,
+    "same_origin_frame_count": 2,
+    "cross_origin_frame_count": 1,
+    "image": "peppy.health-privacy-policy.png",
+    "preview_image": "peppy.health-privacy-policy.png",
+    "preview_dir": "visual-preview",
+    "json": "peppy.health-privacy-policy.json",
+    "consent_actions": []
+  }
+]

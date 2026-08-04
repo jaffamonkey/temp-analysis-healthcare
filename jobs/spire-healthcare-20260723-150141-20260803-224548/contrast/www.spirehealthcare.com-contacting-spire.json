@@ -1,0 +1,6 @@
+{
+  "analyzer_error": true,
+  "tool": "contrast-checker",
+  "url": "https://www.spirehealthcare.com/contacting-spire/",
+  "error": "Failed to extract valid JSON from contrast tool stdout. Exit status: 1"
+}

@@ -1,0 +1,153 @@
+[
+  {
+    "url": "https://thriva.co/how",
+    "title": "How it works | Thriva",
+    "pairs": [
+      {
+        "text": "Painless one-click blood collection from your arm",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(12, 13, 16, 0.1)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div.mx-auto.page-scroll-pin:nth-of-type(3) > div.slice-container.bg-background-primary:nth-of-type(4) > div.max-w-full.slice-tray.mx-auto > div.slice-wrapper > div.background-image-with-focus-item.2xl_p-md.2xl_pb-xl.overflow-hidden.w-full > div.flex.justify-center.items-end.md_items-center.md_aspect-video.bg-cover.bg-center.max-w-header.2xl_rounded-2xl.mx-auto.min-h-[600px].md_min-h-[400px].lg_min-h-[200px] > div.border.border-white.rounded-full.p-sm.text-white.flex.gap-sm.items-center.bg-grey-900.bg-opacity-10.my-md.mx-xs.md_mx-auto.backdrop-blur-xl > div.body-large.text-balance:nth-of-type(2)",
+        "xpath": "//*[@id=\"__nuxt\"]/div[2]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "boundingRect": {
+          "x": 479.28125,
+          "y": 4367.921875,
+          "width": 375.796875,
+          "height": 28
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 12,
+          "g": 13,
+          "b": 16,
+          "a": 0.1
+        },
+        "contrastRatio": 1.24,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 103,
+            "g": 103,
+            "b": 103,
+            "a": 1
+          },
+          "hex": "#676767",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.4849999999999999
+        }
+      }
+    ],
+    "violations": [
+      {
+        "text": "Painless one-click blood collection from your arm",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(12, 13, 16, 0.1)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div.mx-auto.page-scroll-pin:nth-of-type(3) > div.slice-container.bg-background-primary:nth-of-type(4) > div.max-w-full.slice-tray.mx-auto > div.slice-wrapper > div.background-image-with-focus-item.2xl_p-md.2xl_pb-xl.overflow-hidden.w-full > div.flex.justify-center.items-end.md_items-center.md_aspect-video.bg-cover.bg-center.max-w-header.2xl_rounded-2xl.mx-auto.min-h-[600px].md_min-h-[400px].lg_min-h-[200px] > div.border.border-white.rounded-full.p-sm.text-white.flex.gap-sm.items-center.bg-grey-900.bg-opacity-10.my-md.mx-xs.md_mx-auto.backdrop-blur-xl > div.body-large.text-balance:nth-of-type(2)",
+        "xpath": "//*[@id=\"__nuxt\"]/div[2]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "boundingRect": {
+          "x": 479.28125,
+          "y": 4367.921875,
+          "width": 375.796875,
+          "height": 28
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 12,
+          "g": 13,
+          "b": 16,
+          "a": 0.1
+        },
+        "contrastRatio": 1.24,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 103,
+            "g": 103,
+            "b": 103,
+            "a": 1
+          },
+          "hex": "#676767",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.4849999999999999
+        }
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--tw-ring-offset-color",
+        "property": "color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#ffffff",
+        "againstVariable": null,
+        "againstValue": "rgba(12, 13, 16, 0.1)",
+        "againstHex": "#0c0d10",
+        "contrastRatio": 1.24,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--tw-ring-offset-color",
+          "newValue": "color(srgb 0.405 0.405 0.405)",
+          "newHex": "#676767",
+          "contrastRatio": 4.57,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div.mx-auto.page-scroll-pin:nth-of-type(3) > div.slice-container.bg-background-primary:nth-of-type(4) > div.max-w-full.slice-tray.mx-auto > div.slice-wrapper > div.background-image-with-focus-item.2xl_p-md.2xl_pb-xl.overflow-hidden.w-full > div.flex.justify-center.items-end.md_items-center.md_aspect-video.bg-cover.bg-center.max-w-header.2xl_rounded-2xl.mx-auto.min-h-[600px].md_min-h-[400px].lg_min-h-[200px] > div.border.border-white.rounded-full.p-sm.text-white.flex.gap-sm.items-center.bg-grey-900.bg-opacity-10.my-md.mx-xs.md_mx-auto.backdrop-blur-xl > div.body-large.text-balance:nth-of-type(2)",
+            "text": "Painless one-click blood collection from your arm",
+            "xpath": "//*[@id=\"__nuxt\"]/div[2]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 230,
+      "passAA": 229,
+      "passAAA": 225,
+      "failAA": 1,
+      "failAAA": 1
+    },
+    "variableStats": {
+      "uniqueIssues": 1,
+      "affectedElements": 1,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-08-03T23:10:08.834Z"
+  }
+]

@@ -1,0 +1,3759 @@
+Starting contrast check for https://deephealth.com/kheiron-medical-technologies/
+
+--- STDOUT ---
+ℹ Scanning: https://deephealth.com/kheiron-medical-technologies/
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://deephealth.com/kheiron-medical-technologies/
+[
+  {
+    "url": "https://deephealth.com/kheiron-medical-technologies/",
+    "title": "Kheiron Medical Technologies - DeepHealth",
+    "pairs": [
+      {
+        "text": "diagnostic-suite",
+        "tag": "title",
+        "color": "rgb(55, 65, 81)",
+        "background": "rgb(113, 23, 102)",
+        "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-5-of-12:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-3 > ul > li.sm:px-4.last:pb-2:nth-of-type(1) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"mega-menu-item-submenu-3\"]/ul[1]/li[1]/a[1]/div[1]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "28.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-rotate",
+        "fgParsed": {
+          "r": 55,
+          "g": 65,
+          "b": 81,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 23,
+          "b": 102,
+          "a": 1
+        },
+        "contrastRatio": 1.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 128,
+            "g": 139,
+            "b": 158,
+            "a": 1
+          },
+          "hex": "#808b9e",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.2620729430667501
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Operations Suite™",
+        "tag": "title",
+        "color": "rgb(55, 65, 81)",
+        "background": "rgb(113, 23, 102)",
+        "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-5-of-12:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-3 > ul > li.sm:px-4.last:pb-2:nth-of-type(2) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"mega-menu-item-submenu-3\"]/ul[1]/li[2]/a[1]/div[1]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "28.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-rotate",
+        "fgParsed": {
+          "r": 55,
+          "g": 65,
+          "b": 81,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 23,
+          "b": 102,
+          "a": 1
+        },
+        "contrastRatio": 1.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 128,
+            "g": 139,
+            "b": 158,
+            "a": 1
+          },
+          "hex": "#808b9e",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.2620729430667501
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "TechLive™",
+        "tag": "title",
+        "color": "rgb(55, 65, 81)",
+        "background": "rgb(113, 23, 102)",
+        "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-5-of-12:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-3 > ul > li.sm:px-4.last:pb-2:nth-of-type(3) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"mega-menu-item-submenu-3\"]/ul[1]/li[3]/a[1]/div[1]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "28.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-rotate",
+        "fgParsed": {
+          "r": 55,
+          "g": 65,
+          "b": 81,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 23,
+          "b": 102,
+          "a": 1
+        },
+        "contrastRatio": 1.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 128,
+            "g": 139,
+            "b": 158,
+            "a": 1
+          },
+          "hex": "#808b9e",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.2620729430667501
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "SmartMammo™",
+        "tag": "title",
+        "color": "rgb(55, 65, 81)",
+        "background": "rgb(113, 23, 102)",
+        "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-7-of-12:nth-of-type(2) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-4 > ul > li.sm:px-4.last:pb-2:nth-of-type(1) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"mega-menu-item-submenu-4\"]/ul[1]/li[1]/a[1]/div[1]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "28.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-rotate",
+        "fgParsed": {
+          "r": 55,
+          "g": 65,
+          "b": 81,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 23,
+          "b": 102,
+          "a": 1
+        },
+        "contrastRatio": 1.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 128,
+            "g": 139,
+            "b": 158,
+            "a": 1
+          },
+          "hex": "#808b9e",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.2620729430667501
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "DeepHealth Prostate",
+        "tag": "title",
+        "color": "rgb(55, 65, 81)",
+        "background": "rgb(113, 23, 102)",
+        "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-7-of-12:nth-of-type(2) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-4 > ul > li.sm:px-4.last:pb-2:nth-of-type(2) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"mega-menu-item-submenu-4\"]/ul[1]/li[2]/a[1]/div[1]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "28.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-rotate",
+        "fgParsed": {
+          "r": 55,
+          "g": 65,
+          "b": 81,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 23,
+          "b": 102,
+          "a": 1
+        },
+        "contrastRatio": 1.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 128,
+            "g": 139,
+            "b": 158,
+            "a": 1
+          },
+          "hex": "#808b9e",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.2620729430667501
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "DeepHealth Lung",
+        "tag": "title",
+        "color": "rgb(55, 65, 81)",
+        "background": "rgb(113, 23, 102)",
+        "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-7-of-12:nth-of-type(2) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-4 > ul > li.sm:px-4.last:pb-2:nth-of-type(3) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"mega-menu-item-submenu-4\"]/ul[1]/li[3]/a[1]/div[1]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "28.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-rotate",
+        "fgParsed": {
+          "r": 55,
+          "g": 65,
+          "b": 81,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 23,
+          "b": 102,
+          "a": 1
+        },
+        "contrastRatio": 1.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 128,
+            "g": 139,
+            "b": 158,
+            "a": 1
+          },
+          "hex": "#808b9e",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.2620729430667501
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "DeepHealth Brain",
+        "tag": "title",
+        "color": "rgb(55, 65, 81)",
+        "background": "rgb(113, 23, 102)",
+        "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-7-of-12:nth-of-type(2) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-4 > ul > li.sm:px-4.last:pb-2:nth-of-type(4) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"mega-menu-item-submenu-4\"]/ul[1]/li[4]/a[1]/div[1]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "28.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-rotate",
+        "fgParsed": {
+          "r": 55,
+          "g": 65,
+          "b": 81,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 23,
+          "b": 102,
+          "a": 1
+        },
+        "contrastRatio": 1.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 128,
+            "g": 139,
+            "b": 158,
+            "a": 1
+          },
+          "hex": "#808b9e",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.2620729430667501
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "thyroid",
+        "tag": "title",
+        "color": "rgb(55, 65, 81)",
+        "background": "rgb(113, 23, 102)",
+        "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-7-of-12:nth-of-type(2) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-4 > ul > li.sm:px-4.last:pb-2:nth-of-type(5) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"mega-menu-item-submenu-4\"]/ul[1]/li[5]/a[1]/div[1]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "28.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-rotate",
+        "fgParsed": {
+          "r": 55,
+          "g": 65,
+          "b": 81,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 23,
+          "b": 102,
+          "a": 1
+        },
+        "contrastRatio": 1.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 128,
+            "g": 139,
+            "b": 158,
+            "a": 1
+          },
+          "hex": "#808b9e",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.2620729430667501
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Get in touch",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(33, 133, 242)",
+        "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.btn-book-demo-wrap.opacity-0.invisible.xl:visible.xl:opacity-100:nth-of-type(2) > a.btn.btn-sm.btn-book-demo.contact-btn.!h-8",
+        "xpath": "//*[@id=\"app\"]/header[1]/nav[1]/div[2]/a[1]",
+        "boundingRect": {
+          "x": 1117.4375,
+          "y": 49.5,
+          "width": 126.5625,
+          "height": 40
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--tw-ring-offset-color",
+        "bgVar": "--wp--preset--color--secondary",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 33,
+          "g": 133,
+          "b": 242,
+          "a": 1
+        },
+        "contrastRatio": 3.68,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 1,
+            "g": 117,
+            "b": 225,
+            "a": 1
+          },
+          "hex": "#0175e1",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.0502264939553686
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Find out more",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(33, 133, 242)",
+        "selector": "div:nth-of-type(2) > main.main > div.mt-4.container.text-center.mb-28:nth-of-type(3) > div.rounded-2xl.shadow-[0_0_25px_rgba(0,0,0,0.1)].p-10.max-w-xl.mx-auto > a.btn.btn-secondary.btn-xs.mt-4",
+        "xpath": "//*[@id=\"main\"]/div[3]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 579.390625,
+          "y": 1364.46875,
+          "width": 121.21875,
+          "height": 36
+        },
+        "fontSize": "13.5px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--tw-ring-offset-color",
+        "bgVar": "--wp--preset--color--secondary",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 33,
+          "g": 133,
+          "b": 242,
+          "a": 1
+        },
+        "contrastRatio": 3.68,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 1,
+            "g": 117,
+            "b": 225,
+            "a": 1
+          },
+          "hex": "#0175e1",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.0502264939553686
+        }
+      },
+      {
+        "text": "Contact us",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(33, 133, 242)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div:nth-of-type(1) > a.btn.btn-secondary.btn-xs.mt-4.contact-btn:nth-of-type(2)",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[1]/a[2]",
+        "boundingRect": {
+          "x": 36,
+          "y": 3017.546875,
+          "width": 102.953125,
+          "height": 36
+        },
+        "fontSize": "13.5px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--tw-ring-offset-color",
+        "bgVar": "--wp--preset--color--secondary",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 33,
+          "g": 133,
+          "b": 242,
+          "a": 1
+        },
+        "contrastRatio": 3.68,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 1,
+            "g": 117,
+            "b": 225,
+            "a": 1
+          },
+          "hex": "#0175e1",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.0502264939553686
+        }
+      },
+      {
+        "text": "solutions",
+        "tag": "li",
+        "color": "rgb(156, 163, 175)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(1) > div.bg-gray-100.p-4.sm:p-6.rounded-2xl > ul.flex.gap-6.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.sm:justify-between > li.text-gray-400.font-light.capitalize.text-2xl.sm:mr-4.w-full.sm:w-auto:nth-of-type(1)",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[1]",
+        "boundingRect": {
+          "x": 352.671875,
+          "y": 2902.546875,
+          "width": 115.578125,
+          "height": 188.0625
+        },
+        "fontSize": "28.8px",
+        "fontWeight": "300",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 156,
+          "g": 163,
+          "b": 175,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 2.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 135,
+            "g": 142,
+            "b": 154,
+            "a": 1
+          },
+          "hex": "#878e9a",
+          "ratio": 3.05,
+          "property": "color",
+          "deltaE": 0.06866010934090538
+        }
+      },
+      {
+        "text": "Enterprise Imaging",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(1) > div.bg-gray-100.p-4.sm:p-6.rounded-2xl > ul.flex.gap-6.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.sm:justify-between > li:nth-of-type(2) > a.font-bold.text-text/80.hover:text-primary.whitespace-nowrap.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+        "boundingRect": {
+          "x": 522.25,
+          "y": 2905.546875,
+          "width": 138.109375,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 4.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 80,
+            "g": 80,
+            "b": 80,
+            "a": 0.8
+          },
+          "hex": "#505050",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.026781993181430763
+        }
+      },
+      {
+        "text": "Diagnostic Suite™",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(1) > div.bg-gray-100.p-4.sm:p-6.rounded-2xl > ul.flex.gap-6.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.sm:justify-between > li:nth-of-type(2) > ul.mt-2 > li.mb-1:nth-of-type(1) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[2]/ul[1]/li[1]/a[1]",
+        "boundingRect": {
+          "x": 522.25,
+          "y": 2940.640625,
+          "width": 127.28125,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 4.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 80,
+            "g": 80,
+            "b": 80,
+            "a": 0.8
+          },
+          "hex": "#505050",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.026781993181430763
+        }
+      },
+      {
+        "text": "Operations Suite™",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(1) > div.bg-gray-100.p-4.sm:p-6.rounded-2xl > ul.flex.gap-6.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.sm:justify-between > li:nth-of-type(2) > ul.mt-2 > li.mb-1:nth-of-type(2) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[2]/ul[1]/li[2]/a[1]",
+        "boundingRect": {
+          "x": 522.25,
+          "y": 2971.234375,
+          "width": 129.140625,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 4.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 80,
+            "g": 80,
+            "b": 80,
+            "a": 0.8
+          },
+          "hex": "#505050",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.026781993181430763
+        }
+      },
+      {
+        "text": "TechLive™",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(1) > div.bg-gray-100.p-4.sm:p-6.rounded-2xl > ul.flex.gap-6.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.sm:justify-between > li:nth-of-type(2) > ul.mt-2 > li.mb-1:nth-of-type(3) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[2]/ul[1]/li[3]/a[1]",
+        "boundingRect": {
+          "x": 522.25,
+          "y": 3001.828125,
+          "width": 74.015625,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 4.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 80,
+            "g": 80,
+            "b": 80,
+            "a": 0.8
+          },
+          "hex": "#505050",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.026781993181430763
+        }
+      },
+      {
+        "text": "Population Health",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(1) > div.bg-gray-100.p-4.sm:p-6.rounded-2xl > ul.flex.gap-6.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.sm:justify-between > li:nth-of-type(3) > a.font-bold.text-text/80.hover:text-primary.whitespace-nowrap.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+        "boundingRect": {
+          "x": 696.359375,
+          "y": 2905.546875,
+          "width": 130.375,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 4.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 80,
+            "g": 80,
+            "b": 80,
+            "a": 0.8
+          },
+          "hex": "#505050",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.026781993181430763
+        }
+      },
+      {
+        "text": "Breast Suite",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(1) > div.bg-gray-100.p-4.sm:p-6.rounded-2xl > ul.flex.gap-6.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.sm:justify-between > li:nth-of-type(3) > ul.mt-2 > li.mb-1:nth-of-type(1) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[3]/ul[1]/li[1]/a[1]",
+        "boundingRect": {
+          "x": 696.359375,
+          "y": 2940.640625,
+          "width": 86.90625,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 4.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 80,
+            "g": 80,
+            "b": 80,
+            "a": 0.8
+          },
+          "hex": "#505050",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.026781993181430763
+        }
+      },
+      {
+        "text": "Prostate Suite",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(1) > div.bg-gray-100.p-4.sm:p-6.rounded-2xl > ul.flex.gap-6.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.sm:justify-between > li:nth-of-type(3) > ul.mt-2 > li.mb-1:nth-of-type(2) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[3]/ul[1]/li[2]/a[1]",
+        "boundingRect": {
+          "x": 696.359375,
+          "y": 2971.234375,
+          "width": 101.5625,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 4.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 80,
+            "g": 80,
+            "b": 80,
+            "a": 0.8
+          },
+          "hex": "#505050",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.026781993181430763
+        }
+      },
+      {
+        "text": "Chest Suite",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(1) > div.bg-gray-100.p-4.sm:p-6.rounded-2xl > ul.flex.gap-6.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.sm:justify-between > li:nth-of-type(3) > ul.mt-2 > li.mb-1:nth-of-type(3) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[3]/ul[1]/li[3]/a[1]",
+        "boundingRect": {
+          "x": 696.359375,
+          "y": 3001.828125,
+          "width": 82.125,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 4.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 80,
+            "g": 80,
+            "b": 80,
+            "a": 0.8
+          },
+          "hex": "#505050",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.026781993181430763
+        }
+      },
+      {
+        "text": "Neuro Suite",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(1) > div.bg-gray-100.p-4.sm:p-6.rounded-2xl > ul.flex.gap-6.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.sm:justify-between > li:nth-of-type(3) > ul.mt-2 > li.mb-1:nth-of-type(4) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[3]/ul[1]/li[4]/a[1]",
+        "boundingRect": {
+          "x": 696.359375,
+          "y": 3032.421875,
+          "width": 84.046875,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 4.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 80,
+            "g": 80,
+            "b": 80,
+            "a": 0.8
+          },
+          "hex": "#505050",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.026781993181430763
+        }
+      },
+      {
+        "text": "Thyroid Suite",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(1) > div.bg-gray-100.p-4.sm:p-6.rounded-2xl > ul.flex.gap-6.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.sm:justify-between > li:nth-of-type(3) > ul.mt-2 > li.mb-1:nth-of-type(5) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[3]/ul[1]/li[5]/a[1]",
+        "boundingRect": {
+          "x": 696.359375,
+          "y": 3063.015625,
+          "width": 94.3125,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 4.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 80,
+            "g": 80,
+            "b": 80,
+            "a": 0.8
+          },
+          "hex": "#505050",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.026781993181430763
+        }
+      },
+      {
+        "text": "Evidence",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(1) > a.font-bold.text-text/80.hover:text-primary.whitespace-nowrap.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+        "boundingRect": {
+          "x": 889.734375,
+          "y": 2905.546875,
+          "width": 65.546875,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "Case Studies",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(1) > ul.mt-2 > li.mb-1:nth-of-type(1) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]",
+        "boundingRect": {
+          "x": 889.734375,
+          "y": 2940.640625,
+          "width": 94.203125,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "Publications",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(1) > ul.mt-2 > li.mb-1:nth-of-type(2) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/ul[1]/li[2]/a[1]",
+        "boundingRect": {
+          "x": 889.734375,
+          "y": 2971.234375,
+          "width": 89.203125,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "News & Events",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(2) > a.font-bold.text-text/80.hover:text-primary.whitespace-nowrap.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+        "boundingRect": {
+          "x": 1019.9375,
+          "y": 2905.546875,
+          "width": 107.765625,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "Press Releases",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(2) > ul.mt-2 > li.mb-1:nth-of-type(1) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/ul[1]/li[1]/a[1]",
+        "boundingRect": {
+          "x": 1019.9375,
+          "y": 2940.640625,
+          "width": 110.125,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "Insights",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(2) > ul.mt-2 > li.mb-1:nth-of-type(2) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/ul[1]/li[2]/a[1]",
+        "boundingRect": {
+          "x": 1019.9375,
+          "y": 2971.234375,
+          "width": 57.34375,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "Events",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(2) > ul.mt-2 > li.mb-1:nth-of-type(3) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/ul[1]/li[3]/a[1]",
+        "boundingRect": {
+          "x": 1019.9375,
+          "y": 3001.828125,
+          "width": 47.953125,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "About us",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(3) > a.font-bold.text-text/80.hover:text-primary.whitespace-nowrap.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+        "boundingRect": {
+          "x": 1166.0625,
+          "y": 2905.546875,
+          "width": 65.140625,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "Careers",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(3) > ul.mt-2 > li.mb-1:nth-of-type(1) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/ul[1]/li[1]/a[1]",
+        "boundingRect": {
+          "x": 1166.0625,
+          "y": 2940.640625,
+          "width": 55.734375,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "Contact us",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(3) > ul.mt-2 > li.mb-1:nth-of-type(2) > a.text-text/80.hover:text-primary.transition-colors.duration-500.contact-btn",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/ul[1]/li[2]/a[1]",
+        "boundingRect": {
+          "x": 1166.0625,
+          "y": 2971.234375,
+          "width": 77.9375,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "Privacy Policy",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.border-t.border-gray-200.py-4:nth-of-type(3) > ul.flex.gap-2.md:gap-6.flex-col.md:flex-row.text-xs.justify-end > li:nth-of-type(1) > a.text-text/80.hover:text-text/100.transition-colors.duration-300",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/ul[1]/li[1]/a[1]",
+        "boundingRect": {
+          "x": 683.28125,
+          "y": 3183.609375,
+          "width": 83.109375,
+          "height": 16
+        },
+        "fontSize": "13.5px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "Terms of Service",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.border-t.border-gray-200.py-4:nth-of-type(3) > ul.flex.gap-2.md:gap-6.flex-col.md:flex-row.text-xs.justify-end > li:nth-of-type(2) > a.text-text/80.hover:text-text/100.transition-colors.duration-300",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+        "boundingRect": {
+          "x": 793.390625,
+          "y": 3183.609375,
+          "width": 100.953125,
+          "height": 16
+        },
+        "fontSize": "13.5px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "Carbon Reduction Plan",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.border-t.border-gray-200.py-4:nth-of-type(3) > ul.flex.gap-2.md:gap-6.flex-col.md:flex-row.text-xs.justify-end > li:nth-of-type(3) > a.text-text/80.hover:text-text/100.transition-colors.duration-300",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/ul[1]/li[3]/a[1]",
+        "boundingRect": {
+          "x": 921.34375,
+          "y": 3183.609375,
+          "width": 137.203125,
+          "height": 16
+        },
+        "fontSize": "13.5px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "Modern Slavery Statement",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.border-t.border-gray-200.py-4:nth-of-type(3) > ul.flex.gap-2.md:gap-6.flex-col.md:flex-row.text-xs.justify-end > li:nth-of-type(4) > a.text-text/80.hover:text-text/100.transition-colors.duration-300",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/ul[1]/li[4]/a[1]",
+        "boundingRect": {
+          "x": 1085.546875,
+          "y": 3183.609375,
+          "width": 158.453125,
+          "height": 16
+        },
+        "fontSize": "13.5px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      }
+    ],
+    "violations": [
+      {
+        "text": "diagnostic-suite",
+        "tag": "title",
+        "color": "rgb(55, 65, 81)",
+        "background": "rgb(113, 23, 102)",
+        "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-5-of-12:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-3 > ul > li.sm:px-4.last:pb-2:nth-of-type(1) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"mega-menu-item-submenu-3\"]/ul[1]/li[1]/a[1]/div[1]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "28.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-rotate",
+        "fgParsed": {
+          "r": 55,
+          "g": 65,
+          "b": 81,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 23,
+          "b": 102,
+          "a": 1
+        },
+        "contrastRatio": 1.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 128,
+            "g": 139,
+            "b": 158,
+            "a": 1
+          },
+          "hex": "#808b9e",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.2620729430667501
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Operations Suite™",
+        "tag": "title",
+        "color": "rgb(55, 65, 81)",
+        "background": "rgb(113, 23, 102)",
+        "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-5-of-12:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-3 > ul > li.sm:px-4.last:pb-2:nth-of-type(2) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"mega-menu-item-submenu-3\"]/ul[1]/li[2]/a[1]/div[1]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "28.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-rotate",
+        "fgParsed": {
+          "r": 55,
+          "g": 65,
+          "b": 81,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 23,
+          "b": 102,
+          "a": 1
+        },
+        "contrastRatio": 1.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 128,
+            "g": 139,
+            "b": 158,
+            "a": 1
+          },
+          "hex": "#808b9e",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.2620729430667501
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "TechLive™",
+        "tag": "title",
+        "color": "rgb(55, 65, 81)",
+        "background": "rgb(113, 23, 102)",
+        "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-5-of-12:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-3 > ul > li.sm:px-4.last:pb-2:nth-of-type(3) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"mega-menu-item-submenu-3\"]/ul[1]/li[3]/a[1]/div[1]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "28.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-rotate",
+        "fgParsed": {
+          "r": 55,
+          "g": 65,
+          "b": 81,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 23,
+          "b": 102,
+          "a": 1
+        },
+        "contrastRatio": 1.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 128,
+            "g": 139,
+            "b": 158,
+            "a": 1
+          },
+          "hex": "#808b9e",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.2620729430667501
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "SmartMammo™",
+        "tag": "title",
+        "color": "rgb(55, 65, 81)",
+        "background": "rgb(113, 23, 102)",
+        "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-7-of-12:nth-of-type(2) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-4 > ul > li.sm:px-4.last:pb-2:nth-of-type(1) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"mega-menu-item-submenu-4\"]/ul[1]/li[1]/a[1]/div[1]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "28.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-rotate",
+        "fgParsed": {
+          "r": 55,
+          "g": 65,
+          "b": 81,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 23,
+          "b": 102,
+          "a": 1
+        },
+        "contrastRatio": 1.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 128,
+            "g": 139,
+            "b": 158,
+            "a": 1
+          },
+          "hex": "#808b9e",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.2620729430667501
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "DeepHealth Prostate",
+        "tag": "title",
+        "color": "rgb(55, 65, 81)",
+        "background": "rgb(113, 23, 102)",
+        "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-7-of-12:nth-of-type(2) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-4 > ul > li.sm:px-4.last:pb-2:nth-of-type(2) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"mega-menu-item-submenu-4\"]/ul[1]/li[2]/a[1]/div[1]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "28.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-rotate",
+        "fgParsed": {
+          "r": 55,
+          "g": 65,
+          "b": 81,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 23,
+          "b": 102,
+          "a": 1
+        },
+        "contrastRatio": 1.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 128,
+            "g": 139,
+            "b": 158,
+            "a": 1
+          },
+          "hex": "#808b9e",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.2620729430667501
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "DeepHealth Lung",
+        "tag": "title",
+        "color": "rgb(55, 65, 81)",
+        "background": "rgb(113, 23, 102)",
+        "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-7-of-12:nth-of-type(2) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-4 > ul > li.sm:px-4.last:pb-2:nth-of-type(3) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"mega-menu-item-submenu-4\"]/ul[1]/li[3]/a[1]/div[1]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "28.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-rotate",
+        "fgParsed": {
+          "r": 55,
+          "g": 65,
+          "b": 81,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 23,
+          "b": 102,
+          "a": 1
+        },
+        "contrastRatio": 1.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 128,
+            "g": 139,
+            "b": 158,
+            "a": 1
+          },
+          "hex": "#808b9e",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.2620729430667501
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "DeepHealth Brain",
+        "tag": "title",
+        "color": "rgb(55, 65, 81)",
+        "background": "rgb(113, 23, 102)",
+        "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-7-of-12:nth-of-type(2) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-4 > ul > li.sm:px-4.last:pb-2:nth-of-type(4) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"mega-menu-item-submenu-4\"]/ul[1]/li[4]/a[1]/div[1]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "28.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-rotate",
+        "fgParsed": {
+          "r": 55,
+          "g": 65,
+          "b": 81,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 23,
+          "b": 102,
+          "a": 1
+        },
+        "contrastRatio": 1.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 128,
+            "g": 139,
+            "b": 158,
+            "a": 1
+          },
+          "hex": "#808b9e",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.2620729430667501
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "thyroid",
+        "tag": "title",
+        "color": "rgb(55, 65, 81)",
+        "background": "rgb(113, 23, 102)",
+        "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-7-of-12:nth-of-type(2) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-4 > ul > li.sm:px-4.last:pb-2:nth-of-type(5) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"mega-menu-item-submenu-4\"]/ul[1]/li[5]/a[1]/div[1]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "28.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-rotate",
+        "fgParsed": {
+          "r": 55,
+          "g": 65,
+          "b": 81,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 113,
+          "g": 23,
+          "b": 102,
+          "a": 1
+        },
+        "contrastRatio": 1.01,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 128,
+            "g": 139,
+            "b": 158,
+            "a": 1
+          },
+          "hex": "#808b9e",
+          "ratio": 3.03,
+          "property": "color",
+          "deltaE": 0.2620729430667501
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Get in touch",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(33, 133, 242)",
+        "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.btn-book-demo-wrap.opacity-0.invisible.xl:visible.xl:opacity-100:nth-of-type(2) > a.btn.btn-sm.btn-book-demo.contact-btn.!h-8",
+        "xpath": "//*[@id=\"app\"]/header[1]/nav[1]/div[2]/a[1]",
+        "boundingRect": {
+          "x": 1117.4375,
+          "y": 49.5,
+          "width": 126.5625,
+          "height": 40
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--tw-ring-offset-color",
+        "bgVar": "--wp--preset--color--secondary",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 33,
+          "g": 133,
+          "b": 242,
+          "a": 1
+        },
+        "contrastRatio": 3.68,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 1,
+            "g": 117,
+            "b": 225,
+            "a": 1
+          },
+          "hex": "#0175e1",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.0502264939553686
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Find out more",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(33, 133, 242)",
+        "selector": "div:nth-of-type(2) > main.main > div.mt-4.container.text-center.mb-28:nth-of-type(3) > div.rounded-2xl.shadow-[0_0_25px_rgba(0,0,0,0.1)].p-10.max-w-xl.mx-auto > a.btn.btn-secondary.btn-xs.mt-4",
+        "xpath": "//*[@id=\"main\"]/div[3]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 579.390625,
+          "y": 1364.46875,
+          "width": 121.21875,
+          "height": 36
+        },
+        "fontSize": "13.5px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--tw-ring-offset-color",
+        "bgVar": "--wp--preset--color--secondary",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 33,
+          "g": 133,
+          "b": 242,
+          "a": 1
+        },
+        "contrastRatio": 3.68,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 1,
+            "g": 117,
+            "b": 225,
+            "a": 1
+          },
+          "hex": "#0175e1",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.0502264939553686
+        }
+      },
+      {
+        "text": "Contact us",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(33, 133, 242)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div:nth-of-type(1) > a.btn.btn-secondary.btn-xs.mt-4.contact-btn:nth-of-type(2)",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[1]/a[2]",
+        "boundingRect": {
+          "x": 36,
+          "y": 3017.546875,
+          "width": 102.953125,
+          "height": 36
+        },
+        "fontSize": "13.5px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--tw-ring-offset-color",
+        "bgVar": "--wp--preset--color--secondary",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 33,
+          "g": 133,
+          "b": 242,
+          "a": 1
+        },
+        "contrastRatio": 3.68,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 1,
+            "g": 117,
+            "b": 225,
+            "a": 1
+          },
+          "hex": "#0175e1",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.0502264939553686
+        }
+      },
+      {
+        "text": "solutions",
+        "tag": "li",
+        "color": "rgb(156, 163, 175)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(1) > div.bg-gray-100.p-4.sm:p-6.rounded-2xl > ul.flex.gap-6.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.sm:justify-between > li.text-gray-400.font-light.capitalize.text-2xl.sm:mr-4.w-full.sm:w-auto:nth-of-type(1)",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[1]",
+        "boundingRect": {
+          "x": 352.671875,
+          "y": 2902.546875,
+          "width": 115.578125,
+          "height": 188.0625
+        },
+        "fontSize": "28.8px",
+        "fontWeight": "300",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 156,
+          "g": 163,
+          "b": 175,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 2.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 135,
+            "g": 142,
+            "b": 154,
+            "a": 1
+          },
+          "hex": "#878e9a",
+          "ratio": 3.05,
+          "property": "color",
+          "deltaE": 0.06866010934090538
+        }
+      },
+      {
+        "text": "Enterprise Imaging",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(1) > div.bg-gray-100.p-4.sm:p-6.rounded-2xl > ul.flex.gap-6.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.sm:justify-between > li:nth-of-type(2) > a.font-bold.text-text/80.hover:text-primary.whitespace-nowrap.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+        "boundingRect": {
+          "x": 522.25,
+          "y": 2905.546875,
+          "width": 138.109375,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 4.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 80,
+            "g": 80,
+            "b": 80,
+            "a": 0.8
+          },
+          "hex": "#505050",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.026781993181430763
+        }
+      },
+      {
+        "text": "Diagnostic Suite™",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(1) > div.bg-gray-100.p-4.sm:p-6.rounded-2xl > ul.flex.gap-6.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.sm:justify-between > li:nth-of-type(2) > ul.mt-2 > li.mb-1:nth-of-type(1) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[2]/ul[1]/li[1]/a[1]",
+        "boundingRect": {
+          "x": 522.25,
+          "y": 2940.640625,
+          "width": 127.28125,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 4.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 80,
+            "g": 80,
+            "b": 80,
+            "a": 0.8
+          },
+          "hex": "#505050",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.026781993181430763
+        }
+      },
+      {
+        "text": "Operations Suite™",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(1) > div.bg-gray-100.p-4.sm:p-6.rounded-2xl > ul.flex.gap-6.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.sm:justify-between > li:nth-of-type(2) > ul.mt-2 > li.mb-1:nth-of-type(2) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[2]/ul[1]/li[2]/a[1]",
+        "boundingRect": {
+          "x": 522.25,
+          "y": 2971.234375,
+          "width": 129.140625,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 4.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 80,
+            "g": 80,
+            "b": 80,
+            "a": 0.8
+          },
+          "hex": "#505050",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.026781993181430763
+        }
+      },
+      {
+        "text": "TechLive™",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(1) > div.bg-gray-100.p-4.sm:p-6.rounded-2xl > ul.flex.gap-6.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.sm:justify-between > li:nth-of-type(2) > ul.mt-2 > li.mb-1:nth-of-type(3) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[2]/ul[1]/li[3]/a[1]",
+        "boundingRect": {
+          "x": 522.25,
+          "y": 3001.828125,
+          "width": 74.015625,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 4.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 80,
+            "g": 80,
+            "b": 80,
+            "a": 0.8
+          },
+          "hex": "#505050",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.026781993181430763
+        }
+      },
+      {
+        "text": "Population Health",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(1) > div.bg-gray-100.p-4.sm:p-6.rounded-2xl > ul.flex.gap-6.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.sm:justify-between > li:nth-of-type(3) > a.font-bold.text-text/80.hover:text-primary.whitespace-nowrap.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+        "boundingRect": {
+          "x": 696.359375,
+          "y": 2905.546875,
+          "width": 130.375,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 4.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 80,
+            "g": 80,
+            "b": 80,
+            "a": 0.8
+          },
+          "hex": "#505050",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.026781993181430763
+        }
+      },
+      {
+        "text": "Breast Suite",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(1) > div.bg-gray-100.p-4.sm:p-6.rounded-2xl > ul.flex.gap-6.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.sm:justify-between > li:nth-of-type(3) > ul.mt-2 > li.mb-1:nth-of-type(1) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[3]/ul[1]/li[1]/a[1]",
+        "boundingRect": {
+          "x": 696.359375,
+          "y": 2940.640625,
+          "width": 86.90625,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 4.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 80,
+            "g": 80,
+            "b": 80,
+            "a": 0.8
+          },
+          "hex": "#505050",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.026781993181430763
+        }
+      },
+      {
+        "text": "Prostate Suite",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(1) > div.bg-gray-100.p-4.sm:p-6.rounded-2xl > ul.flex.gap-6.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.sm:justify-between > li:nth-of-type(3) > ul.mt-2 > li.mb-1:nth-of-type(2) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[3]/ul[1]/li[2]/a[1]",
+        "boundingRect": {
+          "x": 696.359375,
+          "y": 2971.234375,
+          "width": 101.5625,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 4.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 80,
+            "g": 80,
+            "b": 80,
+            "a": 0.8
+          },
+          "hex": "#505050",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.026781993181430763
+        }
+      },
+      {
+        "text": "Chest Suite",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(1) > div.bg-gray-100.p-4.sm:p-6.rounded-2xl > ul.flex.gap-6.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.sm:justify-between > li:nth-of-type(3) > ul.mt-2 > li.mb-1:nth-of-type(3) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[3]/ul[1]/li[3]/a[1]",
+        "boundingRect": {
+          "x": 696.359375,
+          "y": 3001.828125,
+          "width": 82.125,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 4.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 80,
+            "g": 80,
+            "b": 80,
+            "a": 0.8
+          },
+          "hex": "#505050",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.026781993181430763
+        }
+      },
+      {
+        "text": "Neuro Suite",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(1) > div.bg-gray-100.p-4.sm:p-6.rounded-2xl > ul.flex.gap-6.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.sm:justify-between > li:nth-of-type(3) > ul.mt-2 > li.mb-1:nth-of-type(4) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[3]/ul[1]/li[4]/a[1]",
+        "boundingRect": {
+          "x": 696.359375,
+          "y": 3032.421875,
+          "width": 84.046875,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 4.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 80,
+            "g": 80,
+            "b": 80,
+            "a": 0.8
+          },
+          "hex": "#505050",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.026781993181430763
+        }
+      },
+      {
+        "text": "Thyroid Suite",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(246, 246, 246)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(1) > div.bg-gray-100.p-4.sm:p-6.rounded-2xl > ul.flex.gap-6.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.sm:justify-between > li:nth-of-type(3) > ul.mt-2 > li.mb-1:nth-of-type(5) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[3]/ul[1]/li[5]/a[1]",
+        "boundingRect": {
+          "x": 696.359375,
+          "y": 3063.015625,
+          "width": 94.3125,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 246,
+          "b": 246,
+          "a": 1
+        },
+        "contrastRatio": 4.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 80,
+            "g": 80,
+            "b": 80,
+            "a": 0.8
+          },
+          "hex": "#505050",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.026781993181430763
+        }
+      },
+      {
+        "text": "Evidence",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(1) > a.font-bold.text-text/80.hover:text-primary.whitespace-nowrap.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+        "boundingRect": {
+          "x": 889.734375,
+          "y": 2905.546875,
+          "width": 65.546875,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "Case Studies",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(1) > ul.mt-2 > li.mb-1:nth-of-type(1) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]",
+        "boundingRect": {
+          "x": 889.734375,
+          "y": 2940.640625,
+          "width": 94.203125,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "Publications",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(1) > ul.mt-2 > li.mb-1:nth-of-type(2) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/ul[1]/li[2]/a[1]",
+        "boundingRect": {
+          "x": 889.734375,
+          "y": 2971.234375,
+          "width": 89.203125,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "News & Events",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(2) > a.font-bold.text-text/80.hover:text-primary.whitespace-nowrap.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+        "boundingRect": {
+          "x": 1019.9375,
+          "y": 2905.546875,
+          "width": 107.765625,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "Press Releases",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(2) > ul.mt-2 > li.mb-1:nth-of-type(1) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/ul[1]/li[1]/a[1]",
+        "boundingRect": {
+          "x": 1019.9375,
+          "y": 2940.640625,
+          "width": 110.125,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "Insights",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(2) > ul.mt-2 > li.mb-1:nth-of-type(2) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/ul[1]/li[2]/a[1]",
+        "boundingRect": {
+          "x": 1019.9375,
+          "y": 2971.234375,
+          "width": 57.34375,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "Events",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(2) > ul.mt-2 > li.mb-1:nth-of-type(3) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/ul[1]/li[3]/a[1]",
+        "boundingRect": {
+          "x": 1019.9375,
+          "y": 3001.828125,
+          "width": 47.953125,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "About us",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(3) > a.font-bold.text-text/80.hover:text-primary.whitespace-nowrap.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+        "boundingRect": {
+          "x": 1166.0625,
+          "y": 2905.546875,
+          "width": 65.140625,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "Careers",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(3) > ul.mt-2 > li.mb-1:nth-of-type(1) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/ul[1]/li[1]/a[1]",
+        "boundingRect": {
+          "x": 1166.0625,
+          "y": 2940.640625,
+          "width": 55.734375,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "Contact us",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(3) > ul.mt-2 > li.mb-1:nth-of-type(2) > a.text-text/80.hover:text-primary.transition-colors.duration-500.contact-btn",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/ul[1]/li[2]/a[1]",
+        "boundingRect": {
+          "x": 1166.0625,
+          "y": 2971.234375,
+          "width": 77.9375,
+          "height": 19
+        },
+        "fontSize": "16.2px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "Privacy Policy",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.border-t.border-gray-200.py-4:nth-of-type(3) > ul.flex.gap-2.md:gap-6.flex-col.md:flex-row.text-xs.justify-end > li:nth-of-type(1) > a.text-text/80.hover:text-text/100.transition-colors.duration-300",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/ul[1]/li[1]/a[1]",
+        "boundingRect": {
+          "x": 683.28125,
+          "y": 3183.609375,
+          "width": 83.109375,
+          "height": 16
+        },
+        "fontSize": "13.5px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "Terms of Service",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.border-t.border-gray-200.py-4:nth-of-type(3) > ul.flex.gap-2.md:gap-6.flex-col.md:flex-row.text-xs.justify-end > li:nth-of-type(2) > a.text-text/80.hover:text-text/100.transition-colors.duration-300",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+        "boundingRect": {
+          "x": 793.390625,
+          "y": 3183.609375,
+          "width": 100.953125,
+          "height": 16
+        },
+        "fontSize": "13.5px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "Carbon Reduction Plan",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.border-t.border-gray-200.py-4:nth-of-type(3) > ul.flex.gap-2.md:gap-6.flex-col.md:flex-row.text-xs.justify-end > li:nth-of-type(3) > a.text-text/80.hover:text-text/100.transition-colors.duration-300",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/ul[1]/li[3]/a[1]",
+        "boundingRect": {
+          "x": 921.34375,
+          "y": 3183.609375,
+          "width": 137.203125,
+          "height": 16
+        },
+        "fontSize": "13.5px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      },
+      {
+        "text": "Modern Slavery Statement",
+        "tag": "a",
+        "color": "rgba(87, 87, 87, 0.8)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.border-t.border-gray-200.py-4:nth-of-type(3) > ul.flex.gap-2.md:gap-6.flex-col.md:flex-row.text-xs.justify-end > li:nth-of-type(4) > a.text-text/80.hover:text-text/100.transition-colors.duration-300",
+        "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/ul[1]/li[4]/a[1]",
+        "boundingRect": {
+          "x": 1085.546875,
+          "y": 3183.609375,
+          "width": 158.453125,
+          "height": 16
+        },
+        "fontSize": "13.5px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--tw-ring-offset-color",
+        "fgParsed": {
+          "r": 87,
+          "g": 87,
+          "b": 87,
+          "a": 0.8
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 84,
+            "g": 84,
+            "b": 84,
+            "a": 0.8
+          },
+          "hex": "#545454",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.01178199318143075
+        }
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--tw-rotate",
+        "property": "color",
+        "currentValue": "rgb(55, 65, 81)",
+        "currentHex": "#374151",
+        "againstVariable": null,
+        "againstValue": "rgb(113, 23, 102)",
+        "againstHex": "#711766",
+        "contrastRatio": 1.01,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 8,
+        "suggestedFix": {
+          "variable": "--tw-rotate",
+          "newValue": "color(srgb 0.502 0.547 0.618)",
+          "newHex": "#808b9e",
+          "contrastRatio": 3.03,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-5-of-12:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-3 > ul > li.sm:px-4.last:pb-2:nth-of-type(1) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+            "text": "diagnostic-suite",
+            "xpath": "//*[@id=\"mega-menu-item-submenu-3\"]/ul[1]/li[1]/a[1]/div[1]/svg[1]/title[1]"
+          },
+          {
+            "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-5-of-12:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-3 > ul > li.sm:px-4.last:pb-2:nth-of-type(2) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+            "text": "Operations Suite™",
+            "xpath": "//*[@id=\"mega-menu-item-submenu-3\"]/ul[1]/li[2]/a[1]/div[1]/svg[1]/title[1]"
+          },
+          {
+            "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-5-of-12:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-3 > ul > li.sm:px-4.last:pb-2:nth-of-type(3) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+            "text": "TechLive™",
+            "xpath": "//*[@id=\"mega-menu-item-submenu-3\"]/ul[1]/li[3]/a[1]/div[1]/svg[1]/title[1]"
+          },
+          {
+            "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-7-of-12:nth-of-type(2) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-4 > ul > li.sm:px-4.last:pb-2:nth-of-type(1) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+            "text": "SmartMammo™",
+            "xpath": "//*[@id=\"mega-menu-item-submenu-4\"]/ul[1]/li[1]/a[1]/div[1]/svg[1]/title[1]"
+          },
+          {
+            "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-7-of-12:nth-of-type(2) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-4 > ul > li.sm:px-4.last:pb-2:nth-of-type(2) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+            "text": "DeepHealth Prostate",
+            "xpath": "//*[@id=\"mega-menu-item-submenu-4\"]/ul[1]/li[2]/a[1]/div[1]/svg[1]/title[1]"
+          },
+          {
+            "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-7-of-12:nth-of-type(2) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-4 > ul > li.sm:px-4.last:pb-2:nth-of-type(3) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+            "text": "DeepHealth Lung",
+            "xpath": "//*[@id=\"mega-menu-item-submenu-4\"]/ul[1]/li[3]/a[1]/div[1]/svg[1]/title[1]"
+          },
+          {
+            "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-7-of-12:nth-of-type(2) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-4 > ul > li.sm:px-4.last:pb-2:nth-of-type(4) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+            "text": "DeepHealth Brain",
+            "xpath": "//*[@id=\"mega-menu-item-submenu-4\"]/ul[1]/li[4]/a[1]/div[1]/svg[1]/title[1]"
+          },
+          {
+            "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.mega-menu-wrap:nth-of-type(1) > ul.mega-menu.max-mega-menu.mega-menu-horizontal.mega-no-js > li.mega-products-nav.mega-menu-item.mega-menu-item-type-custom.mega-menu-item-object-custom.mega-menu-item-has-children.mega-menu-megamenu.mega-menu-grid.mega-align-bottom-left.mega-menu-grid.mega-disable-link.mega-menu-item-420.products-nav:nth-of-type(1) > ul.mega-sub-menu > li.mega-menu-row > ul.mega-sub-menu > li.mega-menu-column.mega-menu-columns-7-of-12:nth-of-type(2) > ul.mega-sub-menu > li.mega-menu-item.mega-menu-item-type-widget.widget_submenu.mega-menu-item-submenu-4 > ul > li.sm:px-4.last:pb-2:nth-of-type(5) > a.flex.items-start.md:items-center.px-4.py-2.pr-8.hover:bg-gray-200.rounded-lg.group.relative.transition-background-color.duration-500.ease-in-out > div.w-14.h-14.rounded-full.bg-dark-purple.flex.items-center.justify-center.text-2xl.mr-4.flex-shrink-0:nth-of-type(1) > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+            "text": "thyroid",
+            "xpath": "//*[@id=\"mega-menu-item-submenu-4\"]/ul[1]/li[5]/a[1]/div[1]/svg[1]/title[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--tw-ring-offset-color",
+        "property": "color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#ffffff",
+        "againstVariable": "--wp--preset--color--secondary",
+        "againstValue": "rgb(33, 133, 242)",
+        "againstHex": "#2185f2",
+        "contrastRatio": 3.68,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 3,
+        "suggestedFix": {
+          "variable": "--tw-ring-offset-color",
+          "newValue": "color(srgb 0.118 0.118 0.118)",
+          "newHex": "#1e1e1e",
+          "contrastRatio": 4.53,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div:nth-of-type(2) > header.dark.absolute.top-8.left-1/2.transform.-translate-x-1/2.z-40.container.flex.justify-end > nav.nav-primary.flex.items-center.overflow-hidden.xl:overflow-visible > div.btn-book-demo-wrap.opacity-0.invisible.xl:visible.xl:opacity-100:nth-of-type(2) > a.btn.btn-sm.btn-book-demo.contact-btn.!h-8",
+            "text": "Get in touch",
+            "xpath": "//*[@id=\"app\"]/header[1]/nav[1]/div[2]/a[1]"
+          },
+          {
+            "selector": "div:nth-of-type(2) > main.main > div.mt-4.container.text-center.mb-28:nth-of-type(3) > div.rounded-2xl.shadow-[0_0_25px_rgba(0,0,0,0.1)].p-10.max-w-xl.mx-auto > a.btn.btn-secondary.btn-xs.mt-4",
+            "text": "Find out more",
+            "xpath": "//*[@id=\"main\"]/div[3]/div[1]/a[1]"
+          },
+          {
+            "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div:nth-of-type(1) > a.btn.btn-secondary.btn-xs.mt-4.contact-btn:nth-of-type(2)",
+            "text": "Contact us",
+            "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[1]/a[2]"
+          }
+        ]
+      },
+      {
+        "variable": "--tw-ring-offset-color",
+        "property": "background-color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#575757",
+        "againstVariable": null,
+        "againstValue": "rgba(87, 87, 87, 0.8)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 14,
+        "suggestedFix": null,
+        "instances": [
+          {
+            "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(1) > a.font-bold.text-text/80.hover:text-primary.whitespace-nowrap.transition-colors.duration-500",
+            "text": "Evidence",
+            "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/a[1]"
+          },
+          {
+            "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(1) > ul.mt-2 > li.mb-1:nth-of-type(1) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+            "text": "Case Studies",
+            "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]"
+          },
+          {
+            "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(1) > ul.mt-2 > li.mb-1:nth-of-type(2) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+            "text": "Publications",
+            "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[1]/ul[1]/li[2]/a[1]"
+          },
+          {
+            "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(2) > a.font-bold.text-text/80.hover:text-primary.whitespace-nowrap.transition-colors.duration-500",
+            "text": "News & Events",
+            "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/a[1]"
+          },
+          {
+            "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(2) > ul.mt-2 > li.mb-1:nth-of-type(1) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+            "text": "Press Releases",
+            "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/ul[1]/li[1]/a[1]"
+          },
+          {
+            "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(2) > ul.mt-2 > li.mb-1:nth-of-type(2) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+            "text": "Insights",
+            "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/ul[1]/li[2]/a[1]"
+          },
+          {
+            "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(2) > ul.mt-2 > li.mb-1:nth-of-type(3) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+            "text": "Events",
+            "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[2]/ul[1]/li[3]/a[1]"
+          },
+          {
+            "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(3) > a.font-bold.text-text/80.hover:text-primary.whitespace-nowrap.transition-colors.duration-500",
+            "text": "About us",
+            "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/a[1]"
+          },
+          {
+            "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(3) > ul.mt-2 > li.mb-1:nth-of-type(1) > a.text-text/80.hover:text-primary.transition-colors.duration-500",
+            "text": "Careers",
+            "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/ul[1]/li[1]/a[1]"
+          },
+          {
+            "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.flex.flex-col-reverse.xl:flex-row.gap-8.py-10.justify-between:nth-of-type(2) > div.flex.flex-col.gap-2.lg:flex-row.lg:gap-8.text-sm:nth-of-type(2) > div:nth-of-type(2) > ul.pt-6.flex.gap-4.sm:gap-8.flex-wrap.sm:flex-nowrap.flex-row.justify-between.sm:justify-start > li:nth-of-type(3) > ul.mt-2 > li.mb-1:nth-of-type(2) > a.text-text/80.hover:text-primary.transition-colors.duration-500.contact-btn",
+            "text": "Contact us",
+            "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/li[3]/ul[1]/li[2]/a[1]"
+          },
+          {
+            "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.border-t.border-gray-200.py-4:nth-of-type(3) > ul.flex.gap-2.md:gap-6.flex-col.md:flex-row.text-xs.justify-end > li:nth-of-type(1) > a.text-text/80.hover:text-text/100.transition-colors.duration-300",
+            "text": "Privacy Policy",
+            "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/ul[1]/li[1]/a[1]"
+          },
+          {
+            "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.border-t.border-gray-200.py-4:nth-of-type(3) > ul.flex.gap-2.md:gap-6.flex-col.md:flex-row.text-xs.justify-end > li:nth-of-type(2) > a.text-text/80.hover:text-text/100.transition-colors.duration-300",
+            "text": "Terms of Service",
+            "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/ul[1]/li[2]/a[1]"
+          },
+          {
+            "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.border-t.border-gray-200.py-4:nth-of-type(3) > ul.flex.gap-2.md:gap-6.flex-col.md:flex-row.text-xs.justify-end > li:nth-of-type(3) > a.text-text/80.hover:text-text/100.transition-colors.duration-300",
+            "text": "Carbon Reduction Plan",
+            "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/ul[1]/li[3]/a[1]"
+          },
+          {
+            "selector": "div:nth-of-type(2) > footer > div.container:nth-of-type(1) > div.border-t.border-gray-200.py-4:nth-of-type(3) > ul.flex.gap-2.md:gap-6.flex-col.md:flex-row.text-xs.justify-end > li:nth-of-type(4) > a.text-text/80.hover:text-text/100.transition-colors.duration-300",
+            "text": "Modern Slavery Statement",
+            "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/ul[1]/li[4]/a[1]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 255,
+      "passAA": 219,
+      "passAAA": 214,
+      "failAA": 36,
+      "failAAA": 9
+    },
+    "variableStats": {
+      "uniqueIssues": 3,
+      "affectedElements": 25,
+      "oneOffIssues": 11
+    },
+    "healthScore": 86,
+    "scannedAt": "2026-08-03T23:11:00.082Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 36 violation(s)
+

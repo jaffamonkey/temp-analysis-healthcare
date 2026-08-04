@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.sciensus.com/",
+  "landed_url": "https://www.sciensus.com/",
+  "title": "UK's leading provider of clinical care at home | Sciensus",
+  "page": "www.sciensus.com",
+  "captured_at": "2026-08-03T22:44:10.865Z",
+  "focusable_count": 75,
+  "frame_count": 3,
+  "same_origin_frame_count": 1,
+  "cross_origin_frame_count": 2,
+  "image": "www.sciensus.com.png",
+  "preview_image": "www.sciensus.com.png",
+  "preview_dir": "visual-preview",
+  "json": "www.sciensus.com.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll"
+    }
+  ]
+}

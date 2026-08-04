@@ -1,0 +1,34 @@
+[
+  {
+    "page": "www.orchahealth.com",
+    "url": "https://www.orchahealth.com/",
+    "title": "ORCHA Digital Health: Assurance, Insight, Access",
+    "json": "www.orchahealth.com.json",
+    "report": "www.orchahealth.com.json",
+    "ok": true
+  },
+  {
+    "page": "www.orchahealth.com-about-orcha",
+    "url": "https://www.orchahealth.com/about-orcha",
+    "title": "About | ORCHA | Digital health: Assurance, Insight & Access",
+    "json": "www.orchahealth.com-about-orcha.json",
+    "report": "www.orchahealth.com-about-orcha.json",
+    "ok": true
+  },
+  {
+    "page": "www.orchahealth.com-contact",
+    "url": "https://www.orchahealth.com/contact",
+    "title": "Contact us | Digital Health | ORCHA",
+    "json": "www.orchahealth.com-contact.json",
+    "report": "www.orchahealth.com-contact.json",
+    "ok": true
+  },
+  {
+    "page": "www.orchahealth.com-privacy-policy",
+    "url": "https://www.orchahealth.com/privacy-policy",
+    "title": "Privacy policy | ORCHA",
+    "json": "www.orchahealth.com-privacy-policy.json",
+    "report": "www.orchahealth.com-privacy-policy.json",
+    "ok": true
+  }
+]

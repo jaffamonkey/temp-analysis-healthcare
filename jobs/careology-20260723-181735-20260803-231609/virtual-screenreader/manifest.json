@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.careology.health-en-gb",
+    "url": "https://www.careology.health/en-gb",
+    "title": "Careology | Empowering Decisions with Digital Cancer Care",
+    "report": "www.careology.health-en-gb.json",
+    "line_count": 497,
+    "ok": true
+  },
+  {
+    "page": "www.careology.health-en-gb-about",
+    "url": "https://www.careology.health/en-gb/about",
+    "title": "About: Pioneering Digital Cancer Care Solutions | Careology",
+    "report": "www.careology.health-en-gb-about.json",
+    "line_count": 502,
+    "ok": true
+  },
+  {
+    "page": "www.careology.health-en-gb-contact",
+    "url": "https://www.careology.health/en-gb/contact",
+    "title": "Contact: Get in Touch with Our Team or Book a Demo | Careology",
+    "report": "www.careology.health-en-gb-contact.json",
+    "line_count": 151,
+    "ok": true
+  },
+  {
+    "page": "www.careology.health-en-gb-solutions-patients",
+    "url": "https://www.careology.health/en-gb/solutions/patients",
+    "title": "Transforming Cancer Care for Patients | Careology",
+    "report": "www.careology.health-en-gb-solutions-patients.json",
+    "line_count": 208,
+    "ok": true
+  },
+  {
+    "page": "www.careology.health-en-gb-privacy",
+    "url": "https://www.careology.health/en-gb/privacy",
+    "title": "Privacy Policy | Careology",
+    "report": "www.careology.health-en-gb-privacy.json",
+    "line_count": 1516,
+    "ok": true
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "page": "aide.health",
+    "url": "https://aide.health/",
+    "title": "Aide Health — Empowering patients with artificial intelligence",
+    "json": "aide.health.json",
+    "report": "aide.health.json",
+    "ok": true
+  },
+  {
+    "page": "aide.health-about-us",
+    "url": "https://aide.health/about-us",
+    "title": "About Aide Health — Innovation in digital health",
+    "json": "aide.health-about-us.json",
+    "report": "aide.health-about-us.json",
+    "ok": true
+  },
+  {
+    "page": "aide.health-contact",
+    "url": "https://aide.health/contact",
+    "title": "Contact us — Aide Health",
+    "json": "aide.health-contact.json",
+    "report": "aide.health-contact.json",
+    "ok": true
+  },
+  {
+    "page": "aide.health-privacy-policy",
+    "url": "https://aide.health/privacy-policy",
+    "title": "Privacy Policy",
+    "json": "aide.health-privacy-policy.json",
+    "report": "aide.health-privacy-policy.json",
+    "ok": true
+  },
+  {
+    "page": "aide.health-terms-of-service",
+    "url": "https://aide.health/terms-of-service",
+    "title": "Terms of Service",
+    "json": "aide.health-terms-of-service.json",
+    "report": "aide.health-terms-of-service.json",
+    "ok": true
+  }
+]

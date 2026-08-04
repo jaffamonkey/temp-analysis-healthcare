@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.coloplast.co.uk",
+    "url": "https://www.coloplast.co.uk/",
+    "title": "Access Denied",
+    "json": "www.coloplast.co.uk.json",
+    "report": "www.coloplast.co.uk.json",
+    "ok": true
+  },
+  {
+    "page": "www.coloplast.co.uk-about-us",
+    "url": "https://www.coloplast.co.uk/about-us/",
+    "title": "Access Denied",
+    "json": "www.coloplast.co.uk-about-us.json",
+    "report": "www.coloplast.co.uk-about-us.json",
+    "ok": true
+  },
+  {
+    "page": "www.coloplast.co.uk-contact",
+    "url": "https://www.coloplast.co.uk/contact/",
+    "title": "Access Denied",
+    "json": "www.coloplast.co.uk-contact.json",
+    "report": "www.coloplast.co.uk-contact.json",
+    "ok": true
+  },
+  {
+    "page": "www.coloplast.co.uk-stoma",
+    "url": "https://www.coloplast.co.uk/stoma/",
+    "title": "Access Denied",
+    "json": "www.coloplast.co.uk-stoma.json",
+    "report": "www.coloplast.co.uk-stoma.json",
+    "ok": true
+  },
+  {
+    "page": "www.coloplast.co.uk-en-gb-global-privacy-policy-uk",
+    "url": "https://www.coloplast.co.uk/en-GB/global/privacy-policy-uk/",
+    "title": "Access Denied",
+    "json": "www.coloplast.co.uk-en-gb-global-privacy-policy-uk.json",
+    "report": "www.coloplast.co.uk-en-gb-global-privacy-policy-uk.json",
+    "ok": true
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "job_id": "locumsnest-20260803-221444",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/locumsnest-20260803-221444/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/locumsnest-20260803-221444/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/locumsnest-20260803-221444/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/locumsnest-20260803-221444/analysis/accessibility_analysis.xlsx",
+  "violations": 882,
+  "pages": 5,
+  "screenshots": {
+    "job_id": "locumsnest-20260803-221444",
+    "message": "Artifacts processed"
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.herohealthsoftware.net",
+    "url": "https://www.herohealthsoftware.net/",
+    "title": "Hero Health | Triage, communication & appointment booking for NHS GPs",
+    "json": "www.herohealthsoftware.net.json",
+    "report": "www.herohealthsoftware.net.json",
+    "ok": true
+  },
+  {
+    "page": "herodoctors.kinde.com-auth-cx-_-nav-m-auth_error-reason-cookies_required-psid-019f900fd1a0c4126ae3cb678020e1fb",
+    "url": "https://herodoctors.kinde.com/auth/cx/_:nav&m:auth_error&reason:cookies_required&psid:019f900fd1a0c4126ae3cb678020e1fb",
+    "title": "Error",
+    "json": "herodoctors.kinde.com-auth-cx-_-nav-m-auth_error-reason-cookies_required-psid-019f900fd1a0c4126ae3cb678020e1fb.json",
+    "report": "herodoctors.kinde.com-auth-cx-_-nav-m-auth_error-reason-cookies_required-psid-019f900fd1a0c4126ae3cb678020e1fb.json",
+    "ok": true
+  },
+  {
+    "page": "herodoctors.kinde.com-auth-cx-_-nav-m-auth_error-reason-cookies_required-psid-019f900fd46b63c404da774eed4d4202",
+    "url": "https://herodoctors.kinde.com/auth/cx/_:nav&m:auth_error&reason:cookies_required&psid:019f900fd46b63c404da774eed4d4202",
+    "title": "Error",
+    "json": "herodoctors.kinde.com-auth-cx-_-nav-m-auth_error-reason-cookies_required-psid-019f900fd46b63c404da774eed4d4202.json",
+    "report": "herodoctors.kinde.com-auth-cx-_-nav-m-auth_error-reason-cookies_required-psid-019f900fd46b63c404da774eed4d4202.json",
+    "ok": true
+  },
+  {
+    "page": "herodoctors.kinde.com-auth-cx-_-nav-m-auth_error-reason-cookies_required-psid-019f900fd6d327ae6208b908fb267e35",
+    "url": "https://herodoctors.kinde.com/auth/cx/_:nav&m:auth_error&reason:cookies_required&psid:019f900fd6d327ae6208b908fb267e35",
+    "title": "Error",
+    "json": "herodoctors.kinde.com-auth-cx-_-nav-m-auth_error-reason-cookies_required-psid-019f900fd6d327ae6208b908fb267e35.json",
+    "report": "herodoctors.kinde.com-auth-cx-_-nav-m-auth_error-reason-cookies_required-psid-019f900fd6d327ae6208b908fb267e35.json",
+    "ok": true
+  },
+  {
+    "page": "herodoctors.kinde.com-auth-cx-_-nav-m-auth_error-reason-cookies_required-psid-019f900fd935d6b5762a5cee0f1ecabc",
+    "url": "https://herodoctors.kinde.com/auth/cx/_:nav&m:auth_error&reason:cookies_required&psid:019f900fd935d6b5762a5cee0f1ecabc",
+    "title": "Error",
+    "json": "herodoctors.kinde.com-auth-cx-_-nav-m-auth_error-reason-cookies_required-psid-019f900fd935d6b5762a5cee0f1ecabc.json",
+    "report": "herodoctors.kinde.com-auth-cx-_-nav-m-auth_error-reason-cookies_required-psid-019f900fd935d6b5762a5cee0f1ecabc.json",
+    "ok": true
+  }
+]

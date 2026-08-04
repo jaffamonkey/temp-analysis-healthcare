@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.getinflow.io",
+    "url": "https://www.getinflow.io/",
+    "title": "Inflow",
+    "json": "www.getinflow.io.json",
+    "report": "www.getinflow.io.json",
+    "ok": true
+  },
+  {
+    "page": "www.getinflow.io-about",
+    "url": "https://www.getinflow.io/about",
+    "title": "About us | Inflow",
+    "json": "www.getinflow.io-about.json",
+    "report": "www.getinflow.io-about.json",
+    "ok": true
+  },
+  {
+    "page": "www.getinflow.io-categories-adhd-management",
+    "url": "https://www.getinflow.io/categories/adhd-management",
+    "title": "ADHD management | Inflow Blog",
+    "json": "www.getinflow.io-categories-adhd-management.json",
+    "report": "www.getinflow.io-categories-adhd-management.json",
+    "ok": true
+  },
+  {
+    "page": "www.getinflow.io-privacy-policy-new",
+    "url": "https://www.getinflow.io/privacy-policy-new",
+    "title": "Privacy policy | Inflow",
+    "json": "www.getinflow.io-privacy-policy-new.json",
+    "report": "www.getinflow.io-privacy-policy-new.json",
+    "ok": true
+  },
+  {
+    "page": "www.getinflow.io-terms",
+    "url": "https://www.getinflow.io/terms",
+    "title": "Terms of service | Inflow",
+    "json": "www.getinflow.io-terms.json",
+    "report": "www.getinflow.io-terms.json",
+    "ok": true
+  }
+]

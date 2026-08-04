@@ -1,0 +1,17 @@
+{
+  "tool": "tab-map",
+  "url": "https://evaro.com/research",
+  "landed_url": "https://evaro.com/research",
+  "title": "Evaro - Healthcare Platform Integration",
+  "page": "evaro.com-research",
+  "captured_at": "2026-08-03T23:26:40.151Z",
+  "focusable_count": 28,
+  "frame_count": 0,
+  "same_origin_frame_count": 0,
+  "cross_origin_frame_count": 0,
+  "image": "evaro.com-research.png",
+  "preview_image": "evaro.com-research.png",
+  "preview_dir": "visual-preview",
+  "json": "evaro.com-research.json",
+  "consent_actions": []
+}

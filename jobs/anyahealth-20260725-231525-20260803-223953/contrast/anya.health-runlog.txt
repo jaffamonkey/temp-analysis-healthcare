@@ -1,0 +1,618 @@
+Starting contrast check for https://anya.health/
+
+--- STDOUT ---
+ℹ Scanning: https://anya.health/
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://anya.health/
+[
+  {
+    "url": "https://anya.health/",
+    "title": "Anya - 24/7 Tailored Healthcare Support.",
+    "pairs": [
+      {
+        "text": "How to get senior leadership buy-in",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.site-main.post-19.page.type-page.status-publish.has-post-thumbnail.hentry > div.page-content > div.elementor.elementor-19 > div.elementor-element.elementor-element-55fe133.e-flex.e-con-boxed.e-con.e-parent:nth-of-type(8) > div.e-con-inner > div.elementor-element.elementor-element-701568c.elementor-grid-2.elementor-grid-tablet-2.elementor-grid-mobile-1.elementor-widget.elementor-widget-loop-grid:nth-of-type(4) > div.elementor-widget-container > div.elementor-loop-container.elementor-grid > div.elementor.elementor-12133.e-loop-item.e-loop-item-20518.post-20518.post.type-post.status-publish.format-standard.has-post-thumbnail.hentry.category-blogs.category-employer.category-news.category-womens-health-at-work.tag-hr-support.tag-menopause-at-work.tag-workplace-wellbeing:nth-of-type(1) > div.elementor-element.elementor-element-2ef3e6a.e-flex.e-con-boxed.e-con.e-parent > div.e-con-inner > div.elementor-element.elementor-element-c98b732.elementor-widget.elementor-widget-heading > div.elementor-widget-container > h2.elementor-heading-title.elementor-size-default > a",
+        "xpath": "//*[@id=\"content\"]/div[1]/div[1]/div[8]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]/a[1]",
+        "boundingRect": {
+          "x": 81.5,
+          "y": 7098.234375,
+          "width": 478.765625,
+          "height": 92
+        },
+        "fontSize": "32px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--wp--preset--color--white",
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 1
+          },
+          "hex": "#959595",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.32999999999999974
+        }
+      },
+      {
+        "text": "Menopause Action Plans For UK Employers",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.site-main.post-19.page.type-page.status-publish.has-post-thumbnail.hentry > div.page-content > div.elementor.elementor-19 > div.elementor-element.elementor-element-55fe133.e-flex.e-con-boxed.e-con.e-parent:nth-of-type(8) > div.e-con-inner > div.elementor-element.elementor-element-701568c.elementor-grid-2.elementor-grid-tablet-2.elementor-grid-mobile-1.elementor-widget.elementor-widget-loop-grid:nth-of-type(4) > div.elementor-widget-container > div.elementor-loop-container.elementor-grid > div.elementor.elementor-12133.e-loop-item.e-loop-item-20324.post-20324.post.type-post.status-publish.format-standard.has-post-thumbnail.hentry.category-blogs.category-employer.category-news.category-womens-health-at-work.tag-menopause.tag-menopause-at-work.tag-menopause-in-the-workplace:nth-of-type(2) > div.elementor-element.elementor-element-2ef3e6a.e-flex.e-con-boxed.e-con.e-parent > div.e-con-inner > div.elementor-element.elementor-element-c98b732.elementor-widget.elementor-widget-heading > div.elementor-widget-container > h2.elementor-heading-title.elementor-size-default > a",
+        "xpath": "//*[@id=\"content\"]/div[1]/div[1]/div[8]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]/a[1]",
+        "boundingRect": {
+          "x": 692,
+          "y": 7098.234375,
+          "width": 458.65625,
+          "height": 92
+        },
+        "fontSize": "32px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--wp--preset--color--white",
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 1
+          },
+          "hex": "#959595",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.32999999999999974
+        }
+      },
+      {
+        "text": "Want more?",
+        "tag": "h2",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.site-main.post-19.page.type-page.status-publish.has-post-thumbnail.hentry > div.page-content > div.elementor.elementor-19 > div.elementor-element.elementor-element-2941d9a.elementor-hidden-desktop.elementor-hidden-laptop.elementor-hidden-tablet.elementor-hidden-mobile.e-flex.e-con-boxed.e-con.e-parent:nth-of-type(10) > div.e-con-inner > div.elementor-element.elementor-element-b7dc77b.e-con-full.e-flex.e-con.e-child > div.elementor-element.elementor-element-63612c6.e-con-full.gradient-bg.e-flex.e-con.e-child > div.elementor-element.elementor-element-c108a53.elementor-widget.elementor-widget-heading:nth-of-type(1) > div.elementor-widget-container > h2.elementor-heading-title.elementor-size-default",
+        "xpath": "//*[@id=\"content\"]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--wp--preset--color--white",
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Join our newsletter",
+        "tag": "h2",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.site-main.post-19.page.type-page.status-publish.has-post-thumbnail.hentry > div.page-content > div.elementor.elementor-19 > div.elementor-element.elementor-element-2941d9a.elementor-hidden-desktop.elementor-hidden-laptop.elementor-hidden-tablet.elementor-hidden-mobile.e-flex.e-con-boxed.e-con.e-parent:nth-of-type(10) > div.e-con-inner > div.elementor-element.elementor-element-b7dc77b.e-con-full.e-flex.e-con.e-child > div.elementor-element.elementor-element-63612c6.e-con-full.gradient-bg.e-flex.e-con.e-child > div.elementor-element.elementor-element-5070394.elementor-widget.elementor-widget-heading:nth-of-type(2) > div.elementor-widget-container > h2.elementor-heading-title.elementor-size-default",
+        "xpath": "//*[@id=\"content\"]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "52px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--wp--preset--color--white",
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 1
+          },
+          "hex": "#959595",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.32999999999999974
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "The latest news straight to your inbox.",
+        "tag": "h2",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.site-main.post-19.page.type-page.status-publish.has-post-thumbnail.hentry > div.page-content > div.elementor.elementor-19 > div.elementor-element.elementor-element-2941d9a.elementor-hidden-desktop.elementor-hidden-laptop.elementor-hidden-tablet.elementor-hidden-mobile.e-flex.e-con-boxed.e-con.e-parent:nth-of-type(10) > div.e-con-inner > div.elementor-element.elementor-element-b7dc77b.e-con-full.e-flex.e-con.e-child > div.elementor-element.elementor-element-63612c6.e-con-full.gradient-bg.e-flex.e-con.e-child > div.elementor-element.elementor-element-74c696d.elementor-widget.elementor-widget-heading:nth-of-type(3) > div.elementor-widget-container > h2.elementor-heading-title.elementor-size-default",
+        "xpath": "//*[@id=\"content\"]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[3]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--wp--preset--color--white",
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      }
+    ],
+    "violations": [
+      {
+        "text": "How to get senior leadership buy-in",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.site-main.post-19.page.type-page.status-publish.has-post-thumbnail.hentry > div.page-content > div.elementor.elementor-19 > div.elementor-element.elementor-element-55fe133.e-flex.e-con-boxed.e-con.e-parent:nth-of-type(8) > div.e-con-inner > div.elementor-element.elementor-element-701568c.elementor-grid-2.elementor-grid-tablet-2.elementor-grid-mobile-1.elementor-widget.elementor-widget-loop-grid:nth-of-type(4) > div.elementor-widget-container > div.elementor-loop-container.elementor-grid > div.elementor.elementor-12133.e-loop-item.e-loop-item-20518.post-20518.post.type-post.status-publish.format-standard.has-post-thumbnail.hentry.category-blogs.category-employer.category-news.category-womens-health-at-work.tag-hr-support.tag-menopause-at-work.tag-workplace-wellbeing:nth-of-type(1) > div.elementor-element.elementor-element-2ef3e6a.e-flex.e-con-boxed.e-con.e-parent > div.e-con-inner > div.elementor-element.elementor-element-c98b732.elementor-widget.elementor-widget-heading > div.elementor-widget-container > h2.elementor-heading-title.elementor-size-default > a",
+        "xpath": "//*[@id=\"content\"]/div[1]/div[1]/div[8]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]/a[1]",
+        "boundingRect": {
+          "x": 81.5,
+          "y": 7098.234375,
+          "width": 478.765625,
+          "height": 92
+        },
+        "fontSize": "32px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--wp--preset--color--white",
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 1
+          },
+          "hex": "#959595",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.32999999999999974
+        }
+      },
+      {
+        "text": "Menopause Action Plans For UK Employers",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.site-main.post-19.page.type-page.status-publish.has-post-thumbnail.hentry > div.page-content > div.elementor.elementor-19 > div.elementor-element.elementor-element-55fe133.e-flex.e-con-boxed.e-con.e-parent:nth-of-type(8) > div.e-con-inner > div.elementor-element.elementor-element-701568c.elementor-grid-2.elementor-grid-tablet-2.elementor-grid-mobile-1.elementor-widget.elementor-widget-loop-grid:nth-of-type(4) > div.elementor-widget-container > div.elementor-loop-container.elementor-grid > div.elementor.elementor-12133.e-loop-item.e-loop-item-20324.post-20324.post.type-post.status-publish.format-standard.has-post-thumbnail.hentry.category-blogs.category-employer.category-news.category-womens-health-at-work.tag-menopause.tag-menopause-at-work.tag-menopause-in-the-workplace:nth-of-type(2) > div.elementor-element.elementor-element-2ef3e6a.e-flex.e-con-boxed.e-con.e-parent > div.e-con-inner > div.elementor-element.elementor-element-c98b732.elementor-widget.elementor-widget-heading > div.elementor-widget-container > h2.elementor-heading-title.elementor-size-default > a",
+        "xpath": "//*[@id=\"content\"]/div[1]/div[1]/div[8]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]/a[1]",
+        "boundingRect": {
+          "x": 692,
+          "y": 7098.234375,
+          "width": 458.65625,
+          "height": 92
+        },
+        "fontSize": "32px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--wp--preset--color--white",
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 1
+          },
+          "hex": "#959595",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.32999999999999974
+        }
+      },
+      {
+        "text": "Want more?",
+        "tag": "h2",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.site-main.post-19.page.type-page.status-publish.has-post-thumbnail.hentry > div.page-content > div.elementor.elementor-19 > div.elementor-element.elementor-element-2941d9a.elementor-hidden-desktop.elementor-hidden-laptop.elementor-hidden-tablet.elementor-hidden-mobile.e-flex.e-con-boxed.e-con.e-parent:nth-of-type(10) > div.e-con-inner > div.elementor-element.elementor-element-b7dc77b.e-con-full.e-flex.e-con.e-child > div.elementor-element.elementor-element-63612c6.e-con-full.gradient-bg.e-flex.e-con.e-child > div.elementor-element.elementor-element-c108a53.elementor-widget.elementor-widget-heading:nth-of-type(1) > div.elementor-widget-container > h2.elementor-heading-title.elementor-size-default",
+        "xpath": "//*[@id=\"content\"]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--wp--preset--color--white",
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Join our newsletter",
+        "tag": "h2",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.site-main.post-19.page.type-page.status-publish.has-post-thumbnail.hentry > div.page-content > div.elementor.elementor-19 > div.elementor-element.elementor-element-2941d9a.elementor-hidden-desktop.elementor-hidden-laptop.elementor-hidden-tablet.elementor-hidden-mobile.e-flex.e-con-boxed.e-con.e-parent:nth-of-type(10) > div.e-con-inner > div.elementor-element.elementor-element-b7dc77b.e-con-full.e-flex.e-con.e-child > div.elementor-element.elementor-element-63612c6.e-con-full.gradient-bg.e-flex.e-con.e-child > div.elementor-element.elementor-element-5070394.elementor-widget.elementor-widget-heading:nth-of-type(2) > div.elementor-widget-container > h2.elementor-heading-title.elementor-size-default",
+        "xpath": "//*[@id=\"content\"]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "52px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--wp--preset--color--white",
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 1
+          },
+          "hex": "#959595",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.32999999999999974
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "The latest news straight to your inbox.",
+        "tag": "h2",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "main.site-main.post-19.page.type-page.status-publish.has-post-thumbnail.hentry > div.page-content > div.elementor.elementor-19 > div.elementor-element.elementor-element-2941d9a.elementor-hidden-desktop.elementor-hidden-laptop.elementor-hidden-tablet.elementor-hidden-mobile.e-flex.e-con-boxed.e-con.e-parent:nth-of-type(10) > div.e-con-inner > div.elementor-element.elementor-element-b7dc77b.e-con-full.e-flex.e-con.e-child > div.elementor-element.elementor-element-63612c6.e-con-full.gradient-bg.e-flex.e-con.e-child > div.elementor-element.elementor-element-74c696d.elementor-widget.elementor-widget-heading:nth-of-type(3) > div.elementor-widget-container > h2.elementor-heading-title.elementor-size-default",
+        "xpath": "//*[@id=\"content\"]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[3]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--wp--preset--color--white",
+        "bgVar": "--wp--preset--color--white",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--wp--preset--color--white",
+        "property": "color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#ffffff",
+        "againstVariable": "--wp--preset--color--white",
+        "againstValue": "rgb(255, 255, 255)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 3,
+        "suggestedFix": {
+          "variable": "--wp--preset--color--white",
+          "newValue": "color(srgb 0.585 0.585 0.585)",
+          "newHex": "#959595",
+          "contrastRatio": 3,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "main.site-main.post-19.page.type-page.status-publish.has-post-thumbnail.hentry > div.page-content > div.elementor.elementor-19 > div.elementor-element.elementor-element-55fe133.e-flex.e-con-boxed.e-con.e-parent:nth-of-type(8) > div.e-con-inner > div.elementor-element.elementor-element-701568c.elementor-grid-2.elementor-grid-tablet-2.elementor-grid-mobile-1.elementor-widget.elementor-widget-loop-grid:nth-of-type(4) > div.elementor-widget-container > div.elementor-loop-container.elementor-grid > div.elementor.elementor-12133.e-loop-item.e-loop-item-20518.post-20518.post.type-post.status-publish.format-standard.has-post-thumbnail.hentry.category-blogs.category-employer.category-news.category-womens-health-at-work.tag-hr-support.tag-menopause-at-work.tag-workplace-wellbeing:nth-of-type(1) > div.elementor-element.elementor-element-2ef3e6a.e-flex.e-con-boxed.e-con.e-parent > div.e-con-inner > div.elementor-element.elementor-element-c98b732.elementor-widget.elementor-widget-heading > div.elementor-widget-container > h2.elementor-heading-title.elementor-size-default > a",
+            "text": "How to get senior leadership buy-in",
+            "xpath": "//*[@id=\"content\"]/div[1]/div[1]/div[8]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]/a[1]"
+          },
+          {
+            "selector": "main.site-main.post-19.page.type-page.status-publish.has-post-thumbnail.hentry > div.page-content > div.elementor.elementor-19 > div.elementor-element.elementor-element-55fe133.e-flex.e-con-boxed.e-con.e-parent:nth-of-type(8) > div.e-con-inner > div.elementor-element.elementor-element-701568c.elementor-grid-2.elementor-grid-tablet-2.elementor-grid-mobile-1.elementor-widget.elementor-widget-loop-grid:nth-of-type(4) > div.elementor-widget-container > div.elementor-loop-container.elementor-grid > div.elementor.elementor-12133.e-loop-item.e-loop-item-20324.post-20324.post.type-post.status-publish.format-standard.has-post-thumbnail.hentry.category-blogs.category-employer.category-news.category-womens-health-at-work.tag-menopause.tag-menopause-at-work.tag-menopause-in-the-workplace:nth-of-type(2) > div.elementor-element.elementor-element-2ef3e6a.e-flex.e-con-boxed.e-con.e-parent > div.e-con-inner > div.elementor-element.elementor-element-c98b732.elementor-widget.elementor-widget-heading > div.elementor-widget-container > h2.elementor-heading-title.elementor-size-default > a",
+            "text": "Menopause Action Plans For UK Employers",
+            "xpath": "//*[@id=\"content\"]/div[1]/div[1]/div[8]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]/a[1]"
+          },
+          {
+            "selector": "main.site-main.post-19.page.type-page.status-publish.has-post-thumbnail.hentry > div.page-content > div.elementor.elementor-19 > div.elementor-element.elementor-element-2941d9a.elementor-hidden-desktop.elementor-hidden-laptop.elementor-hidden-tablet.elementor-hidden-mobile.e-flex.e-con-boxed.e-con.e-parent:nth-of-type(10) > div.e-con-inner > div.elementor-element.elementor-element-b7dc77b.e-con-full.e-flex.e-con.e-child > div.elementor-element.elementor-element-63612c6.e-con-full.gradient-bg.e-flex.e-con.e-child > div.elementor-element.elementor-element-5070394.elementor-widget.elementor-widget-heading:nth-of-type(2) > div.elementor-widget-container > h2.elementor-heading-title.elementor-size-default",
+            "text": "Join our newsletter",
+            "xpath": "//*[@id=\"content\"]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--wp--preset--color--white",
+        "property": "color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#ffffff",
+        "againstVariable": "--wp--preset--color--white",
+        "againstValue": "rgb(255, 255, 255)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 2,
+        "suggestedFix": {
+          "variable": "--wp--preset--color--white",
+          "newValue": "color(srgb 0.462 0.462 0.462)",
+          "newHex": "#767676",
+          "contrastRatio": 4.54,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "main.site-main.post-19.page.type-page.status-publish.has-post-thumbnail.hentry > div.page-content > div.elementor.elementor-19 > div.elementor-element.elementor-element-2941d9a.elementor-hidden-desktop.elementor-hidden-laptop.elementor-hidden-tablet.elementor-hidden-mobile.e-flex.e-con-boxed.e-con.e-parent:nth-of-type(10) > div.e-con-inner > div.elementor-element.elementor-element-b7dc77b.e-con-full.e-flex.e-con.e-child > div.elementor-element.elementor-element-63612c6.e-con-full.gradient-bg.e-flex.e-con.e-child > div.elementor-element.elementor-element-c108a53.elementor-widget.elementor-widget-heading:nth-of-type(1) > div.elementor-widget-container > h2.elementor-heading-title.elementor-size-default",
+            "text": "Want more?",
+            "xpath": "//*[@id=\"content\"]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]"
+          },
+          {
+            "selector": "main.site-main.post-19.page.type-page.status-publish.has-post-thumbnail.hentry > div.page-content > div.elementor.elementor-19 > div.elementor-element.elementor-element-2941d9a.elementor-hidden-desktop.elementor-hidden-laptop.elementor-hidden-tablet.elementor-hidden-mobile.e-flex.e-con-boxed.e-con.e-parent:nth-of-type(10) > div.e-con-inner > div.elementor-element.elementor-element-b7dc77b.e-con-full.e-flex.e-con.e-child > div.elementor-element.elementor-element-63612c6.e-con-full.gradient-bg.e-flex.e-con.e-child > div.elementor-element.elementor-element-74c696d.elementor-widget.elementor-widget-heading:nth-of-type(3) > div.elementor-widget-container > h2.elementor-heading-title.elementor-size-default",
+            "text": "The latest news straight to your inbox.",
+            "xpath": "//*[@id=\"content\"]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[3]/div[1]/h2[1]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 196,
+      "passAA": 191,
+      "passAAA": 180,
+      "failAA": 5,
+      "failAAA": 5
+    },
+    "variableStats": {
+      "uniqueIssues": 2,
+      "affectedElements": 5,
+      "oneOffIssues": 0
+    },
+    "healthScore": 97,
+    "scannedAt": "2026-08-03T22:45:08.431Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 5 violation(s)
+
