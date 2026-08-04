@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://zoe.com/our-science?lead_id=ea2c5a5b-56f6-42de-880d-86bc2ca0a9bb",
+    "title": "Our Science",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 124,
+      "passAA": 124,
+      "passAAA": 121,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-08-04T10:09:37.588Z"
+  }
+]

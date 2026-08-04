@@ -1,0 +1,36 @@
+Starting contrast check for https://zoe.com/learn/category/healthy-living?lead_id=aaa5f62c-3cc2-4e2e-ac0f-dd90eb3260ed
+
+--- STDOUT ---
+ℹ Scanning: https://zoe.com/learn/category/healthy-living?lead_id=aaa5f62c-3cc2-4e2e-ac0f-dd90eb3260ed
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://zoe.com/learn/category/healthy-living?lead_id=aaa5f62c-3cc2-4e2e-ac0f-dd90eb3260ed
+[
+  {
+    "url": "https://zoe.com/learn/category/healthy-living?lead_id=aaa5f62c-3cc2-4e2e-ac0f-dd90eb3260ed",
+    "title": "Healthy Living — ZOE",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 150,
+      "passAA": 150,
+      "passAAA": 147,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-08-04T10:09:50.244Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+
