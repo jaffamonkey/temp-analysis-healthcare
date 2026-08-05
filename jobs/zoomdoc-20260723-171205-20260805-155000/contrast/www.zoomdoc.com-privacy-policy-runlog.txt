@@ -1,0 +1,274 @@
+Starting contrast check for https://www.zoomdoc.com/privacy-policy
+
+--- STDOUT ---
+ℹ Scanning: https://www.zoomdoc.com/privacy-policy
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://www.zoomdoc.com/privacy-policy
+[
+  {
+    "url": "https://www.zoomdoc.com/privacy-policy",
+    "title": "Privacy Policy - ZoomDoc Health",
+    "pairs": [
+      {
+        "text": "[widget widget_name=\"Footer Area #6\"]",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(105, 143, 164)",
+        "selector": "#footer-info",
+        "xpath": "//*[@id=\"footer-info\"]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "colorVar": "--cart-text",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 105,
+          "g": 143,
+          "b": 164,
+          "a": 1
+        },
+        "contrastRatio": 3.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 85,
+            "g": 122,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#557a8f",
+          "ratio": 4.6,
+          "property": "background-color",
+          "deltaE": 0.06956488678446027
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAS0lEQVR4nOTRsQkAIAxE0a+4ixO4o1urhUKKBCOCjVekSngcSblU9DQIYs4kzCjbI9E+kAJrbgSE0DwCQsAjXHVwCZwKPO3w8x86AAAA//+RjiJPAAAABklEQVQDAFICIBfCtdlMAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "0",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 71, 87)",
+        "selector": "div.rmenu-cart:nth-of-type(2) > button.rwc_cart-button.plugincy_pos_fixed > span.cart-count:nth-of-type(2)",
+        "xpath": "/html/body/div[2]/button[1]/span[2]",
+        "boundingRect": {
+          "x": 1220,
+          "y": 463,
+          "width": 20,
+          "height": 20
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--cart-text",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 71,
+          "b": 87,
+          "a": 1
+        },
+        "contrastRatio": 3.34,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 228,
+            "g": 39,
+            "b": 65,
+            "a": 1
+          },
+          "hex": "#e42741",
+          "ratio": 4.5,
+          "property": "background-color",
+          "deltaE": 0.07391700100650633
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAIAAABuYg/PAAADo0lEQVR4nOyX3U8TQRDAZ3dPvtrSltbyJSKkimmaIESDIfrkP8ef45OJURIjD6CkUJCQICn6oHyUttdrK9DSu3X39nq93kd7GENi4uSyvdudvd/NzM7sVlpZWYHbEgy3KP9h/x5M8q9KKXXtRwjBX4QJjLV1YvwgJZ8Yqmno+AyKJVwqI7nM3k2jYRqN0FiUToxxlC5/DqMtgWoNb2RQoWQdRZdXHM/U4iPq0iINBVEvpNSdpDGDct/J9h40m16a7COktx+aC2ltdro7T+pBOjwimV3oKc2mtJm9VlUtOdOFh7uQaKVGdvZdXk0wYJeJd3b2NaXKJ3qIt2UalT5t2b0XHoan85CIA1s3Z+ewuQ21X+1RVa2+y77vW+Zmccvs5mFXs/iiKJZQsWNFwOAAvHrJeZkd2N6FeJQ/9vdZVe5qckyTKf8W6sxMTzdCoWgfYEt8aBA2MvD1CA5y8DkLoSCMJWxaDMZJbhUAu5rF/I6Lsl03Euat+RHnxXanReLMMhaDlnHWIc+YseS19zI3spc0ro3HRp23A/12GFVsDHC1DKwxUzW7bqUKGEFgyHgMBvTOmk2LUE1nGZ60utM9ZqzVwiH7QLnC2+kp41HcKIpNS8ZBL8s83agOh0i+0NH78xhKMsynoO8Oz7PHSWAKJ3nb3BKEwEPcYSxBVKdlzLEfN2BpEVKPuHdO87Ceca46GbOJ/sqVWWnU8VE1FCTVzpCwFF5dA4lwP6mq83UKCvzACYOlv8ea19jVLM6TyMVCmq8IpzRVV5IGaI2kVSTplvWqjWZ5ETy2Ri7mkuBbtkhSwcN6pULQvtri7kYmWJf67H0NocBBDrmZYkoDpE3y8BuZZPNAv1yrvucCwS1pPLhXj0VCewd9suKqfIYiayR1hYcQZ/ALzKChXjBB4kUEY0IIT4NgoPxsfn21nqDyKFVG9RrBGHkUZm2VJZbAAEE8LmKJ+bOMqTKAiWQ80V8loSoN5GDSqssxouU3woHCMhdHerrRjJy5TyBEeDysiSU2Lc5AgmElTY6jaIQDT/O0UKTQ5Qxiwiw9kr2QGzukQBobpiCxzXx5CYvESc2h12/URqPr6QoZWWkg9a9mP9aSoSu0MeYkXm2yX+jUBIqN8NL2JI0vLn0cUk0TDRi0Knk7JqgNtsTpMKcd5uDFc8z8OTPNB3yd9Vs1rHWJZOrI3NaxwyEnp21P3OCsLxxkXx+95NgCu/G/GGGBlx1OubwCpWLc/wYAAP//POrU5gAAAAZJREFUAwBu5rNFCaoPKAAAAABJRU5ErkJggg=="
+      }
+    ],
+    "violations": [
+      {
+        "text": "[widget widget_name=\"Footer Area #6\"]",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(105, 143, 164)",
+        "selector": "#footer-info",
+        "xpath": "//*[@id=\"footer-info\"]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "colorVar": "--cart-text",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 105,
+          "g": 143,
+          "b": 164,
+          "a": 1
+        },
+        "contrastRatio": 3.46,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 85,
+            "g": 122,
+            "b": 143,
+            "a": 1
+          },
+          "hex": "#557a8f",
+          "ratio": 4.6,
+          "property": "background-color",
+          "deltaE": 0.06956488678446027
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAS0lEQVR4nOTRsQkAIAxE0a+4ixO4o1urhUKKBCOCjVekSngcSblU9DQIYs4kzCjbI9E+kAJrbgSE0DwCQsAjXHVwCZwKPO3w8x86AAAA//+RjiJPAAAABklEQVQDAFICIBfCtdlMAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "0",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 71, 87)",
+        "selector": "div.rmenu-cart:nth-of-type(2) > button.rwc_cart-button.plugincy_pos_fixed > span.cart-count:nth-of-type(2)",
+        "xpath": "/html/body/div[2]/button[1]/span[2]",
+        "boundingRect": {
+          "x": 1220,
+          "y": 463,
+          "width": 20,
+          "height": 20
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--cart-text",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 71,
+          "b": 87,
+          "a": 1
+        },
+        "contrastRatio": 3.34,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 228,
+            "g": 39,
+            "b": 65,
+            "a": 1
+          },
+          "hex": "#e42741",
+          "ratio": 4.5,
+          "property": "background-color",
+          "deltaE": 0.07391700100650633
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAIAAABuYg/PAAADo0lEQVR4nOyX3U8TQRDAZ3dPvtrSltbyJSKkimmaIESDIfrkP8ef45OJURIjD6CkUJCQICn6oHyUttdrK9DSu3X39nq93kd7GENi4uSyvdudvd/NzM7sVlpZWYHbEgy3KP9h/x5M8q9KKXXtRwjBX4QJjLV1YvwgJZ8Yqmno+AyKJVwqI7nM3k2jYRqN0FiUToxxlC5/DqMtgWoNb2RQoWQdRZdXHM/U4iPq0iINBVEvpNSdpDGDct/J9h40m16a7COktx+aC2ltdro7T+pBOjwimV3oKc2mtJm9VlUtOdOFh7uQaKVGdvZdXk0wYJeJd3b2NaXKJ3qIt2UalT5t2b0XHoan85CIA1s3Z+ewuQ21X+1RVa2+y77vW+Zmccvs5mFXs/iiKJZQsWNFwOAAvHrJeZkd2N6FeJQ/9vdZVe5qckyTKf8W6sxMTzdCoWgfYEt8aBA2MvD1CA5y8DkLoSCMJWxaDMZJbhUAu5rF/I6Lsl03Euat+RHnxXanReLMMhaDlnHWIc+YseS19zI3spc0ro3HRp23A/12GFVsDHC1DKwxUzW7bqUKGEFgyHgMBvTOmk2LUE1nGZ60utM9ZqzVwiH7QLnC2+kp41HcKIpNS8ZBL8s83agOh0i+0NH78xhKMsynoO8Oz7PHSWAKJ3nb3BKEwEPcYSxBVKdlzLEfN2BpEVKPuHdO87Ceca46GbOJ/sqVWWnU8VE1FCTVzpCwFF5dA4lwP6mq83UKCvzACYOlv8ea19jVLM6TyMVCmq8IpzRVV5IGaI2kVSTplvWqjWZ5ETy2Ri7mkuBbtkhSwcN6pULQvtri7kYmWJf67H0NocBBDrmZYkoDpE3y8BuZZPNAv1yrvucCwS1pPLhXj0VCewd9suKqfIYiayR1hYcQZ/ALzKChXjBB4kUEY0IIT4NgoPxsfn21nqDyKFVG9RrBGHkUZm2VJZbAAEE8LmKJ+bOMqTKAiWQ80V8loSoN5GDSqssxouU3woHCMhdHerrRjJy5TyBEeDysiSU2Lc5AgmElTY6jaIQDT/O0UKTQ5Qxiwiw9kr2QGzukQBobpiCxzXx5CYvESc2h12/URqPr6QoZWWkg9a9mP9aSoSu0MeYkXm2yX+jUBIqN8NL2JI0vLn0cUk0TDRi0Knk7JqgNtsTpMKcd5uDFc8z8OTPNB3yd9Vs1rHWJZOrI3NaxwyEnp21P3OCsLxxkXx+95NgCu/G/GGGBlx1OubwCpWLc/wYAAP//POrU5gAAAAZJREFUAwBu5rNFCaoPKAAAAABJRU5ErkJggg=="
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--cart-text",
+        "property": "color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#ffffff",
+        "againstVariable": null,
+        "againstValue": "rgb(105, 143, 164)",
+        "againstHex": "#698fa4",
+        "contrastRatio": 3.46,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 2,
+        "suggestedFix": {
+          "variable": "--cart-text",
+          "newValue": "color(srgb 0.136 0.136 0.136)",
+          "newHex": "#232323",
+          "contrastRatio": 4.54,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "#footer-info",
+            "text": "[widget widget_name=\"Footer Area #6\"]",
+            "xpath": "//*[@id=\"footer-info\"]"
+          },
+          {
+            "selector": "div.rmenu-cart:nth-of-type(2) > button.rwc_cart-button.plugincy_pos_fixed > span.cart-count:nth-of-type(2)",
+            "text": "0",
+            "xpath": "/html/body/div[2]/button[1]/span[2]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 344,
+      "passAA": 342,
+      "passAAA": 335,
+      "failAA": 2,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 1,
+      "affectedElements": 2,
+      "oneOffIssues": 0
+    },
+    "healthScore": 99,
+    "scannedAt": "2026-08-05T15:53:59.526Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 2 violation(s)
+

@@ -1,0 +1,13 @@
+{
+  "job_id": "holly-health-20260805-122933",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/holly-health-20260805-122933/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/holly-health-20260805-122933/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/holly-health-20260805-122933/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/holly-health-20260805-122933/analysis/accessibility_analysis.xlsx",
+  "violations": 1181,
+  "pages": 5,
+  "screenshots": {
+    "job_id": "holly-health-20260805-122933",
+    "message": "Artifacts processed"
+  }
+}

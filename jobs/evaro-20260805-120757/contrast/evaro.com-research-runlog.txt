@@ -1,0 +1,36 @@
+Starting contrast check for https://evaro.com/research
+
+--- STDOUT ---
+ℹ Scanning: https://evaro.com/research
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://evaro.com/research
+[
+  {
+    "url": "https://evaro.com/research",
+    "title": "Evaro - Healthcare Platform Integration",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 47,
+      "passAA": 47,
+      "passAAA": 47,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-08-05T12:11:38.113Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+

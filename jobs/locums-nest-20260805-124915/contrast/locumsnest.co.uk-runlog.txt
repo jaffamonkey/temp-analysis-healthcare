@@ -1,0 +1,2354 @@
+Starting contrast check for https://locumsnest.co.uk
+
+--- STDOUT ---
+ℹ Scanning: https://locumsnest.co.uk
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://locumsnest.co.uk
+[
+  {
+    "url": "https://locumsnest.co.uk",
+    "title": "Locum's Nest | Your total workforce solution",
+    "pairs": [
+      {
+        "text": "our 1731 partners",
+        "tag": "button",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "#ckyIABNoticeButton",
+        "xpath": "//*[@id=\"ckyIABNoticeButton\"]",
+        "boundingRect": {
+          "x": 112.453125,
+          "y": 317.1875,
+          "width": 101.046875,
+          "height": 24
+        },
+        "fontSize": "12.8px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.15236442677981854
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Customise",
+        "tag": "button",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.cky-consent-container.cky-box-bottom-left:nth-of-type(3) > div.cky-consent-bar > div.cky-notice-content-wrapper:nth-of-type(1) > div.cky-notice > div.cky-notice-group > div.cky-notice-btn-wrapper:nth-of-type(2) > button.cky-btn.cky-btn-customize:nth-of-type(1)",
+        "xpath": "//*[@id=\"collection-6409babb3a11a10d6199f522\"]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/button[1]",
+        "boundingRect": {
+          "x": 65,
+          "y": 611,
+          "width": 193.328125,
+          "height": 44
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.15236442677981854
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANEAAAA8CAIAAAB3gsjkAAAGmElEQVR4nOyce2xTVRjA771t13Zt1657dO1ebOw9wthwCvKGAGqGSmAEQgJRQ0KMAWJCECUxRCT8AeEPQ2IiEVHUqPiYMhSDG8jAMYZ7v99r1z1KX+trfc6vLc6CdEkhHuTm++Xm5vScs3Ob7LfvfOfk3HGnp6cpBCEIQyEIWdA5hDToHEIadA4hDTqHkAadQ0iDziGk4YZrOK81HerQdlmdFIJESK6YfyRftVkle2ArHW5PuLCqo90yRSHIQ1EgEbStzn9gU9g4FxRu+qViCkEihK5omCVgYT6HkAadQ0iDziGkQecQ0qBzCGnQOYQ06BxCGnQOIQ06h5AGnUNIg84hpEHnENKgcwhpuBSrsXl9N422BpNDxGWekkXDRT0mJpyeYYfrMX6B/w9sdu53vfXF2j6zxyfmMFavD2rWJUi+fyYzmhNZdK/R234YNR2fl0w9Ap+qDfvbRvBsGMXiubXP5lxR05Mp4g+uK7SUFVnLij4uTvtVZ9lxe4iKkBsG64m+CerR2J4SW7Msh0JY7BwEFbj/tGhuujAKCiIO80pa3MFshdPnD3hn1YYF1Z0znctvDRzuGqMCM+CeFk38xWZZZdPW+gGrx/elxni029+Ue7ld43BD4XjvhOqXFt6PDfm/tVfdsQRHePpq17Ge8Q21fZILTetv9HZYpjbW9UM5+3L7Nb0VOlzT2/Y2q4Odvxs1La/phhGgtXJ8Mlg56fFtqx+ER8Pgb7aOeNj7Lz1Y69wto70oRpgs4IVWHi1QgYVQUNtdTZOOmfpGs6Pb6j/XCqaeGdK/m6fcliL/Vms62K7NlwhKAknYq+lxYi5zoncC+rygkJ6an8pnmDXXe9sCB2IbzHboPO70bFLJIJoWVHXUG+27M+J1TvfmugHoAMncbbP/iUa3d1PdgJLPOz4vRcihy2r7TG4vCFZ6pfO81lieHAuPPtk3sfXWAMVSWJvPjTndJZEn7BWjplwx/43MBJqiFslFGodrgVT4XGJM9R3rgWwFdDjUoV0WJzpdnAbl7alyCIcQBT9fOAc+FkuFdStyodBpnbpptF9fnpMmjIrlcd7pGLUFsskglWNmuL+embAiTrwzVb63RaOdcl/VW7ttznML58AUDK2QcR7pHjO4vXIeh2IdrHVOzuPaPL5If+qtnCQIVwkXm19WyrYkx+5IlYe2wsw75ZtenxgT/AjzdaFE2DZ59+D/ynhJsKAU8JR8blpgTlcGAm3oN9mokomb1CtresDdjUrZsQIV9DmnNkDThTFzlc4/WffY/GP225xyNq5zWTu35kr4jWb7fUnRaw3DdEUDeHNfZ5gBg4X9WYrPStJLY0Vn1fr1f/TuadaEdjO4PXBPCcgUxBPy1pwsJCZJuGHjE5jauCpv39wEyA4hb1NdatW5PHqXf2S3b3rS44VLwedtVslmGeSJhrXOPZ8o1bu9X48YZ2ogbfpCY4AkT8DQXAYmT8oVkA8WCuZAHLJ7fftaNMWy6J8Xz7VvWLBFJftwUOcMETQjmg/3at3ddQOk+ZDMwVxMRQIsICBTPDkvpX9tYWvgbbwP+nU5YgEU3s5N+qY0Ay6Yx5P4PNW9yShrYO+6NVuRIuBtrR98v3us1ggbbOaSK50Q4U4VpULr/Bgh3Hc3Ddeb7OV/Z+uQRVWOm3c1DMPywuz2qh1u+K3zGVoY2M+D5SeXplfFi78aMV432Cwe34HA0hiSPyoSGIo+0K49PaQH1wftLqiBlLE82f/68e5G//epGDPDtiLsCEq47PztsDaf49JU9dJsWP0d6hiFC2qkXObS4qwlchGUVydISmXRZ4YNcC2UCjOio+jAT8HG7/b6weA2CuRkHxWnQ2FtogRGW17T07Wm4JOSdEjFll7rDj7lvTzlsjjxv5/O0DMFf4mm/2nakCSFTG5X4zBc8LFMEQO5I8gFC5Gdfw6WXu2Cyjge5/KSLIqlhH2PH/IeihXvVMP+BeyDpEVHpYfkYUFgwcihaQX/nj88mHBrDNZkQVTopAkLT1gHJAZ6wjQMAxpcXgiW4ocNRbBlPeRwPSsXCxg69CnNZoeAwxRJhU90iJtdHvY7h5BndnnwXAlCGnQOIQ06h5AGnUNIg84hpEHnENKgcwhp0DmENOgcQhp0DiENOoeQBp1DSIPOIaQJe36uQCJot0wFDwggSKSAP+Gawsa5w3nKLFFkp64RJEiumA/+hGsNe34OQf4jMJ9DSIPOIaRB5xDSoHMIadA5hDToHEIadA4hzV8AAAD//+qw1O4AAAAGSURBVAMAOZ+Xacdg5qkAAAAASUVORK5CYII="
+      },
+      {
+        "text": "Accept All",
+        "tag": "button",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 176, 206)",
+        "selector": "div.cky-consent-container.cky-box-bottom-left:nth-of-type(3) > div.cky-consent-bar > div.cky-notice-content-wrapper:nth-of-type(1) > div.cky-notice > div.cky-notice-group > div.cky-notice-btn-wrapper:nth-of-type(2) > button.cky-btn.cky-btn-accept:nth-of-type(2)",
+        "xpath": "//*[@id=\"collection-6409babb3a11a10d6199f522\"]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/button[2]",
+        "boundingRect": {
+          "x": 266.328125,
+          "y": 611,
+          "width": 188.671875,
+          "height": 44
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "background-color",
+          "deltaE": 0.15236442677981854
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAAA8CAIAAACl0sK8AAAFjklEQVR4nOyda0xbVRzAT+mbvikFWhgMVqAFGTDCpnsCmxo2BTOcryzZ+OAXY9Q5jTHKlLgPPuPro9EP7oM60bjFD4pk0zAcU16ZyiMwhCBlPDr6oKXQ9l7/baE0cLtgzMmS2/8vNyeH/71cTuHX8/+fGw6IWJYlCEKTJIIglEHJEOqgZAh1UDKEOigZQh2UDKEOSoZQRxTvRIvN8eqAbWhhiSDIJihUSs9aTQ+btBtPCeI9jC2+NNDv9hEE2TRFKtlfNdaN8bgzGRqG/FfiOYM1GUIdlAyhDkqGUAclQ6iDkiHUQckQ6qBkCHVQMoQ6KBlCHZQMoQ5KhlAHJUOog5Ih1OG/ZEphUoNRu1ObTO40uckSGAm0scHD6eoilSy2wz/4L9lrFmPLztz2fQWEPgUK6aU9+WUaOefZC7u2wUigXRd8tzgztsM/+C/ZyewUlhBJkuCJLB2hjFkprU5Vck5IOrHwLrUMRgKtWpRYVQrPX22FRp4qEX00Ogs/3dPm9GhcLxb2VVuC9eW+B8va9xZEUhhnEL5BLZW5ngdKl+vK+museeHgUaN2rnb7O8WZ9sPb4fqhg0XZcvEuXfLXlblw9tPynJfy09eN5JWCDAEhzYNT0L5oTieJBM8le91iBL3ODNgG3b5yjVyWJIjEe6otpWr59zednfOevXrFD/eY4wXb9uQ3mLQ2n/9bmyNfKRs4WAQ3yZKL9RLhC+a0rnlv64yrQCm9dsAy5fP/7vDCp/Q5vb3hTiwnslOmlwJvDN30s2xjjp4kEnyWDF7bfWnqP1yLrgDzybgd/HrenAbxmlRltlxyftJRf2206srw5bmFXIWEM7g1WQLpr8e5mN/W/1jXWGPPGKTdp/MMkfu32Bz3Xx2pvXrjq8n5DKloi1zy9vA0xD8enW2ddceOJDKhfj5hZwjpsHsyZeJ15T+/4bNkJ7P14IRYIDi3I+dunQIiT+akQrs/VQXt+cn5yGU1HcOSi32cwapUJfRNMnHn/kI4ntsWcrRidaH65T8rF38R7lTq4i5gm60maAuUMhiJViyE/plCI0kYRIS/nAo7ATkODuhA3oSZCWYRmHXgw4nF5diL4wTF0MIUqBCuvBv/dPn6nIuR/vjqxTJhKAsnC7nfsRC916CCr34kXRMNQgpu7B0niQFvZzKo4ovVso5bHvHF3shxvHsM4k2FGZFNNQ8ZV3YIQl3vPFLKGex1hkqrtll3yeUBOA79Ojy3HIjuyYG6LdI5ZgqtW3+ZW+AcSWRCfbnfFh3Jd1NOlShp3+qn8x7eStZkMcL08v7ITDQC2S3AkkcydZ+N26Fzypz2bJ4BivejJu30kp8z2Dbj9gSZYyYtrBbrMzTdVRZIoOPelQ3PZ62mQwYVLBvrjBofw4LQ7kAQ4rVpaoNkLUWcNqexoUJtbSTvjYRKt6aEyZi8TZePZ+qWGfabKUc0AkV3t8MLDxryldITPWPnKrZ+UJJFQinSX9d5YyHIbAyCMg2/jcJj0jeLQkUVuPLW8PR1l68qXMD5Gfan3aEV6EKAebTrbxIu6t0B5viWFGifuj4BEY0oyaqSweLDG1zbRH3llscbZA7oldGBrevwjLg7yAUXegmvgfJ7t17R7/LZ/cHbB8UCUmNQQcHeOuOeD8efyTN8WJK14+fBJYaFp6wwh8XeGZ6lQW3nT8g/k8rWl28M8rnwvz0gS7vds5kg6PLjjJvzJpx7pke9ywSJIXEl+z94AgwTTpcE2QSJmy4RGnCmS/x9MoQ6KBlCHZQMoQ5KhlAHJUOog5Ih1EHJEOqgZAh1UDKEOigZQh2UDKFOXMn4upsZoUc8Z+JK1mwxmhVSgiCbo1ApBWc4Twnwf5AjtMGaDKEOSoZQByVDqIOSIdRByRDqoGQIdVAyhDr/AgAA//940vIJAAAABklEQVQDAEfo/VzUnwjdAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Third Party Vendor",
+        "tag": "button",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "#ckyIABPreferenceButton",
+        "xpath": "//*[@id=\"ckyIABPreferenceButton\"]",
+        "boundingRect": {
+          "x": -133.765625,
+          "y": 1032.28125,
+          "width": 106.734375,
+          "height": 24
+        },
+        "fontSize": "12.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.15236442677981854
+        }
+      },
+      {
+        "text": "Google Ad Tech Provider",
+        "tag": "button",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "#ckyIABGACMPreferenceButton",
+        "xpath": "//*[@id=\"ckyIABGACMPreferenceButton\"]",
+        "boundingRect": {
+          "x": 1.4375,
+          "y": 1032.28125,
+          "width": 141.375,
+          "height": 24
+        },
+        "fontSize": "12.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.15236442677981854
+        }
+      },
+      {
+        "text": "Cookie Categories",
+        "tag": "button",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.cky-modal:nth-of-type(4) > div.cky-preference-center > div.cky-iab-detail-wrapper:nth-of-type(2) > div.cky-iab-navbar-wrapper:nth-of-type(2) > ul.cky-iab-navbar > li.cky-iab-nav-item.cky-iab-nav-item-active:nth-of-type(1) > button.cky-iab-nav-btn",
+        "xpath": "//*[@id=\"ckyIABTabCookie\"]/button[1]",
+        "boundingRect": {
+          "x": -398.5,
+          "y": 1129.734375,
+          "width": 144.484375,
+          "height": 48
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.15236442677981854
+        }
+      },
+      {
+        "text": "Privacy Policy",
+        "tag": "a",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.cky-modal:nth-of-type(4) > div.cky-preference-center > div.cky-iab-detail-wrapper:nth-of-type(2) > div.cky-iab-detail-sub-wrapper:nth-of-type(3) > div.cky-preference-body-wrapper:nth-of-type(1) > div.cky-preference-content-wrapper:nth-of-type(1) > p > a",
+        "xpath": "//*[@id=\"ckyIABSectionCookie\"]/div[1]/p[1]/a[1]",
+        "boundingRect": {
+          "x": -352.25,
+          "y": 1258.1875,
+          "width": 79.203125,
+          "height": 15
+        },
+        "fontSize": "12.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.15236442677981854
+        }
+      },
+      {
+        "text": "Google Privacy Policy",
+        "tag": "a",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.cky-modal:nth-of-type(4) > div.cky-preference-center > div.cky-iab-detail-wrapper:nth-of-type(2) > div.cky-iab-detail-sub-wrapper:nth-of-type(3) > div.cky-preference-body-wrapper:nth-of-type(1) > div.cky-dma-content-wrapper:nth-of-type(2) > p > a.cky-policy",
+        "xpath": "//*[@id=\"ckyIABSectionCookie\"]/div[2]/p[1]/a[1]",
+        "boundingRect": {
+          "x": 132.609375,
+          "y": 1293.671875,
+          "width": 126.5,
+          "height": 17
+        },
+        "fontSize": "12.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.15236442677981854
+        }
+      },
+      {
+        "text": "0",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 176, 206)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > div.floating-cart.hidden > a.icon.icon--stroke.icon--fill.icon--cart.sqs-custom-cart > span.Cart-inner > div.legacy-cart.icon-cart-quantity > span.sqs-cart-quantity",
+        "xpath": "//*[@id=\"floatingCart\"]/a[1]/span[1]/div[1]/span[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "background-color",
+          "deltaE": 0.15236442677981854
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Skip to Content",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 176, 206)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > header.white.header.theme-col--primary > div.header-announcement-bar-wrapper:nth-of-type(2) > a.header-skip-link.sqs-button-element--primary",
+        "xpath": "//*[@id=\"header\"]/div[2]/a[1]",
+        "boundingRect": {
+          "x": -14400,
+          "y": 21.59375,
+          "width": 170.421875,
+          "height": 39.03125
+        },
+        "fontSize": "14.4px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "background-color",
+          "deltaE": 0.15236442677981854
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "The Locum’s Nest platform is easy to modify to meet your unique workforce needs with a variety of pr...",
+        "tag": "strong",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 176, 206)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.full-bleed-section.layout-engine-section.background-width--full-bleed.section-height--custom.content-width--wide.horizontal-alignment--center.vertical-alignment--middle.light:nth-of-type(3) > div.content-wrapper:nth-of-type(2) > div.content > div > div.fluid-engine.fe-65156a5b9b4df62a532c3274 > div.fe-block.fe-block-78679257fa6b71b64a87:nth-of-type(3) > div.sqs-block.website-component-block.sqs-block-website-component.sqs-block-html.html-block.sqs-background-enabled.preFade > div.sqs-block-content > div.sqs-text-block-container > div.sqs-html-content > h4.preFade > span.sqsrte-text-color--white > strong",
+        "xpath": "//*[@id=\"block-78679257fa6b71b64a87\"]/div[1]/div[1]/div[1]/h4[1]/span[1]/strong[1]",
+        "boundingRect": {
+          "x": 294.359375,
+          "y": 1656.078125,
+          "width": 698.28125,
+          "height": 83.6875
+        },
+        "fontSize": "23.68px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 163,
+            "b": 192,
+            "a": 1
+          },
+          "hex": "#00a3c0",
+          "ratio": 3,
+          "property": "background-color",
+          "deltaE": 0.04236442677981844
+        }
+      },
+      {
+        "text": "RETURN ON INVESTMENT",
+        "tag": "strong",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.full-bleed-section.layout-engine-section.background-width--full-bleed.section-height--small.content-width--wide.horizontal-alignment--center.vertical-alignment--middle.bright:nth-of-type(7) > div.content-wrapper:nth-of-type(2) > div.content > div > div.fluid-engine.fe-64ca31d982b9a903e6ade73d > div.fe-block.fe-block-72bf5043ce05063ebe92:nth-of-type(1) > div.sqs-block.website-component-block.sqs-block-website-component.sqs-block-html.html-block > div.sqs-block-content > div.sqs-text-block-container > div.sqs-html-content > p.sqsrte-large.preFade > strong",
+        "xpath": "//*[@id=\"block-72bf5043ce05063ebe92\"]/div[1]/div[1]/div[1]/p[1]/strong[1]",
+        "boundingRect": {
+          "x": 38.390625,
+          "y": 4325.4375,
+          "width": 243.34375,
+          "height": 23
+        },
+        "fontSize": "19.072px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 1
+          },
+          "hex": "#959595",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.32999999999999974
+        }
+      },
+      {
+        "text": "Maximise your ROI.",
+        "tag": "h2",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.full-bleed-section.layout-engine-section.background-width--full-bleed.section-height--small.content-width--wide.horizontal-alignment--center.vertical-alignment--middle.bright:nth-of-type(7) > div.content-wrapper:nth-of-type(2) > div.content > div > div.fluid-engine.fe-64ca31d982b9a903e6ade73d > div.fe-block.fe-block-7fb4eb846240bd11d849:nth-of-type(2) > div.sqs-block.website-component-block.sqs-block-website-component.sqs-block-html.html-block > div.sqs-block-content > div.sqs-text-block-container > div.sqs-html-content > h2.preFade",
+        "xpath": "//*[@id=\"block-7fb4eb846240bd11d849\"]/div[1]/div[1]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": 38.390625,
+          "y": 4363.953125,
+          "width": 494.9375,
+          "height": 54.5
+        },
+        "fontSize": "49.792px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 1
+          },
+          "hex": "#959595",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.32999999999999974
+        }
+      },
+      {
+        "text": "FIND OUT HOW",
+        "tag": "a",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.full-bleed-section.layout-engine-section.background-width--full-bleed.section-height--small.content-width--wide.horizontal-alignment--center.vertical-alignment--middle.bright:nth-of-type(7) > div.content-wrapper:nth-of-type(2) > div.content > div > div.fluid-engine.fe-64ca31d982b9a903e6ade73d > div.fe-block.fe-block-3dcecebe68b6278cd312:nth-of-type(3) > div.sqs-block.website-component-block.sqs-block-website-component.sqs-block-button.button-block > div.sqs-block-content > div.sqs-block-button-container.sqs-button-block-container-system_desktop.sqs-block-button-container--left.preFade > a.sqs-block-button-element--medium.sqs-button-element--primary.sqs-block-button-element",
+        "xpath": "//*[@id=\"yui_3_17_2_1_1785934383248_85\"]/a[1]",
+        "boundingRect": {
+          "x": 38.390625,
+          "y": 4585.109375,
+          "width": 166.75,
+          "height": 44.59375
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.15236442677981854
+        }
+      },
+      {
+        "text": "explore product",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 176, 206)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.user-items-list-section.full-bleed-section.light:nth-of-type(9) > div.content-wrapper:nth-of-type(2) > div.content > div.user-items-list > ul.user-items-list-item-container.user-items-list-simple > li.list-item.list-item-basic-animation.preFade:nth-of-type(1) > div.list-item-content:nth-of-type(2) > div.list-item-content__button-wrapper:nth-of-type(2) > div.list-item-content__button-container.preFade > a.list-item-content__button.sqs-block-button-element.sqs-block-button-element--medium.sqs-button-element--primary",
+        "xpath": "//*[@id=\"sections\"]/section[9]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[2]/div[2]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 70.875,
+          "y": 5496.78125,
+          "width": 161,
+          "height": 35.46875
+        },
+        "fontSize": "12.8px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "background-color",
+          "deltaE": 0.15236442677981854
+        }
+      },
+      {
+        "text": "discover how",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 176, 206)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.user-items-list-section.full-bleed-section.light:nth-of-type(9) > div.content-wrapper:nth-of-type(2) > div.content > div.user-items-list > ul.user-items-list-item-container.user-items-list-simple > li.list-item.list-item-basic-animation.preFade:nth-of-type(6) > div.list-item-content:nth-of-type(2) > div.list-item-content__button-wrapper:nth-of-type(2) > div.list-item-content__button-container.preFade > a.list-item-content__button.sqs-block-button-element.sqs-block-button-element--medium.sqs-button-element--primary",
+        "xpath": "//*[@id=\"sections\"]/section[9]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[2]/div[2]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 913.015625,
+          "y": 5994.84375,
+          "width": 137.25,
+          "height": 35.46875
+        },
+        "fontSize": "12.8px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "background-color",
+          "deltaE": 0.15236442677981854
+        }
+      },
+      {
+        "text": "About us",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 176, 206)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.full-bleed-section.layout-engine-section.background-width--full-bleed.section-height--custom.content-width--wide.horizontal-alignment--center.vertical-alignment--middle:nth-of-type(10) > div.content-wrapper:nth-of-type(2) > div.content > div > div.fluid-engine.fe-64ae80f95efceb2369639587 > div.fe-block.fe-block-3b1b5779712eda0cd5d1:nth-of-type(4) > div.sqs-block.website-component-block.sqs-block-website-component.sqs-block-button.button-block > div.sqs-block-content > div.sqs-block-button-container.sqs-button-block-container-system_desktop.sqs-block-button-container--left.sqs-stretched.preFade > a.sqs-block-button-element--medium.sqs-button-element--primary.sqs-block-button-element",
+        "xpath": "//*[@id=\"yui_3_17_2_1_1785934383248_92\"]/a[1]",
+        "boundingRect": {
+          "x": 696.09375,
+          "y": 6675.15625,
+          "width": 191.375,
+          "height": 56.71875
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "background-color",
+          "deltaE": 0.15236442677981854
+        }
+      },
+      {
+        "text": "“We have freed up our days by no longer needing to constantly call, email and message doctors and ag...",
+        "tag": "h2",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.user-items-list-section.full-bleed-section.light-bold:nth-of-type(11) > div.content-wrapper:nth-of-type(2) > div.content > div.user-items-list > div.user-items-list-item-container.user-items-list-banner-slideshow > div.slideshow-wrapper > div.slideshow-gutter:nth-of-type(1) > div.slideshow-holder:nth-of-type(1) > ul.slides.slides--initialized > li.slide.list-item:nth-of-type(1) > div.slide-content.list-item-card-background > h2.list-item-content__title.preFade",
+        "xpath": "//*[@id=\"sections\"]/section[11]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": 240.640625,
+          "y": 7075.734375,
+          "width": 798.71875,
+          "height": 204.5
+        },
+        "fontSize": "46.72px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 163,
+            "b": 192,
+            "a": 1
+          },
+          "hex": "#00a3c0",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.04236442677981844
+        }
+      },
+      {
+        "text": "“Locum’s Nest has made covering the shifts so much easier and the doctors are much more proactive ab...",
+        "tag": "h2",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.user-items-list-section.full-bleed-section.light-bold:nth-of-type(11) > div.content-wrapper:nth-of-type(2) > div.content > div.user-items-list > div.user-items-list-item-container.user-items-list-banner-slideshow > div.slideshow-wrapper > div.slideshow-gutter:nth-of-type(1) > div.slideshow-holder:nth-of-type(1) > ul.slides.slides--initialized > li.slide.list-item:nth-of-type(2) > div.slide-content.list-item-card-background > h2.list-item-content__title.preFade",
+        "xpath": "//*[@id=\"sections\"]/section[11]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": -9758.359375,
+          "y": 7075.734375,
+          "width": 798.71875,
+          "height": 204.5
+        },
+        "fontSize": "46.72px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 163,
+            "b": 192,
+            "a": 1
+          },
+          "hex": "#00a3c0",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.04236442677981844
+        }
+      },
+      {
+        "text": "“The Locum’s Nest app has greatly supported us as we move towards achieving our transparency and dig...",
+        "tag": "h2",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.user-items-list-section.full-bleed-section.light-bold:nth-of-type(11) > div.content-wrapper:nth-of-type(2) > div.content > div.user-items-list > div.user-items-list-item-container.user-items-list-banner-slideshow > div.slideshow-wrapper > div.slideshow-gutter:nth-of-type(1) > div.slideshow-holder:nth-of-type(1) > ul.slides.slides--initialized > li.slide.list-item:nth-of-type(3) > div.slide-content.list-item-card-background > h2.list-item-content__title.preFade",
+        "xpath": "//*[@id=\"sections\"]/section[11]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": -9758.359375,
+          "y": 6999.046875,
+          "width": 798.71875,
+          "height": 357.875
+        },
+        "fontSize": "46.72px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 163,
+            "b": 192,
+            "a": 1
+          },
+          "hex": "#00a3c0",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.04236442677981844
+        }
+      },
+      {
+        "text": "“I and the team are delighted at the impact we’ve seen in our first few months of partnership. We’ve...",
+        "tag": "h2",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.user-items-list-section.full-bleed-section.light-bold:nth-of-type(11) > div.content-wrapper:nth-of-type(2) > div.content > div.user-items-list > div.user-items-list-item-container.user-items-list-banner-slideshow > div.slideshow-wrapper > div.slideshow-gutter:nth-of-type(1) > div.slideshow-holder:nth-of-type(1) > ul.slides.slides--initialized > li.slide.list-item:nth-of-type(4) > div.slide-content.list-item-card-background > h2.list-item-content__title.preFade",
+        "xpath": "//*[@id=\"sections\"]/section[11]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": -9758.359375,
+          "y": 6973.484375,
+          "width": 798.71875,
+          "height": 409
+        },
+        "fontSize": "46.72px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 163,
+            "b": 192,
+            "a": 1
+          },
+          "hex": "#00a3c0",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.04236442677981844
+        }
+      },
+      {
+        "text": "“It’s great to see that our previous doctors, who would have never previously heard of the shift, no...",
+        "tag": "h2",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.user-items-list-section.full-bleed-section.light-bold:nth-of-type(11) > div.content-wrapper:nth-of-type(2) > div.content > div.user-items-list > div.user-items-list-item-container.user-items-list-banner-slideshow > div.slideshow-wrapper > div.slideshow-gutter:nth-of-type(1) > div.slideshow-holder:nth-of-type(1) > ul.slides.slides--initialized > li.slide.list-item:nth-of-type(5) > div.slide-content.list-item-card-background > h2.list-item-content__title.preFade",
+        "xpath": "//*[@id=\"sections\"]/section[11]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": -1039.359375,
+          "y": 7050.171875,
+          "width": 798.71875,
+          "height": 255.625
+        },
+        "fontSize": "46.72px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 163,
+            "b": 192,
+            "a": 1
+          },
+          "hex": "#00a3c0",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.04236442677981844
+        }
+      },
+      {
+        "text": "Start your Locum’s Nest journey today.",
+        "tag": "h2",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.has-section-divider.full-bleed-section.layout-engine-section.background-width--full-bleed.section-height--medium.content-width--wide.horizontal-alignment--center.vertical-alignment--middle.has-background.black:nth-of-type(13) > div.content-wrapper:nth-of-type(2) > div.content > div > div.fluid-engine.fe-64ae8128646bbe1f7aa8f1bd > div.fe-block.fe-block-293d6703f7e415248249:nth-of-type(1) > div.sqs-block.website-component-block.sqs-block-website-component.sqs-block-html.html-block > div.sqs-block-content > div.sqs-text-block-container > div.sqs-html-content > h2.preFade",
+        "xpath": "//*[@id=\"block-293d6703f7e415248249\"]/div[1]/div[1]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": 38.390625,
+          "y": 7784.515625,
+          "width": 648.984375,
+          "height": 109
+        },
+        "fontSize": "49.792px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 1
+          },
+          "hex": "#959595",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.32999999999999974
+        }
+      },
+      {
+        "text": "book a call",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 176, 206)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.has-section-divider.full-bleed-section.layout-engine-section.background-width--full-bleed.section-height--medium.content-width--wide.horizontal-alignment--center.vertical-alignment--middle.has-background.black:nth-of-type(13) > div.content-wrapper:nth-of-type(2) > div.content > div > div.fluid-engine.fe-64ae8128646bbe1f7aa8f1bd > div.fe-block.fe-block-23ad667c4d907df17b75:nth-of-type(2) > div.sqs-block.website-component-block.sqs-block-website-component.sqs-block-button.button-block > div.sqs-block-content > div.sqs-block-button-container.sqs-button-block-container-system_desktop.sqs-block-button-container--left.sqs-stretched.preFade > a.sqs-block-button-element--medium.sqs-button-element--primary.sqs-block-button-element",
+        "xpath": "//*[@id=\"yui_3_17_2_1_1785934383248_99\"]/a[1]",
+        "boundingRect": {
+          "x": 38.390625,
+          "y": 7943.8125,
+          "width": 195.53125,
+          "height": 57.71875
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "background-color",
+          "deltaE": 0.15236442677981854
+        }
+      }
+    ],
+    "violations": [
+      {
+        "text": "our 1731 partners",
+        "tag": "button",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "#ckyIABNoticeButton",
+        "xpath": "//*[@id=\"ckyIABNoticeButton\"]",
+        "boundingRect": {
+          "x": 112.453125,
+          "y": 317.1875,
+          "width": 101.046875,
+          "height": 24
+        },
+        "fontSize": "12.8px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.15236442677981854
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Customise",
+        "tag": "button",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.cky-consent-container.cky-box-bottom-left:nth-of-type(3) > div.cky-consent-bar > div.cky-notice-content-wrapper:nth-of-type(1) > div.cky-notice > div.cky-notice-group > div.cky-notice-btn-wrapper:nth-of-type(2) > button.cky-btn.cky-btn-customize:nth-of-type(1)",
+        "xpath": "//*[@id=\"collection-6409babb3a11a10d6199f522\"]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/button[1]",
+        "boundingRect": {
+          "x": 65,
+          "y": 611,
+          "width": 193.328125,
+          "height": 44
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.15236442677981854
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Accept All",
+        "tag": "button",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 176, 206)",
+        "selector": "div.cky-consent-container.cky-box-bottom-left:nth-of-type(3) > div.cky-consent-bar > div.cky-notice-content-wrapper:nth-of-type(1) > div.cky-notice > div.cky-notice-group > div.cky-notice-btn-wrapper:nth-of-type(2) > button.cky-btn.cky-btn-accept:nth-of-type(2)",
+        "xpath": "//*[@id=\"collection-6409babb3a11a10d6199f522\"]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/button[2]",
+        "boundingRect": {
+          "x": 266.328125,
+          "y": 611,
+          "width": 188.671875,
+          "height": 44
+        },
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "background-color",
+          "deltaE": 0.15236442677981854
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAAA8CAIAAACl0sK8AAAFjklEQVR4nOyda0xbVRzAT+mbvikFWhgMVqAFGTDCpnsCmxo2BTOcryzZ+OAXY9Q5jTHKlLgPPuPro9EP7oM60bjFD4pk0zAcU16ZyiMwhCBlPDr6oKXQ9l7/baE0cLtgzMmS2/8vNyeH/71cTuHX8/+fGw6IWJYlCEKTJIIglEHJEOqgZAh1UDKEOigZQh2UDKEOSoZQRxTvRIvN8eqAbWhhiSDIJihUSs9aTQ+btBtPCeI9jC2+NNDv9hEE2TRFKtlfNdaN8bgzGRqG/FfiOYM1GUIdlAyhDkqGUAclQ6iDkiHUQckQ6qBkCHVQMoQ6KBlCHZQMoQ5KhlAHJUOog5Ih1OG/ZEphUoNRu1ObTO40uckSGAm0scHD6eoilSy2wz/4L9lrFmPLztz2fQWEPgUK6aU9+WUaOefZC7u2wUigXRd8tzgztsM/+C/ZyewUlhBJkuCJLB2hjFkprU5Vck5IOrHwLrUMRgKtWpRYVQrPX22FRp4qEX00Ogs/3dPm9GhcLxb2VVuC9eW+B8va9xZEUhhnEL5BLZW5ngdKl+vK+museeHgUaN2rnb7O8WZ9sPb4fqhg0XZcvEuXfLXlblw9tPynJfy09eN5JWCDAEhzYNT0L5oTieJBM8le91iBL3ODNgG3b5yjVyWJIjEe6otpWr59zednfOevXrFD/eY4wXb9uQ3mLQ2n/9bmyNfKRs4WAQ3yZKL9RLhC+a0rnlv64yrQCm9dsAy5fP/7vDCp/Q5vb3hTiwnslOmlwJvDN30s2xjjp4kEnyWDF7bfWnqP1yLrgDzybgd/HrenAbxmlRltlxyftJRf2206srw5bmFXIWEM7g1WQLpr8e5mN/W/1jXWGPPGKTdp/MMkfu32Bz3Xx2pvXrjq8n5DKloi1zy9vA0xD8enW2ddceOJDKhfj5hZwjpsHsyZeJ15T+/4bNkJ7P14IRYIDi3I+dunQIiT+akQrs/VQXt+cn5yGU1HcOSi32cwapUJfRNMnHn/kI4ntsWcrRidaH65T8rF38R7lTq4i5gm60maAuUMhiJViyE/plCI0kYRIS/nAo7ATkODuhA3oSZCWYRmHXgw4nF5diL4wTF0MIUqBCuvBv/dPn6nIuR/vjqxTJhKAsnC7nfsRC916CCr34kXRMNQgpu7B0niQFvZzKo4ovVso5bHvHF3shxvHsM4k2FGZFNNQ8ZV3YIQl3vPFLKGex1hkqrtll3yeUBOA79Ojy3HIjuyYG6LdI5ZgqtW3+ZW+AcSWRCfbnfFh3Jd1NOlShp3+qn8x7eStZkMcL08v7ITDQC2S3AkkcydZ+N26Fzypz2bJ4BivejJu30kp8z2Dbj9gSZYyYtrBbrMzTdVRZIoOPelQ3PZ62mQwYVLBvrjBofw4LQ7kAQ4rVpaoNkLUWcNqexoUJtbSTvjYRKt6aEyZi8TZePZ+qWGfabKUc0AkV3t8MLDxryldITPWPnKrZ+UJJFQinSX9d5YyHIbAyCMg2/jcJj0jeLQkUVuPLW8PR1l68qXMD5Gfan3aEV6EKAebTrbxIu6t0B5viWFGifuj4BEY0oyaqSweLDG1zbRH3llscbZA7oldGBrevwjLg7yAUXegmvgfJ7t17R7/LZ/cHbB8UCUmNQQcHeOuOeD8efyTN8WJK14+fBJYaFp6wwh8XeGZ6lQW3nT8g/k8rWl28M8rnwvz0gS7vds5kg6PLjjJvzJpx7pke9ywSJIXEl+z94AgwTTpcE2QSJmy4RGnCmS/x9MoQ6KBlCHZQMoQ5KhlAHJUOog5Ih1EHJEOqgZAh1UDKEOigZQh2UDKFOXMn4upsZoUc8Z+JK1mwxmhVSgiCbo1ApBWc4Twnwf5AjtMGaDKEOSoZQByVDqIOSIdRByRDqoGQIdVAyhDr/AgAA//940vIJAAAABklEQVQDAEfo/VzUnwjdAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Third Party Vendor",
+        "tag": "button",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "#ckyIABPreferenceButton",
+        "xpath": "//*[@id=\"ckyIABPreferenceButton\"]",
+        "boundingRect": {
+          "x": -133.765625,
+          "y": 1032.28125,
+          "width": 106.734375,
+          "height": 24
+        },
+        "fontSize": "12.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.15236442677981854
+        }
+      },
+      {
+        "text": "Google Ad Tech Provider",
+        "tag": "button",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "#ckyIABGACMPreferenceButton",
+        "xpath": "//*[@id=\"ckyIABGACMPreferenceButton\"]",
+        "boundingRect": {
+          "x": 1.4375,
+          "y": 1032.28125,
+          "width": 141.375,
+          "height": 24
+        },
+        "fontSize": "12.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.15236442677981854
+        }
+      },
+      {
+        "text": "Cookie Categories",
+        "tag": "button",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.cky-modal:nth-of-type(4) > div.cky-preference-center > div.cky-iab-detail-wrapper:nth-of-type(2) > div.cky-iab-navbar-wrapper:nth-of-type(2) > ul.cky-iab-navbar > li.cky-iab-nav-item.cky-iab-nav-item-active:nth-of-type(1) > button.cky-iab-nav-btn",
+        "xpath": "//*[@id=\"ckyIABTabCookie\"]/button[1]",
+        "boundingRect": {
+          "x": -398.5,
+          "y": 1129.734375,
+          "width": 144.484375,
+          "height": 48
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.15236442677981854
+        }
+      },
+      {
+        "text": "Privacy Policy",
+        "tag": "a",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.cky-modal:nth-of-type(4) > div.cky-preference-center > div.cky-iab-detail-wrapper:nth-of-type(2) > div.cky-iab-detail-sub-wrapper:nth-of-type(3) > div.cky-preference-body-wrapper:nth-of-type(1) > div.cky-preference-content-wrapper:nth-of-type(1) > p > a",
+        "xpath": "//*[@id=\"ckyIABSectionCookie\"]/div[1]/p[1]/a[1]",
+        "boundingRect": {
+          "x": -352.25,
+          "y": 1258.1875,
+          "width": 79.203125,
+          "height": 15
+        },
+        "fontSize": "12.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.15236442677981854
+        }
+      },
+      {
+        "text": "Google Privacy Policy",
+        "tag": "a",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.cky-modal:nth-of-type(4) > div.cky-preference-center > div.cky-iab-detail-wrapper:nth-of-type(2) > div.cky-iab-detail-sub-wrapper:nth-of-type(3) > div.cky-preference-body-wrapper:nth-of-type(1) > div.cky-dma-content-wrapper:nth-of-type(2) > p > a.cky-policy",
+        "xpath": "//*[@id=\"ckyIABSectionCookie\"]/div[2]/p[1]/a[1]",
+        "boundingRect": {
+          "x": 132.609375,
+          "y": 1293.671875,
+          "width": 126.5,
+          "height": 17
+        },
+        "fontSize": "12.8px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.15236442677981854
+        }
+      },
+      {
+        "text": "0",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 176, 206)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > div.floating-cart.hidden > a.icon.icon--stroke.icon--fill.icon--cart.sqs-custom-cart > span.Cart-inner > div.legacy-cart.icon-cart-quantity > span.sqs-cart-quantity",
+        "xpath": "//*[@id=\"floatingCart\"]/a[1]/span[1]/div[1]/span[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "background-color",
+          "deltaE": 0.15236442677981854
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Skip to Content",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 176, 206)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > header.white.header.theme-col--primary > div.header-announcement-bar-wrapper:nth-of-type(2) > a.header-skip-link.sqs-button-element--primary",
+        "xpath": "//*[@id=\"header\"]/div[2]/a[1]",
+        "boundingRect": {
+          "x": -14400,
+          "y": 21.59375,
+          "width": 170.421875,
+          "height": 39.03125
+        },
+        "fontSize": "14.4px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "background-color",
+          "deltaE": 0.15236442677981854
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "The Locum’s Nest platform is easy to modify to meet your unique workforce needs with a variety of pr...",
+        "tag": "strong",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 176, 206)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.full-bleed-section.layout-engine-section.background-width--full-bleed.section-height--custom.content-width--wide.horizontal-alignment--center.vertical-alignment--middle.light:nth-of-type(3) > div.content-wrapper:nth-of-type(2) > div.content > div > div.fluid-engine.fe-65156a5b9b4df62a532c3274 > div.fe-block.fe-block-78679257fa6b71b64a87:nth-of-type(3) > div.sqs-block.website-component-block.sqs-block-website-component.sqs-block-html.html-block.sqs-background-enabled.preFade > div.sqs-block-content > div.sqs-text-block-container > div.sqs-html-content > h4.preFade > span.sqsrte-text-color--white > strong",
+        "xpath": "//*[@id=\"block-78679257fa6b71b64a87\"]/div[1]/div[1]/div[1]/h4[1]/span[1]/strong[1]",
+        "boundingRect": {
+          "x": 294.359375,
+          "y": 1656.078125,
+          "width": 698.28125,
+          "height": 83.6875
+        },
+        "fontSize": "23.68px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 163,
+            "b": 192,
+            "a": 1
+          },
+          "hex": "#00a3c0",
+          "ratio": 3,
+          "property": "background-color",
+          "deltaE": 0.04236442677981844
+        }
+      },
+      {
+        "text": "RETURN ON INVESTMENT",
+        "tag": "strong",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.full-bleed-section.layout-engine-section.background-width--full-bleed.section-height--small.content-width--wide.horizontal-alignment--center.vertical-alignment--middle.bright:nth-of-type(7) > div.content-wrapper:nth-of-type(2) > div.content > div > div.fluid-engine.fe-64ca31d982b9a903e6ade73d > div.fe-block.fe-block-72bf5043ce05063ebe92:nth-of-type(1) > div.sqs-block.website-component-block.sqs-block-website-component.sqs-block-html.html-block > div.sqs-block-content > div.sqs-text-block-container > div.sqs-html-content > p.sqsrte-large.preFade > strong",
+        "xpath": "//*[@id=\"block-72bf5043ce05063ebe92\"]/div[1]/div[1]/div[1]/p[1]/strong[1]",
+        "boundingRect": {
+          "x": 38.390625,
+          "y": 4325.4375,
+          "width": 243.34375,
+          "height": 23
+        },
+        "fontSize": "19.072px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 1
+          },
+          "hex": "#959595",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.32999999999999974
+        }
+      },
+      {
+        "text": "Maximise your ROI.",
+        "tag": "h2",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.full-bleed-section.layout-engine-section.background-width--full-bleed.section-height--small.content-width--wide.horizontal-alignment--center.vertical-alignment--middle.bright:nth-of-type(7) > div.content-wrapper:nth-of-type(2) > div.content > div > div.fluid-engine.fe-64ca31d982b9a903e6ade73d > div.fe-block.fe-block-7fb4eb846240bd11d849:nth-of-type(2) > div.sqs-block.website-component-block.sqs-block-website-component.sqs-block-html.html-block > div.sqs-block-content > div.sqs-text-block-container > div.sqs-html-content > h2.preFade",
+        "xpath": "//*[@id=\"block-7fb4eb846240bd11d849\"]/div[1]/div[1]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": 38.390625,
+          "y": 4363.953125,
+          "width": 494.9375,
+          "height": 54.5
+        },
+        "fontSize": "49.792px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 1
+          },
+          "hex": "#959595",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.32999999999999974
+        }
+      },
+      {
+        "text": "FIND OUT HOW",
+        "tag": "a",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.full-bleed-section.layout-engine-section.background-width--full-bleed.section-height--small.content-width--wide.horizontal-alignment--center.vertical-alignment--middle.bright:nth-of-type(7) > div.content-wrapper:nth-of-type(2) > div.content > div > div.fluid-engine.fe-64ca31d982b9a903e6ade73d > div.fe-block.fe-block-3dcecebe68b6278cd312:nth-of-type(3) > div.sqs-block.website-component-block.sqs-block-website-component.sqs-block-button.button-block > div.sqs-block-content > div.sqs-block-button-container.sqs-button-block-container-system_desktop.sqs-block-button-container--left.preFade > a.sqs-block-button-element--medium.sqs-button-element--primary.sqs-block-button-element",
+        "xpath": "//*[@id=\"yui_3_17_2_1_1785934383248_85\"]/a[1]",
+        "boundingRect": {
+          "x": 38.390625,
+          "y": 4585.109375,
+          "width": 166.75,
+          "height": 44.59375
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.15236442677981854
+        }
+      },
+      {
+        "text": "explore product",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 176, 206)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.user-items-list-section.full-bleed-section.light:nth-of-type(9) > div.content-wrapper:nth-of-type(2) > div.content > div.user-items-list > ul.user-items-list-item-container.user-items-list-simple > li.list-item.list-item-basic-animation.preFade:nth-of-type(1) > div.list-item-content:nth-of-type(2) > div.list-item-content__button-wrapper:nth-of-type(2) > div.list-item-content__button-container.preFade > a.list-item-content__button.sqs-block-button-element.sqs-block-button-element--medium.sqs-button-element--primary",
+        "xpath": "//*[@id=\"sections\"]/section[9]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[2]/div[2]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 70.875,
+          "y": 5496.78125,
+          "width": 161,
+          "height": 35.46875
+        },
+        "fontSize": "12.8px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "background-color",
+          "deltaE": 0.15236442677981854
+        }
+      },
+      {
+        "text": "discover how",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 176, 206)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.user-items-list-section.full-bleed-section.light:nth-of-type(9) > div.content-wrapper:nth-of-type(2) > div.content > div.user-items-list > ul.user-items-list-item-container.user-items-list-simple > li.list-item.list-item-basic-animation.preFade:nth-of-type(6) > div.list-item-content:nth-of-type(2) > div.list-item-content__button-wrapper:nth-of-type(2) > div.list-item-content__button-container.preFade > a.list-item-content__button.sqs-block-button-element.sqs-block-button-element--medium.sqs-button-element--primary",
+        "xpath": "//*[@id=\"sections\"]/section[9]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[2]/div[2]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 913.015625,
+          "y": 5994.84375,
+          "width": 137.25,
+          "height": 35.46875
+        },
+        "fontSize": "12.8px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "background-color",
+          "deltaE": 0.15236442677981854
+        }
+      },
+      {
+        "text": "About us",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 176, 206)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.full-bleed-section.layout-engine-section.background-width--full-bleed.section-height--custom.content-width--wide.horizontal-alignment--center.vertical-alignment--middle:nth-of-type(10) > div.content-wrapper:nth-of-type(2) > div.content > div > div.fluid-engine.fe-64ae80f95efceb2369639587 > div.fe-block.fe-block-3b1b5779712eda0cd5d1:nth-of-type(4) > div.sqs-block.website-component-block.sqs-block-website-component.sqs-block-button.button-block > div.sqs-block-content > div.sqs-block-button-container.sqs-button-block-container-system_desktop.sqs-block-button-container--left.sqs-stretched.preFade > a.sqs-block-button-element--medium.sqs-button-element--primary.sqs-block-button-element",
+        "xpath": "//*[@id=\"yui_3_17_2_1_1785934383248_92\"]/a[1]",
+        "boundingRect": {
+          "x": 696.09375,
+          "y": 6675.15625,
+          "width": 191.375,
+          "height": 56.71875
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "background-color",
+          "deltaE": 0.15236442677981854
+        }
+      },
+      {
+        "text": "“We have freed up our days by no longer needing to constantly call, email and message doctors and ag...",
+        "tag": "h2",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.user-items-list-section.full-bleed-section.light-bold:nth-of-type(11) > div.content-wrapper:nth-of-type(2) > div.content > div.user-items-list > div.user-items-list-item-container.user-items-list-banner-slideshow > div.slideshow-wrapper > div.slideshow-gutter:nth-of-type(1) > div.slideshow-holder:nth-of-type(1) > ul.slides.slides--initialized > li.slide.list-item:nth-of-type(1) > div.slide-content.list-item-card-background > h2.list-item-content__title.preFade",
+        "xpath": "//*[@id=\"sections\"]/section[11]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": 240.640625,
+          "y": 7075.734375,
+          "width": 798.71875,
+          "height": 204.5
+        },
+        "fontSize": "46.72px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 163,
+            "b": 192,
+            "a": 1
+          },
+          "hex": "#00a3c0",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.04236442677981844
+        }
+      },
+      {
+        "text": "“Locum’s Nest has made covering the shifts so much easier and the doctors are much more proactive ab...",
+        "tag": "h2",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.user-items-list-section.full-bleed-section.light-bold:nth-of-type(11) > div.content-wrapper:nth-of-type(2) > div.content > div.user-items-list > div.user-items-list-item-container.user-items-list-banner-slideshow > div.slideshow-wrapper > div.slideshow-gutter:nth-of-type(1) > div.slideshow-holder:nth-of-type(1) > ul.slides.slides--initialized > li.slide.list-item:nth-of-type(2) > div.slide-content.list-item-card-background > h2.list-item-content__title.preFade",
+        "xpath": "//*[@id=\"sections\"]/section[11]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": -9758.359375,
+          "y": 7075.734375,
+          "width": 798.71875,
+          "height": 204.5
+        },
+        "fontSize": "46.72px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 163,
+            "b": 192,
+            "a": 1
+          },
+          "hex": "#00a3c0",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.04236442677981844
+        }
+      },
+      {
+        "text": "“The Locum’s Nest app has greatly supported us as we move towards achieving our transparency and dig...",
+        "tag": "h2",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.user-items-list-section.full-bleed-section.light-bold:nth-of-type(11) > div.content-wrapper:nth-of-type(2) > div.content > div.user-items-list > div.user-items-list-item-container.user-items-list-banner-slideshow > div.slideshow-wrapper > div.slideshow-gutter:nth-of-type(1) > div.slideshow-holder:nth-of-type(1) > ul.slides.slides--initialized > li.slide.list-item:nth-of-type(3) > div.slide-content.list-item-card-background > h2.list-item-content__title.preFade",
+        "xpath": "//*[@id=\"sections\"]/section[11]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": -9758.359375,
+          "y": 6999.046875,
+          "width": 798.71875,
+          "height": 357.875
+        },
+        "fontSize": "46.72px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 163,
+            "b": 192,
+            "a": 1
+          },
+          "hex": "#00a3c0",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.04236442677981844
+        }
+      },
+      {
+        "text": "“I and the team are delighted at the impact we’ve seen in our first few months of partnership. We’ve...",
+        "tag": "h2",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.user-items-list-section.full-bleed-section.light-bold:nth-of-type(11) > div.content-wrapper:nth-of-type(2) > div.content > div.user-items-list > div.user-items-list-item-container.user-items-list-banner-slideshow > div.slideshow-wrapper > div.slideshow-gutter:nth-of-type(1) > div.slideshow-holder:nth-of-type(1) > ul.slides.slides--initialized > li.slide.list-item:nth-of-type(4) > div.slide-content.list-item-card-background > h2.list-item-content__title.preFade",
+        "xpath": "//*[@id=\"sections\"]/section[11]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": -9758.359375,
+          "y": 6973.484375,
+          "width": 798.71875,
+          "height": 409
+        },
+        "fontSize": "46.72px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 163,
+            "b": 192,
+            "a": 1
+          },
+          "hex": "#00a3c0",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.04236442677981844
+        }
+      },
+      {
+        "text": "“It’s great to see that our previous doctors, who would have never previously heard of the shift, no...",
+        "tag": "h2",
+        "color": "rgb(0, 176, 206)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.user-items-list-section.full-bleed-section.light-bold:nth-of-type(11) > div.content-wrapper:nth-of-type(2) > div.content > div.user-items-list > div.user-items-list-item-container.user-items-list-banner-slideshow > div.slideshow-wrapper > div.slideshow-gutter:nth-of-type(1) > div.slideshow-holder:nth-of-type(1) > ul.slides.slides--initialized > li.slide.list-item:nth-of-type(5) > div.slide-content.list-item-card-background > h2.list-item-content__title.preFade",
+        "xpath": "//*[@id=\"sections\"]/section[11]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": -1039.359375,
+          "y": 7050.171875,
+          "width": 798.71875,
+          "height": 255.625
+        },
+        "fontSize": "46.72px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 163,
+            "b": 192,
+            "a": 1
+          },
+          "hex": "#00a3c0",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.04236442677981844
+        }
+      },
+      {
+        "text": "Start your Locum’s Nest journey today.",
+        "tag": "h2",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.has-section-divider.full-bleed-section.layout-engine-section.background-width--full-bleed.section-height--medium.content-width--wide.horizontal-alignment--center.vertical-alignment--middle.has-background.black:nth-of-type(13) > div.content-wrapper:nth-of-type(2) > div.content > div > div.fluid-engine.fe-64ae8128646bbe1f7aa8f1bd > div.fe-block.fe-block-293d6703f7e415248249:nth-of-type(1) > div.sqs-block.website-component-block.sqs-block-website-component.sqs-block-html.html-block > div.sqs-block-content > div.sqs-text-block-container > div.sqs-html-content > h2.preFade",
+        "xpath": "//*[@id=\"block-293d6703f7e415248249\"]/div[1]/div[1]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": 38.390625,
+          "y": 7784.515625,
+          "width": 648.984375,
+          "height": 109
+        },
+        "fontSize": "49.792px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 1
+          },
+          "hex": "#959595",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.32999999999999974
+        }
+      },
+      {
+        "text": "book a call",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 176, 206)",
+        "selector": "div.clearfix.site-wrapper:nth-of-type(5) > main.container > article.sections > section.page-section.has-section-divider.full-bleed-section.layout-engine-section.background-width--full-bleed.section-height--medium.content-width--wide.horizontal-alignment--center.vertical-alignment--middle.has-background.black:nth-of-type(13) > div.content-wrapper:nth-of-type(2) > div.content > div > div.fluid-engine.fe-64ae8128646bbe1f7aa8f1bd > div.fe-block.fe-block-23ad667c4d907df17b75:nth-of-type(2) > div.sqs-block.website-component-block.sqs-block-website-component.sqs-block-button.button-block > div.sqs-block-content > div.sqs-block-button-container.sqs-button-block-container-system_desktop.sqs-block-button-container--left.sqs-stretched.preFade > a.sqs-block-button-element--medium.sqs-button-element--primary.sqs-block-button-element",
+        "xpath": "//*[@id=\"yui_3_17_2_1_1785934383248_99\"]/a[1]",
+        "boundingRect": {
+          "x": 38.390625,
+          "y": 7943.8125,
+          "width": 195.53125,
+          "height": 57.71875
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 176,
+          "b": 206,
+          "a": 1
+        },
+        "contrastRatio": 2.59,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 157,
+            "a": 1
+          },
+          "hex": "#00809d",
+          "ratio": 4.59,
+          "property": "background-color",
+          "deltaE": 0.15236442677981854
+        }
+      }
+    ],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 266,
+      "passAA": 242,
+      "passAAA": 238,
+      "failAA": 24,
+      "failAAA": 24
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 24
+    },
+    "healthScore": 91,
+    "scannedAt": "2026-08-05T12:53:04.493Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 24 violation(s)
+

@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://oviva.com/global/en/about-us/",
+    "title": "About us | Oviva Group",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 163,
+      "passAA": 163,
+      "passAAA": 163,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-08-05T13:04:41.054Z"
+  }
+]

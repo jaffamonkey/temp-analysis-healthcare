@@ -1,0 +1,13 @@
+{
+  "job_id": "koahealth-20260805-124557",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/koahealth-20260805-124557/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/koahealth-20260805-124557/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/koahealth-20260805-124557/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/koahealth-20260805-124557/analysis/accessibility_analysis.xlsx",
+  "violations": 656,
+  "pages": 5,
+  "screenshots": {
+    "job_id": "koahealth-20260805-124557",
+    "message": "Artifacts processed"
+  }
+}

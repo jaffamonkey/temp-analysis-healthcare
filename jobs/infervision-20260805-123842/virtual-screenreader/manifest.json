@@ -1,0 +1,42 @@
+[
+  {
+    "page": "global.infervision.com",
+    "url": "https://global.infervision.com",
+    "title": "Infervision - Homepage",
+    "report": "global.infervision.com.json",
+    "line_count": 262,
+    "ok": true
+  },
+  {
+    "page": "global.infervision.com-products-general",
+    "url": "https://global.infervision.com/products/general",
+    "title": "Infervision - Product Overview",
+    "report": "global.infervision.com-products-general.json",
+    "line_count": 268,
+    "ok": true
+  },
+  {
+    "page": "global.infervision.com-products-inferread-ct-lung",
+    "url": "https://global.infervision.com/products/inferread-ct-lung",
+    "title": "InferRead CT Lung - AI for Lung CT Scans",
+    "report": "global.infervision.com-products-inferread-ct-lung.json",
+    "line_count": 226,
+    "ok": true
+  },
+  {
+    "page": "global.infervision.com-products-inferread-dr-chest",
+    "url": "https://global.infervision.com/products/inferread-dr-chest",
+    "title": "InferRead DR Chest - AI for Chest X-ray",
+    "report": "global.infervision.com-products-inferread-dr-chest.json",
+    "line_count": 145,
+    "ok": true
+  },
+  {
+    "page": "global.infervision.com-about-us",
+    "url": "https://global.infervision.com/about-us",
+    "title": "Infervision - Company | About Us",
+    "report": "global.infervision.com-about-us.json",
+    "line_count": 205,
+    "ok": true
+  }
+]

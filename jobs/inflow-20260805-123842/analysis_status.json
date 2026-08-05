@@ -1,0 +1,13 @@
+{
+  "job_id": "inflow-20260805-123842",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/inflow-20260805-123842/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/inflow-20260805-123842/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/inflow-20260805-123842/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/inflow-20260805-123842/analysis/accessibility_analysis.xlsx",
+  "violations": 941,
+  "pages": 5,
+  "screenshots": {
+    "job_id": "inflow-20260805-123842",
+    "message": "Artifacts processed"
+  }
+}

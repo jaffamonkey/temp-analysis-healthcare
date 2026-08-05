@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.careology.health/en-gb/solutions/patients",
+  "landed_url": "https://www.careology.health/en-gb/solutions/patients",
+  "title": "Transforming Cancer Care for Patients | Careology",
+  "page": "www.careology.health-en-gb-solutions-patients",
+  "captured_at": "2026-08-05T12:06:33.789Z",
+  "focusable_count": 34,
+  "frame_count": 1,
+  "same_origin_frame_count": 1,
+  "cross_origin_frame_count": 0,
+  "image": "www.careology.health-en-gb-solutions-patients.png",
+  "preview_image": "www.careology.health-en-gb-solutions-patients.png",
+  "preview_dir": "visual-preview",
+  "json": "www.careology.health-en-gb-solutions-patients.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Accept cookies"
+    }
+  ]
+}

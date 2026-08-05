@@ -1,0 +1,13 @@
+{
+  "job_id": "spill-20260723-184251-20260805-153758",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/spill-20260723-184251-20260805-153758/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/spill-20260723-184251-20260805-153758/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/spill-20260723-184251-20260805-153758/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/spill-20260723-184251-20260805-153758/analysis/accessibility_analysis.xlsx",
+  "violations": 371,
+  "pages": 4,
+  "screenshots": {
+    "job_id": "spill-20260723-184251-20260805-153758",
+    "message": "Artifacts processed"
+  }
+}

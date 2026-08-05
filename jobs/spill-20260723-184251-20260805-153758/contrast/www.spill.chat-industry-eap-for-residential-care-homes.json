@@ -1,0 +1,1850 @@
+[
+  {
+    "url": "https://www.spill.chat/industry/eap-for-residential-care-homes",
+    "title": "EAP for Residential care homes | Spill",
+    "pairs": [
+      {
+        "text": "Take a tour of our EAP product",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(1) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component > div.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdown_column:nth-of-type(1) > div.nav-dropdown_column-links:nth-of-type(2) > a.nav-dropdown-link.w-inline-block:nth-of-type(1) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "How Spill works for startups and small businesses",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(1) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component > div.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdown_column:nth-of-type(1) > div.nav-dropdown_column-links:nth-of-type(2) > a.nav-dropdown-link.w-inline-block:nth-of-type(2) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[1]/div[2]/div[1]/div[2]/a[2]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "How Spill works for hybrid and remote companies",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(1) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component > div.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdown_column:nth-of-type(1) > div.nav-dropdown_column-links:nth-of-type(2) > a.nav-dropdown-link.w-inline-block:nth-of-type(3) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[1]/div[2]/div[1]/div[2]/a[3]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Stop it from happening",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(1) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Build good behaviours",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(2) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Learn the pros and cons",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(3) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[3]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Make them 10/10",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(4) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[4]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Make an actual difference",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(5) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[5]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Support the big stuff",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(6) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[6]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Understand how to help",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(7) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[7]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Get the numbers",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(8) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[8]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "The story of Spill and our mission",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.hide.w-dropdown:nth-of-type(3) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-company > a.nav-dropdown-link.w-inline-block:nth-of-type(1) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-2\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Make an impact with your work",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.hide.w-dropdown:nth-of-type(3) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-company > a.nav-dropdown-link.w-inline-block:nth-of-type(2) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-2\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "1 October",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(246, 245, 249)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > div.padding-global:nth-of-type(4) > div.padding-section-medium > div.container-large:nth-of-type(2) > div.margin-bottom.margin-large:nth-of-type(1) > div.eap-4-col_layout > div.eap_testimonial-card:nth-of-type(1) > div.flex-gap-0-325:nth-of-type(3) > div.text-size-regular.text-color-light-grey:nth-of-type(2)",
+        "xpath": "/html/body/div[2]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[2]",
+        "boundingRect": {
+          "x": 243,
+          "y": 5058.828125,
+          "width": 67.875,
+          "height": 25.09375
+        },
+        "fontSize": "16.7314px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--ghost-white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 249,
+          "a": 1
+        },
+        "contrastRatio": 3.33,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 119,
+            "a": 1
+          },
+          "hex": "#6f6f77",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.07765218549608999
+        }
+      },
+      {
+        "text": "22 January",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(246, 245, 249)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > div.padding-global:nth-of-type(4) > div.padding-section-medium > div.container-large:nth-of-type(2) > div.margin-bottom.margin-large:nth-of-type(1) > div.eap-4-col_layout > div.eap_testimonial-card:nth-of-type(2) > div.flex-gap-0-325:nth-of-type(3) > div.text-size-regular.text-color-light-grey:nth-of-type(2)",
+        "xpath": "/html/body/div[2]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[2]",
+        "boundingRect": {
+          "x": 498.75,
+          "y": 5033.734375,
+          "width": 79.9375,
+          "height": 25.09375
+        },
+        "fontSize": "16.7314px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--ghost-white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 249,
+          "a": 1
+        },
+        "contrastRatio": 3.33,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 119,
+            "a": 1
+          },
+          "hex": "#6f6f77",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.07765218549608999
+        }
+      },
+      {
+        "text": "17 March",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(246, 245, 249)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > div.padding-global:nth-of-type(4) > div.padding-section-medium > div.container-large:nth-of-type(2) > div.margin-bottom.margin-large:nth-of-type(1) > div.eap-4-col_layout > div.eap_testimonial-card:nth-of-type(3) > div.margin-top.margin-auto:nth-of-type(3) > div.flex-gap-0-325 > div.text-size-regular.text-color-light-grey:nth-of-type(2)",
+        "xpath": "/html/body/div[2]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[3]/div[3]/div[1]/div[2]",
+        "boundingRect": {
+          "x": 774.5625,
+          "y": 5058.828125,
+          "width": 63.65625,
+          "height": 25.09375
+        },
+        "fontSize": "16.7314px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--ghost-white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 249,
+          "a": 1
+        },
+        "contrastRatio": 3.33,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 119,
+            "a": 1
+          },
+          "hex": "#6f6f77",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.07765218549608999
+        }
+      },
+      {
+        "text": "11 December",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(246, 245, 249)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > div.padding-global:nth-of-type(4) > div.padding-section-medium > div.container-large:nth-of-type(2) > div.margin-bottom.margin-large:nth-of-type(1) > div.eap-4-col_layout > div.eap_testimonial-card:nth-of-type(4) > div.margin-top.margin-auto:nth-of-type(3) > div.flex-gap-0-325 > div.text-size-regular.text-color-light-grey:nth-of-type(2)",
+        "xpath": "/html/body/div[2]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[4]/div[3]/div[1]/div[2]",
+        "boundingRect": {
+          "x": 971.375,
+          "y": 5058.828125,
+          "width": 90.484375,
+          "height": 25.09375
+        },
+        "fontSize": "16.7314px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--ghost-white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 249,
+          "a": 1
+        },
+        "contrastRatio": 3.33,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 119,
+            "a": 1
+          },
+          "hex": "#6f6f77",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.07765218549608999
+        }
+      }
+    ],
+    "violations": [
+      {
+        "text": "Take a tour of our EAP product",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(1) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component > div.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdown_column:nth-of-type(1) > div.nav-dropdown_column-links:nth-of-type(2) > a.nav-dropdown-link.w-inline-block:nth-of-type(1) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "How Spill works for startups and small businesses",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(1) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component > div.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdown_column:nth-of-type(1) > div.nav-dropdown_column-links:nth-of-type(2) > a.nav-dropdown-link.w-inline-block:nth-of-type(2) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[1]/div[2]/div[1]/div[2]/a[2]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "How Spill works for hybrid and remote companies",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(1) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component > div.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdown_column:nth-of-type(1) > div.nav-dropdown_column-links:nth-of-type(2) > a.nav-dropdown-link.w-inline-block:nth-of-type(3) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[1]/div[2]/div[1]/div[2]/a[3]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Stop it from happening",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(1) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Build good behaviours",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(2) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Learn the pros and cons",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(3) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[3]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Make them 10/10",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(4) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[4]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Make an actual difference",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(5) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[5]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Support the big stuff",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(6) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[6]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Understand how to help",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(7) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[7]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Get the numbers",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(8) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[8]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "The story of Spill and our mission",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.hide.w-dropdown:nth-of-type(3) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-company > a.nav-dropdown-link.w-inline-block:nth-of-type(1) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-2\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Make an impact with your work",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.hide.w-dropdown:nth-of-type(3) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-company > a.nav-dropdown-link.w-inline-block:nth-of-type(2) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+        "xpath": "//*[@id=\"w-dropdown-list-2\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]/div[2]/div[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "10.4571px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 126,
+            "a": 1
+          },
+          "hex": "#76767e",
+          "ratio": 4.5,
+          "property": "color",
+          "deltaE": 0.052652185496089965
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "1 October",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(246, 245, 249)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > div.padding-global:nth-of-type(4) > div.padding-section-medium > div.container-large:nth-of-type(2) > div.margin-bottom.margin-large:nth-of-type(1) > div.eap-4-col_layout > div.eap_testimonial-card:nth-of-type(1) > div.flex-gap-0-325:nth-of-type(3) > div.text-size-regular.text-color-light-grey:nth-of-type(2)",
+        "xpath": "/html/body/div[2]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[2]",
+        "boundingRect": {
+          "x": 243,
+          "y": 5058.828125,
+          "width": 67.875,
+          "height": 25.09375
+        },
+        "fontSize": "16.7314px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--ghost-white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 249,
+          "a": 1
+        },
+        "contrastRatio": 3.33,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 119,
+            "a": 1
+          },
+          "hex": "#6f6f77",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.07765218549608999
+        }
+      },
+      {
+        "text": "22 January",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(246, 245, 249)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > div.padding-global:nth-of-type(4) > div.padding-section-medium > div.container-large:nth-of-type(2) > div.margin-bottom.margin-large:nth-of-type(1) > div.eap-4-col_layout > div.eap_testimonial-card:nth-of-type(2) > div.flex-gap-0-325:nth-of-type(3) > div.text-size-regular.text-color-light-grey:nth-of-type(2)",
+        "xpath": "/html/body/div[2]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[2]",
+        "boundingRect": {
+          "x": 498.75,
+          "y": 5033.734375,
+          "width": 79.9375,
+          "height": 25.09375
+        },
+        "fontSize": "16.7314px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--ghost-white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 249,
+          "a": 1
+        },
+        "contrastRatio": 3.33,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 119,
+            "a": 1
+          },
+          "hex": "#6f6f77",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.07765218549608999
+        }
+      },
+      {
+        "text": "17 March",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(246, 245, 249)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > div.padding-global:nth-of-type(4) > div.padding-section-medium > div.container-large:nth-of-type(2) > div.margin-bottom.margin-large:nth-of-type(1) > div.eap-4-col_layout > div.eap_testimonial-card:nth-of-type(3) > div.margin-top.margin-auto:nth-of-type(3) > div.flex-gap-0-325 > div.text-size-regular.text-color-light-grey:nth-of-type(2)",
+        "xpath": "/html/body/div[2]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[3]/div[3]/div[1]/div[2]",
+        "boundingRect": {
+          "x": 774.5625,
+          "y": 5058.828125,
+          "width": 63.65625,
+          "height": 25.09375
+        },
+        "fontSize": "16.7314px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--ghost-white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 249,
+          "a": 1
+        },
+        "contrastRatio": 3.33,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 119,
+            "a": 1
+          },
+          "hex": "#6f6f77",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.07765218549608999
+        }
+      },
+      {
+        "text": "11 December",
+        "tag": "div",
+        "color": "rgb(134, 134, 142)",
+        "background": "rgb(246, 245, 249)",
+        "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > div.padding-global:nth-of-type(4) > div.padding-section-medium > div.container-large:nth-of-type(2) > div.margin-bottom.margin-large:nth-of-type(1) > div.eap-4-col_layout > div.eap_testimonial-card:nth-of-type(4) > div.margin-top.margin-auto:nth-of-type(3) > div.flex-gap-0-325 > div.text-size-regular.text-color-light-grey:nth-of-type(2)",
+        "xpath": "/html/body/div[2]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[4]/div[3]/div[1]/div[2]",
+        "boundingRect": {
+          "x": 971.375,
+          "y": 5058.828125,
+          "width": 90.484375,
+          "height": 25.09375
+        },
+        "fontSize": "16.7314px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--ghost-white",
+        "fgParsed": {
+          "r": 134,
+          "g": 134,
+          "b": 142,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 246,
+          "g": 245,
+          "b": 249,
+          "a": 1
+        },
+        "contrastRatio": 3.33,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 111,
+            "g": 111,
+            "b": 119,
+            "a": 1
+          },
+          "hex": "#6f6f77",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.07765218549608999
+        }
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--white",
+        "property": "background-color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#86868e",
+        "againstVariable": null,
+        "againstValue": "rgb(134, 134, 142)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 3.61,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 13,
+        "suggestedFix": {
+          "variable": "--white",
+          "newValue": "color(srgb 0.127 0.127 0.127)",
+          "newHex": "#202020",
+          "contrastRatio": 4.51,
+          "property": "background-color"
+        },
+        "instances": [
+          {
+            "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(1) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component > div.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdown_column:nth-of-type(1) > div.nav-dropdown_column-links:nth-of-type(2) > a.nav-dropdown-link.w-inline-block:nth-of-type(1) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+            "text": "Take a tour of our EAP product",
+            "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]"
+          },
+          {
+            "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(1) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component > div.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdown_column:nth-of-type(1) > div.nav-dropdown_column-links:nth-of-type(2) > a.nav-dropdown-link.w-inline-block:nth-of-type(2) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+            "text": "How Spill works for startups and small businesses",
+            "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[1]/div[2]/div[1]/div[2]/a[2]/div[2]/div[2]"
+          },
+          {
+            "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(1) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component > div.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdown_column:nth-of-type(1) > div.nav-dropdown_column-links:nth-of-type(2) > a.nav-dropdown-link.w-inline-block:nth-of-type(3) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+            "text": "How Spill works for hybrid and remote companies",
+            "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[1]/div[2]/div[1]/div[2]/a[3]/div[2]/div[2]"
+          },
+          {
+            "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(1) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+            "text": "Stop it from happening",
+            "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]"
+          },
+          {
+            "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(2) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+            "text": "Build good behaviours",
+            "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]/div[2]/div[2]"
+          },
+          {
+            "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(3) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+            "text": "Learn the pros and cons",
+            "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[3]/div[2]/div[2]"
+          },
+          {
+            "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(4) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+            "text": "Make them 10/10",
+            "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[4]/div[2]/div[2]"
+          },
+          {
+            "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(5) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+            "text": "Make an actual difference",
+            "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[5]/div[2]/div[2]"
+          },
+          {
+            "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(6) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+            "text": "Support the big stuff",
+            "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[6]/div[2]/div[2]"
+          },
+          {
+            "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(7) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+            "text": "Understand how to help",
+            "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[7]/div[2]/div[2]"
+          },
+          {
+            "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.w-dropdown:nth-of-type(2) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component-product > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-guides > a.nav-dropdown-link.w-inline-block:nth-of-type(8) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+            "text": "Get the numbers",
+            "xpath": "//*[@id=\"w-dropdown-list-1\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[8]/div[2]/div[2]"
+          },
+          {
+            "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.hide.w-dropdown:nth-of-type(3) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-company > a.nav-dropdown-link.w-inline-block:nth-of-type(1) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+            "text": "The story of Spill and our mission",
+            "xpath": "//*[@id=\"w-dropdown-list-2\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]"
+          },
+          {
+            "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > nav.nav > div.page-padding:nth-of-type(2) > div.container-large.is-nav > div.navbar-component > div.nav-mobile:nth-of-type(1) > div.nav-mobile-wrapper > div.container-large > div.page-padding > div.nav-mobile_component > div.navbar-links:nth-of-type(1) > div.nav-dropdown.hide.w-dropdown:nth-of-type(3) > nav.nav-dropdown-list.w-dropdown-list > div.nav-dropdown-container > div.nav-dropdown-component > div.nav-dropdown-cols.nav-dropdown_columns:nth-of-type(2) > div.nav-dropdwon-col > div.nav-dropdown-links.is-company > a.nav-dropdown-link.w-inline-block:nth-of-type(2) > div.nav-dropdown-link-info:nth-of-type(2) > div.nav-dropdown-link-desc:nth-of-type(2)",
+            "text": "Make an impact with your work",
+            "xpath": "//*[@id=\"w-dropdown-list-2\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]/div[2]/div[2]"
+          }
+        ]
+      },
+      {
+        "variable": "--ghost-white",
+        "property": "background-color",
+        "currentValue": "rgb(246, 245, 249)",
+        "currentHex": "#86868e",
+        "againstVariable": null,
+        "againstValue": "rgb(134, 134, 142)",
+        "againstHex": "#f6f5f9",
+        "contrastRatio": 3.33,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 4,
+        "suggestedFix": {
+          "variable": "--ghost-white",
+          "newValue": "color(srgb 0.123 0.12 0.131)",
+          "newHex": "#1f1f22",
+          "contrastRatio": 4.55,
+          "property": "background-color"
+        },
+        "instances": [
+          {
+            "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > div.padding-global:nth-of-type(4) > div.padding-section-medium > div.container-large:nth-of-type(2) > div.margin-bottom.margin-large:nth-of-type(1) > div.eap-4-col_layout > div.eap_testimonial-card:nth-of-type(1) > div.flex-gap-0-325:nth-of-type(3) > div.text-size-regular.text-color-light-grey:nth-of-type(2)",
+            "text": "1 October",
+            "xpath": "/html/body/div[2]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[2]"
+          },
+          {
+            "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > div.padding-global:nth-of-type(4) > div.padding-section-medium > div.container-large:nth-of-type(2) > div.margin-bottom.margin-large:nth-of-type(1) > div.eap-4-col_layout > div.eap_testimonial-card:nth-of-type(2) > div.flex-gap-0-325:nth-of-type(3) > div.text-size-regular.text-color-light-grey:nth-of-type(2)",
+            "text": "22 January",
+            "xpath": "/html/body/div[2]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[2]"
+          },
+          {
+            "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > div.padding-global:nth-of-type(4) > div.padding-section-medium > div.container-large:nth-of-type(2) > div.margin-bottom.margin-large:nth-of-type(1) > div.eap-4-col_layout > div.eap_testimonial-card:nth-of-type(3) > div.margin-top.margin-auto:nth-of-type(3) > div.flex-gap-0-325 > div.text-size-regular.text-color-light-grey:nth-of-type(2)",
+            "text": "17 March",
+            "xpath": "/html/body/div[2]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[3]/div[3]/div[1]/div[2]"
+          },
+          {
+            "selector": "div.page-wrapper:nth-of-type(2) > main.main-wrapper > div.padding-global:nth-of-type(4) > div.padding-section-medium > div.container-large:nth-of-type(2) > div.margin-bottom.margin-large:nth-of-type(1) > div.eap-4-col_layout > div.eap_testimonial-card:nth-of-type(4) > div.margin-top.margin-auto:nth-of-type(3) > div.flex-gap-0-325 > div.text-size-regular.text-color-light-grey:nth-of-type(2)",
+            "text": "11 December",
+            "xpath": "/html/body/div[2]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[4]/div[3]/div[1]/div[2]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 177,
+      "passAA": 160,
+      "passAAA": 135,
+      "failAA": 17,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 2,
+      "affectedElements": 17,
+      "oneOffIssues": 0
+    },
+    "healthScore": 90,
+    "scannedAt": "2026-08-05T15:44:14.681Z"
+  }
+]

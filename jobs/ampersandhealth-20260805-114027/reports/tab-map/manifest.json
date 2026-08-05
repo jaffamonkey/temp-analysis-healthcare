@@ -1,0 +1,107 @@
+[
+  {
+    "tool": "tab-map",
+    "url": "https://ampersandhealth.co.uk/about-us/",
+    "landed_url": "https://ampersandhealth.co.uk/about-us/",
+    "title": "About Us: Ampersand Health",
+    "page": "ampersandhealth.co.uk-about-us",
+    "captured_at": "2026-08-05T11:47:08.978Z",
+    "focusable_count": 52,
+    "frame_count": 2,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 1,
+    "image": "ampersandhealth.co.uk-about-us.png",
+    "preview_image": "ampersandhealth.co.uk-about-us.png",
+    "preview_dir": "visual-preview",
+    "json": "ampersandhealth.co.uk-about-us.json",
+    "consent_actions": []
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://ampersandhealth.co.uk",
+    "landed_url": "https://ampersandhealth.co.uk/",
+    "title": "Ampersand Health: Digital Therapy for Inflammatory Conditions",
+    "page": "ampersandhealth.co.uk",
+    "captured_at": "2026-08-05T11:47:08.976Z",
+    "focusable_count": 71,
+    "frame_count": 3,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 2,
+    "image": "ampersandhealth.co.uk.png",
+    "preview_image": "ampersandhealth.co.uk.png",
+    "preview_dir": "visual-preview",
+    "json": "ampersandhealth.co.uk.json",
+    "consent_actions": [
+      {
+        "action": "removed",
+        "detail": "2 overlay(s)"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://ampersandhealth.co.uk/privacy-policy/",
+    "landed_url": "https://ampersandhealth.co.uk/privacy-policy/",
+    "title": "Website Privacy Policy | Ampersand Health",
+    "page": "ampersandhealth.co.uk-privacy-policy",
+    "captured_at": "2026-08-05T11:47:37.164Z",
+    "focusable_count": 43,
+    "frame_count": 2,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 1,
+    "image": "ampersandhealth.co.uk-privacy-policy.png",
+    "preview_image": "ampersandhealth.co.uk-privacy-policy.png",
+    "preview_dir": "visual-preview",
+    "json": "ampersandhealth.co.uk-privacy-policy.json",
+    "consent_actions": [
+      {
+        "action": "removed",
+        "detail": "2 overlay(s)"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://ampersandhealth.co.uk/team-page/",
+    "landed_url": "https://ampersandhealth.co.uk/team-page/",
+    "title": "Team page | Ampersand Health",
+    "page": "ampersandhealth.co.uk-team-page",
+    "captured_at": "2026-08-05T11:47:37.165Z",
+    "focusable_count": 52,
+    "frame_count": 2,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 1,
+    "image": "ampersandhealth.co.uk-team-page.png",
+    "preview_image": "ampersandhealth.co.uk-team-page.png",
+    "preview_dir": "visual-preview",
+    "json": "ampersandhealth.co.uk-team-page.json",
+    "consent_actions": [
+      {
+        "action": "removed",
+        "detail": "2 overlay(s)"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://ampersandhealth.co.uk/clinicians/",
+    "landed_url": "https://ampersandhealth.co.uk/clinicians/",
+    "title": "Ampersand Health for Clinicians",
+    "page": "ampersandhealth.co.uk-clinicians",
+    "captured_at": "2026-08-05T11:47:43.969Z",
+    "focusable_count": 62,
+    "frame_count": 4,
+    "same_origin_frame_count": 2,
+    "cross_origin_frame_count": 2,
+    "image": "ampersandhealth.co.uk-clinicians.png",
+    "preview_image": "ampersandhealth.co.uk-clinicians.png",
+    "preview_dir": "visual-preview",
+    "json": "ampersandhealth.co.uk-clinicians.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      }
+    ]
+  }
+]

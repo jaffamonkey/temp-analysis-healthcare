@@ -1,0 +1,13 @@
+{
+  "job_id": "virahealth-20260725-231231-20260805-154758",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/virahealth-20260725-231231-20260805-154758/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/virahealth-20260725-231231-20260805-154758/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/virahealth-20260725-231231-20260805-154758/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/virahealth-20260725-231231-20260805-154758/analysis/accessibility_analysis.xlsx",
+  "violations": 717,
+  "pages": 5,
+  "screenshots": {
+    "job_id": "virahealth-20260725-231231-20260805-154758",
+    "message": "Artifacts processed"
+  }
+}

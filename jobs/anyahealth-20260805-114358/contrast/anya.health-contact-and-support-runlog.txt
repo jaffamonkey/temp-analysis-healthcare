@@ -1,0 +1,36 @@
+Starting contrast check for https://anya.health/contact-and-support/
+
+--- STDOUT ---
+ℹ Scanning: https://anya.health/contact-and-support/
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://anya.health/contact-and-support/
+[
+  {
+    "url": "https://anya.health/contact-and-support/",
+    "title": "Contact And Support - Anya",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 86,
+      "passAA": 86,
+      "passAAA": 85,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-08-05T11:46:31.523Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+

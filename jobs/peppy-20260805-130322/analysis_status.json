@@ -1,0 +1,13 @@
+{
+  "job_id": "peppy-20260805-130322",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/peppy-20260805-130322/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/peppy-20260805-130322/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/peppy-20260805-130322/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/peppy-20260805-130322/analysis/accessibility_analysis.xlsx",
+  "violations": 671,
+  "pages": 4,
+  "screenshots": {
+    "job_id": "peppy-20260805-130322",
+    "message": "Artifacts processed"
+  }
+}

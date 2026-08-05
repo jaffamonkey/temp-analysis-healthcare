@@ -1,0 +1,90 @@
+[
+  {
+    "tool": "tab-map",
+    "url": "https://www.healthhero.com/",
+    "landed_url": "https://www.healthhero.com/",
+    "title": "HealthHero | Europe’s Largest Digital-First Clinic – 30M+ Served",
+    "page": "www.healthhero.com",
+    "captured_at": "2026-08-05T12:27:20.095Z",
+    "focusable_count": 38,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "www.healthhero.com.png",
+    "preview_image": "www.healthhero.com.png",
+    "preview_dir": "visual-preview",
+    "json": "www.healthhero.com.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.healthhero.com/company",
+    "landed_url": "https://www.healthhero.com/company",
+    "title": "About HealthHero | Europe’s Leading Digital Healthcare Provider",
+    "page": "www.healthhero.com-company",
+    "captured_at": "2026-08-05T12:27:20.113Z",
+    "focusable_count": 15,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "www.healthhero.com-company.png",
+    "preview_image": "www.healthhero.com-company.png",
+    "preview_dir": "visual-preview",
+    "json": "www.healthhero.com-company.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.healthhero.com/contact-us",
+    "landed_url": "https://www.healthhero.com/contact-us",
+    "title": "Contact us | HealthHero",
+    "page": "www.healthhero.com-contact-us",
+    "captured_at": "2026-08-05T12:27:29.525Z",
+    "focusable_count": 20,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "www.healthhero.com-contact-us.png",
+    "preview_image": "www.healthhero.com-contact-us.png",
+    "preview_dir": "visual-preview",
+    "json": "www.healthhero.com-contact-us.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.healthhero.com/privacy-policy",
+    "landed_url": "https://www.healthhero.com/privacy-policy",
+    "title": "GP Privacy Policy - HealthHero",
+    "page": "www.healthhero.com-privacy-policy",
+    "captured_at": "2026-08-05T12:27:29.525Z",
+    "focusable_count": 25,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "www.healthhero.com-privacy-policy.png",
+    "preview_image": "www.healthhero.com-privacy-policy.png",
+    "preview_dir": "visual-preview",
+    "json": "www.healthhero.com-privacy-policy.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      }
+    ]
+  }
+]

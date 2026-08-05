@@ -1,0 +1,106 @@
+[
+  {
+    "tool": "tab-map",
+    "url": "https://dr-julian.com/about-us/",
+    "landed_url": "https://dr-julian.com/about-us/",
+    "title": "About Us - Dr-Julian | Helping people feel better, faster",
+    "page": "dr-julian.com-about-us",
+    "captured_at": "2026-08-05T12:09:30.033Z",
+    "focusable_count": 47,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "dr-julian.com-about-us.png",
+    "preview_image": "dr-julian.com-about-us.png",
+    "preview_dir": "visual-preview",
+    "json": "dr-julian.com-about-us.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      },
+      {
+        "action": "removed",
+        "detail": "1 overlay(s)"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://dr-julian.com",
+    "landed_url": "https://dr-julian.com/",
+    "title": "Dr-Julian | Clinical care and mental healthcare infrastructure",
+    "page": "dr-julian.com",
+    "captured_at": "2026-08-05T12:09:30.086Z",
+    "focusable_count": 63,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "dr-julian.com.png",
+    "preview_image": "dr-julian.com.png",
+    "preview_dir": "visual-preview",
+    "json": "dr-julian.com.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      },
+      {
+        "action": "removed",
+        "detail": "1 overlay(s)"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://dr-julian.com/contact/",
+    "landed_url": "https://dr-julian.com/contact/",
+    "title": "Contact | Dr-Julian Medical Group",
+    "page": "dr-julian.com-contact",
+    "captured_at": "2026-08-05T12:09:41.118Z",
+    "focusable_count": 56,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "dr-julian.com-contact.png",
+    "preview_image": "dr-julian.com-contact.png",
+    "preview_dir": "visual-preview",
+    "json": "dr-julian.com-contact.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      },
+      {
+        "action": "removed",
+        "detail": "1 overlay(s)"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://dr-julian.com/privacy-policy/",
+    "landed_url": "https://dr-julian.com/privacy-policy/",
+    "title": "Privacy Policy - Dr-Julian | Helping people feel better, faster",
+    "page": "dr-julian.com-privacy-policy",
+    "captured_at": "2026-08-05T12:09:41.162Z",
+    "focusable_count": 47,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "dr-julian.com-privacy-policy.png",
+    "preview_image": "dr-julian.com-privacy-policy.png",
+    "preview_dir": "visual-preview",
+    "json": "dr-julian.com-privacy-policy.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      },
+      {
+        "action": "removed",
+        "detail": "1 overlay(s)"
+      }
+    ]
+  }
+]

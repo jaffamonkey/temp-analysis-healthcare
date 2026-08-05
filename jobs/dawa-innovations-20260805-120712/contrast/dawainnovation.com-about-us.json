@@ -1,0 +1,283 @@
+[
+  {
+    "url": "https://dawainnovation.com/about-us/",
+    "title": "ABOUT US – DAWA INNOVATIONS",
+    "pairs": [
+      {
+        "text": "A mobile app Gift Guardian",
+        "tag": "h4",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.site:nth-of-type(1) > div.site-content:nth-of-type(2) > div.content-inner > div.container.content-container > div.row.content-row > div.content-area.content-full-width.col-12 > main.site-main > article.post-3491.page.type-page.status-publish.hentry > div.entry-content.clearfix > div.elementor.elementor-3491 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-57ad4e3d.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(6) > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-1f2994b9 > div.elementor-column-wrap.elementor-element-populated > div.elementor-widget-wrap > div.elementor-element.elementor-element-34183967.elementor-widget.elementor-widget-ct_tab_banner > div.elementor-widget-container > div.ct-tabs.ct-tab-banner1 > div.ct-tabs-title:nth-of-type(1) > div.ct-tab-title.active:nth-of-type(1) > h4",
+        "xpath": "//*[@id=\"post-3491\"]/div[1]/div[1]/section[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]",
+        "boundingRect": {
+          "x": 85,
+          "y": 5470.78125,
+          "width": 354.09375,
+          "height": 26.390625
+        },
+        "fontSize": "22px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--white",
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 1
+          },
+          "hex": "#959595",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.32999999999999974
+        }
+      },
+      {
+        "text": "• A mobile app Gift Guardian that enables vital signs tracking, medication management, and secure co...",
+        "tag": "p",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.site:nth-of-type(1) > div.site-content:nth-of-type(2) > div.content-inner > div.container.content-container > div.row.content-row > div.content-area.content-full-width.col-12 > main.site-main > article.post-3491.page.type-page.status-publish.hentry > div.entry-content.clearfix > div.elementor.elementor-3491 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-57ad4e3d.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(6) > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-1f2994b9 > div.elementor-column-wrap.elementor-element-populated > div.elementor-widget-wrap > div.elementor-element.elementor-element-34183967.elementor-widget.elementor-widget-ct_tab_banner > div.elementor-widget-container > div.ct-tabs.ct-tab-banner1 > div.ct-tabs-title:nth-of-type(1) > div.ct-tab-title.active:nth-of-type(1) > p:nth-of-type(2)",
+        "xpath": "//*[@id=\"post-3491\"]/div[1]/div[1]/section[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[2]",
+        "boundingRect": {
+          "x": 85,
+          "y": 5513.171875,
+          "width": 354.09375,
+          "height": 96
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--white",
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      }
+    ],
+    "violations": [
+      {
+        "text": "A mobile app Gift Guardian",
+        "tag": "h4",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.site:nth-of-type(1) > div.site-content:nth-of-type(2) > div.content-inner > div.container.content-container > div.row.content-row > div.content-area.content-full-width.col-12 > main.site-main > article.post-3491.page.type-page.status-publish.hentry > div.entry-content.clearfix > div.elementor.elementor-3491 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-57ad4e3d.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(6) > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-1f2994b9 > div.elementor-column-wrap.elementor-element-populated > div.elementor-widget-wrap > div.elementor-element.elementor-element-34183967.elementor-widget.elementor-widget-ct_tab_banner > div.elementor-widget-container > div.ct-tabs.ct-tab-banner1 > div.ct-tabs-title:nth-of-type(1) > div.ct-tab-title.active:nth-of-type(1) > h4",
+        "xpath": "//*[@id=\"post-3491\"]/div[1]/div[1]/section[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]",
+        "boundingRect": {
+          "x": 85,
+          "y": 5470.78125,
+          "width": 354.09375,
+          "height": 26.390625
+        },
+        "fontSize": "22px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--white",
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 1
+          },
+          "hex": "#959595",
+          "ratio": 3,
+          "property": "color",
+          "deltaE": 0.32999999999999974
+        }
+      },
+      {
+        "text": "• A mobile app Gift Guardian that enables vital signs tracking, medication management, and secure co...",
+        "tag": "p",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.site:nth-of-type(1) > div.site-content:nth-of-type(2) > div.content-inner > div.container.content-container > div.row.content-row > div.content-area.content-full-width.col-12 > main.site-main > article.post-3491.page.type-page.status-publish.hentry > div.entry-content.clearfix > div.elementor.elementor-3491 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-57ad4e3d.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(6) > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-1f2994b9 > div.elementor-column-wrap.elementor-element-populated > div.elementor-widget-wrap > div.elementor-element.elementor-element-34183967.elementor-widget.elementor-widget-ct_tab_banner > div.elementor-widget-container > div.ct-tabs.ct-tab-banner1 > div.ct-tabs-title:nth-of-type(1) > div.ct-tab-title.active:nth-of-type(1) > p:nth-of-type(2)",
+        "xpath": "//*[@id=\"post-3491\"]/div[1]/div[1]/section[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[2]",
+        "boundingRect": {
+          "x": 85,
+          "y": 5513.171875,
+          "width": 354.09375,
+          "height": 96
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--white",
+        "bgVar": "--white",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--white",
+        "property": "color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#ffffff",
+        "againstVariable": "--white",
+        "againstValue": "rgb(255, 255, 255)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--white",
+          "newValue": "color(srgb 0.585 0.585 0.585)",
+          "newHex": "#959595",
+          "contrastRatio": 3,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.site:nth-of-type(1) > div.site-content:nth-of-type(2) > div.content-inner > div.container.content-container > div.row.content-row > div.content-area.content-full-width.col-12 > main.site-main > article.post-3491.page.type-page.status-publish.hentry > div.entry-content.clearfix > div.elementor.elementor-3491 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-57ad4e3d.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(6) > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-1f2994b9 > div.elementor-column-wrap.elementor-element-populated > div.elementor-widget-wrap > div.elementor-element.elementor-element-34183967.elementor-widget.elementor-widget-ct_tab_banner > div.elementor-widget-container > div.ct-tabs.ct-tab-banner1 > div.ct-tabs-title:nth-of-type(1) > div.ct-tab-title.active:nth-of-type(1) > h4",
+            "text": "A mobile app Gift Guardian",
+            "xpath": "//*[@id=\"post-3491\"]/div[1]/div[1]/section[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--white",
+        "property": "color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#ffffff",
+        "againstVariable": "--white",
+        "againstValue": "rgb(255, 255, 255)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--white",
+          "newValue": "color(srgb 0.462 0.462 0.462)",
+          "newHex": "#767676",
+          "contrastRatio": 4.54,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.site:nth-of-type(1) > div.site-content:nth-of-type(2) > div.content-inner > div.container.content-container > div.row.content-row > div.content-area.content-full-width.col-12 > main.site-main > article.post-3491.page.type-page.status-publish.hentry > div.entry-content.clearfix > div.elementor.elementor-3491 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-57ad4e3d.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(6) > div.elementor-container.elementor-column-gap-default > div.elementor-row > div.elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-1f2994b9 > div.elementor-column-wrap.elementor-element-populated > div.elementor-widget-wrap > div.elementor-element.elementor-element-34183967.elementor-widget.elementor-widget-ct_tab_banner > div.elementor-widget-container > div.ct-tabs.ct-tab-banner1 > div.ct-tabs-title:nth-of-type(1) > div.ct-tab-title.active:nth-of-type(1) > p:nth-of-type(2)",
+            "text": "• A mobile app Gift Guardian that enables vital signs tracking, medication management, and secure co...",
+            "xpath": "//*[@id=\"post-3491\"]/div[1]/div[1]/section[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[2]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 32,
+      "passAA": 30,
+      "passAAA": 30,
+      "failAA": 2,
+      "failAAA": 2
+    },
+    "variableStats": {
+      "uniqueIssues": 2,
+      "affectedElements": 2,
+      "oneOffIssues": 0
+    },
+    "healthScore": 94,
+    "scannedAt": "2026-08-05T12:10:52.403Z"
+  }
+]

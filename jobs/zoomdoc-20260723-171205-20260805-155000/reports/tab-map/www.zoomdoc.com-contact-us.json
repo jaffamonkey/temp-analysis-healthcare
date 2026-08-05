@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.zoomdoc.com/contact-us",
+  "landed_url": "https://www.zoomdoc.com/contact-us",
+  "title": "Contact Us - ZoomDoc Health",
+  "page": "www.zoomdoc.com-contact-us",
+  "captured_at": "2026-08-05T15:53:37.950Z",
+  "focusable_count": 53,
+  "frame_count": 2,
+  "same_origin_frame_count": 1,
+  "cross_origin_frame_count": 1,
+  "image": "www.zoomdoc.com-contact-us.png",
+  "preview_image": "www.zoomdoc.com-contact-us.png",
+  "preview_dir": "visual-preview",
+  "json": "www.zoomdoc.com-contact-us.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Accept All"
+    }
+  ]
+}

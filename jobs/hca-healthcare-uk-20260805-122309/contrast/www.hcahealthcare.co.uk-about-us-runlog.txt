@@ -1,0 +1,2233 @@
+Starting contrast check for https://www.hcahealthcare.co.uk/about-us
+
+--- STDOUT ---
+ℹ Scanning: https://www.hcahealthcare.co.uk/about-us
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://www.hcahealthcare.co.uk/about-us
+[
+  {
+    "url": "https://www.hcahealthcare.co.uk/about-us",
+    "title": "About HCA UK",
+    "pairs": [
+      {
+        "text": "View all",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 233, 192)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(2) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-4:nth-of-type(1) > div.AdvancedBlockHeader-module-scss-module__vZUiKG__wrapper.AdvancedBlockHeader-module-scss-module__vZUiKG__none > div.AdvancedBlockHeader-module-scss-module__vZUiKG__ctas:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a",
+        "xpath": "//*[@id=\"navigation-tab-0\"]/div[1]/div[1]/div[3]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 233,
+          "b": 192,
+          "a": 1
+        },
+        "contrastRatio": 1.19,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 135,
+            "g": 115,
+            "b": 78,
+            "a": 1
+          },
+          "hex": "#87734e",
+          "ratio": 4.57,
+          "property": "background-color",
+          "deltaE": 0.3766472316641932
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJUlEQVR4nOzLMQ0AAAwCMLJM6ETsxzoaOEno3+UfHANTQ0NOEAAAAP//mNizRQAAAAZJREFUAwBJJQF2zoUdmgAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Learn more",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(4) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-3:nth-of-type(2) > div.CardNavigation-module-scss-module__Ud0Jwq__wrapper > div.CardNavigation-module-scss-module__Ud0Jwq__text-content > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__small.Button-module-scss-module__cTRnSq__full > a",
+        "xpath": "//*[@id=\"navigation-tab-1\"]/div[2]/div[1]/div[1]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJUlEQVR4nOzLMQ0AAAwCMLJM6ETsxzoaOEno3+UfHANTQ0NOEAAAAP//mNizRQAAAAZJREFUAwBJJQF2zoUdmgAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "View all locations",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 233, 192)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(7) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-6:nth-of-type(1) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a",
+        "xpath": "//*[@id=\"navigation-tab-3\"]/div[1]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 233,
+          "b": 192,
+          "a": 1
+        },
+        "contrastRatio": 1.19,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 135,
+            "g": 115,
+            "b": 78,
+            "a": 1
+          },
+          "hex": "#87734e",
+          "ratio": 4.57,
+          "property": "background-color",
+          "deltaE": 0.3766472316641932
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJUlEQVR4nOzLMQ0AAAwCMLJM6ETsxzoaOEno3+UfHANTQ0NOEAAAAP//mNizRQAAAAZJREFUAwBJJQF2zoUdmgAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Latest news",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 233, 192)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(9) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-3:nth-of-type(2) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a",
+        "xpath": "//*[@id=\"navigation-tab-4\"]/div[2]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 233,
+          "b": 192,
+          "a": 1
+        },
+        "contrastRatio": 1.19,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 135,
+            "g": 115,
+            "b": 78,
+            "a": 1
+          },
+          "hex": "#87734e",
+          "ratio": 4.57,
+          "property": "background-color",
+          "deltaE": 0.3766472316641932
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJUlEQVR4nOzLMQ0AAAwCMLJM6ETsxzoaOEno3+UfHANTQ0NOEAAAAP//mNizRQAAAAZJREFUAwBJJQF2zoUdmgAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "View our treatments and services",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > span",
+        "xpath": "//*[@id=\"hca-healthcare-in-the-uk\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 798.328125,
+          "y": 1594.40625,
+          "width": 244.28125,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Find a",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(231, 241, 231)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__K-HCA-Fern-20:nth-of-type(3) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container.ImageAndTextBlock-module-scss-module__Pgiceq__image-right > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__K-HCA-Fern-20:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > div",
+        "xpath": "//*[@id=\"world-class-clinicians\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/div[1]",
+        "boundingRect": {
+          "x": 177,
+          "y": 2305.609375,
+          "width": 125.484375,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 231,
+          "g": 241,
+          "b": 231,
+          "a": 1
+        },
+        "contrastRatio": 1.16,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 121,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707970",
+          "ratio": 4.51,
+          "property": "background-color",
+          "deltaE": 0.382858314796897
+        }
+      },
+      {
+        "text": "consultant",
+        "tag": "b",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(231, 241, 231)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__K-HCA-Fern-20:nth-of-type(3) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container.ImageAndTextBlock-module-scss-module__Pgiceq__image-right > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__K-HCA-Fern-20:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > div > b",
+        "xpath": "//*[@id=\"world-class-clinicians\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/div[1]/b[1]",
+        "boundingRect": {
+          "x": 225.359375,
+          "y": 2307.609375,
+          "width": 77.125,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 231,
+          "g": 241,
+          "b": 231,
+          "a": 1
+        },
+        "contrastRatio": 1.16,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 121,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707970",
+          "ratio": 4.51,
+          "property": "background-color",
+          "deltaE": 0.382858314796897
+        }
+      },
+      {
+        "text": "Find out more about our ethos",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(5) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full:nth-of-type(1) > a > span",
+        "xpath": "//*[@id=\"caring-for-you-like-family\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 798.328125,
+          "y": 3392.015625,
+          "width": 224.046875,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Our staff share their experiences and stories of working at HCA UK",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(5) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full:nth-of-type(2) > a > span",
+        "xpath": "//*[@id=\"caring-for-you-like-family\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 798.328125,
+          "y": 3461.015625,
+          "width": 336.671875,
+          "height": 48
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "More about our range of advanced medical technology",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(7) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > span",
+        "xpath": "//*[@id=\"investment-in-innovation\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 798.328125,
+          "y": 4812.625,
+          "width": 336.671875,
+          "height": 48
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Learn more",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(254, 248, 245)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(9) > div.CardBlock-module-scss-module__-yBTQa__wrapper > div.CardBlock-module-scss-module__-yBTQa__block > div.CardBlock-module-scss-module__-yBTQa__grid.CardBlock-module-scss-module__-yBTQa__variation-3-columns:nth-of-type(1) > div.CardContent-module-scss-module__VYw5bG__card:nth-of-type(2) > div.CardContent-module-scss-module__VYw5bG__card-info:nth-of-type(2) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__small.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__card:nth-of-type(2) > a > div",
+        "xpath": "//*[@id=\"a-different-kind-of-healthcare-company\"]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/a[1]/div[1]",
+        "boundingRect": {
+          "x": 161,
+          "y": 6757.453125,
+          "width": 84.109375,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 254,
+          "g": 248,
+          "b": 245,
+          "a": 1
+        },
+        "contrastRatio": 1.05,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 122,
+            "g": 117,
+            "b": 114,
+            "a": 1
+          },
+          "hex": "#7a7572",
+          "ratio": 4.55,
+          "property": "background-color",
+          "deltaE": 0.4179196875995451
+        }
+      },
+      {
+        "text": "More about our HCA Story",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(9) > div.CardBlock-module-scss-module__-yBTQa__wrapper > div.CardBlock-module-scss-module__-yBTQa__block > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.CardBlock-module-scss-module__-yBTQa__cta > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > div",
+        "xpath": "//*[@id=\"a-different-kind-of-healthcare-company\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]/div[1]",
+        "boundingRect": {
+          "x": 145,
+          "y": 6898.453125,
+          "width": 197.703125,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Book an",
+        "tag": "span",
+        "color": "rgb(12, 33, 65)",
+        "background": "rgb(12, 33, 65)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__B-HCA-Navy-Blue:nth-of-type(1) > div.StickyCTA-module-scss-module__-yjuBq__wrapper.StickyCTA-module-scss-module__-yjuBq__hidden > div.StickyCTA-module-scss-module__-yjuBq__cta:nth-of-type(2) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > button > span:nth-of-type(2)",
+        "xpath": "//*[@id=\"footer\"]/div[1]/div[1]/div[2]/div[1]/button[1]/span[2]",
+        "boundingRect": {
+          "x": 1020.15625,
+          "y": 672,
+          "width": 156.84375,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--spacing-1",
+        "bgVar": "--spacing-1",
+        "fgParsed": {
+          "r": 12,
+          "g": 33,
+          "b": 65,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 12,
+          "g": 33,
+          "b": 65,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 138,
+            "b": 178,
+            "a": 1
+          },
+          "hex": "#718ab2",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.3793745069451022
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "appointment",
+        "tag": "strong",
+        "color": "rgb(12, 33, 65)",
+        "background": "rgb(12, 33, 65)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__B-HCA-Navy-Blue:nth-of-type(1) > div.StickyCTA-module-scss-module__-yjuBq__wrapper.StickyCTA-module-scss-module__-yjuBq__hidden > div.StickyCTA-module-scss-module__-yjuBq__cta:nth-of-type(2) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > button > span:nth-of-type(2) > strong",
+        "xpath": "//*[@id=\"footer\"]/div[1]/div[1]/div[2]/div[1]/button[1]/span[2]/strong[1]",
+        "boundingRect": {
+          "x": 1082.671875,
+          "y": 674,
+          "width": 94.328125,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--spacing-1",
+        "bgVar": "--spacing-1",
+        "fgParsed": {
+          "r": 12,
+          "g": 33,
+          "b": 65,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 12,
+          "g": 33,
+          "b": 65,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 138,
+            "b": 178,
+            "a": 1
+          },
+          "hex": "#718ab2",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.3793745069451022
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Book",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel1:nth-of-type(1) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2)",
+        "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]/span[2]",
+        "boundingRect": {
+          "x": 251.21875,
+          "y": 1123,
+          "width": 156.203125,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "an appointment",
+        "tag": "b",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel1:nth-of-type(1) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2) > b",
+        "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]/span[2]/b[1]",
+        "boundingRect": {
+          "x": 292.34375,
+          "y": 1125,
+          "width": 115.078125,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Book a",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel2:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2)",
+        "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[3]/div[1]/a[1]/span[2]",
+        "boundingRect": {
+          "x": 895.25,
+          "y": 1099,
+          "width": 174.828125,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "GP",
+        "tag": "b",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel2:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2) > b",
+        "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[3]/div[1]/a[1]/span[2]/b[1]",
+        "boundingRect": {
+          "x": 948.5625,
+          "y": 1101,
+          "width": 22.296875,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "appointment",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel2:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2)",
+        "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[3]/div[1]/a[1]/span[2]",
+        "boundingRect": {
+          "x": 895.25,
+          "y": 1099,
+          "width": 174.828125,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Filter Icon",
+        "tag": "title",
+        "color": "rgb(85, 85, 85)",
+        "background": "rgb(56, 96, 190)",
+        "selector": "div:nth-of-type(6) > div.otPcPanel.ot-hide.ot-fade-in:nth-of-type(3) > div > section.ot-hide.ot-pc-scrollbar > div > div.ot-lst-subhdr:nth-of-type(2) > div.ot-fltr-cntr:nth-of-type(2) > button > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"filter-btn-handler\"]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--iti-arrow-color",
+        "fgParsed": {
+          "r": 85,
+          "g": 85,
+          "b": 85,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 56,
+          "g": 96,
+          "b": 190,
+          "a": 1
+        },
+        "contrastRatio": 1.27,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 158,
+            "g": 206,
+            "b": 255,
+            "a": 1
+          },
+          "hex": "#9eceff",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.3481465089931902
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJUlEQVR4nOzLMQ0AAAwCMLJM6ETsxzoaOEno3+UfHANTQ0NOEAAAAP//mNizRQAAAAZJREFUAwBJJQF2zoUdmgAAAABJRU5ErkJggg=="
+      }
+    ],
+    "violations": [
+      {
+        "text": "View all",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 233, 192)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(2) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-4:nth-of-type(1) > div.AdvancedBlockHeader-module-scss-module__vZUiKG__wrapper.AdvancedBlockHeader-module-scss-module__vZUiKG__none > div.AdvancedBlockHeader-module-scss-module__vZUiKG__ctas:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a",
+        "xpath": "//*[@id=\"navigation-tab-0\"]/div[1]/div[1]/div[3]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 233,
+          "b": 192,
+          "a": 1
+        },
+        "contrastRatio": 1.19,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 135,
+            "g": 115,
+            "b": 78,
+            "a": 1
+          },
+          "hex": "#87734e",
+          "ratio": 4.57,
+          "property": "background-color",
+          "deltaE": 0.3766472316641932
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJUlEQVR4nOzLMQ0AAAwCMLJM6ETsxzoaOEno3+UfHANTQ0NOEAAAAP//mNizRQAAAAZJREFUAwBJJQF2zoUdmgAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Learn more",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(4) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-3:nth-of-type(2) > div.CardNavigation-module-scss-module__Ud0Jwq__wrapper > div.CardNavigation-module-scss-module__Ud0Jwq__text-content > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__small.Button-module-scss-module__cTRnSq__full > a",
+        "xpath": "//*[@id=\"navigation-tab-1\"]/div[2]/div[1]/div[1]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJUlEQVR4nOzLMQ0AAAwCMLJM6ETsxzoaOEno3+UfHANTQ0NOEAAAAP//mNizRQAAAAZJREFUAwBJJQF2zoUdmgAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "View all locations",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 233, 192)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(7) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-6:nth-of-type(1) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a",
+        "xpath": "//*[@id=\"navigation-tab-3\"]/div[1]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 233,
+          "b": 192,
+          "a": 1
+        },
+        "contrastRatio": 1.19,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 135,
+            "g": 115,
+            "b": 78,
+            "a": 1
+          },
+          "hex": "#87734e",
+          "ratio": 4.57,
+          "property": "background-color",
+          "deltaE": 0.3766472316641932
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJUlEQVR4nOzLMQ0AAAwCMLJM6ETsxzoaOEno3+UfHANTQ0NOEAAAAP//mNizRQAAAAZJREFUAwBJJQF2zoUdmgAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Latest news",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 233, 192)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(9) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-3:nth-of-type(2) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a",
+        "xpath": "//*[@id=\"navigation-tab-4\"]/div[2]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 233,
+          "b": 192,
+          "a": 1
+        },
+        "contrastRatio": 1.19,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 135,
+            "g": 115,
+            "b": 78,
+            "a": 1
+          },
+          "hex": "#87734e",
+          "ratio": 4.57,
+          "property": "background-color",
+          "deltaE": 0.3766472316641932
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJUlEQVR4nOzLMQ0AAAwCMLJM6ETsxzoaOEno3+UfHANTQ0NOEAAAAP//mNizRQAAAAZJREFUAwBJJQF2zoUdmgAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "View our treatments and services",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > span",
+        "xpath": "//*[@id=\"hca-healthcare-in-the-uk\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 798.328125,
+          "y": 1594.40625,
+          "width": 244.28125,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Find a",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(231, 241, 231)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__K-HCA-Fern-20:nth-of-type(3) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container.ImageAndTextBlock-module-scss-module__Pgiceq__image-right > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__K-HCA-Fern-20:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > div",
+        "xpath": "//*[@id=\"world-class-clinicians\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/div[1]",
+        "boundingRect": {
+          "x": 177,
+          "y": 2305.609375,
+          "width": 125.484375,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 231,
+          "g": 241,
+          "b": 231,
+          "a": 1
+        },
+        "contrastRatio": 1.16,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 121,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707970",
+          "ratio": 4.51,
+          "property": "background-color",
+          "deltaE": 0.382858314796897
+        }
+      },
+      {
+        "text": "consultant",
+        "tag": "b",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(231, 241, 231)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__K-HCA-Fern-20:nth-of-type(3) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container.ImageAndTextBlock-module-scss-module__Pgiceq__image-right > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__K-HCA-Fern-20:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > div > b",
+        "xpath": "//*[@id=\"world-class-clinicians\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/div[1]/b[1]",
+        "boundingRect": {
+          "x": 225.359375,
+          "y": 2307.609375,
+          "width": 77.125,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 231,
+          "g": 241,
+          "b": 231,
+          "a": 1
+        },
+        "contrastRatio": 1.16,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 112,
+            "g": 121,
+            "b": 112,
+            "a": 1
+          },
+          "hex": "#707970",
+          "ratio": 4.51,
+          "property": "background-color",
+          "deltaE": 0.382858314796897
+        }
+      },
+      {
+        "text": "Find out more about our ethos",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(5) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full:nth-of-type(1) > a > span",
+        "xpath": "//*[@id=\"caring-for-you-like-family\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 798.328125,
+          "y": 3392.015625,
+          "width": 224.046875,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Our staff share their experiences and stories of working at HCA UK",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(5) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full:nth-of-type(2) > a > span",
+        "xpath": "//*[@id=\"caring-for-you-like-family\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 798.328125,
+          "y": 3461.015625,
+          "width": 336.671875,
+          "height": 48
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "More about our range of advanced medical technology",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(7) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > span",
+        "xpath": "//*[@id=\"investment-in-innovation\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 798.328125,
+          "y": 4812.625,
+          "width": 336.671875,
+          "height": 48
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Learn more",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(254, 248, 245)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(9) > div.CardBlock-module-scss-module__-yBTQa__wrapper > div.CardBlock-module-scss-module__-yBTQa__block > div.CardBlock-module-scss-module__-yBTQa__grid.CardBlock-module-scss-module__-yBTQa__variation-3-columns:nth-of-type(1) > div.CardContent-module-scss-module__VYw5bG__card:nth-of-type(2) > div.CardContent-module-scss-module__VYw5bG__card-info:nth-of-type(2) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__small.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__card:nth-of-type(2) > a > div",
+        "xpath": "//*[@id=\"a-different-kind-of-healthcare-company\"]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/a[1]/div[1]",
+        "boundingRect": {
+          "x": 161,
+          "y": 6757.453125,
+          "width": 84.109375,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 254,
+          "g": 248,
+          "b": 245,
+          "a": 1
+        },
+        "contrastRatio": 1.05,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 122,
+            "g": 117,
+            "b": 114,
+            "a": 1
+          },
+          "hex": "#7a7572",
+          "ratio": 4.55,
+          "property": "background-color",
+          "deltaE": 0.4179196875995451
+        }
+      },
+      {
+        "text": "More about our HCA Story",
+        "tag": "div",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(9) > div.CardBlock-module-scss-module__-yBTQa__wrapper > div.CardBlock-module-scss-module__-yBTQa__block > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.CardBlock-module-scss-module__-yBTQa__cta > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > div",
+        "xpath": "//*[@id=\"a-different-kind-of-healthcare-company\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]/div[1]",
+        "boundingRect": {
+          "x": 145,
+          "y": 6898.453125,
+          "width": 197.703125,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Book an",
+        "tag": "span",
+        "color": "rgb(12, 33, 65)",
+        "background": "rgb(12, 33, 65)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__B-HCA-Navy-Blue:nth-of-type(1) > div.StickyCTA-module-scss-module__-yjuBq__wrapper.StickyCTA-module-scss-module__-yjuBq__hidden > div.StickyCTA-module-scss-module__-yjuBq__cta:nth-of-type(2) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > button > span:nth-of-type(2)",
+        "xpath": "//*[@id=\"footer\"]/div[1]/div[1]/div[2]/div[1]/button[1]/span[2]",
+        "boundingRect": {
+          "x": 1020.15625,
+          "y": 672,
+          "width": 156.84375,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--spacing-1",
+        "bgVar": "--spacing-1",
+        "fgParsed": {
+          "r": 12,
+          "g": 33,
+          "b": 65,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 12,
+          "g": 33,
+          "b": 65,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 138,
+            "b": 178,
+            "a": 1
+          },
+          "hex": "#718ab2",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.3793745069451022
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "appointment",
+        "tag": "strong",
+        "color": "rgb(12, 33, 65)",
+        "background": "rgb(12, 33, 65)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__B-HCA-Navy-Blue:nth-of-type(1) > div.StickyCTA-module-scss-module__-yjuBq__wrapper.StickyCTA-module-scss-module__-yjuBq__hidden > div.StickyCTA-module-scss-module__-yjuBq__cta:nth-of-type(2) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > button > span:nth-of-type(2) > strong",
+        "xpath": "//*[@id=\"footer\"]/div[1]/div[1]/div[2]/div[1]/button[1]/span[2]/strong[1]",
+        "boundingRect": {
+          "x": 1082.671875,
+          "y": 674,
+          "width": 94.328125,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--spacing-1",
+        "bgVar": "--spacing-1",
+        "fgParsed": {
+          "r": 12,
+          "g": 33,
+          "b": 65,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 12,
+          "g": 33,
+          "b": 65,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 138,
+            "b": 178,
+            "a": 1
+          },
+          "hex": "#718ab2",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.3793745069451022
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Book",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel1:nth-of-type(1) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2)",
+        "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]/span[2]",
+        "boundingRect": {
+          "x": 251.21875,
+          "y": 1123,
+          "width": 156.203125,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "an appointment",
+        "tag": "b",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel1:nth-of-type(1) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2) > b",
+        "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]/span[2]/b[1]",
+        "boundingRect": {
+          "x": 292.34375,
+          "y": 1125,
+          "width": 115.078125,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Book a",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel2:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2)",
+        "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[3]/div[1]/a[1]/span[2]",
+        "boundingRect": {
+          "x": 895.25,
+          "y": 1099,
+          "width": 174.828125,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "GP",
+        "tag": "b",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel2:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2) > b",
+        "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[3]/div[1]/a[1]/span[2]/b[1]",
+        "boundingRect": {
+          "x": 948.5625,
+          "y": 1101,
+          "width": 22.296875,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "appointment",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel2:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2)",
+        "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[3]/div[1]/a[1]/span[2]",
+        "boundingRect": {
+          "x": 895.25,
+          "y": 1099,
+          "width": 174.828125,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Filter Icon",
+        "tag": "title",
+        "color": "rgb(85, 85, 85)",
+        "background": "rgb(56, 96, 190)",
+        "selector": "div:nth-of-type(6) > div.otPcPanel.ot-hide.ot-fade-in:nth-of-type(3) > div > section.ot-hide.ot-pc-scrollbar > div > div.ot-lst-subhdr:nth-of-type(2) > div.ot-fltr-cntr:nth-of-type(2) > button > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"filter-btn-handler\"]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--iti-arrow-color",
+        "fgParsed": {
+          "r": 85,
+          "g": 85,
+          "b": 85,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 56,
+          "g": 96,
+          "b": 190,
+          "a": 1
+        },
+        "contrastRatio": 1.27,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 158,
+            "g": 206,
+            "b": 255,
+            "a": 1
+          },
+          "hex": "#9eceff",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.3481465089931902
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJUlEQVR4nOzLMQ0AAAwCMLJM6ETsxzoaOEno3+UfHANTQ0NOEAAAAP//mNizRQAAAAZJREFUAwBJJQF2zoUdmgAAAABJRU5ErkJggg=="
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--iti-dropdown-bg",
+        "property": "color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#ffffff",
+        "againstVariable": null,
+        "againstValue": "rgb(255, 233, 192)",
+        "againstHex": "#ffe9c0",
+        "contrastRatio": 1.19,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 6,
+        "suggestedFix": {
+          "variable": "--iti-dropdown-bg",
+          "newValue": "color(srgb 0.416 0.416 0.416)",
+          "newHex": "#6a6a6a",
+          "contrastRatio": 4.55,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(2) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-4:nth-of-type(1) > div.AdvancedBlockHeader-module-scss-module__vZUiKG__wrapper.AdvancedBlockHeader-module-scss-module__vZUiKG__none > div.AdvancedBlockHeader-module-scss-module__vZUiKG__ctas:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a",
+            "text": "View all",
+            "xpath": "//*[@id=\"navigation-tab-0\"]/div[1]/div[1]/div[3]/div[1]/a[1]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(7) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-6:nth-of-type(1) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a",
+            "text": "View all locations",
+            "xpath": "//*[@id=\"navigation-tab-3\"]/div[1]/div[1]/a[1]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(9) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-3:nth-of-type(2) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a",
+            "text": "Latest news",
+            "xpath": "//*[@id=\"navigation-tab-4\"]/div[2]/div[1]/a[1]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__K-HCA-Fern-20:nth-of-type(3) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container.ImageAndTextBlock-module-scss-module__Pgiceq__image-right > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__K-HCA-Fern-20:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > div",
+            "text": "Find a",
+            "xpath": "//*[@id=\"world-class-clinicians\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/div[1]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__K-HCA-Fern-20:nth-of-type(3) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container.ImageAndTextBlock-module-scss-module__Pgiceq__image-right > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__K-HCA-Fern-20:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > div > b",
+            "text": "consultant",
+            "xpath": "//*[@id=\"world-class-clinicians\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/div[1]/b[1]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(9) > div.CardBlock-module-scss-module__-yBTQa__wrapper > div.CardBlock-module-scss-module__-yBTQa__block > div.CardBlock-module-scss-module__-yBTQa__grid.CardBlock-module-scss-module__-yBTQa__variation-3-columns:nth-of-type(1) > div.CardContent-module-scss-module__VYw5bG__card:nth-of-type(2) > div.CardContent-module-scss-module__VYw5bG__card-info:nth-of-type(2) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__small.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__card:nth-of-type(2) > a > div",
+            "text": "Learn more",
+            "xpath": "//*[@id=\"a-different-kind-of-healthcare-company\"]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/a[1]/div[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--iti-dropdown-bg",
+        "property": "color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#ffffff",
+        "againstVariable": "--iti-dropdown-bg",
+        "againstValue": "rgb(255, 255, 255)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 11,
+        "suggestedFix": {
+          "variable": "--iti-dropdown-bg",
+          "newValue": "color(srgb 0.462 0.462 0.462)",
+          "newHex": "#767676",
+          "contrastRatio": 4.54,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(4) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-3:nth-of-type(2) > div.CardNavigation-module-scss-module__Ud0Jwq__wrapper > div.CardNavigation-module-scss-module__Ud0Jwq__text-content > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__small.Button-module-scss-module__cTRnSq__full > a",
+            "text": "Learn more",
+            "xpath": "//*[@id=\"navigation-tab-1\"]/div[2]/div[1]/div[1]/div[1]/a[1]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > span",
+            "text": "View our treatments and services",
+            "xpath": "//*[@id=\"hca-healthcare-in-the-uk\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(5) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full:nth-of-type(1) > a > span",
+            "text": "Find out more about our ethos",
+            "xpath": "//*[@id=\"caring-for-you-like-family\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(5) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full:nth-of-type(2) > a > span",
+            "text": "Our staff share their experiences and stories of working at HCA UK",
+            "xpath": "//*[@id=\"caring-for-you-like-family\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/a[1]/span[1]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(7) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > span",
+            "text": "More about our range of advanced medical technology",
+            "xpath": "//*[@id=\"investment-in-innovation\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(9) > div.CardBlock-module-scss-module__-yBTQa__wrapper > div.CardBlock-module-scss-module__-yBTQa__block > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.CardBlock-module-scss-module__-yBTQa__cta > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > div",
+            "text": "More about our HCA Story",
+            "xpath": "//*[@id=\"a-different-kind-of-healthcare-company\"]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]/div[1]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel1:nth-of-type(1) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2)",
+            "text": "Book",
+            "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]/span[2]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel1:nth-of-type(1) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2) > b",
+            "text": "an appointment",
+            "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]/span[2]/b[1]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel2:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2)",
+            "text": "Book a",
+            "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[3]/div[1]/a[1]/span[2]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel2:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2) > b",
+            "text": "GP",
+            "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[3]/div[1]/a[1]/span[2]/b[1]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel2:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2)",
+            "text": "appointment",
+            "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[3]/div[1]/a[1]/span[2]"
+          }
+        ]
+      },
+      {
+        "variable": "--spacing-1",
+        "property": "color",
+        "currentValue": "rgb(12, 33, 65)",
+        "currentHex": "#0c2141",
+        "againstVariable": "--spacing-1",
+        "againstValue": "rgb(12, 33, 65)",
+        "againstHex": "#0c2141",
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 2,
+        "suggestedFix": {
+          "variable": "--spacing-1",
+          "newValue": "color(srgb 0.442 0.543 0.697)",
+          "newHex": "#718ab2",
+          "contrastRatio": 4.57,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__B-HCA-Navy-Blue:nth-of-type(1) > div.StickyCTA-module-scss-module__-yjuBq__wrapper.StickyCTA-module-scss-module__-yjuBq__hidden > div.StickyCTA-module-scss-module__-yjuBq__cta:nth-of-type(2) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > button > span:nth-of-type(2)",
+            "text": "Book an",
+            "xpath": "//*[@id=\"footer\"]/div[1]/div[1]/div[2]/div[1]/button[1]/span[2]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__B-HCA-Navy-Blue:nth-of-type(1) > div.StickyCTA-module-scss-module__-yjuBq__wrapper.StickyCTA-module-scss-module__-yjuBq__hidden > div.StickyCTA-module-scss-module__-yjuBq__cta:nth-of-type(2) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > button > span:nth-of-type(2) > strong",
+            "text": "appointment",
+            "xpath": "//*[@id=\"footer\"]/div[1]/div[1]/div[2]/div[1]/button[1]/span[2]/strong[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--iti-arrow-color",
+        "property": "color",
+        "currentValue": "rgb(85, 85, 85)",
+        "currentHex": "#555555",
+        "againstVariable": null,
+        "againstValue": "rgb(56, 96, 190)",
+        "againstHex": "#3860be",
+        "contrastRatio": 1.27,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--iti-arrow-color",
+          "newValue": "color(srgb 0.889 0.889 0.889)",
+          "newHex": "#e3e3e3",
+          "contrastRatio": 4.56,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div:nth-of-type(6) > div.otPcPanel.ot-hide.ot-fade-in:nth-of-type(3) > div > section.ot-hide.ot-pc-scrollbar > div > div.ot-lst-subhdr:nth-of-type(2) > div.ot-fltr-cntr:nth-of-type(2) > button > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+            "text": "Filter Icon",
+            "xpath": "//*[@id=\"filter-btn-handler\"]/svg[1]/title[1]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 277,
+      "passAA": 257,
+      "passAAA": 244,
+      "failAA": 20,
+      "failAAA": 20
+    },
+    "variableStats": {
+      "uniqueIssues": 4,
+      "affectedElements": 20,
+      "oneOffIssues": 0
+    },
+    "healthScore": 93,
+    "scannedAt": "2026-08-05T12:29:09.093Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 20 violation(s)
+

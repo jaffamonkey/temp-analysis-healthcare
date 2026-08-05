@@ -1,0 +1,1379 @@
+[
+  {
+    "url": "https://www.semble.io/solutions/solo-practitioner-healthcare-software",
+    "title": "Small Medical Practice Management Software | Semble",
+    "pairs": [
+      {
+        "text": "Platform",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(1) > nav.platform-dropdown-open.w-dropdown-list > div.platform-dropdown-open.v2 > div.platform-box-v2:nth-of-type(2) > div.dropdowntitle:nth-of-type(1) > div.platformsectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[2]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Our Solution",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(3) > nav.solution-dropdown.w-dropdown-list > div.solution-dropdown-open.v2 > div.solution-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.solutionsectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-2\"]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Resources",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(5) > nav.resources-dropdown.w-dropdown-list > div.resources-dropdown-open.v2 > div.resources-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.resourcessectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-4\"]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "You're in good company",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(5) > div.component-logocarousel:nth-of-type(1) > div.logocarousel > div.bob:nth-of-type(1) > div.logocarouseltitle.fullwidth.align-center",
+        "xpath": "/html/body/div[5]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 517.546875,
+          "y": 830,
+          "width": 244.90625,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "bgVar": "--_apps---colors--card",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.9,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 134,
+            "b": 99,
+            "a": 1
+          },
+          "hex": "#008663",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.11816135586649146
+        }
+      },
+      {
+        "text": "Pay",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.greenbackgroundimg:nth-of-type(7) > div.component-horiztabs:nth-of-type(3) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-inline-block.w-tab-link:nth-of-type(2) > div.tabimagetextblock > div.tabtextlarge",
+        "xpath": "//*[@id=\"w-tabs-0-data-w-tab-1\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 298.609375,
+          "y": 2003,
+          "width": 187.59375,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "Treat",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.greenbackgroundimg:nth-of-type(7) > div.component-horiztabs:nth-of-type(3) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-inline-block.w-tab-link:nth-of-type(3) > div.tabimagetextblock > div.tabtextlarge",
+        "xpath": "//*[@id=\"w-tabs-0-data-w-tab-2\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 546.203125,
+          "y": 2003,
+          "width": 187.609375,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "Grow",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.greenbackgroundimg:nth-of-type(7) > div.component-horiztabs:nth-of-type(3) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-inline-block.w-tab-link:nth-of-type(4) > div.tabimagetextblock > div.tabtextlarge",
+        "xpath": "//*[@id=\"w-tabs-0-data-w-tab-3\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 793.8125,
+          "y": 2003,
+          "width": 187.59375,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "Governance",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.greenbackgroundimg:nth-of-type(7) > div.component-horiztabs:nth-of-type(3) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-inline-block.w-tab-link:nth-of-type(5) > div.tabimagetextblock > div.tabtextlarge",
+        "xpath": "//*[@id=\"w-tabs-0-data-w-tab-4\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 1041.40625,
+          "y": 2003,
+          "width": 187.59375,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "4.5",
+        "tag": "strong",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.component-2buttoncta:nth-of-type(15) > div._2buttoncta > div._2buttoncta-internal:nth-of-type(2) > div._2buttoncta-reviews:nth-of-type(3) > div.reviewbrief:nth-of-type(1) > div.reviewtext > strong",
+        "xpath": "/html/body/div[15]/div[1]/div[2]/div[3]/div[1]/div[1]/strong[1]",
+        "boundingRect": {
+          "x": 448.8125,
+          "y": 7819.390625,
+          "width": 28.9375,
+          "height": 24
+        },
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_apps---colors--card",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "on Capterra",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.component-2buttoncta:nth-of-type(15) > div._2buttoncta > div._2buttoncta-internal:nth-of-type(2) > div._2buttoncta-reviews:nth-of-type(3) > div.reviewbrief:nth-of-type(1) > div.reviewtext",
+        "xpath": "/html/body/div[15]/div[1]/div[2]/div[3]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 448.8125,
+          "y": 7821.390625,
+          "width": 139.265625,
+          "height": 20
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_apps---colors--card",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "4.3",
+        "tag": "strong",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.component-2buttoncta:nth-of-type(15) > div._2buttoncta > div._2buttoncta-internal:nth-of-type(2) > div._2buttoncta-reviews:nth-of-type(3) > div.reviewbrief:nth-of-type(2) > div.reviewtext > strong",
+        "xpath": "/html/body/div[15]/div[1]/div[2]/div[3]/div[2]/div[1]/strong[1]",
+        "boundingRect": {
+          "x": 676.078125,
+          "y": 7819.390625,
+          "width": 28.609375,
+          "height": 24
+        },
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_apps---colors--card",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "on Google",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.component-2buttoncta:nth-of-type(15) > div._2buttoncta > div._2buttoncta-internal:nth-of-type(2) > div._2buttoncta-reviews:nth-of-type(3) > div.reviewbrief:nth-of-type(2) > div.reviewtext",
+        "xpath": "/html/body/div[15]/div[1]/div[2]/div[3]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 676.078125,
+          "y": 7821.390625,
+          "width": 123.09375,
+          "height": 20
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_apps---colors--card",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      }
+    ],
+    "violations": [
+      {
+        "text": "Platform",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(1) > nav.platform-dropdown-open.w-dropdown-list > div.platform-dropdown-open.v2 > div.platform-box-v2:nth-of-type(2) > div.dropdowntitle:nth-of-type(1) > div.platformsectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[2]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Our Solution",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(3) > nav.solution-dropdown.w-dropdown-list > div.solution-dropdown-open.v2 > div.solution-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.solutionsectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-2\"]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Resources",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(250, 251, 252)",
+        "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(5) > nav.resources-dropdown.w-dropdown-list > div.resources-dropdown-open.v2 > div.resources-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.resourcessectiontitle",
+        "xpath": "//*[@id=\"w-dropdown-list-4\"]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 250,
+          "g": 251,
+          "b": 252,
+          "a": 1
+        },
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 131,
+            "b": 96,
+            "a": 1
+          },
+          "hex": "#008360",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.12816135586649147
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "You're in good company",
+        "tag": "div",
+        "color": "rgb(39, 171, 133)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(5) > div.component-logocarousel:nth-of-type(1) > div.logocarousel > div.bob:nth-of-type(1) > div.logocarouseltitle.fullwidth.align-center",
+        "xpath": "/html/body/div[5]/div[1]/div[1]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 517.546875,
+          "y": 830,
+          "width": 244.90625,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "colorVar": "--_colour-tints---mid-green-tint-2",
+        "bgVar": "--_apps---colors--card",
+        "fgParsed": {
+          "r": 39,
+          "g": 171,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.9,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 134,
+            "b": 99,
+            "a": 1
+          },
+          "hex": "#008663",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.11816135586649146
+        }
+      },
+      {
+        "text": "Pay",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.greenbackgroundimg:nth-of-type(7) > div.component-horiztabs:nth-of-type(3) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-inline-block.w-tab-link:nth-of-type(2) > div.tabimagetextblock > div.tabtextlarge",
+        "xpath": "//*[@id=\"w-tabs-0-data-w-tab-1\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 298.609375,
+          "y": 2003,
+          "width": 187.59375,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "Treat",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.greenbackgroundimg:nth-of-type(7) > div.component-horiztabs:nth-of-type(3) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-inline-block.w-tab-link:nth-of-type(3) > div.tabimagetextblock > div.tabtextlarge",
+        "xpath": "//*[@id=\"w-tabs-0-data-w-tab-2\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 546.203125,
+          "y": 2003,
+          "width": 187.609375,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "Grow",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.greenbackgroundimg:nth-of-type(7) > div.component-horiztabs:nth-of-type(3) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-inline-block.w-tab-link:nth-of-type(4) > div.tabimagetextblock > div.tabtextlarge",
+        "xpath": "//*[@id=\"w-tabs-0-data-w-tab-3\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 793.8125,
+          "y": 2003,
+          "width": 187.59375,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "Governance",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgba(255, 255, 255, 0)",
+        "selector": "div.greenbackgroundimg:nth-of-type(7) > div.component-horiztabs:nth-of-type(3) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-inline-block.w-tab-link:nth-of-type(5) > div.tabimagetextblock > div.tabtextlarge",
+        "xpath": "//*[@id=\"w-tabs-0-data-w-tab-4\"]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 1041.40625,
+          "y": 2003,
+          "width": 187.59375,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_colour-ui---transparent",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "4.5",
+        "tag": "strong",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.component-2buttoncta:nth-of-type(15) > div._2buttoncta > div._2buttoncta-internal:nth-of-type(2) > div._2buttoncta-reviews:nth-of-type(3) > div.reviewbrief:nth-of-type(1) > div.reviewtext > strong",
+        "xpath": "/html/body/div[15]/div[1]/div[2]/div[3]/div[1]/div[1]/strong[1]",
+        "boundingRect": {
+          "x": 448.8125,
+          "y": 7819.390625,
+          "width": 28.9375,
+          "height": 24
+        },
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_apps---colors--card",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "on Capterra",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.component-2buttoncta:nth-of-type(15) > div._2buttoncta > div._2buttoncta-internal:nth-of-type(2) > div._2buttoncta-reviews:nth-of-type(3) > div.reviewbrief:nth-of-type(1) > div.reviewtext",
+        "xpath": "/html/body/div[15]/div[1]/div[2]/div[3]/div[1]/div[1]",
+        "boundingRect": {
+          "x": 448.8125,
+          "y": 7821.390625,
+          "width": 139.265625,
+          "height": 20
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_apps---colors--card",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "4.3",
+        "tag": "strong",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.component-2buttoncta:nth-of-type(15) > div._2buttoncta > div._2buttoncta-internal:nth-of-type(2) > div._2buttoncta-reviews:nth-of-type(3) > div.reviewbrief:nth-of-type(2) > div.reviewtext > strong",
+        "xpath": "/html/body/div[15]/div[1]/div[2]/div[3]/div[2]/div[1]/strong[1]",
+        "boundingRect": {
+          "x": 676.078125,
+          "y": 7819.390625,
+          "width": 28.609375,
+          "height": 24
+        },
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_apps---colors--card",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      },
+      {
+        "text": "on Google",
+        "tag": "div",
+        "color": "rgb(133, 133, 133)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.component-2buttoncta:nth-of-type(15) > div._2buttoncta > div._2buttoncta-internal:nth-of-type(2) > div._2buttoncta-reviews:nth-of-type(3) > div.reviewbrief:nth-of-type(2) > div.reviewtext",
+        "xpath": "/html/body/div[15]/div[1]/div[2]/div[3]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 676.078125,
+          "y": 7821.390625,
+          "width": 123.09375,
+          "height": 20
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "colorVar": "--_colour-greys---grey-360",
+        "bgVar": "--_apps---colors--card",
+        "fgParsed": {
+          "r": 133,
+          "g": 133,
+          "b": 133,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.051706943829688656
+        }
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--_colour-tints---mid-green-tint-2",
+        "property": "color",
+        "currentValue": "rgb(39, 171, 133)",
+        "currentHex": "#27ab85",
+        "againstVariable": null,
+        "againstValue": "rgb(250, 251, 252)",
+        "againstHex": "#fafbfc",
+        "contrastRatio": 2.8,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 3,
+        "suggestedFix": {
+          "variable": "--_colour-tints---mid-green-tint-2",
+          "newValue": "color(srgb -0.158 0.515 0.375)",
+          "newHex": "#008360",
+          "contrastRatio": 4.59,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(1) > nav.platform-dropdown-open.w-dropdown-list > div.platform-dropdown-open.v2 > div.platform-box-v2:nth-of-type(2) > div.dropdowntitle:nth-of-type(1) > div.platformsectiontitle",
+            "text": "Platform",
+            "xpath": "//*[@id=\"w-dropdown-list-0\"]/div[1]/div[2]/div[1]/div[1]"
+          },
+          {
+            "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(3) > nav.solution-dropdown.w-dropdown-list > div.solution-dropdown-open.v2 > div.solution-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.solutionsectiontitle",
+            "text": "Our Solution",
+            "xpath": "//*[@id=\"w-dropdown-list-2\"]/div[1]/div[1]/div[1]/div[1]"
+          },
+          {
+            "selector": "div.navbar.w-nav:nth-of-type(2) > div.navbar-wrapper:nth-of-type(2) > nav.nav-pagelinks.w-nav-menu > div.nav-open-box:nth-of-type(2) > div.dropdown.desktop.w-dropdown:nth-of-type(5) > nav.resources-dropdown.w-dropdown-list > div.resources-dropdown-open.v2 > div.resources-box-v2 > div.dropdowntitle.nopadding:nth-of-type(1) > div.resourcessectiontitle",
+            "text": "Resources",
+            "xpath": "//*[@id=\"w-dropdown-list-4\"]/div[1]/div[1]/div[1]/div[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--_colour-tints---mid-green-tint-2",
+        "property": "color",
+        "currentValue": "rgb(39, 171, 133)",
+        "currentHex": "#27ab85",
+        "againstVariable": "--_apps---colors--card",
+        "againstValue": "rgb(255, 255, 255)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 2.9,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--_colour-tints---mid-green-tint-2",
+          "newValue": "color(srgb -0.149 0.526 0.386)",
+          "newHex": "#008663",
+          "contrastRatio": 4.57,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div:nth-of-type(5) > div.component-logocarousel:nth-of-type(1) > div.logocarousel > div.bob:nth-of-type(1) > div.logocarouseltitle.fullwidth.align-center",
+            "text": "You're in good company",
+            "xpath": "/html/body/div[5]/div[1]/div[1]/div[1]/div[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--_colour-greys---grey-360",
+        "property": "color",
+        "currentValue": "rgb(133, 133, 133)",
+        "currentHex": "#858585",
+        "againstVariable": "--_colour-ui---transparent",
+        "againstValue": "rgba(255, 255, 255, 0)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 4,
+        "suggestedFix": {
+          "variable": "--_colour-greys---grey-360",
+          "newValue": "color(srgb 0.462 0.462 0.462)",
+          "newHex": "#767676",
+          "contrastRatio": 4.54,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.greenbackgroundimg:nth-of-type(7) > div.component-horiztabs:nth-of-type(3) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-inline-block.w-tab-link:nth-of-type(2) > div.tabimagetextblock > div.tabtextlarge",
+            "text": "Pay",
+            "xpath": "//*[@id=\"w-tabs-0-data-w-tab-1\"]/div[1]/div[1]"
+          },
+          {
+            "selector": "div.greenbackgroundimg:nth-of-type(7) > div.component-horiztabs:nth-of-type(3) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-inline-block.w-tab-link:nth-of-type(3) > div.tabimagetextblock > div.tabtextlarge",
+            "text": "Treat",
+            "xpath": "//*[@id=\"w-tabs-0-data-w-tab-2\"]/div[1]/div[1]"
+          },
+          {
+            "selector": "div.greenbackgroundimg:nth-of-type(7) > div.component-horiztabs:nth-of-type(3) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-inline-block.w-tab-link:nth-of-type(4) > div.tabimagetextblock > div.tabtextlarge",
+            "text": "Grow",
+            "xpath": "//*[@id=\"w-tabs-0-data-w-tab-3\"]/div[1]/div[1]"
+          },
+          {
+            "selector": "div.greenbackgroundimg:nth-of-type(7) > div.component-horiztabs:nth-of-type(3) > div.bob > div.component-threetabs > div.threetabs > div.w-tabs > div.threetabsmenu.w-tab-menu:nth-of-type(1) > a.fullwidthimagetab.w-inline-block.w-tab-link:nth-of-type(5) > div.tabimagetextblock > div.tabtextlarge",
+            "text": "Governance",
+            "xpath": "//*[@id=\"w-tabs-0-data-w-tab-4\"]/div[1]/div[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--_colour-greys---grey-360",
+        "property": "color",
+        "currentValue": "rgb(133, 133, 133)",
+        "currentHex": "#858585",
+        "againstVariable": "--_apps---colors--card",
+        "againstValue": "rgb(255, 255, 255)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 4,
+        "suggestedFix": {
+          "variable": "--_colour-greys---grey-360",
+          "newValue": "color(srgb 0.462 0.462 0.462)",
+          "newHex": "#767676",
+          "contrastRatio": 4.54,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.component-2buttoncta:nth-of-type(15) > div._2buttoncta > div._2buttoncta-internal:nth-of-type(2) > div._2buttoncta-reviews:nth-of-type(3) > div.reviewbrief:nth-of-type(1) > div.reviewtext > strong",
+            "text": "4.5",
+            "xpath": "/html/body/div[15]/div[1]/div[2]/div[3]/div[1]/div[1]/strong[1]"
+          },
+          {
+            "selector": "div.component-2buttoncta:nth-of-type(15) > div._2buttoncta > div._2buttoncta-internal:nth-of-type(2) > div._2buttoncta-reviews:nth-of-type(3) > div.reviewbrief:nth-of-type(1) > div.reviewtext",
+            "text": "on Capterra",
+            "xpath": "/html/body/div[15]/div[1]/div[2]/div[3]/div[1]/div[1]"
+          },
+          {
+            "selector": "div.component-2buttoncta:nth-of-type(15) > div._2buttoncta > div._2buttoncta-internal:nth-of-type(2) > div._2buttoncta-reviews:nth-of-type(3) > div.reviewbrief:nth-of-type(2) > div.reviewtext > strong",
+            "text": "4.3",
+            "xpath": "/html/body/div[15]/div[1]/div[2]/div[3]/div[2]/div[1]/strong[1]"
+          },
+          {
+            "selector": "div.component-2buttoncta:nth-of-type(15) > div._2buttoncta > div._2buttoncta-internal:nth-of-type(2) > div._2buttoncta-reviews:nth-of-type(3) > div.reviewbrief:nth-of-type(2) > div.reviewtext",
+            "text": "on Google",
+            "xpath": "/html/body/div[15]/div[1]/div[2]/div[3]/div[2]/div[1]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 423,
+      "passAA": 411,
+      "passAAA": 406,
+      "failAA": 12,
+      "failAAA": 4
+    },
+    "variableStats": {
+      "uniqueIssues": 4,
+      "affectedElements": 12,
+      "oneOffIssues": 0
+    },
+    "healthScore": 97,
+    "scannedAt": "2026-08-05T13:07:22.549Z"
+  }
+]

@@ -1,0 +1,232 @@
+Starting contrast check for https://www.numan.com
+
+--- STDOUT ---
+ℹ Scanning: https://www.numan.com
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://www.numan.com
+[
+  {
+    "url": "https://www.numan.com",
+    "title": "Numan | Weight Loss | Blood Tests | Erectile Dysfunction | Hair Loss",
+    "pairs": [
+      {
+        "text": "Updated:",
+        "tag": "p",
+        "color": "rgb(107, 107, 138)",
+        "background": "rgb(34, 31, 51)",
+        "selector": "main.relative > div.container.flex.justify-between.items-baseline.flex-col.gap-1.sm:flex-row:nth-of-type(3) > div:nth-of-type(2) > p.text-xs.text-content-secondary.text-dark-content-tertiary",
+        "xpath": "/html/body/main[1]/div[3]/div[2]/p[1]",
+        "boundingRect": {
+          "x": 964.796875,
+          "y": 4450.296875,
+          "width": 123.203125,
+          "height": 18
+        },
+        "fontSize": "12px",
+        "fontWeight": "350",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 107,
+          "g": 107,
+          "b": 138,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 34,
+          "g": 31,
+          "b": 51,
+          "a": 1
+        },
+        "contrastRatio": 3.12,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 134,
+            "b": 166,
+            "a": 1
+          },
+          "hex": "#8586a6",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.09046941122439767
+        }
+      },
+      {
+        "text": "05/08/2026",
+        "tag": "time",
+        "color": "rgb(107, 107, 138)",
+        "background": "rgb(34, 31, 51)",
+        "selector": "main.relative > div.container.flex.justify-between.items-baseline.flex-col.gap-1.sm:flex-row:nth-of-type(3) > div:nth-of-type(2) > p.text-xs.text-content-secondary.text-dark-content-tertiary > time",
+        "xpath": "/html/body/main[1]/div[3]/div[2]/p[1]/time[1]",
+        "boundingRect": {
+          "x": 1018.703125,
+          "y": 4451.296875,
+          "width": 69.296875,
+          "height": 16
+        },
+        "fontSize": "12px",
+        "fontWeight": "350",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 107,
+          "g": 107,
+          "b": 138,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 34,
+          "g": 31,
+          "b": 51,
+          "a": 1
+        },
+        "contrastRatio": 3.12,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 134,
+            "b": 166,
+            "a": 1
+          },
+          "hex": "#8586a6",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.09046941122439767
+        }
+      }
+    ],
+    "violations": [
+      {
+        "text": "Updated:",
+        "tag": "p",
+        "color": "rgb(107, 107, 138)",
+        "background": "rgb(34, 31, 51)",
+        "selector": "main.relative > div.container.flex.justify-between.items-baseline.flex-col.gap-1.sm:flex-row:nth-of-type(3) > div:nth-of-type(2) > p.text-xs.text-content-secondary.text-dark-content-tertiary",
+        "xpath": "/html/body/main[1]/div[3]/div[2]/p[1]",
+        "boundingRect": {
+          "x": 964.796875,
+          "y": 4450.296875,
+          "width": 123.203125,
+          "height": 18
+        },
+        "fontSize": "12px",
+        "fontWeight": "350",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 107,
+          "g": 107,
+          "b": 138,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 34,
+          "g": 31,
+          "b": 51,
+          "a": 1
+        },
+        "contrastRatio": 3.12,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 134,
+            "b": 166,
+            "a": 1
+          },
+          "hex": "#8586a6",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.09046941122439767
+        }
+      },
+      {
+        "text": "05/08/2026",
+        "tag": "time",
+        "color": "rgb(107, 107, 138)",
+        "background": "rgb(34, 31, 51)",
+        "selector": "main.relative > div.container.flex.justify-between.items-baseline.flex-col.gap-1.sm:flex-row:nth-of-type(3) > div:nth-of-type(2) > p.text-xs.text-content-secondary.text-dark-content-tertiary > time",
+        "xpath": "/html/body/main[1]/div[3]/div[2]/p[1]/time[1]",
+        "boundingRect": {
+          "x": 1018.703125,
+          "y": 4451.296875,
+          "width": 69.296875,
+          "height": 16
+        },
+        "fontSize": "12px",
+        "fontWeight": "350",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 107,
+          "g": 107,
+          "b": 138,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 34,
+          "g": 31,
+          "b": 51,
+          "a": 1
+        },
+        "contrastRatio": 3.12,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 134,
+            "b": 166,
+            "a": 1
+          },
+          "hex": "#8586a6",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.09046941122439767
+        }
+      }
+    ],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 349,
+      "passAA": 347,
+      "passAAA": 336,
+      "failAA": 2,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 2
+    },
+    "healthScore": 99,
+    "scannedAt": "2026-08-05T13:02:42.269Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 2 violation(s)
+

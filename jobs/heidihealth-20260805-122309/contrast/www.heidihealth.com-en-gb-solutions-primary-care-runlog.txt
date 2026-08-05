@@ -1,0 +1,36 @@
+Starting contrast check for https://www.heidihealth.com/en-gb/solutions/primary-care
+
+--- STDOUT ---
+ℹ Scanning: https://www.heidihealth.com/en-gb/solutions/primary-care
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://www.heidihealth.com/en-gb/solutions/primary-care
+[
+  {
+    "url": "https://www.heidihealth.com/en-gb/solutions/primary-care",
+    "title": "Primary Care | Heidi",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 146,
+      "passAA": 146,
+      "passAAA": 129,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-08-05T12:29:02.567Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+

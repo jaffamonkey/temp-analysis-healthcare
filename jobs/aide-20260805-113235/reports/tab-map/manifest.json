@@ -1,0 +1,107 @@
+[
+  {
+    "tool": "tab-map",
+    "url": "https://aide.health/about-us",
+    "landed_url": "https://aide.health/about-us",
+    "title": "About Aide Health — Innovation in digital health",
+    "page": "aide.health-about-us",
+    "captured_at": "2026-08-05T11:39:22.380Z",
+    "focusable_count": 36,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "aide.health-about-us.png",
+    "preview_image": "aide.health-about-us.png",
+    "preview_dir": "visual-preview",
+    "json": "aide.health-about-us.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://aide.health/",
+    "landed_url": "https://aide.health/",
+    "title": "Aide Health — Empowering patients with artificial intelligence",
+    "page": "aide.health",
+    "captured_at": "2026-08-05T11:39:22.345Z",
+    "focusable_count": 47,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "aide.health.png",
+    "preview_image": "aide.health.png",
+    "preview_dir": "visual-preview",
+    "json": "aide.health.json",
+    "consent_actions": [
+      {
+        "action": "removed",
+        "detail": "1 overlay(s)"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://aide.health/privacy-policy",
+    "landed_url": "https://aide.health/privacy-policy",
+    "title": "Privacy Policy",
+    "page": "aide.health-privacy-policy",
+    "captured_at": "2026-08-05T11:40:26.885Z",
+    "focusable_count": 26,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "aide.health-privacy-policy.png",
+    "preview_image": "aide.health-privacy-policy.png",
+    "preview_dir": "visual-preview",
+    "json": "aide.health-privacy-policy.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://aide.health/contact",
+    "landed_url": "https://aide.health/contact",
+    "title": "Contact us — Aide Health",
+    "page": "aide.health-contact",
+    "captured_at": "2026-08-05T11:40:26.884Z",
+    "focusable_count": 32,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "aide.health-contact.png",
+    "preview_image": "aide.health-contact.png",
+    "preview_dir": "visual-preview",
+    "json": "aide.health-contact.json",
+    "consent_actions": []
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://aide.health/terms-of-service",
+    "landed_url": "https://aide.health/terms-of-service",
+    "title": "Terms of Service",
+    "page": "aide.health-terms-of-service",
+    "captured_at": "2026-08-05T11:40:54.945Z",
+    "focusable_count": 32,
+    "frame_count": 0,
+    "same_origin_frame_count": 0,
+    "cross_origin_frame_count": 0,
+    "image": "aide.health-terms-of-service.png",
+    "preview_image": "aide.health-terms-of-service.png",
+    "preview_dir": "visual-preview",
+    "json": "aide.health-terms-of-service.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept"
+      }
+    ]
+  }
+]

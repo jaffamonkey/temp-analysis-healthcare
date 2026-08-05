@@ -1,0 +1,36 @@
+Starting contrast check for https://tandemhealth.ai/product/overview
+
+--- STDOUT ---
+ℹ Scanning: https://tandemhealth.ai/product/overview
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://tandemhealth.ai/product/overview
+[
+  {
+    "url": "https://tandemhealth.ai/product/overview",
+    "title": "Clinical AI for every step of care | Tandem Health",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 114,
+      "passAA": 114,
+      "passAAA": 114,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-08-05T15:45:55.629Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+

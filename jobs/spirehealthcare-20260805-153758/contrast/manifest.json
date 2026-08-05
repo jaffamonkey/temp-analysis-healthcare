@@ -1,0 +1,103 @@
+[
+  {
+    "page": "www.spirehealthcare.com",
+    "url": "https://www.spirehealthcare.com",
+    "title": "www.spirehealthcare.com",
+    "json": "www.spirehealthcare.com.json",
+    "report": "www.spirehealthcare.com.json",
+    "ok": false,
+    "error": "Failed to extract valid JSON from contrast tool stdout. Exit status: 1"
+  },
+  {
+    "page": "www.spirehealthcare.com-spirehealthcarecom",
+    "url": "https://www.spirehealthcare.com/spirehealthcarecom",
+    "title": "Spire Healthcare | Private Hospitals UK | Quality Care",
+    "json": "www.spirehealthcare.com-spirehealthcarecom.json",
+    "report": "www.spirehealthcare.com-spirehealthcarecom.json",
+    "ok": true
+  },
+  {
+    "page": "www.spirehealthcare.com-healthcare-professionals",
+    "url": "https://www.spirehealthcare.com/healthcare-professionals",
+    "title": "Healthcare professionals | Spire Healthcare",
+    "json": "www.spirehealthcare.com-healthcare-professionals.json",
+    "report": "www.spirehealthcare.com-healthcare-professionals.json",
+    "ok": true
+  },
+  {
+    "page": "www.spirehealthcare.com-spire-cambridge-lea-hospital",
+    "url": "https://www.spirehealthcare.com/spire-cambridge-lea-hospital",
+    "title": "Private Hospital in Cambridge, Cambridgeshire | Spire Cambridge Lea Hospital",
+    "json": "www.spirehealthcare.com-spire-cambridge-lea-hospital.json",
+    "report": "www.spirehealthcare.com-spire-cambridge-lea-hospital.json",
+    "ok": true
+  },
+  {
+    "page": "www.spirehealthcare.com-spire-hartswood-hospital",
+    "url": "https://www.spirehealthcare.com/spire-hartswood-hospital",
+    "title": "Brentwood Private Hospital, Essex (Near Romford & Chelmsford) | Spire Hartswood Hospital",
+    "json": "www.spirehealthcare.com-spire-hartswood-hospital.json",
+    "report": "www.spirehealthcare.com-spire-hartswood-hospital.json",
+    "ok": true
+  },
+  {
+    "page": "www.spirehealthcare.com-spire-norwich-hospital",
+    "url": "https://www.spirehealthcare.com/spire-norwich-hospital",
+    "title": "www.spirehealthcare.com-spire-norwich-hospital",
+    "json": "www.spirehealthcare.com-spire-norwich-hospital.json",
+    "report": "www.spirehealthcare.com-spire-norwich-hospital.json",
+    "ok": false,
+    "error": "Failed to extract valid JSON from contrast tool stdout. Exit status: 1"
+  },
+  {
+    "page": "www.spirehealthcare.com-spire-wellesley-hospital",
+    "url": "https://www.spirehealthcare.com/spire-wellesley-hospital",
+    "title": "www.spirehealthcare.com-spire-wellesley-hospital",
+    "json": "www.spirehealthcare.com-spire-wellesley-hospital.json",
+    "report": "www.spirehealthcare.com-spire-wellesley-hospital.json",
+    "ok": false,
+    "error": "Failed to extract valid JSON from contrast tool stdout. Exit status: 1"
+  },
+  {
+    "page": "www.spirehealthcare.com-spire-ella-may-barnes-clinic",
+    "url": "https://www.spirehealthcare.com/spire-ella-may-barnes-clinic",
+    "title": "Spire Ella May Barnes Clinic | Spire Norwich Hospital",
+    "json": "www.spirehealthcare.com-spire-ella-may-barnes-clinic.json",
+    "report": "www.spirehealthcare.com-spire-ella-may-barnes-clinic.json",
+    "ok": true
+  },
+  {
+    "page": "www.spirehealthcare.com-spire-kings-lynn-clinic",
+    "url": "https://www.spirehealthcare.com/spire-kings-lynn-clinic",
+    "title": "www.spirehealthcare.com-spire-kings-lynn-clinic",
+    "json": "www.spirehealthcare.com-spire-kings-lynn-clinic.json",
+    "report": "www.spirehealthcare.com-spire-kings-lynn-clinic.json",
+    "ok": false,
+    "error": "Failed to extract valid JSON from contrast tool stdout. Exit status: 1"
+  },
+  {
+    "page": "www.spirehealthcare.com-spire-bushey-hospital",
+    "url": "https://www.spirehealthcare.com/spire-bushey-hospital",
+    "title": "www.spirehealthcare.com-spire-bushey-hospital",
+    "json": "www.spirehealthcare.com-spire-bushey-hospital.json",
+    "report": "www.spirehealthcare.com-spire-bushey-hospital.json",
+    "ok": false,
+    "error": "Failed to extract valid JSON from contrast tool stdout. Exit status: 1"
+  },
+  {
+    "page": "www.spirehealthcare.com-spire-harpenden-hospital",
+    "url": "https://www.spirehealthcare.com/spire-harpenden-hospital",
+    "title": "Harpenden Private Hospital, Hertfordshire (Near Luton & St Albans) | Spire Harpenden Hospital",
+    "json": "www.spirehealthcare.com-spire-harpenden-hospital.json",
+    "report": "www.spirehealthcare.com-spire-harpenden-hospital.json",
+    "ok": true
+  },
+  {
+    "page": "www.spirehealthcare.com-spire-london-east-hospital",
+    "url": "https://www.spirehealthcare.com/spire-london-east-hospital",
+    "title": "Redbridge Private Hospital, Ilford, London (Near Woodford) | Spire London East Hospital",
+    "json": "www.spirehealthcare.com-spire-london-east-hospital.json",
+    "report": "www.spirehealthcare.com-spire-london-east-hospital.json",
+    "ok": true
+  }
+]

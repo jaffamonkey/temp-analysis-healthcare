@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.herohealthsoftware.net/nhs-features/care-navigation",
+  "landed_url": "https://www.herohealthsoftware.net/nhs-features/care-navigation",
+  "title": "Care navigation & triage for NHS GP practices",
+  "page": "www.herohealthsoftware.net-nhs-features-care-navigation",
+  "captured_at": "2026-08-05T12:43:06.568Z",
+  "focusable_count": 64,
+  "frame_count": 3,
+  "same_origin_frame_count": 2,
+  "cross_origin_frame_count": 1,
+  "image": "www.herohealthsoftware.net-nhs-features-care-navigation.png",
+  "preview_image": "www.herohealthsoftware.net-nhs-features-care-navigation.png",
+  "preview_dir": "visual-preview",
+  "json": "www.herohealthsoftware.net-nhs-features-care-navigation.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Allow all"
+    }
+  ]
+}

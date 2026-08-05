@@ -1,0 +1,17 @@
+{
+  "tool": "tab-map",
+  "url": "https://peppy.health/privacy-policy/",
+  "landed_url": "https://peppy.health/privacy-policy/",
+  "title": "Legal - Privacy Policy",
+  "page": "peppy.health-privacy-policy",
+  "captured_at": "2026-08-05T13:06:47.989Z",
+  "focusable_count": 59,
+  "frame_count": 3,
+  "same_origin_frame_count": 2,
+  "cross_origin_frame_count": 1,
+  "image": "peppy.health-privacy-policy.png",
+  "preview_image": "peppy.health-privacy-policy.png",
+  "preview_dir": "visual-preview",
+  "json": "peppy.health-privacy-policy.json",
+  "consent_actions": []
+}

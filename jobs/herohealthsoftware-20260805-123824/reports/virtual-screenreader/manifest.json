@@ -1,0 +1,34 @@
+[
+  {
+    "page": "www.herohealthsoftware.net-nhs-features-individual-messaging",
+    "url": "https://www.herohealthsoftware.net/nhs-features/individual-messaging",
+    "title": "Individual messaging for NHS GP practices",
+    "report": "www.herohealthsoftware.net-nhs-features-individual-messaging.json",
+    "line_count": 381,
+    "ok": true
+  },
+  {
+    "page": "www.herohealthsoftware.net-nhs-features-batch-messaging",
+    "url": "https://www.herohealthsoftware.net/nhs-features/batch-messaging",
+    "title": "Batch messaging for NHS GP practices",
+    "report": "www.herohealthsoftware.net-nhs-features-batch-messaging.json",
+    "line_count": 319,
+    "ok": true
+  },
+  {
+    "page": "www.herohealthsoftware.net-nhs-features-appointment-booking",
+    "url": "https://www.herohealthsoftware.net/nhs-features/appointment-booking",
+    "title": "Appointment booking for NHS GP practices",
+    "report": "www.herohealthsoftware.net-nhs-features-appointment-booking.json",
+    "line_count": 337,
+    "ok": true
+  },
+  {
+    "page": "www.herohealthsoftware.net-nhs-features-care-navigation",
+    "url": "https://www.herohealthsoftware.net/nhs-features/care-navigation",
+    "title": "Care navigation & triage for NHS GP practices",
+    "report": "www.herohealthsoftware.net-nhs-features-care-navigation.json",
+    "line_count": 350,
+    "ok": true
+  }
+]

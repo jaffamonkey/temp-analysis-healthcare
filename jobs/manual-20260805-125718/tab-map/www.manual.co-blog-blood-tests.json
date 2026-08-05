@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.manual.co/blog/blood-tests",
+  "landed_url": "https://www.manual.co/blog/blood-tests",
+  "title": "Blood Test Blog | Manual.co",
+  "page": "www.manual.co-blog-blood-tests",
+  "captured_at": "2026-08-05T13:02:08.820Z",
+  "focusable_count": 52,
+  "frame_count": 4,
+  "same_origin_frame_count": 3,
+  "cross_origin_frame_count": 1,
+  "image": "www.manual.co-blog-blood-tests.png",
+  "preview_image": "www.manual.co-blog-blood-tests.png",
+  "preview_dir": "visual-preview",
+  "json": "www.manual.co-blog-blood-tests.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "#onetrust-accept-btn-handler"
+    }
+  ]
+}

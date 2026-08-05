@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://aide.health/about-us",
+  "landed_url": "https://aide.health/about-us",
+  "title": "About Aide Health — Innovation in digital health",
+  "page": "aide.health-about-us",
+  "captured_at": "2026-08-05T11:39:22.380Z",
+  "focusable_count": 36,
+  "frame_count": 0,
+  "same_origin_frame_count": 0,
+  "cross_origin_frame_count": 0,
+  "image": "aide.health-about-us.png",
+  "preview_image": "aide.health-about-us.png",
+  "preview_dir": "visual-preview",
+  "json": "aide.health-about-us.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Accept"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+Starting contrast check for https://tympahealth.com/privacy-policy/
+
+--- STDOUT ---
+ℹ Scanning: https://tympahealth.com/privacy-policy/
+ℹ Scanning page 1/1: https://tympahealth.com/privacy-policy/
+[
+  {
+    "url": "https://tympahealth.com/privacy-policy/",
+    "title": "",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 0,
+      "passAA": 0,
+      "passAAA": 0,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 0,
+    "scannedAt": "2026-08-05T15:49:00.932Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 1 page(s)
+

@@ -1,0 +1,266 @@
+[
+  {
+    "tool": "tab-map",
+    "url": "https://www.spirehealthcare.com",
+    "landed_url": "https://www.spirehealthcare.com/",
+    "title": "Spire Healthcare | Private Hospitals UK | Quality Care",
+    "page": "www.spirehealthcare.com",
+    "captured_at": "2026-08-05T15:47:48.246Z",
+    "focusable_count": 71,
+    "frame_count": 8,
+    "same_origin_frame_count": 4,
+    "cross_origin_frame_count": 4,
+    "image": "www.spirehealthcare.com.png",
+    "preview_image": "www.spirehealthcare.com.png",
+    "preview_dir": "visual-preview",
+    "json": "www.spirehealthcare.com.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#onetrust-accept-btn-handler"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.spirehealthcare.com/spirehealthcarecom",
+    "landed_url": "https://www.spirehealthcare.com/home/",
+    "title": "Spire Healthcare | Private Hospitals UK | Quality Care",
+    "page": "www.spirehealthcare.com-spirehealthcarecom",
+    "captured_at": "2026-08-05T15:47:48.239Z",
+    "focusable_count": 71,
+    "frame_count": 7,
+    "same_origin_frame_count": 4,
+    "cross_origin_frame_count": 3,
+    "image": "www.spirehealthcare.com-spirehealthcarecom.png",
+    "preview_image": "www.spirehealthcare.com-spirehealthcarecom.png",
+    "preview_dir": "visual-preview",
+    "json": "www.spirehealthcare.com-spirehealthcarecom.json",
+    "consent_actions": [
+      {
+        "action": "removed",
+        "detail": "2 overlay(s)"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.spirehealthcare.com/spire-cambridge-lea-hospital",
+    "landed_url": "https://www.spirehealthcare.com/spire-cambridge-lea-hospital/",
+    "title": "Private Hospital in Cambridge, Cambridgeshire | Spire Cambridge Lea Hospital",
+    "page": "www.spirehealthcare.com-spire-cambridge-lea-hospital",
+    "captured_at": "2026-08-05T15:47:57.783Z",
+    "focusable_count": 62,
+    "frame_count": 8,
+    "same_origin_frame_count": 4,
+    "cross_origin_frame_count": 4,
+    "image": "www.spirehealthcare.com-spire-cambridge-lea-hospital.png",
+    "preview_image": "www.spirehealthcare.com-spire-cambridge-lea-hospital.png",
+    "preview_dir": "visual-preview",
+    "json": "www.spirehealthcare.com-spire-cambridge-lea-hospital.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#onetrust-accept-btn-handler"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.spirehealthcare.com/healthcare-professionals",
+    "landed_url": "https://www.spirehealthcare.com/healthcare-professionals/",
+    "title": "Healthcare professionals | Spire Healthcare",
+    "page": "www.spirehealthcare.com-healthcare-professionals",
+    "captured_at": "2026-08-05T15:47:57.784Z",
+    "focusable_count": 81,
+    "frame_count": 7,
+    "same_origin_frame_count": 4,
+    "cross_origin_frame_count": 3,
+    "image": "www.spirehealthcare.com-healthcare-professionals.png",
+    "preview_image": "www.spirehealthcare.com-healthcare-professionals.png",
+    "preview_dir": "visual-preview",
+    "json": "www.spirehealthcare.com-healthcare-professionals.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#onetrust-accept-btn-handler"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.spirehealthcare.com/spire-norwich-hospital",
+    "landed_url": "https://www.spirehealthcare.com/spire-norwich-hospital/",
+    "title": "Spire Norwich Hospital | Private Hospital in Norwich, Norfolk | Spire Healthcare",
+    "page": "www.spirehealthcare.com-spire-norwich-hospital",
+    "captured_at": "2026-08-05T15:48:12.159Z",
+    "focusable_count": 63,
+    "frame_count": 8,
+    "same_origin_frame_count": 4,
+    "cross_origin_frame_count": 4,
+    "image": "www.spirehealthcare.com-spire-norwich-hospital.png",
+    "preview_image": "www.spirehealthcare.com-spire-norwich-hospital.png",
+    "preview_dir": "visual-preview",
+    "json": "www.spirehealthcare.com-spire-norwich-hospital.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#onetrust-accept-btn-handler"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.spirehealthcare.com/spire-hartswood-hospital",
+    "landed_url": "https://www.spirehealthcare.com/spire-hartswood-hospital/",
+    "title": "Brentwood Private Hospital, Essex (Near Romford & Chelmsford) | Spire Hartswood Hospital",
+    "page": "www.spirehealthcare.com-spire-hartswood-hospital",
+    "captured_at": "2026-08-05T15:48:12.214Z",
+    "focusable_count": 60,
+    "frame_count": 7,
+    "same_origin_frame_count": 4,
+    "cross_origin_frame_count": 3,
+    "image": "www.spirehealthcare.com-spire-hartswood-hospital.png",
+    "preview_image": "www.spirehealthcare.com-spire-hartswood-hospital.png",
+    "preview_dir": "visual-preview",
+    "json": "www.spirehealthcare.com-spire-hartswood-hospital.json",
+    "consent_actions": [
+      {
+        "action": "removed",
+        "detail": "2 overlay(s)"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.spirehealthcare.com/spire-wellesley-hospital",
+    "landed_url": "https://www.spirehealthcare.com/spire-wellesley-hospital/",
+    "title": "Private Hospital in Southend-on-Sea, Essex | Spire Wellesley Hospital",
+    "page": "www.spirehealthcare.com-spire-wellesley-hospital",
+    "captured_at": "2026-08-05T15:48:25.588Z",
+    "focusable_count": 62,
+    "frame_count": 8,
+    "same_origin_frame_count": 4,
+    "cross_origin_frame_count": 4,
+    "image": "www.spirehealthcare.com-spire-wellesley-hospital.png",
+    "preview_image": "www.spirehealthcare.com-spire-wellesley-hospital.png",
+    "preview_dir": "visual-preview",
+    "json": "www.spirehealthcare.com-spire-wellesley-hospital.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#onetrust-accept-btn-handler"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.spirehealthcare.com/spire-ella-may-barnes-clinic",
+    "landed_url": "https://www.spirehealthcare.com/spire-ella-may-barnes-clinic/home/",
+    "title": "Spire Ella May Barnes Clinic | Spire Norwich Hospital",
+    "page": "www.spirehealthcare.com-spire-ella-may-barnes-clinic",
+    "captured_at": "2026-08-05T15:48:25.587Z",
+    "focusable_count": 47,
+    "frame_count": 6,
+    "same_origin_frame_count": 3,
+    "cross_origin_frame_count": 3,
+    "image": "www.spirehealthcare.com-spire-ella-may-barnes-clinic.png",
+    "preview_image": "www.spirehealthcare.com-spire-ella-may-barnes-clinic.png",
+    "preview_dir": "visual-preview",
+    "json": "www.spirehealthcare.com-spire-ella-may-barnes-clinic.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#onetrust-accept-btn-handler"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.spirehealthcare.com/spire-kings-lynn-clinic",
+    "landed_url": "https://www.spirehealthcare.com/spire-kings-lynn-clinic/home/",
+    "title": "Private Clinic in King's Lynn, West Norfolk | Spire King's Lynn Clinic",
+    "page": "www.spirehealthcare.com-spire-kings-lynn-clinic",
+    "captured_at": "2026-08-05T15:48:38.424Z",
+    "focusable_count": 56,
+    "frame_count": 7,
+    "same_origin_frame_count": 4,
+    "cross_origin_frame_count": 3,
+    "image": "www.spirehealthcare.com-spire-kings-lynn-clinic.png",
+    "preview_image": "www.spirehealthcare.com-spire-kings-lynn-clinic.png",
+    "preview_dir": "visual-preview",
+    "json": "www.spirehealthcare.com-spire-kings-lynn-clinic.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#onetrust-accept-btn-handler"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.spirehealthcare.com/spire-bushey-hospital",
+    "landed_url": "https://www.spirehealthcare.com/spire-bushey-hospital/",
+    "title": "Bushey Private Hospital, Watford, London | Spire Bushey Hospital",
+    "page": "www.spirehealthcare.com-spire-bushey-hospital",
+    "captured_at": "2026-08-05T15:48:38.432Z",
+    "focusable_count": 64,
+    "frame_count": 8,
+    "same_origin_frame_count": 4,
+    "cross_origin_frame_count": 4,
+    "image": "www.spirehealthcare.com-spire-bushey-hospital.png",
+    "preview_image": "www.spirehealthcare.com-spire-bushey-hospital.png",
+    "preview_dir": "visual-preview",
+    "json": "www.spirehealthcare.com-spire-bushey-hospital.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#onetrust-accept-btn-handler"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.spirehealthcare.com/spire-harpenden-hospital",
+    "landed_url": "https://www.spirehealthcare.com/spire-harpenden-hospital/",
+    "title": "Harpenden Private Hospital, Hertfordshire (Near Luton & St Albans) | Spire Harpenden Hospital",
+    "page": "www.spirehealthcare.com-spire-harpenden-hospital",
+    "captured_at": "2026-08-05T15:48:49.235Z",
+    "focusable_count": 61,
+    "frame_count": 8,
+    "same_origin_frame_count": 4,
+    "cross_origin_frame_count": 4,
+    "image": "www.spirehealthcare.com-spire-harpenden-hospital.png",
+    "preview_image": "www.spirehealthcare.com-spire-harpenden-hospital.png",
+    "preview_dir": "visual-preview",
+    "json": "www.spirehealthcare.com-spire-harpenden-hospital.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#onetrust-accept-btn-handler"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.spirehealthcare.com/spire-london-east-hospital",
+    "landed_url": "https://www.spirehealthcare.com/spire-london-east-hospital/",
+    "title": "Redbridge Private Hospital, Ilford, London (Near Woodford) | Spire London East Hospital",
+    "page": "www.spirehealthcare.com-spire-london-east-hospital",
+    "captured_at": "2026-08-05T15:48:49.226Z",
+    "focusable_count": 64,
+    "frame_count": 8,
+    "same_origin_frame_count": 4,
+    "cross_origin_frame_count": 4,
+    "image": "www.spirehealthcare.com-spire-london-east-hospital.png",
+    "preview_image": "www.spirehealthcare.com-spire-london-east-hospital.png",
+    "preview_dir": "visual-preview",
+    "json": "www.spirehealthcare.com-spire-london-east-hospital.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#onetrust-accept-btn-handler"
+      }
+    ]
+  }
+]

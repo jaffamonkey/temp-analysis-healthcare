@@ -1,0 +1,17 @@
+{
+  "tool": "tab-map",
+  "url": "https://isla.health/about-us/",
+  "landed_url": "https://isla.health/about-us/",
+  "title": "About Isla Health: Digital Pathway Platform and Medical Device",
+  "page": "isla.health-about-us",
+  "captured_at": "2026-08-05T12:43:08.176Z",
+  "focusable_count": 27,
+  "frame_count": 0,
+  "same_origin_frame_count": 0,
+  "cross_origin_frame_count": 0,
+  "image": "isla.health-about-us.png",
+  "preview_image": "isla.health-about-us.png",
+  "preview_dir": "visual-preview",
+  "json": "isla.health-about-us.json",
+  "consent_actions": []
+}

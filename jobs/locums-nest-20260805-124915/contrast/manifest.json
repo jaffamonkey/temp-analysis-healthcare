@@ -1,0 +1,34 @@
+[
+  {
+    "page": "locumsnest.co.uk",
+    "url": "https://locumsnest.co.uk",
+    "title": "Locum's Nest | Your total workforce solution",
+    "json": "locumsnest.co.uk.json",
+    "report": "locumsnest.co.uk.json",
+    "ok": true
+  },
+  {
+    "page": "locumsnest.co.uk-privacy-policy",
+    "url": "https://locumsnest.co.uk/privacy-policy",
+    "title": "Privacy Policy — Locum's Nest | Your total workforce solution",
+    "json": "locumsnest.co.uk-privacy-policy.json",
+    "report": "locumsnest.co.uk-privacy-policy.json",
+    "ok": true
+  },
+  {
+    "page": "locumsnest.co.uk-collaborative-banks",
+    "url": "https://locumsnest.co.uk/collaborative-banks",
+    "title": "Collaborative Banks — Locum's Nest | Your total workforce solution",
+    "json": "locumsnest.co.uk-collaborative-banks.json",
+    "report": "locumsnest.co.uk-collaborative-banks.json",
+    "ok": true
+  },
+  {
+    "page": "locumsnest.co.uk-about-us",
+    "url": "https://locumsnest.co.uk/about-us",
+    "title": "About Us — Locum's Nest | Your total workforce solution",
+    "json": "locumsnest.co.uk-about-us.json",
+    "report": "locumsnest.co.uk-about-us.json",
+    "ok": true
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://locumsnest.co.uk/privacy-policy",
+  "landed_url": "https://locumsnest.co.uk/privacy-policy",
+  "title": "Privacy Policy — Locum's Nest | Your total workforce solution",
+  "page": "locumsnest.co.uk-privacy-policy",
+  "captured_at": "2026-08-05T12:52:53.687Z",
+  "focusable_count": 20,
+  "frame_count": 1,
+  "same_origin_frame_count": 1,
+  "cross_origin_frame_count": 0,
+  "image": "locumsnest.co.uk-privacy-policy.png",
+  "preview_image": "locumsnest.co.uk-privacy-policy.png",
+  "preview_dir": "visual-preview",
+  "json": "locumsnest.co.uk-privacy-policy.json",
+  "consent_actions": [
+    {
+      "action": "removed",
+      "detail": "2 overlay(s)"
+    }
+  ]
+}

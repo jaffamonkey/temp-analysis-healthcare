@@ -1,0 +1,36 @@
+Starting contrast check for https://zoe.com/our-science?lead_id=ea2c5a5b-56f6-42de-880d-86bc2ca0a9bb
+
+--- STDOUT ---
+ℹ Scanning: https://zoe.com/our-science?lead_id=ea2c5a5b-56f6-42de-880d-86bc2ca0a9bb
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://zoe.com/our-science?lead_id=ea2c5a5b-56f6-42de-880d-86bc2ca0a9bb
+[
+  {
+    "url": "https://zoe.com/our-science?lead_id=ea2c5a5b-56f6-42de-880d-86bc2ca0a9bb",
+    "title": "Our Science",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 124,
+      "passAA": 124,
+      "passAAA": 121,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-08-05T15:52:55.191Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+

@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.manual.co",
+    "url": "https://www.manual.co",
+    "title": "Manual: Men's Healthcare - Made easy",
+    "report": "www.manual.co.json",
+    "line_count": 648,
+    "ok": true
+  },
+  {
+    "page": "www.manual.co-blog",
+    "url": "https://www.manual.co/blog",
+    "title": "Explore our Health Centre | Medical Information, Reviewed by Experts | Manual.co",
+    "report": "www.manual.co-blog.json",
+    "line_count": 630,
+    "ok": true
+  },
+  {
+    "page": "www.manual.co-about",
+    "url": "https://www.manual.co/about",
+    "title": "",
+    "report": "www.manual.co-about.json",
+    "line_count": 447,
+    "ok": true
+  },
+  {
+    "page": "www.manual.co-blog-blood-tests",
+    "url": "https://www.manual.co/blog/blood-tests",
+    "title": "Blood Test Blog | Manual.co",
+    "report": "www.manual.co-blog-blood-tests.json",
+    "line_count": 394,
+    "ok": true
+  },
+  {
+    "page": "www.manual.co-blog-daily-health",
+    "url": "https://www.manual.co/blog/daily-health",
+    "title": "Daily Health | Manual.co",
+    "report": "www.manual.co-blog-daily-health.json",
+    "line_count": 485,
+    "ok": true
+  }
+]

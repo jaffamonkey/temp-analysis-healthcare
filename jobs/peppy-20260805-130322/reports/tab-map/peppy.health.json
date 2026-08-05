@@ -1,0 +1,26 @@
+{
+  "tool": "tab-map",
+  "url": "https://peppy.health/",
+  "landed_url": "https://peppy.health/",
+  "title": "Transform Employee Health | Support for Key Life Stages | Peppy",
+  "page": "peppy.health",
+  "captured_at": "2026-08-05T13:06:25.058Z",
+  "focusable_count": 86,
+  "frame_count": 6,
+  "same_origin_frame_count": 4,
+  "cross_origin_frame_count": 2,
+  "image": "peppy.health.png",
+  "preview_image": "peppy.health.png",
+  "preview_dir": "visual-preview",
+  "json": "peppy.health.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "input[type=\"submit\"][value*=\"OK\" i]"
+    },
+    {
+      "action": "clicked",
+      "detail": "input[type=\"submit\"][value*=\"OK\" i]"
+    }
+  ]
+}

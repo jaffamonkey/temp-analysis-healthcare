@@ -1,0 +1,36 @@
+Starting contrast check for https://tandemhealth.ai/product/ai-scribe
+
+--- STDOUT ---
+ℹ Scanning: https://tandemhealth.ai/product/ai-scribe
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://tandemhealth.ai/product/ai-scribe
+[
+  {
+    "url": "https://tandemhealth.ai/product/ai-scribe",
+    "title": "AI scribe for clinical documentation | Tandem Health",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 175,
+      "passAA": 175,
+      "passAAA": 174,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-08-05T15:46:08.377Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+

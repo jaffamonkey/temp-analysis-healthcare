@@ -1,0 +1,112 @@
+[
+  {
+    "tool": "tab-map",
+    "url": "https://deephealth.com/kheiron-medical-technologies/",
+    "landed_url": "https://deephealth.com/kheiron-medical-technologies/",
+    "title": "Kheiron Medical Technologies - DeepHealth",
+    "page": "deephealth.com-kheiron-medical-technologies",
+    "captured_at": "2026-08-05T12:50:26.971Z",
+    "focusable_count": 87,
+    "frame_count": 3,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 2,
+    "image": "deephealth.com-kheiron-medical-technologies.png",
+    "preview_image": "deephealth.com-kheiron-medical-technologies.png",
+    "preview_dir": "visual-preview",
+    "json": "deephealth.com-kheiron-medical-technologies.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Allow all"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://deephealth.com",
+    "landed_url": "https://deephealth.com/",
+    "title": "DeepHealth - Radiology AI-Powered Health Informatics | RadNet",
+    "page": "deephealth.com",
+    "captured_at": "2026-08-05T12:50:26.964Z",
+    "focusable_count": 99,
+    "frame_count": 3,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 2,
+    "image": "deephealth.com.png",
+    "preview_image": "deephealth.com.png",
+    "preview_dir": "visual-preview",
+    "json": "deephealth.com.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Allow all"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://deephealth.com/evidence/scientific-publications/",
+    "landed_url": "https://deephealth.com/evidence/scientific-publications/",
+    "title": "Evidence - Scientific Publications - DeepHealth",
+    "page": "deephealth.com-evidence-scientific-publications",
+    "captured_at": "2026-08-05T12:50:46.841Z",
+    "focusable_count": 126,
+    "frame_count": 3,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 2,
+    "image": "deephealth.com-evidence-scientific-publications.png",
+    "preview_image": "deephealth.com-evidence-scientific-publications.png",
+    "preview_dir": "visual-preview",
+    "json": "deephealth.com-evidence-scientific-publications.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Allow all"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://deephealth.com/enterprise-imaging/diagnostic-suite/",
+    "landed_url": "https://deephealth.com/enterprise-imaging/diagnostic-suite/",
+    "title": "Diagnostic Suite - DeepHealth",
+    "page": "deephealth.com-enterprise-imaging-diagnostic-suite",
+    "captured_at": "2026-08-05T12:50:46.815Z",
+    "focusable_count": 98,
+    "frame_count": 3,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 2,
+    "image": "deephealth.com-enterprise-imaging-diagnostic-suite.png",
+    "preview_image": "deephealth.com-enterprise-imaging-diagnostic-suite.png",
+    "preview_dir": "visual-preview",
+    "json": "deephealth.com-enterprise-imaging-diagnostic-suite.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://deephealth.com/about/",
+    "landed_url": "https://deephealth.com/about/",
+    "title": "About - DeepHealth",
+    "page": "deephealth.com-about",
+    "captured_at": "2026-08-05T12:50:54.085Z",
+    "focusable_count": 88,
+    "frame_count": 3,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 2,
+    "image": "deephealth.com-about.png",
+    "preview_image": "deephealth.com-about.png",
+    "preview_dir": "visual-preview",
+    "json": "deephealth.com-about.json",
+    "consent_actions": [
+      {
+        "action": "removed",
+        "detail": "1 overlay(s)"
+      }
+    ]
+  }
+]

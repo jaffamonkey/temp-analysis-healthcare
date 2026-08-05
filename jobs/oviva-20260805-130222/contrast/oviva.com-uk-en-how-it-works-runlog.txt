@@ -1,0 +1,36 @@
+Starting contrast check for https://oviva.com/uk/en/how-it-works/
+
+--- STDOUT ---
+ℹ Scanning: https://oviva.com/uk/en/how-it-works/
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://oviva.com/uk/en/how-it-works/
+[
+  {
+    "url": "https://oviva.com/uk/en/how-it-works/",
+    "title": "How it works | Oviva UK | Join us",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 121,
+      "passAA": 121,
+      "passAAA": 120,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-08-05T13:04:56.980Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+

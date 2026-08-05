@@ -1,0 +1,36 @@
+Starting contrast check for https://dawainnovation.com/faqs/
+
+--- STDOUT ---
+ℹ Scanning: https://dawainnovation.com/faqs/
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://dawainnovation.com/faqs/
+[
+  {
+    "url": "https://dawainnovation.com/faqs/",
+    "title": "FAQS – DAWA INNOVATIONS",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 44,
+      "passAA": 44,
+      "passAAA": 27,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-08-05T12:11:29.201Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 7 page(s)
+

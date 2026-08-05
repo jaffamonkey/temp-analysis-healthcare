@@ -1,0 +1,13 @@
+{
+  "job_id": "vinehealth-20260723-223520-20260805-154542",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/vinehealth-20260723-223520-20260805-154542/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/vinehealth-20260723-223520-20260805-154542/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/vinehealth-20260723-223520-20260805-154542/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/vinehealth-20260723-223520-20260805-154542/analysis/accessibility_analysis.xlsx",
+  "violations": 574,
+  "pages": 4,
+  "screenshots": {
+    "job_id": "vinehealth-20260723-223520-20260805-154542",
+    "message": "Artifacts processed"
+  }
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "tool": "tab-map",
+    "url": "https://www.semble.io/about-us",
+    "landed_url": "https://www.semble.io/about-us",
+    "title": "About us",
+    "page": "www.semble.io-about-us",
+    "captured_at": "2026-08-05T13:07:06.224Z",
+    "focusable_count": 46,
+    "frame_count": 2,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 1,
+    "image": "www.semble.io-about-us.png",
+    "preview_image": "www.semble.io-about-us.png",
+    "preview_dir": "visual-preview",
+    "json": "www.semble.io-about-us.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.semble.io/",
+    "landed_url": "https://www.semble.io/",
+    "title": "Private Practice Management Software | Semble",
+    "page": "www.semble.io",
+    "captured_at": "2026-08-05T13:07:06.198Z",
+    "focusable_count": 58,
+    "frame_count": 3,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 2,
+    "image": "www.semble.io.png",
+    "preview_image": "www.semble.io.png",
+    "preview_dir": "visual-preview",
+    "json": "www.semble.io.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.semble.io/book-a-demo",
+    "landed_url": "https://www.semble.io/book-a-demo",
+    "title": "Book a Demo",
+    "page": "www.semble.io-book-a-demo",
+    "captured_at": "2026-08-05T13:07:12.101Z",
+    "focusable_count": 47,
+    "frame_count": 5,
+    "same_origin_frame_count": 3,
+    "cross_origin_frame_count": 2,
+    "image": "www.semble.io-book-a-demo.png",
+    "preview_image": "www.semble.io-book-a-demo.png",
+    "preview_dir": "visual-preview",
+    "json": "www.semble.io-book-a-demo.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.semble.io/solutions/solo-practitioner-healthcare-software",
+    "landed_url": "https://www.semble.io/solutions/solo-practitioner-healthcare-software",
+    "title": "Small Medical Practice Management Software | Semble",
+    "page": "www.semble.io-solutions-solo-practitioner-healthcare-software",
+    "captured_at": "2026-08-05T13:07:12.101Z",
+    "focusable_count": 51,
+    "frame_count": 3,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 2,
+    "image": "www.semble.io-solutions-solo-practitioner-healthcare-software.png",
+    "preview_image": "www.semble.io-solutions-solo-practitioner-healthcare-software.png",
+    "preview_dir": "visual-preview",
+    "json": "www.semble.io-solutions-solo-practitioner-healthcare-software.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.semble.io/privacy-policy",
+    "landed_url": "https://www.semble.io/privacy-policy",
+    "title": "Privacy Policy",
+    "page": "www.semble.io-privacy-policy",
+    "captured_at": "2026-08-05T13:07:20.492Z",
+    "focusable_count": 55,
+    "frame_count": 2,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 1,
+    "image": "www.semble.io-privacy-policy.png",
+    "preview_image": "www.semble.io-privacy-policy.png",
+    "preview_dir": "visual-preview",
+    "json": "www.semble.io-privacy-policy.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll"
+      }
+    ]
+  }
+]

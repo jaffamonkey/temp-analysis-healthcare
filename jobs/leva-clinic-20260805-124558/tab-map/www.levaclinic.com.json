@@ -1,0 +1,17 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.levaclinic.com/",
+  "landed_url": "https://www.levaclinic.com/",
+  "title": "Treat your chronic pain with Leva pain management clinic",
+  "page": "www.levaclinic.com",
+  "captured_at": "2026-08-05T12:49:51.036Z",
+  "focusable_count": 82,
+  "frame_count": 7,
+  "same_origin_frame_count": 6,
+  "cross_origin_frame_count": 1,
+  "image": "www.levaclinic.com.png",
+  "preview_image": "www.levaclinic.com.png",
+  "preview_dir": "visual-preview",
+  "json": "www.levaclinic.com.json",
+  "consent_actions": []
+}

@@ -1,0 +1,1271 @@
+Starting contrast check for https://www.numan.com/weight-loss/backed-by-science
+
+--- STDOUT ---
+ℹ Scanning: https://www.numan.com/weight-loss/backed-by-science
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://www.numan.com/weight-loss/backed-by-science
+[
+  {
+    "url": "https://www.numan.com/weight-loss/backed-by-science",
+    "title": "Obesity management: our approach",
+    "pairs": [
+      {
+        "text": "Updated:",
+        "tag": "p",
+        "color": "rgb(107, 107, 138)",
+        "background": "rgb(34, 31, 51)",
+        "selector": "main.relative > div.container.flex.justify-between.items-baseline.flex-col.gap-1.sm:flex-row:nth-of-type(2) > div:nth-of-type(2) > p.text-xs.text-content-secondary.text-dark-content-tertiary",
+        "xpath": "/html/body/main[1]/div[2]/div[2]/p[1]",
+        "boundingRect": {
+          "x": 968.140625,
+          "y": 7584.328125,
+          "width": 119.859375,
+          "height": 18
+        },
+        "fontSize": "12px",
+        "fontWeight": "350",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 107,
+          "g": 107,
+          "b": 138,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 34,
+          "g": 31,
+          "b": 51,
+          "a": 1
+        },
+        "contrastRatio": 3.12,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 134,
+            "b": 166,
+            "a": 1
+          },
+          "hex": "#8586a6",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.09046941122439767
+        }
+      },
+      {
+        "text": "23/07/2026",
+        "tag": "time",
+        "color": "rgb(107, 107, 138)",
+        "background": "rgb(34, 31, 51)",
+        "selector": "main.relative > div.container.flex.justify-between.items-baseline.flex-col.gap-1.sm:flex-row:nth-of-type(2) > div:nth-of-type(2) > p.text-xs.text-content-secondary.text-dark-content-tertiary > time",
+        "xpath": "/html/body/main[1]/div[2]/div[2]/p[1]/time[1]",
+        "boundingRect": {
+          "x": 1022.046875,
+          "y": 7585.328125,
+          "width": 65.953125,
+          "height": 16
+        },
+        "fontSize": "12px",
+        "fontWeight": "350",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 107,
+          "g": 107,
+          "b": 138,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 34,
+          "g": 31,
+          "b": 51,
+          "a": 1
+        },
+        "contrastRatio": 3.12,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 134,
+            "b": 166,
+            "a": 1
+          },
+          "hex": "#8586a6",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.09046941122439767
+        }
+      },
+      {
+        "text": "By entering your contact details you agree to the",
+        "tag": "span",
+        "color": "rgb(108, 122, 137)",
+        "background": "rgba(15, 21, 33, 0.89)",
+        "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-left:nth-of-type(4) > div.element-content.cf-text-element.cf-margin-alignment.cf-merge-tag-allowed > span:nth-of-type(1)",
+        "xpath": "//*[@id=\"element8174979-content\"]/span[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 108,
+          "g": 122,
+          "b": 137,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 15,
+          "g": 21,
+          "b": 33,
+          "a": 0.89
+        },
+        "contrastRatio": 3.07,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 136,
+            "g": 151,
+            "b": 167,
+            "a": 1
+          },
+          "hex": "#8897a7",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.09672092806596477
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLoQ0AAAwCMLLs/28ROG5AklDfJ4XEIbSw0BMMAAD///sgpTgAAAAGSURBVAMADy0DBhzaWH0AAAAASUVORK5CYII="
+      },
+      {
+        "text": "Terms and Conditions",
+        "tag": "strong",
+        "color": "rgb(108, 122, 137)",
+        "background": "rgba(15, 21, 33, 0.89)",
+        "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-left:nth-of-type(4) > div.element-content.cf-text-element.cf-margin-alignment.cf-merge-tag-allowed > span:nth-of-type(2) > a.cf-link-no-underline > span > strong",
+        "xpath": "//*[@id=\"element8174979-content\"]/span[2]/a[1]/span[1]/strong[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 108,
+          "g": 122,
+          "b": 137,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 15,
+          "g": 21,
+          "b": 33,
+          "a": 0.89
+        },
+        "contrastRatio": 3.07,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 136,
+            "g": 151,
+            "b": 167,
+            "a": 1
+          },
+          "hex": "#8897a7",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.09672092806596477
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLoQ0AAAwCMLLs/28ROG5AklDfJ4XEIbSw0BMMAAD///sgpTgAAAAGSURBVAMADy0DBhzaWH0AAAAASUVORK5CYII="
+      },
+      {
+        "text": ". See our",
+        "tag": "span",
+        "color": "rgb(108, 122, 137)",
+        "background": "rgba(15, 21, 33, 0.89)",
+        "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-left:nth-of-type(4) > div.element-content.cf-text-element.cf-margin-alignment.cf-merge-tag-allowed > span:nth-of-type(3)",
+        "xpath": "//*[@id=\"element8174979-content\"]/span[3]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 108,
+          "g": 122,
+          "b": 137,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 15,
+          "g": 21,
+          "b": 33,
+          "a": 0.89
+        },
+        "contrastRatio": 3.07,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 136,
+            "g": 151,
+            "b": 167,
+            "a": 1
+          },
+          "hex": "#8897a7",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.09672092806596477
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLoQ0AAAwCMLLs/28ROG5AklDfJ4XEIbSw0BMMAAD///sgpTgAAAAGSURBVAMADy0DBhzaWH0AAAAASUVORK5CYII="
+      },
+      {
+        "text": "Privacy Policy",
+        "tag": "strong",
+        "color": "rgb(108, 122, 137)",
+        "background": "rgba(15, 21, 33, 0.89)",
+        "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-left:nth-of-type(4) > div.element-content.cf-text-element.cf-margin-alignment.cf-merge-tag-allowed > span:nth-of-type(4) > a.cf-link-no-underline > strong",
+        "xpath": "//*[@id=\"element8174979-content\"]/span[4]/a[1]/strong[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 108,
+          "g": 122,
+          "b": 137,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 15,
+          "g": 21,
+          "b": 33,
+          "a": 0.89
+        },
+        "contrastRatio": 3.07,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 136,
+            "g": 151,
+            "b": 167,
+            "a": 1
+          },
+          "hex": "#8897a7",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.09672092806596477
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLoQ0AAAwCMLLs/28ROG5AklDfJ4XEIbSw0BMMAAD///sgpTgAAAAGSURBVAMADy0DBhzaWH0AAAAASUVORK5CYII="
+      },
+      {
+        "text": ".",
+        "tag": "strong",
+        "color": "rgb(108, 122, 137)",
+        "background": "rgba(15, 21, 33, 0.89)",
+        "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-left:nth-of-type(4) > div.element-content.cf-text-element.cf-margin-alignment.cf-merge-tag-allowed > span:nth-of-type(5) > strong",
+        "xpath": "//*[@id=\"element8174979-content\"]/span[5]/strong[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 108,
+          "g": 122,
+          "b": 137,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 15,
+          "g": 21,
+          "b": 33,
+          "a": 0.89
+        },
+        "contrastRatio": 3.07,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 136,
+            "g": 151,
+            "b": 167,
+            "a": 1
+          },
+          "hex": "#8897a7",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.09672092806596477
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLoQ0AAAwCMLLs/28ROG5AklDfJ4XEIbSw0BMMAAD///sgpTgAAAAGSURBVAMADy0DBhzaWH0AAAAASUVORK5CYII="
+      },
+      {
+        "text": "Yes, I'd like to receive email communications",
+        "tag": "span",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(15, 21, 33, 0.89)",
+        "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(2) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-outer-center:nth-of-type(2) > div.element-content.cf-form > div.cf-form.cf-form-2.cf-form-vertical.cf-form-theme-default.cf-outer-center.cf-form-large.cf-field-regular.cf-field-slightly-rounded > form.new_contact > div.cf-form-consent:nth-of-type(2) > div.cf-consent-field.cf-marketing-consent.cf-left:nth-of-type(1) > label.cf-label > span.cf-consent-label > span.cf-marketing-label",
+        "xpath": "//*[@id=\"element8174981_form\"]/form[1]/div[2]/div[1]/label[1]/span[1]/span[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-shadow",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 15,
+          "g": 21,
+          "b": 33,
+          "a": 0.89
+        },
+        "contrastRatio": 1.56,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 93,
+            "g": 101,
+            "b": 116,
+            "a": 0.89
+          },
+          "hex": "#5d6574",
+          "ratio": 4.6,
+          "property": "background-color",
+          "deltaE": 0.3090617376344348
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLoQ0AAAwCMLLs/28ROG5AklDfJ4XEIbSw0BMMAAD///sgpTgAAAAGSURBVAMADy0DBhzaWH0AAAAASUVORK5CYII="
+      },
+      {
+        "text": "By checking this box, you agree to receive recurring automated promotional and personalized marketin...",
+        "tag": "span",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(15, 21, 33, 0.89)",
+        "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(2) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-outer-center:nth-of-type(2) > div.element-content.cf-form > div.cf-form.cf-form-2.cf-form-vertical.cf-form-theme-default.cf-outer-center.cf-form-large.cf-field-regular.cf-field-slightly-rounded > form.new_contact > div.cf-form-consent:nth-of-type(2) > div.cf-consent-field.cf-sms-consent.cf-left:nth-of-type(2) > label.cf-label > span.cf-consent-label > span.cf-sms-label > span.cf-sms-message",
+        "xpath": "//*[@id=\"element8174981_form\"]/form[1]/div[2]/div[2]/label[1]/span[1]/span[1]/span[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-shadow",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 15,
+          "g": 21,
+          "b": 33,
+          "a": 0.89
+        },
+        "contrastRatio": 1.56,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 93,
+            "g": 101,
+            "b": 116,
+            "a": 0.89
+          },
+          "hex": "#5d6574",
+          "ratio": 4.6,
+          "property": "background-color",
+          "deltaE": 0.3090617376344348
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLoQ0AAAwCMLLs/28ROG5AklDfJ4XEIbSw0BMMAAD///sgpTgAAAAGSURBVAMADy0DBhzaWH0AAAAASUVORK5CYII="
+      },
+      {
+        "text": "Privacy Policy",
+        "tag": "a",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(15, 21, 33, 0.89)",
+        "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(2) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-outer-center:nth-of-type(2) > div.element-content.cf-form > div.cf-form.cf-form-2.cf-form-vertical.cf-form-theme-default.cf-outer-center.cf-form-large.cf-field-regular.cf-field-slightly-rounded > form.new_contact > div.cf-form-consent:nth-of-type(2) > div.cf-consent-field.cf-sms-consent.cf-left:nth-of-type(2) > label.cf-label > span.cf-consent-label > span.cf-sms-label > a.cf-privacy-link:nth-of-type(1)",
+        "xpath": "//*[@id=\"element8174981_form\"]/form[1]/div[2]/div[2]/label[1]/span[1]/span[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-shadow",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 15,
+          "g": 21,
+          "b": 33,
+          "a": 0.89
+        },
+        "contrastRatio": 1.56,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 93,
+            "g": 101,
+            "b": 116,
+            "a": 0.89
+          },
+          "hex": "#5d6574",
+          "ratio": 4.6,
+          "property": "background-color",
+          "deltaE": 0.3090617376344348
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLoQ0AAAwCMLLs/28ROG5AklDfJ4XEIbSw0BMMAAD///sgpTgAAAAGSURBVAMADy0DBhzaWH0AAAAASUVORK5CYII="
+      },
+      {
+        "text": "Terms of Service",
+        "tag": "a",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(15, 21, 33, 0.89)",
+        "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(2) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-outer-center:nth-of-type(2) > div.element-content.cf-form > div.cf-form.cf-form-2.cf-form-vertical.cf-form-theme-default.cf-outer-center.cf-form-large.cf-field-regular.cf-field-slightly-rounded > form.new_contact > div.cf-form-consent:nth-of-type(2) > div.cf-consent-field.cf-sms-consent.cf-left:nth-of-type(2) > label.cf-label > span.cf-consent-label > span.cf-sms-label > a.cf-terms-link:nth-of-type(2)",
+        "xpath": "//*[@id=\"element8174981_form\"]/form[1]/div[2]/div[2]/label[1]/span[1]/span[1]/a[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-shadow",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 15,
+          "g": 21,
+          "b": 33,
+          "a": 0.89
+        },
+        "contrastRatio": 1.56,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 93,
+            "g": 101,
+            "b": 116,
+            "a": 0.89
+          },
+          "hex": "#5d6574",
+          "ratio": 4.6,
+          "property": "background-color",
+          "deltaE": 0.3090617376344348
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLoQ0AAAwCMLLs/28ROG5AklDfJ4XEIbSw0BMMAAD///sgpTgAAAAGSURBVAMADy0DBhzaWH0AAAAASUVORK5CYII="
+      },
+      {
+        "text": "Accept privacy policy and terms of service",
+        "tag": "span",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(15, 21, 33, 0.89)",
+        "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(2) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-outer-center:nth-of-type(2) > div.element-content.cf-form > div.cf-form.cf-form-2.cf-form-vertical.cf-form-theme-default.cf-outer-center.cf-form-large.cf-field-regular.cf-field-slightly-rounded > form.new_contact > div.cf-form-consent:nth-of-type(2) > div.cf-consent-field.cf-privacy-consent.cf-left:nth-of-type(3) > label.cf-label > div.cf-consent-label > span.cf-privacy-message",
+        "xpath": "//*[@id=\"element8174981_form\"]/form[1]/div[2]/div[3]/label[1]/div[1]/span[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-shadow",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 15,
+          "g": 21,
+          "b": 33,
+          "a": 0.89
+        },
+        "contrastRatio": 1.56,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 93,
+            "g": 101,
+            "b": 116,
+            "a": 0.89
+          },
+          "hex": "#5d6574",
+          "ratio": 4.6,
+          "property": "background-color",
+          "deltaE": 0.3090617376344348
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLoQ0AAAwCMLLs/28ROG5AklDfJ4XEIbSw0BMMAAD///sgpTgAAAAGSURBVAMADy0DBhzaWH0AAAAASUVORK5CYII="
+      }
+    ],
+    "violations": [
+      {
+        "text": "Updated:",
+        "tag": "p",
+        "color": "rgb(107, 107, 138)",
+        "background": "rgb(34, 31, 51)",
+        "selector": "main.relative > div.container.flex.justify-between.items-baseline.flex-col.gap-1.sm:flex-row:nth-of-type(2) > div:nth-of-type(2) > p.text-xs.text-content-secondary.text-dark-content-tertiary",
+        "xpath": "/html/body/main[1]/div[2]/div[2]/p[1]",
+        "boundingRect": {
+          "x": 968.140625,
+          "y": 7584.328125,
+          "width": 119.859375,
+          "height": 18
+        },
+        "fontSize": "12px",
+        "fontWeight": "350",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 107,
+          "g": 107,
+          "b": 138,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 34,
+          "g": 31,
+          "b": 51,
+          "a": 1
+        },
+        "contrastRatio": 3.12,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 134,
+            "b": 166,
+            "a": 1
+          },
+          "hex": "#8586a6",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.09046941122439767
+        }
+      },
+      {
+        "text": "23/07/2026",
+        "tag": "time",
+        "color": "rgb(107, 107, 138)",
+        "background": "rgb(34, 31, 51)",
+        "selector": "main.relative > div.container.flex.justify-between.items-baseline.flex-col.gap-1.sm:flex-row:nth-of-type(2) > div:nth-of-type(2) > p.text-xs.text-content-secondary.text-dark-content-tertiary > time",
+        "xpath": "/html/body/main[1]/div[2]/div[2]/p[1]/time[1]",
+        "boundingRect": {
+          "x": 1022.046875,
+          "y": 7585.328125,
+          "width": 65.953125,
+          "height": 16
+        },
+        "fontSize": "12px",
+        "fontWeight": "350",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 107,
+          "g": 107,
+          "b": 138,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 34,
+          "g": 31,
+          "b": 51,
+          "a": 1
+        },
+        "contrastRatio": 3.12,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 134,
+            "b": 166,
+            "a": 1
+          },
+          "hex": "#8586a6",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.09046941122439767
+        }
+      },
+      {
+        "text": "By entering your contact details you agree to the",
+        "tag": "span",
+        "color": "rgb(108, 122, 137)",
+        "background": "rgba(15, 21, 33, 0.89)",
+        "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-left:nth-of-type(4) > div.element-content.cf-text-element.cf-margin-alignment.cf-merge-tag-allowed > span:nth-of-type(1)",
+        "xpath": "//*[@id=\"element8174979-content\"]/span[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 108,
+          "g": 122,
+          "b": 137,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 15,
+          "g": 21,
+          "b": 33,
+          "a": 0.89
+        },
+        "contrastRatio": 3.07,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 136,
+            "g": 151,
+            "b": 167,
+            "a": 1
+          },
+          "hex": "#8897a7",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.09672092806596477
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLoQ0AAAwCMLLs/28ROG5AklDfJ4XEIbSw0BMMAAD///sgpTgAAAAGSURBVAMADy0DBhzaWH0AAAAASUVORK5CYII="
+      },
+      {
+        "text": "Terms and Conditions",
+        "tag": "strong",
+        "color": "rgb(108, 122, 137)",
+        "background": "rgba(15, 21, 33, 0.89)",
+        "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-left:nth-of-type(4) > div.element-content.cf-text-element.cf-margin-alignment.cf-merge-tag-allowed > span:nth-of-type(2) > a.cf-link-no-underline > span > strong",
+        "xpath": "//*[@id=\"element8174979-content\"]/span[2]/a[1]/span[1]/strong[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 108,
+          "g": 122,
+          "b": 137,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 15,
+          "g": 21,
+          "b": 33,
+          "a": 0.89
+        },
+        "contrastRatio": 3.07,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 136,
+            "g": 151,
+            "b": 167,
+            "a": 1
+          },
+          "hex": "#8897a7",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.09672092806596477
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLoQ0AAAwCMLLs/28ROG5AklDfJ4XEIbSw0BMMAAD///sgpTgAAAAGSURBVAMADy0DBhzaWH0AAAAASUVORK5CYII="
+      },
+      {
+        "text": ". See our",
+        "tag": "span",
+        "color": "rgb(108, 122, 137)",
+        "background": "rgba(15, 21, 33, 0.89)",
+        "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-left:nth-of-type(4) > div.element-content.cf-text-element.cf-margin-alignment.cf-merge-tag-allowed > span:nth-of-type(3)",
+        "xpath": "//*[@id=\"element8174979-content\"]/span[3]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 108,
+          "g": 122,
+          "b": 137,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 15,
+          "g": 21,
+          "b": 33,
+          "a": 0.89
+        },
+        "contrastRatio": 3.07,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 136,
+            "g": 151,
+            "b": 167,
+            "a": 1
+          },
+          "hex": "#8897a7",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.09672092806596477
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLoQ0AAAwCMLLs/28ROG5AklDfJ4XEIbSw0BMMAAD///sgpTgAAAAGSURBVAMADy0DBhzaWH0AAAAASUVORK5CYII="
+      },
+      {
+        "text": "Privacy Policy",
+        "tag": "strong",
+        "color": "rgb(108, 122, 137)",
+        "background": "rgba(15, 21, 33, 0.89)",
+        "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-left:nth-of-type(4) > div.element-content.cf-text-element.cf-margin-alignment.cf-merge-tag-allowed > span:nth-of-type(4) > a.cf-link-no-underline > strong",
+        "xpath": "//*[@id=\"element8174979-content\"]/span[4]/a[1]/strong[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 108,
+          "g": 122,
+          "b": 137,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 15,
+          "g": 21,
+          "b": 33,
+          "a": 0.89
+        },
+        "contrastRatio": 3.07,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 136,
+            "g": 151,
+            "b": 167,
+            "a": 1
+          },
+          "hex": "#8897a7",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.09672092806596477
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLoQ0AAAwCMLLs/28ROG5AklDfJ4XEIbSw0BMMAAD///sgpTgAAAAGSURBVAMADy0DBhzaWH0AAAAASUVORK5CYII="
+      },
+      {
+        "text": ".",
+        "tag": "strong",
+        "color": "rgb(108, 122, 137)",
+        "background": "rgba(15, 21, 33, 0.89)",
+        "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-left:nth-of-type(4) > div.element-content.cf-text-element.cf-margin-alignment.cf-merge-tag-allowed > span:nth-of-type(5) > strong",
+        "xpath": "//*[@id=\"element8174979-content\"]/span[5]/strong[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 108,
+          "g": 122,
+          "b": 137,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 15,
+          "g": 21,
+          "b": 33,
+          "a": 0.89
+        },
+        "contrastRatio": 3.07,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 136,
+            "g": 151,
+            "b": 167,
+            "a": 1
+          },
+          "hex": "#8897a7",
+          "ratio": 4.51,
+          "property": "color",
+          "deltaE": 0.09672092806596477
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLoQ0AAAwCMLLs/28ROG5AklDfJ4XEIbSw0BMMAAD///sgpTgAAAAGSURBVAMADy0DBhzaWH0AAAAASUVORK5CYII="
+      },
+      {
+        "text": "Yes, I'd like to receive email communications",
+        "tag": "span",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(15, 21, 33, 0.89)",
+        "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(2) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-outer-center:nth-of-type(2) > div.element-content.cf-form > div.cf-form.cf-form-2.cf-form-vertical.cf-form-theme-default.cf-outer-center.cf-form-large.cf-field-regular.cf-field-slightly-rounded > form.new_contact > div.cf-form-consent:nth-of-type(2) > div.cf-consent-field.cf-marketing-consent.cf-left:nth-of-type(1) > label.cf-label > span.cf-consent-label > span.cf-marketing-label",
+        "xpath": "//*[@id=\"element8174981_form\"]/form[1]/div[2]/div[1]/label[1]/span[1]/span[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-shadow",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 15,
+          "g": 21,
+          "b": 33,
+          "a": 0.89
+        },
+        "contrastRatio": 1.56,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 93,
+            "g": 101,
+            "b": 116,
+            "a": 0.89
+          },
+          "hex": "#5d6574",
+          "ratio": 4.6,
+          "property": "background-color",
+          "deltaE": 0.3090617376344348
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLoQ0AAAwCMLLs/28ROG5AklDfJ4XEIbSw0BMMAAD///sgpTgAAAAGSURBVAMADy0DBhzaWH0AAAAASUVORK5CYII="
+      },
+      {
+        "text": "By checking this box, you agree to receive recurring automated promotional and personalized marketin...",
+        "tag": "span",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(15, 21, 33, 0.89)",
+        "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(2) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-outer-center:nth-of-type(2) > div.element-content.cf-form > div.cf-form.cf-form-2.cf-form-vertical.cf-form-theme-default.cf-outer-center.cf-form-large.cf-field-regular.cf-field-slightly-rounded > form.new_contact > div.cf-form-consent:nth-of-type(2) > div.cf-consent-field.cf-sms-consent.cf-left:nth-of-type(2) > label.cf-label > span.cf-consent-label > span.cf-sms-label > span.cf-sms-message",
+        "xpath": "//*[@id=\"element8174981_form\"]/form[1]/div[2]/div[2]/label[1]/span[1]/span[1]/span[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-shadow",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 15,
+          "g": 21,
+          "b": 33,
+          "a": 0.89
+        },
+        "contrastRatio": 1.56,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 93,
+            "g": 101,
+            "b": 116,
+            "a": 0.89
+          },
+          "hex": "#5d6574",
+          "ratio": 4.6,
+          "property": "background-color",
+          "deltaE": 0.3090617376344348
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLoQ0AAAwCMLLs/28ROG5AklDfJ4XEIbSw0BMMAAD///sgpTgAAAAGSURBVAMADy0DBhzaWH0AAAAASUVORK5CYII="
+      },
+      {
+        "text": "Privacy Policy",
+        "tag": "a",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(15, 21, 33, 0.89)",
+        "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(2) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-outer-center:nth-of-type(2) > div.element-content.cf-form > div.cf-form.cf-form-2.cf-form-vertical.cf-form-theme-default.cf-outer-center.cf-form-large.cf-field-regular.cf-field-slightly-rounded > form.new_contact > div.cf-form-consent:nth-of-type(2) > div.cf-consent-field.cf-sms-consent.cf-left:nth-of-type(2) > label.cf-label > span.cf-consent-label > span.cf-sms-label > a.cf-privacy-link:nth-of-type(1)",
+        "xpath": "//*[@id=\"element8174981_form\"]/form[1]/div[2]/div[2]/label[1]/span[1]/span[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-shadow",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 15,
+          "g": 21,
+          "b": 33,
+          "a": 0.89
+        },
+        "contrastRatio": 1.56,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 93,
+            "g": 101,
+            "b": 116,
+            "a": 0.89
+          },
+          "hex": "#5d6574",
+          "ratio": 4.6,
+          "property": "background-color",
+          "deltaE": 0.3090617376344348
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLoQ0AAAwCMLLs/28ROG5AklDfJ4XEIbSw0BMMAAD///sgpTgAAAAGSURBVAMADy0DBhzaWH0AAAAASUVORK5CYII="
+      },
+      {
+        "text": "Terms of Service",
+        "tag": "a",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(15, 21, 33, 0.89)",
+        "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(2) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-outer-center:nth-of-type(2) > div.element-content.cf-form > div.cf-form.cf-form-2.cf-form-vertical.cf-form-theme-default.cf-outer-center.cf-form-large.cf-field-regular.cf-field-slightly-rounded > form.new_contact > div.cf-form-consent:nth-of-type(2) > div.cf-consent-field.cf-sms-consent.cf-left:nth-of-type(2) > label.cf-label > span.cf-consent-label > span.cf-sms-label > a.cf-terms-link:nth-of-type(2)",
+        "xpath": "//*[@id=\"element8174981_form\"]/form[1]/div[2]/div[2]/label[1]/span[1]/span[1]/a[2]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-shadow",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 15,
+          "g": 21,
+          "b": 33,
+          "a": 0.89
+        },
+        "contrastRatio": 1.56,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 93,
+            "g": 101,
+            "b": 116,
+            "a": 0.89
+          },
+          "hex": "#5d6574",
+          "ratio": 4.6,
+          "property": "background-color",
+          "deltaE": 0.3090617376344348
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLoQ0AAAwCMLLs/28ROG5AklDfJ4XEIbSw0BMMAAD///sgpTgAAAAGSURBVAMADy0DBhzaWH0AAAAASUVORK5CYII="
+      },
+      {
+        "text": "Accept privacy policy and terms of service",
+        "tag": "span",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(15, 21, 33, 0.89)",
+        "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(2) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-outer-center:nth-of-type(2) > div.element-content.cf-form > div.cf-form.cf-form-2.cf-form-vertical.cf-form-theme-default.cf-outer-center.cf-form-large.cf-field-regular.cf-field-slightly-rounded > form.new_contact > div.cf-form-consent:nth-of-type(2) > div.cf-consent-field.cf-privacy-consent.cf-left:nth-of-type(3) > label.cf-label > div.cf-consent-label > span.cf-privacy-message",
+        "xpath": "//*[@id=\"element8174981_form\"]/form[1]/div[2]/div[3]/label[1]/div[1]/span[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--tw-shadow",
+        "fgParsed": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 15,
+          "g": 21,
+          "b": 33,
+          "a": 0.89
+        },
+        "contrastRatio": 1.56,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 93,
+            "g": 101,
+            "b": 116,
+            "a": 0.89
+          },
+          "hex": "#5d6574",
+          "ratio": 4.6,
+          "property": "background-color",
+          "deltaE": 0.3090617376344348
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLoQ0AAAwCMLLs/28ROG5AklDfJ4XEIbSw0BMMAAD///sgpTgAAAAGSURBVAMADy0DBhzaWH0AAAAASUVORK5CYII="
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--tw-shadow",
+        "property": "color",
+        "currentValue": "rgb(0, 0, 0)",
+        "currentHex": "#000000",
+        "againstVariable": null,
+        "againstValue": "rgba(15, 21, 33, 0.89)",
+        "againstHex": "#0f1521",
+        "contrastRatio": 1.56,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 5,
+        "suggestedFix": {
+          "variable": "--tw-shadow",
+          "newValue": "color(srgb 0.59 0.59 0.59)",
+          "newHex": "#979797",
+          "contrastRatio": 4.61,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(2) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-outer-center:nth-of-type(2) > div.element-content.cf-form > div.cf-form.cf-form-2.cf-form-vertical.cf-form-theme-default.cf-outer-center.cf-form-large.cf-field-regular.cf-field-slightly-rounded > form.new_contact > div.cf-form-consent:nth-of-type(2) > div.cf-consent-field.cf-marketing-consent.cf-left:nth-of-type(1) > label.cf-label > span.cf-consent-label > span.cf-marketing-label",
+            "text": "Yes, I'd like to receive email communications",
+            "xpath": "//*[@id=\"element8174981_form\"]/form[1]/div[2]/div[1]/label[1]/span[1]/span[1]"
+          },
+          {
+            "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(2) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-outer-center:nth-of-type(2) > div.element-content.cf-form > div.cf-form.cf-form-2.cf-form-vertical.cf-form-theme-default.cf-outer-center.cf-form-large.cf-field-regular.cf-field-slightly-rounded > form.new_contact > div.cf-form-consent:nth-of-type(2) > div.cf-consent-field.cf-sms-consent.cf-left:nth-of-type(2) > label.cf-label > span.cf-consent-label > span.cf-sms-label > span.cf-sms-message",
+            "text": "By checking this box, you agree to receive recurring automated promotional and personalized marketin...",
+            "xpath": "//*[@id=\"element8174981_form\"]/form[1]/div[2]/div[2]/label[1]/span[1]/span[1]/span[1]"
+          },
+          {
+            "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(2) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-outer-center:nth-of-type(2) > div.element-content.cf-form > div.cf-form.cf-form-2.cf-form-vertical.cf-form-theme-default.cf-outer-center.cf-form-large.cf-field-regular.cf-field-slightly-rounded > form.new_contact > div.cf-form-consent:nth-of-type(2) > div.cf-consent-field.cf-sms-consent.cf-left:nth-of-type(2) > label.cf-label > span.cf-consent-label > span.cf-sms-label > a.cf-privacy-link:nth-of-type(1)",
+            "text": "Privacy Policy",
+            "xpath": "//*[@id=\"element8174981_form\"]/form[1]/div[2]/div[2]/label[1]/span[1]/span[1]/a[1]"
+          },
+          {
+            "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(2) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-outer-center:nth-of-type(2) > div.element-content.cf-form > div.cf-form.cf-form-2.cf-form-vertical.cf-form-theme-default.cf-outer-center.cf-form-large.cf-field-regular.cf-field-slightly-rounded > form.new_contact > div.cf-form-consent:nth-of-type(2) > div.cf-consent-field.cf-sms-consent.cf-left:nth-of-type(2) > label.cf-label > span.cf-consent-label > span.cf-sms-label > a.cf-terms-link:nth-of-type(2)",
+            "text": "Terms of Service",
+            "xpath": "//*[@id=\"element8174981_form\"]/form[1]/div[2]/div[2]/label[1]/span[1]/span[1]/a[2]"
+          },
+          {
+            "selector": "div.convertflow-cta.cf-overlay:nth-of-type(6) > div.cf-overlay-boxed.cf-has-transitions.cf-is-hidden:nth-of-type(1) > div.cf-container.cf-row.cf-outer-center > div.cf-step.cf-cta-container-background.cf-background-position-top-center.cf-background-size-cover:nth-of-type(2) > div.cf-step-inner > div.cf-cta-container.cf-row.cf-outer-center > div.cf-row.cf-section.cf-outer-center.cf-background-position-top-center.cf-background-size-cover:nth-of-type(3) > div.cf-section-container.cf-row.cf-outer-center:nth-of-type(2) > div.cf-col.cf-column.cf-column-first.cf-col-md-12.cf-col-md-mobile-12.cf-background-position-top-center.cf-background-size-cover:nth-of-type(1) > div.cf-cta-item-container:nth-of-type(2) > div.cf-cta-item.cf-element.fr-view.cf-outer-center:nth-of-type(2) > div.element-content.cf-form > div.cf-form.cf-form-2.cf-form-vertical.cf-form-theme-default.cf-outer-center.cf-form-large.cf-field-regular.cf-field-slightly-rounded > form.new_contact > div.cf-form-consent:nth-of-type(2) > div.cf-consent-field.cf-privacy-consent.cf-left:nth-of-type(3) > label.cf-label > div.cf-consent-label > span.cf-privacy-message",
+            "text": "Accept privacy policy and terms of service",
+            "xpath": "//*[@id=\"element8174981_form\"]/form[1]/div[2]/div[3]/label[1]/div[1]/span[1]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 1093,
+      "passAA": 1081,
+      "passAAA": 1063,
+      "failAA": 12,
+      "failAAA": 5
+    },
+    "variableStats": {
+      "uniqueIssues": 1,
+      "affectedElements": 5,
+      "oneOffIssues": 7
+    },
+    "healthScore": 99,
+    "scannedAt": "2026-08-05T13:03:07.223Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 12 violation(s)
+

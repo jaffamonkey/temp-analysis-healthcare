@@ -1,0 +1,112 @@
+[
+  {
+    "tool": "tab-map",
+    "url": "https://www.manual.co",
+    "landed_url": "https://www.manual.co/",
+    "title": "Manual: Men's Healthcare - Made easy",
+    "page": "www.manual.co",
+    "captured_at": "2026-08-05T13:01:58.160Z",
+    "focusable_count": 58,
+    "frame_count": 4,
+    "same_origin_frame_count": 3,
+    "cross_origin_frame_count": 1,
+    "image": "www.manual.co.png",
+    "preview_image": "www.manual.co.png",
+    "preview_dir": "visual-preview",
+    "json": "www.manual.co.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#onetrust-accept-btn-handler"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.manual.co/blog",
+    "landed_url": "https://www.manual.co/blog",
+    "title": "Explore our Health Centre | Medical Information, Reviewed by Experts | Manual.co",
+    "page": "www.manual.co-blog",
+    "captured_at": "2026-08-05T13:01:58.168Z",
+    "focusable_count": 90,
+    "frame_count": 4,
+    "same_origin_frame_count": 3,
+    "cross_origin_frame_count": 1,
+    "image": "www.manual.co-blog.png",
+    "preview_image": "www.manual.co-blog.png",
+    "preview_dir": "visual-preview",
+    "json": "www.manual.co-blog.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#onetrust-accept-btn-handler"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.manual.co/blog/blood-tests",
+    "landed_url": "https://www.manual.co/blog/blood-tests",
+    "title": "Blood Test Blog | Manual.co",
+    "page": "www.manual.co-blog-blood-tests",
+    "captured_at": "2026-08-05T13:02:08.820Z",
+    "focusable_count": 52,
+    "frame_count": 4,
+    "same_origin_frame_count": 3,
+    "cross_origin_frame_count": 1,
+    "image": "www.manual.co-blog-blood-tests.png",
+    "preview_image": "www.manual.co-blog-blood-tests.png",
+    "preview_dir": "visual-preview",
+    "json": "www.manual.co-blog-blood-tests.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#onetrust-accept-btn-handler"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.manual.co/about",
+    "landed_url": "https://www.manual.co/about",
+    "title": "",
+    "page": "www.manual.co-about",
+    "captured_at": "2026-08-05T13:02:08.817Z",
+    "focusable_count": 51,
+    "frame_count": 4,
+    "same_origin_frame_count": 3,
+    "cross_origin_frame_count": 1,
+    "image": "www.manual.co-about.png",
+    "preview_image": "www.manual.co-about.png",
+    "preview_dir": "visual-preview",
+    "json": "www.manual.co-about.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#onetrust-accept-btn-handler"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.manual.co/blog/daily-health",
+    "landed_url": "https://www.manual.co/blog/daily-health",
+    "title": "Daily Health | Manual.co",
+    "page": "www.manual.co-blog-daily-health",
+    "captured_at": "2026-08-05T13:02:19.268Z",
+    "focusable_count": 64,
+    "frame_count": 4,
+    "same_origin_frame_count": 3,
+    "cross_origin_frame_count": 1,
+    "image": "www.manual.co-blog-daily-health.png",
+    "preview_image": "www.manual.co-blog-daily-health.png",
+    "preview_dir": "visual-preview",
+    "json": "www.manual.co-blog-daily-health.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "#onetrust-accept-btn-handler"
+      }
+    ]
+  }
+]

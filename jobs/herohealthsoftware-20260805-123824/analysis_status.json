@@ -1,0 +1,13 @@
+{
+  "job_id": "herohealthsoftware-20260805-123824",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/herohealthsoftware-20260805-123824/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/herohealthsoftware-20260805-123824/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/herohealthsoftware-20260805-123824/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/herohealthsoftware-20260805-123824/analysis/accessibility_analysis.xlsx",
+  "violations": 322,
+  "pages": 4,
+  "screenshots": {
+    "job_id": "herohealthsoftware-20260805-123824",
+    "message": "Artifacts processed"
+  }
+}

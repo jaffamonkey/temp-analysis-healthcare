@@ -1,0 +1,13 @@
+{
+  "job_id": "zoe-20260723-233031-20260805-154932",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/zoe-20260723-233031-20260805-154932/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/zoe-20260723-233031-20260805-154932/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/zoe-20260723-233031-20260805-154932/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/zoe-20260723-233031-20260805-154932/analysis/accessibility_analysis.xlsx",
+  "violations": 728,
+  "pages": 10,
+  "screenshots": {
+    "job_id": "zoe-20260723-233031-20260805-154932",
+    "message": "Artifacts processed"
+  }
+}

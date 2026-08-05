@@ -1,0 +1,36 @@
+Starting contrast check for https://www.heidihealth.com/en-gb/solutions/medical-specialties
+
+--- STDOUT ---
+ℹ Scanning: https://www.heidihealth.com/en-gb/solutions/medical-specialties
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://www.heidihealth.com/en-gb/solutions/medical-specialties
+[
+  {
+    "url": "https://www.heidihealth.com/en-gb/solutions/medical-specialties",
+    "title": "Best AI Care Partner for Medical Specialists - Heidi",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 152,
+      "passAA": 152,
+      "passAAA": 132,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-08-05T12:29:07.942Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+

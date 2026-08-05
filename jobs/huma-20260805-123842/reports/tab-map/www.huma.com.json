@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.huma.com/",
+  "landed_url": "https://www.huma.com/",
+  "title": "Huma",
+  "page": "www.huma.com",
+  "captured_at": "2026-08-05T12:43:33.018Z",
+  "focusable_count": 110,
+  "frame_count": 1,
+  "same_origin_frame_count": 0,
+  "cross_origin_frame_count": 1,
+  "image": "www.huma.com.png",
+  "preview_image": "www.huma.com.png",
+  "preview_dir": "visual-preview",
+  "json": "www.huma.com.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Accept All"
+    }
+  ]
+}

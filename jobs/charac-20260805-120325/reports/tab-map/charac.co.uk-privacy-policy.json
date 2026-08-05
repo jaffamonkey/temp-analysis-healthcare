@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://charac.co.uk/privacy-policy",
+  "landed_url": "https://charac.co.uk/privacy-policy",
+  "title": "Privacy Policy - Charac",
+  "page": "charac.co.uk-privacy-policy",
+  "captured_at": "2026-08-05T12:06:04.950Z",
+  "focusable_count": 64,
+  "frame_count": 0,
+  "same_origin_frame_count": 0,
+  "cross_origin_frame_count": 0,
+  "image": "charac.co.uk-privacy-policy.png",
+  "preview_image": "charac.co.uk-privacy-policy.png",
+  "preview_dir": "visual-preview",
+  "json": "charac.co.uk-privacy-policy.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Accept All"
+    }
+  ]
+}

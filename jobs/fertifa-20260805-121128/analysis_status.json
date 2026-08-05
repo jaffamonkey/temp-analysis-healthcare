@@ -1,0 +1,13 @@
+{
+  "job_id": "fertifa-20260805-121128",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/fertifa-20260805-121128/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/fertifa-20260805-121128/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/fertifa-20260805-121128/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/fertifa-20260805-121128/analysis/accessibility_analysis.xlsx",
+  "violations": 920,
+  "pages": 5,
+  "screenshots": {
+    "job_id": "fertifa-20260805-121128",
+    "message": "Artifacts processed"
+  }
+}

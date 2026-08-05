@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.manual.co",
+    "url": "https://www.manual.co",
+    "title": "Manual: Men's Healthcare - Made easy",
+    "json": "www.manual.co.json",
+    "report": "www.manual.co.json",
+    "ok": true
+  },
+  {
+    "page": "www.manual.co-blog",
+    "url": "https://www.manual.co/blog",
+    "title": "Explore our Health Centre | Medical Information, Reviewed by Experts | Manual.co",
+    "json": "www.manual.co-blog.json",
+    "report": "www.manual.co-blog.json",
+    "ok": true
+  },
+  {
+    "page": "www.manual.co-about",
+    "url": "https://www.manual.co/about",
+    "title": "https://www.manual.co/about",
+    "json": "www.manual.co-about.json",
+    "report": "www.manual.co-about.json",
+    "ok": true
+  },
+  {
+    "page": "www.manual.co-blog-blood-tests",
+    "url": "https://www.manual.co/blog/blood-tests",
+    "title": "Blood Test Blog | Manual.co",
+    "json": "www.manual.co-blog-blood-tests.json",
+    "report": "www.manual.co-blog-blood-tests.json",
+    "ok": true
+  },
+  {
+    "page": "www.manual.co-blog-daily-health",
+    "url": "https://www.manual.co/blog/daily-health",
+    "title": "Daily Health | Manual.co",
+    "json": "www.manual.co-blog-daily-health.json",
+    "report": "www.manual.co-blog-daily-health.json",
+    "ok": true
+  }
+]

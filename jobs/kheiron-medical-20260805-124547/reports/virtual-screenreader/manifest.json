@@ -1,0 +1,42 @@
+[
+  {
+    "page": "deephealth.com",
+    "url": "https://deephealth.com",
+    "title": "DeepHealth - Radiology AI-Powered Health Informatics | RadNet",
+    "report": "deephealth.com.json",
+    "line_count": 1092,
+    "ok": true
+  },
+  {
+    "page": "deephealth.com-kheiron-medical-technologies",
+    "url": "https://deephealth.com/kheiron-medical-technologies/",
+    "title": "Kheiron Medical Technologies - DeepHealth",
+    "report": "deephealth.com-kheiron-medical-technologies.json",
+    "line_count": 1037,
+    "ok": true
+  },
+  {
+    "page": "deephealth.com-enterprise-imaging-diagnostic-suite",
+    "url": "https://deephealth.com/enterprise-imaging/diagnostic-suite/",
+    "title": "Diagnostic Suite - DeepHealth",
+    "report": "deephealth.com-enterprise-imaging-diagnostic-suite.json",
+    "line_count": 1237,
+    "ok": true
+  },
+  {
+    "page": "deephealth.com-evidence-scientific-publications",
+    "url": "https://deephealth.com/evidence/scientific-publications/",
+    "title": "Evidence - Scientific Publications - DeepHealth",
+    "report": "deephealth.com-evidence-scientific-publications.json",
+    "line_count": 1195,
+    "ok": true
+  },
+  {
+    "page": "deephealth.com-about",
+    "url": "https://deephealth.com/about/",
+    "title": "About - DeepHealth",
+    "report": "deephealth.com-about.json",
+    "line_count": 1139,
+    "ok": true
+  }
+]

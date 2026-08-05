@@ -1,0 +1,1807 @@
+[
+  {
+    "url": "https://www.hcahealthcare.co.uk/locations",
+    "title": "Our Locations | Private Hospitals & Clinics | HCA UK",
+    "pairs": [
+      {
+        "text": "View all",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 233, 192)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(2) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-4:nth-of-type(1) > div.AdvancedBlockHeader-module-scss-module__vZUiKG__wrapper.AdvancedBlockHeader-module-scss-module__vZUiKG__none > div.AdvancedBlockHeader-module-scss-module__vZUiKG__ctas:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a",
+        "xpath": "//*[@id=\"navigation-tab-0\"]/div[1]/div[1]/div[3]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 233,
+          "b": 192,
+          "a": 1
+        },
+        "contrastRatio": 1.19,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 135,
+            "g": 115,
+            "b": 78,
+            "a": 1
+          },
+          "hex": "#87734e",
+          "ratio": 4.57,
+          "property": "background-color",
+          "deltaE": 0.3766472316641932
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJUlEQVR4nOzLMQ0AAAwCMLJM6ETsxzoaOEno3+UfHANTQ0NOEAAAAP//mNizRQAAAAZJREFUAwBJJQF2zoUdmgAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Learn more",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(4) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-3:nth-of-type(2) > div.CardNavigation-module-scss-module__Ud0Jwq__wrapper > div.CardNavigation-module-scss-module__Ud0Jwq__text-content > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__small.Button-module-scss-module__cTRnSq__full > a",
+        "xpath": "//*[@id=\"navigation-tab-1\"]/div[2]/div[1]/div[1]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJUlEQVR4nOzLMQ0AAAwCMLJM6ETsxzoaOEno3+UfHANTQ0NOEAAAAP//mNizRQAAAAZJREFUAwBJJQF2zoUdmgAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "View all locations",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 233, 192)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(7) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-6:nth-of-type(1) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a",
+        "xpath": "//*[@id=\"navigation-tab-3\"]/div[1]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 233,
+          "b": 192,
+          "a": 1
+        },
+        "contrastRatio": 1.19,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 135,
+            "g": 115,
+            "b": 78,
+            "a": 1
+          },
+          "hex": "#87734e",
+          "ratio": 4.57,
+          "property": "background-color",
+          "deltaE": 0.3766472316641932
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJUlEQVR4nOzLMQ0AAAwCMLJM6ETsxzoaOEno3+UfHANTQ0NOEAAAAP//mNizRQAAAAZJREFUAwBJJQF2zoUdmgAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Latest news",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 233, 192)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(9) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-3:nth-of-type(2) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a",
+        "xpath": "//*[@id=\"navigation-tab-4\"]/div[2]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 233,
+          "b": 192,
+          "a": 1
+        },
+        "contrastRatio": 1.19,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 135,
+            "g": 115,
+            "b": 78,
+            "a": 1
+          },
+          "hex": "#87734e",
+          "ratio": 4.57,
+          "property": "background-color",
+          "deltaE": 0.3766472316641932
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJUlEQVR4nOzLMQ0AAAwCMLJM6ETsxzoaOEno3+UfHANTQ0NOEAAAAP//mNizRQAAAAZJREFUAwBJJQF2zoUdmgAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Search all our locations",
+        "tag": "span",
+        "color": "rgb(12, 33, 65)",
+        "background": "rgb(12, 33, 65)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__B-HCA-Navy-Blue > div.HeaderWithImage-module-scss-module__dFUccW__hero-with-image.false > div.HeaderWithImage-module-scss-module__dFUccW__inner > div.HeaderWithImage-module-scss-module__dFUccW__content.false:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__B-HCA-Navy-Blue:nth-of-type(3) > div.HeaderWithImage-module-scss-module__dFUccW__ctas > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width > a > span",
+        "xpath": "//*[@id=\"content\"]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 145,
+          "y": 507.390625,
+          "width": 168.140625,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--spacing-1",
+        "bgVar": "--spacing-1",
+        "fgParsed": {
+          "r": 12,
+          "g": 33,
+          "b": 65,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 12,
+          "g": 33,
+          "b": 65,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 138,
+            "b": 178,
+            "a": 1
+          },
+          "hex": "#718ab2",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.3793745069451022
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "View all our HCA UK Hospitals",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container.ImageAndTextBlock-module-scss-module__Pgiceq__image-right > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > span",
+        "xpath": "//*[@id=\"our-hospitals\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 145,
+          "y": 1092.640625,
+          "width": 222.0625,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Find your closest outpatient centres",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(3) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > span",
+        "xpath": "//*[@id=\"our-outpatient-centres\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 798.328125,
+          "y": 1844.5,
+          "width": 263.625,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "View our specialist centres",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > span",
+        "xpath": "//*[@id=\"our-specialist-centres\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 798.328125,
+          "y": 2451.703125,
+          "width": 193.71875,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Find your nearest GP clinic",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(5) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container.ImageAndTextBlock-module-scss-module__Pgiceq__image-right > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > span",
+        "xpath": "//*[@id=\"our-gp-clinics\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 145,
+          "y": 3002.90625,
+          "width": 193.859375,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Find out more",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(6) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > span",
+        "xpath": "//*[@id=\"our-urgent-care-centres\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 798.328125,
+          "y": 3825.3125,
+          "width": 103.625,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Book an",
+        "tag": "span",
+        "color": "rgb(12, 33, 65)",
+        "background": "rgb(12, 33, 65)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__B-HCA-Navy-Blue:nth-of-type(1) > div.StickyCTA-module-scss-module__-yjuBq__wrapper.StickyCTA-module-scss-module__-yjuBq__hidden > div.StickyCTA-module-scss-module__-yjuBq__cta:nth-of-type(2) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > button > span:nth-of-type(2)",
+        "xpath": "//*[@id=\"footer\"]/div[1]/div[1]/div[2]/div[1]/button[1]/span[2]",
+        "boundingRect": {
+          "x": 1020.15625,
+          "y": 672,
+          "width": 156.84375,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--spacing-1",
+        "bgVar": "--spacing-1",
+        "fgParsed": {
+          "r": 12,
+          "g": 33,
+          "b": 65,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 12,
+          "g": 33,
+          "b": 65,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 138,
+            "b": 178,
+            "a": 1
+          },
+          "hex": "#718ab2",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.3793745069451022
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "appointment",
+        "tag": "strong",
+        "color": "rgb(12, 33, 65)",
+        "background": "rgb(12, 33, 65)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__B-HCA-Navy-Blue:nth-of-type(1) > div.StickyCTA-module-scss-module__-yjuBq__wrapper.StickyCTA-module-scss-module__-yjuBq__hidden > div.StickyCTA-module-scss-module__-yjuBq__cta:nth-of-type(2) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > button > span:nth-of-type(2) > strong",
+        "xpath": "//*[@id=\"footer\"]/div[1]/div[1]/div[2]/div[1]/button[1]/span[2]/strong[1]",
+        "boundingRect": {
+          "x": 1082.671875,
+          "y": 674,
+          "width": 94.328125,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--spacing-1",
+        "bgVar": "--spacing-1",
+        "fgParsed": {
+          "r": 12,
+          "g": 33,
+          "b": 65,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 12,
+          "g": 33,
+          "b": 65,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 138,
+            "b": 178,
+            "a": 1
+          },
+          "hex": "#718ab2",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.3793745069451022
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Book a",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel2:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2)",
+        "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[3]/div[1]/a[1]/span[2]",
+        "boundingRect": {
+          "x": 895.25,
+          "y": 1111,
+          "width": 174.828125,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "GP",
+        "tag": "b",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel2:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2) > b",
+        "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[3]/div[1]/a[1]/span[2]/b[1]",
+        "boundingRect": {
+          "x": 948.5625,
+          "y": 1113,
+          "width": 22.296875,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "appointment",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel2:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2)",
+        "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[3]/div[1]/a[1]/span[2]",
+        "boundingRect": {
+          "x": 895.25,
+          "y": 1111,
+          "width": 174.828125,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Filter Icon",
+        "tag": "title",
+        "color": "rgb(85, 85, 85)",
+        "background": "rgb(56, 96, 190)",
+        "selector": "div:nth-of-type(6) > div.otPcPanel.ot-hide.ot-fade-in:nth-of-type(3) > div > section.ot-hide.ot-pc-scrollbar > div > div.ot-lst-subhdr:nth-of-type(2) > div.ot-fltr-cntr:nth-of-type(2) > button > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"filter-btn-handler\"]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--iti-arrow-color",
+        "fgParsed": {
+          "r": 85,
+          "g": 85,
+          "b": 85,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 56,
+          "g": 96,
+          "b": 190,
+          "a": 1
+        },
+        "contrastRatio": 1.27,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 158,
+            "g": 206,
+            "b": 255,
+            "a": 1
+          },
+          "hex": "#9eceff",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.3481465089931902
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJUlEQVR4nOzLMQ0AAAwCMLJM6ETsxzoaOEno3+UfHANTQ0NOEAAAAP//mNizRQAAAAZJREFUAwBJJQF2zoUdmgAAAABJRU5ErkJggg=="
+      }
+    ],
+    "violations": [
+      {
+        "text": "View all",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 233, 192)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(2) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-4:nth-of-type(1) > div.AdvancedBlockHeader-module-scss-module__vZUiKG__wrapper.AdvancedBlockHeader-module-scss-module__vZUiKG__none > div.AdvancedBlockHeader-module-scss-module__vZUiKG__ctas:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a",
+        "xpath": "//*[@id=\"navigation-tab-0\"]/div[1]/div[1]/div[3]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 233,
+          "b": 192,
+          "a": 1
+        },
+        "contrastRatio": 1.19,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 135,
+            "g": 115,
+            "b": 78,
+            "a": 1
+          },
+          "hex": "#87734e",
+          "ratio": 4.57,
+          "property": "background-color",
+          "deltaE": 0.3766472316641932
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJUlEQVR4nOzLMQ0AAAwCMLJM6ETsxzoaOEno3+UfHANTQ0NOEAAAAP//mNizRQAAAAZJREFUAwBJJQF2zoUdmgAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Learn more",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(4) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-3:nth-of-type(2) > div.CardNavigation-module-scss-module__Ud0Jwq__wrapper > div.CardNavigation-module-scss-module__Ud0Jwq__text-content > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__small.Button-module-scss-module__cTRnSq__full > a",
+        "xpath": "//*[@id=\"navigation-tab-1\"]/div[2]/div[1]/div[1]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJUlEQVR4nOzLMQ0AAAwCMLJM6ETsxzoaOEno3+UfHANTQ0NOEAAAAP//mNizRQAAAAZJREFUAwBJJQF2zoUdmgAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "View all locations",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 233, 192)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(7) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-6:nth-of-type(1) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a",
+        "xpath": "//*[@id=\"navigation-tab-3\"]/div[1]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 233,
+          "b": 192,
+          "a": 1
+        },
+        "contrastRatio": 1.19,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 135,
+            "g": 115,
+            "b": 78,
+            "a": 1
+          },
+          "hex": "#87734e",
+          "ratio": 4.57,
+          "property": "background-color",
+          "deltaE": 0.3766472316641932
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJUlEQVR4nOzLMQ0AAAwCMLJM6ETsxzoaOEno3+UfHANTQ0NOEAAAAP//mNizRQAAAAZJREFUAwBJJQF2zoUdmgAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Latest news",
+        "tag": "a",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 233, 192)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(9) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-3:nth-of-type(2) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a",
+        "xpath": "//*[@id=\"navigation-tab-4\"]/div[2]/div[1]/a[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": false,
+        "colorVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 233,
+          "b": 192,
+          "a": 1
+        },
+        "contrastRatio": 1.19,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 135,
+            "g": 115,
+            "b": 78,
+            "a": 1
+          },
+          "hex": "#87734e",
+          "ratio": 4.57,
+          "property": "background-color",
+          "deltaE": 0.3766472316641932
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJUlEQVR4nOzLMQ0AAAwCMLJM6ETsxzoaOEno3+UfHANTQ0NOEAAAAP//mNizRQAAAAZJREFUAwBJJQF2zoUdmgAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Search all our locations",
+        "tag": "span",
+        "color": "rgb(12, 33, 65)",
+        "background": "rgb(12, 33, 65)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__B-HCA-Navy-Blue > div.HeaderWithImage-module-scss-module__dFUccW__hero-with-image.false > div.HeaderWithImage-module-scss-module__dFUccW__inner > div.HeaderWithImage-module-scss-module__dFUccW__content.false:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__B-HCA-Navy-Blue:nth-of-type(3) > div.HeaderWithImage-module-scss-module__dFUccW__ctas > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width > a > span",
+        "xpath": "//*[@id=\"content\"]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 145,
+          "y": 507.390625,
+          "width": 168.140625,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--spacing-1",
+        "bgVar": "--spacing-1",
+        "fgParsed": {
+          "r": 12,
+          "g": 33,
+          "b": 65,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 12,
+          "g": 33,
+          "b": 65,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 138,
+            "b": 178,
+            "a": 1
+          },
+          "hex": "#718ab2",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.3793745069451022
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "View all our HCA UK Hospitals",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container.ImageAndTextBlock-module-scss-module__Pgiceq__image-right > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > span",
+        "xpath": "//*[@id=\"our-hospitals\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 145,
+          "y": 1092.640625,
+          "width": 222.0625,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Find your closest outpatient centres",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(3) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > span",
+        "xpath": "//*[@id=\"our-outpatient-centres\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 798.328125,
+          "y": 1844.5,
+          "width": 263.625,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "View our specialist centres",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > span",
+        "xpath": "//*[@id=\"our-specialist-centres\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 798.328125,
+          "y": 2451.703125,
+          "width": 193.71875,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Find your nearest GP clinic",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(5) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container.ImageAndTextBlock-module-scss-module__Pgiceq__image-right > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > span",
+        "xpath": "//*[@id=\"our-gp-clinics\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 145,
+          "y": 3002.90625,
+          "width": 193.859375,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Find out more",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(6) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > span",
+        "xpath": "//*[@id=\"our-urgent-care-centres\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]",
+        "boundingRect": {
+          "x": 798.328125,
+          "y": 3825.3125,
+          "width": 103.625,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Book an",
+        "tag": "span",
+        "color": "rgb(12, 33, 65)",
+        "background": "rgb(12, 33, 65)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__B-HCA-Navy-Blue:nth-of-type(1) > div.StickyCTA-module-scss-module__-yjuBq__wrapper.StickyCTA-module-scss-module__-yjuBq__hidden > div.StickyCTA-module-scss-module__-yjuBq__cta:nth-of-type(2) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > button > span:nth-of-type(2)",
+        "xpath": "//*[@id=\"footer\"]/div[1]/div[1]/div[2]/div[1]/button[1]/span[2]",
+        "boundingRect": {
+          "x": 1020.15625,
+          "y": 672,
+          "width": 156.84375,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--spacing-1",
+        "bgVar": "--spacing-1",
+        "fgParsed": {
+          "r": 12,
+          "g": 33,
+          "b": 65,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 12,
+          "g": 33,
+          "b": 65,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 138,
+            "b": 178,
+            "a": 1
+          },
+          "hex": "#718ab2",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.3793745069451022
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "appointment",
+        "tag": "strong",
+        "color": "rgb(12, 33, 65)",
+        "background": "rgb(12, 33, 65)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__B-HCA-Navy-Blue:nth-of-type(1) > div.StickyCTA-module-scss-module__-yjuBq__wrapper.StickyCTA-module-scss-module__-yjuBq__hidden > div.StickyCTA-module-scss-module__-yjuBq__cta:nth-of-type(2) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > button > span:nth-of-type(2) > strong",
+        "xpath": "//*[@id=\"footer\"]/div[1]/div[1]/div[2]/div[1]/button[1]/span[2]/strong[1]",
+        "boundingRect": {
+          "x": 1082.671875,
+          "y": 674,
+          "width": 94.328125,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--spacing-1",
+        "bgVar": "--spacing-1",
+        "fgParsed": {
+          "r": 12,
+          "g": 33,
+          "b": 65,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 12,
+          "g": 33,
+          "b": 65,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 138,
+            "b": 178,
+            "a": 1
+          },
+          "hex": "#718ab2",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.3793745069451022
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAAAkCAIAAADn+pimAAAI1UlEQVR4nJxaW9rrNghk/HkVfeoquv+N1dSWuAxITnKq0+Z3ZAkBGgYs5/zr73/kbjr+xUVcPh8q1/Vc4Lm8L8anQK/xBxCZ3ePWc9dGjG5IXOoYqRgjZz9sjN5SMAf7xWEze4tlXNO4slUv1SEEKcDVui+PYy4yBoz/x1j1zsewYZPYp4nAlGJWqJnkn/ff64zlhjyliXRFVpm+/hfxibgltAaU1xPbnyl+ikbevY0oS63ihNQ1AeqqwzUAigZhNARNbxGfPhe2+dNilakcbcnt3eFJPGaB7H127zDkiWo3eIKyDA+txvaMLu9lP5btTMWhtJV+HZZBefG6Lzs/knnyqb3K2UyD7awm9mMSXU74opl5qhTcKP0Tx47PZ0A216tEgJl991eYmeMy8SzGFsIUoBorIOJfM0qKR6prdfX1S+tbLKCwsm+K8JrOWPNYMcVn8DeQ6ePKRa/KlezNpfFk37HhRCloccda0Cgxz1wNgy7t4hl3hAZg4U1Hde5OCqf4RdWsInn6jQibIBZqzQ12ijPyUA954y5j7duVWx1T1iNFGZI8OBza7gB9zE7ELfeKVWVymV08PcdWNrJzfl6kqxSyb9O0iJBMPvZ1QjCZ1T809DKqhUPU1PAcE6gkwre9gTtRjNUfUGOAakw9EGEwzXevIRwEixDLSVDxzKse2yN+xvzMegMkYyVloxx/lEk0KMF67vQ9cjQ0DBuGDK45RHIBTeLjuHZnAiuqHRCms5cAd/dxd50ejY3nyUe5HyF3RoNLJMwxm5Jrw49ktK0YaRXhpvvjwdpVsIXcpFgDnr9jgNIwUGihjHomIlWfOIkKDhnnMLCmCv7Vt8mXv0ee2n3XXVmVCv8IQUhWJ6rFDE/gFns8lIebSctfdzEb1RGbZKbk5vvG9tCbjo3KKGWRCUaRRsoaqoceRQRhCjYe4dRzkzmku9LB1GjU707R2n1asUpUlbvbHSykABcicxoxQdVWMqlyeGmV3wCRVOXGCXtTcmOYgLWGPbKEu115DeLm4qw4xUTZk4+wOtWhy3RZsMlFtHKM9ZbZNQHisarG4vPfVctK1ffdCZWKdk4LCHNQAq04Jjoj/Gk3TsfnpwCnC12U0qIgyUG7VdtMYlJ1zbv3fwfcf/UR0VZl9JNSOjn0w8oZDshih7p1z45lkUTwNOHpOLf7yMSnkfQ3LWbruhmajNgDjTRwi+oIfzhWWLZPnhj6qy/Rtbp0Mi94qwtuJePf3diiQ6FJ0LlaGUPyfKlzuZO+EAd/oa3cMeVJ7H03QOsj9pgVtKbS007RAovaGVVIVit3NZ2rtYh4kUq7HQMTnErgJNO4FAjpTwZnmVLdIUUp6wTlM38sdPkFmBkZqpsoTt6UtYGZ0dVXQ+mErLBSdE3+ipl5n8VJnZsOKhq1GIf0LYHlktuVnghW7MrMm1XlCBAU12kvp/pw/67y5fjB541iSIrIeSBGKMa6ADmCzrrIdeQXOytyGgEPy82aDmhaz+qMTYajkmt/koX591IJtVKlkfoZ5UvD5txmHrhctgZeki7zM9fXIigIGf6yuM4kRjOQugz0IGofLNjkb9ryzYX7KYqNgSRBDYHmyhwUvlF1KzUKrGARsiU07uhAPOgV/lD5WrD8QcNuF/HD+DKG4ltiQJZh85YuZ680/Yi0007DJk0ZWW3Sgotwxo1qoumt7jiUsHsD8bZxXYdy3tqGBRlx8ihiQImG9lc5roVzEIiP6vOeNtn6FEMhoTb3pja+amH+S7OgI4Kb2X1mXHydrxuIuCqJoDggiWWrkPKouWJTpZFRwCTmF+GLF/w443nmWXkLPRktfrSdk12kYedvh3CeH+hLQO5CQetfCgcOyv/LH9W7WLu1rh0LT0Msg0cGQbMkyjURYkoeGebpRjNlZvSIseIh566ZZ+PFBPBripP39s29iYSeevz+kSOFQJpfz5g1+rFgJJi4I1rz3ZtsVbW0M6PY3k9YDMRzBCB/kIVUBP8Xct8beoBoW7oOrlXabcU5jy9XYNDx3Wuj9CQ7b9ozduioFcHfCkxsxGq9GWO6C3apjeqfLUXXxMI3ZuA2wg732nrnXS4NlQIxWqJulldgqiiERecemwA/5ok2JUt15vmORU+vkVuU5ERW0FITcAyVnchy8nUxOkRctJAS7UpzJDLWaVFv5S1FoaV4IpGYytQpr5gM3MQbMlkOeBj0EKH34CDfIDvcCnvJWlWxgs5SfmrEWqOfmtWlakkB2V63cJmb9JwMSaNAS7Mo7yw1/SLldIbnLM1egyS+lR8BDuTrDs5ioIN+3bG8v4E2uVfGSaCkjPf3SZ1WCCOSKuRXler61USWdcrn1phquiPv6OepGm9/8ljFQsmep+t48UjjeyWPDiBivkTLcBIuhq5//5VWoFnymwjAXl1sitwXVBado//c9H1pazbYl3OogKa5DcK6KreQq/i3wuSyWUKMR2DHjkr/ROjVaGu6+hgZND946GQFUhHZcyCyqBmFk73Jg+zqCLjpy1ZDduk1bqtBhG5WZ92HRlMTitsxVduuLKvgYyDh49f96OTH9ei3BO50RJxLR3HoFY7lEiK6nxq9K+Wl+c8WlUt9Qa4c/A4XL8s7svELEFH9oOSPB4B9krWTupRv1iXhucX9GHNmFe4kvV9kXV7fB2qk1b0T18asERnMfqJQjeDfLbwL+xUQNP6ZEqfoxY/ZanxSjW1KaS9IyuAjk4u+iKTecpmZh51oD0uWdpSQKP44IK0m8cdcoz28P3NgSYNOlT8591sGl1JFUtke+S4UWLgyfgiamVyEQ7JUHTtu7n7UHKYfQjXKV65fFfpj9JZqaTjSaq/P0/rPr2SH0LCBqMoyw+Osze9zJxCyUuvPUnaIeRT4VOB+CPB5EM+TEIvMnxrFw7/fttCmF+x/3j7A87l1GqEQ+/EAqtLHqECg1XWBsXWNsHHam8NmJArjndecKc6d9YbKnOZFwvhF7qwtzHejJ1Q3gwD0JYu4XIV/g6xZRPHzGT+V638AAAD//zDhsH8AAAAGSURBVAMAs14owvewhJYAAAAASUVORK5CYII="
+      },
+      {
+        "text": "Book a",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel2:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2)",
+        "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[3]/div[1]/a[1]/span[2]",
+        "boundingRect": {
+          "x": 895.25,
+          "y": 1111,
+          "width": 174.828125,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "GP",
+        "tag": "b",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel2:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2) > b",
+        "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[3]/div[1]/a[1]/span[2]/b[1]",
+        "boundingRect": {
+          "x": 948.5625,
+          "y": 1113,
+          "width": 22.296875,
+          "height": 20
+        },
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "appointment",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel2:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2)",
+        "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[3]/div[1]/a[1]/span[2]",
+        "boundingRect": {
+          "x": 895.25,
+          "y": 1111,
+          "width": 174.828125,
+          "height": 24
+        },
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "isVisible": true,
+        "colorVar": "--iti-dropdown-bg",
+        "bgVar": "--iti-dropdown-bg",
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 118,
+            "g": 118,
+            "b": 118,
+            "a": 1
+          },
+          "hex": "#767676",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.43499999999999983
+        }
+      },
+      {
+        "text": "Filter Icon",
+        "tag": "title",
+        "color": "rgb(85, 85, 85)",
+        "background": "rgb(56, 96, 190)",
+        "selector": "div:nth-of-type(6) > div.otPcPanel.ot-hide.ot-fade-in:nth-of-type(3) > div > section.ot-hide.ot-pc-scrollbar > div > div.ot-lst-subhdr:nth-of-type(2) > div.ot-fltr-cntr:nth-of-type(2) > button > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"filter-btn-handler\"]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "colorVar": "--iti-arrow-color",
+        "fgParsed": {
+          "r": 85,
+          "g": 85,
+          "b": 85,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 56,
+          "g": 96,
+          "b": 190,
+          "a": 1
+        },
+        "contrastRatio": 1.27,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 158,
+            "g": 206,
+            "b": 255,
+            "a": 1
+          },
+          "hex": "#9eceff",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.3481465089931902
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJUlEQVR4nOzLMQ0AAAwCMLJM6ETsxzoaOEno3+UfHANTQ0NOEAAAAP//mNizRQAAAAZJREFUAwBJJQF2zoUdmgAAAABJRU5ErkJggg=="
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--iti-dropdown-bg",
+        "property": "color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#ffffff",
+        "againstVariable": null,
+        "againstValue": "rgb(255, 233, 192)",
+        "againstHex": "#ffe9c0",
+        "contrastRatio": 1.19,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 3,
+        "suggestedFix": {
+          "variable": "--iti-dropdown-bg",
+          "newValue": "color(srgb 0.416 0.416 0.416)",
+          "newHex": "#6a6a6a",
+          "contrastRatio": 4.55,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(2) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-4:nth-of-type(1) > div.AdvancedBlockHeader-module-scss-module__vZUiKG__wrapper.AdvancedBlockHeader-module-scss-module__vZUiKG__none > div.AdvancedBlockHeader-module-scss-module__vZUiKG__ctas:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a",
+            "text": "View all",
+            "xpath": "//*[@id=\"navigation-tab-0\"]/div[1]/div[1]/div[3]/div[1]/a[1]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(7) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-6:nth-of-type(1) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a",
+            "text": "View all locations",
+            "xpath": "//*[@id=\"navigation-tab-3\"]/div[1]/div[1]/a[1]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(9) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-3:nth-of-type(2) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a",
+            "text": "Latest news",
+            "xpath": "//*[@id=\"navigation-tab-4\"]/div[2]/div[1]/a[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--iti-dropdown-bg",
+        "property": "color",
+        "currentValue": "rgb(255, 255, 255)",
+        "currentHex": "#ffffff",
+        "againstVariable": "--iti-dropdown-bg",
+        "againstValue": "rgb(255, 255, 255)",
+        "againstHex": "#ffffff",
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 9,
+        "suggestedFix": {
+          "variable": "--iti-dropdown-bg",
+          "newValue": "color(srgb 0.462 0.462 0.462)",
+          "newHex": "#767676",
+          "contrastRatio": 4.54,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > header > div > div.Navigation-module-scss-module__rdzW6q__sticky.Navigation-module-scss-module__rdzW6q__up:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__I-HCA-Goldenrod:nth-of-type(1) > div.NavigationDesktop-module-scss-module___F9ohG__wrapper.NavigationDesktop-module-scss-module___F9ohG__closed > div.NavigationDesktop-module-scss-module___F9ohG__navigation > div.NavigationDesktop-module-scss-module___F9ohG__main:nth-of-type(2) > ul.NavigationDesktop-module-scss-module___F9ohG__tabs > li.NavigationDesktop-module-scss-module___F9ohG__drawer:nth-of-type(4) > div.NavigationDesktop-module-scss-module___F9ohG__content > div.NavigationDesktop-module-scss-module___F9ohG__span-3:nth-of-type(2) > div.CardNavigation-module-scss-module__Ud0Jwq__wrapper > div.CardNavigation-module-scss-module__Ud0Jwq__text-content > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__small.Button-module-scss-module__cTRnSq__full > a",
+            "text": "Learn more",
+            "xpath": "//*[@id=\"navigation-tab-1\"]/div[2]/div[1]/div[1]/div[1]/a[1]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container.ImageAndTextBlock-module-scss-module__Pgiceq__image-right > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > span",
+            "text": "View all our HCA UK Hospitals",
+            "xpath": "//*[@id=\"our-hospitals\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(3) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > span",
+            "text": "Find your closest outpatient centres",
+            "xpath": "//*[@id=\"our-outpatient-centres\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > span",
+            "text": "View our specialist centres",
+            "xpath": "//*[@id=\"our-specialist-centres\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(5) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container.ImageAndTextBlock-module-scss-module__Pgiceq__image-right > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > span",
+            "text": "Find your nearest GP clinic",
+            "xpath": "//*[@id=\"our-gp-clinics\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(6) > div.ImageAndTextBlock-module-scss-module__Pgiceq__background > div.ImageAndTextBlock-module-scss-module__Pgiceq__wrapper > div.ImageAndTextBlock-module-scss-module__Pgiceq__container > div.ImageAndTextBlock-module-scss-module__Pgiceq__content:nth-of-type(2) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(4) > div.ImageAndTextBlock-module-scss-module__Pgiceq__ctas > div.PlaceholderWrapper-module-scss-module__aUepDW__placeholder > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > a > span",
+            "text": "Find out more",
+            "xpath": "//*[@id=\"our-urgent-care-centres\"]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/a[1]/span[1]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel2:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2)",
+            "text": "Book a",
+            "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[3]/div[1]/a[1]/span[2]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel2:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2) > b",
+            "text": "GP",
+            "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[3]/div[1]/a[1]/span[2]/b[1]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > dialog.Modals-module-scss-module__0IXW1W__wrapper > div.Modals-module-scss-module__0IXW1W__full.Modals-module-scss-module__0IXW1W__draggable > div.Modals-module-scss-module__0IXW1W__modal > div.Modals-module-scss-module__0IXW1W__content:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__modal-appointment > div.ModalAppointment-module-scss-module__PB9mwG__grid > div.ModalAppointment-module-scss-module__PB9mwG__panel2:nth-of-type(3) > div.ModalAppointment-module-scss-module__PB9mwG__cta:nth-of-type(3) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width:nth-of-type(1) > a > span:nth-of-type(2)",
+            "text": "appointment",
+            "xpath": "//*[@id=\"footer\"]/div[2]/dialog[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[3]/div[1]/a[1]/span[2]"
+          }
+        ]
+      },
+      {
+        "variable": "--spacing-1",
+        "property": "color",
+        "currentValue": "rgb(12, 33, 65)",
+        "currentHex": "#0c2141",
+        "againstVariable": "--spacing-1",
+        "againstValue": "rgb(12, 33, 65)",
+        "againstHex": "#0c2141",
+        "contrastRatio": 1,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 3,
+        "suggestedFix": {
+          "variable": "--spacing-1",
+          "newValue": "color(srgb 0.442 0.543 0.697)",
+          "newHex": "#718ab2",
+          "contrastRatio": 4.57,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > main > div > div:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__B-HCA-Navy-Blue > div.HeaderWithImage-module-scss-module__dFUccW__hero-with-image.false > div.HeaderWithImage-module-scss-module__dFUccW__inner > div.HeaderWithImage-module-scss-module__dFUccW__content.false:nth-of-type(1) > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__B-HCA-Navy-Blue:nth-of-type(3) > div.HeaderWithImage-module-scss-module__dFUccW__ctas > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full.Button-module-scss-module__cTRnSq__full-width > a > span",
+            "text": "Search all our locations",
+            "xpath": "//*[@id=\"content\"]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/a[1]/span[1]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__B-HCA-Navy-Blue:nth-of-type(1) > div.StickyCTA-module-scss-module__-yjuBq__wrapper.StickyCTA-module-scss-module__-yjuBq__hidden > div.StickyCTA-module-scss-module__-yjuBq__cta:nth-of-type(2) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > button > span:nth-of-type(2)",
+            "text": "Book an",
+            "xpath": "//*[@id=\"footer\"]/div[1]/div[1]/div[2]/div[1]/button[1]/span[2]"
+          },
+          {
+            "selector": "div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__A-HCA-White:nth-of-type(2) > div.prod-mode > footer > div > div.Themes-module-scss-module__fRabtG__wrapper.Themes-module-scss-module__fRabtG__B-HCA-Navy-Blue:nth-of-type(1) > div.StickyCTA-module-scss-module__-yjuBq__wrapper.StickyCTA-module-scss-module__-yjuBq__hidden > div.StickyCTA-module-scss-module__-yjuBq__cta:nth-of-type(2) > div.Button-module-scss-module__cTRnSq__button.Button-module-scss-module__cTRnSq__large.Button-module-scss-module__cTRnSq__full > button > span:nth-of-type(2) > strong",
+            "text": "appointment",
+            "xpath": "//*[@id=\"footer\"]/div[1]/div[1]/div[2]/div[1]/button[1]/span[2]/strong[1]"
+          }
+        ]
+      },
+      {
+        "variable": "--iti-arrow-color",
+        "property": "color",
+        "currentValue": "rgb(85, 85, 85)",
+        "currentHex": "#555555",
+        "againstVariable": null,
+        "againstValue": "rgb(56, 96, 190)",
+        "againstHex": "#3860be",
+        "contrastRatio": 1.27,
+        "aa": false,
+        "aaa": false,
+        "severity": "critical",
+        "affectedCount": 1,
+        "suggestedFix": {
+          "variable": "--iti-arrow-color",
+          "newValue": "color(srgb 0.889 0.889 0.889)",
+          "newHex": "#e3e3e3",
+          "contrastRatio": 4.56,
+          "property": "color"
+        },
+        "instances": [
+          {
+            "selector": "div:nth-of-type(6) > div.otPcPanel.ot-hide.ot-fade-in:nth-of-type(3) > div > section.ot-hide.ot-pc-scrollbar > div > div.ot-lst-subhdr:nth-of-type(2) > div.ot-fltr-cntr:nth-of-type(2) > button > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+            "text": "Filter Icon",
+            "xpath": "//*[@id=\"filter-btn-handler\"]/svg[1]/title[1]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 262,
+      "passAA": 246,
+      "passAAA": 236,
+      "failAA": 16,
+      "failAAA": 16
+    },
+    "variableStats": {
+      "uniqueIssues": 4,
+      "affectedElements": 16,
+      "oneOffIssues": 0
+    },
+    "healthScore": 94,
+    "scannedAt": "2026-08-05T12:29:26.055Z"
+  }
+]

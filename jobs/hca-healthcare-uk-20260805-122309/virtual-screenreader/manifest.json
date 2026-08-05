@@ -1,0 +1,42 @@
+[
+  {
+    "page": "www.hcahealthcare.co.uk",
+    "url": "https://www.hcahealthcare.co.uk/",
+    "title": "HCA Healthcare UK | Private Hospitals in the UK",
+    "report": "www.hcahealthcare.co.uk.json",
+    "line_count": 1414,
+    "ok": true
+  },
+  {
+    "page": "www.hcahealthcare.co.uk-about-us",
+    "url": "https://www.hcahealthcare.co.uk/about-us",
+    "title": "About HCA UK",
+    "report": "www.hcahealthcare.co.uk-about-us.json",
+    "line_count": 929,
+    "ok": true
+  },
+  {
+    "page": "www.hcahealthcare.co.uk-contact-us",
+    "url": "https://www.hcahealthcare.co.uk/contact-us",
+    "title": "Contact us at HCA Healthcare UK",
+    "report": "www.hcahealthcare.co.uk-contact-us.json",
+    "line_count": 858,
+    "ok": true
+  },
+  {
+    "page": "www.hcahealthcare.co.uk-locations",
+    "url": "https://www.hcahealthcare.co.uk/locations",
+    "title": "Our Locations | Private Hospitals & Clinics | HCA UK",
+    "report": "www.hcahealthcare.co.uk-locations.json",
+    "line_count": 928,
+    "ok": true
+  },
+  {
+    "page": "www.hcahealthcare.co.uk-legal-privacy-policy",
+    "url": "https://www.hcahealthcare.co.uk/legal/privacy-policy",
+    "title": "Our privacy policy",
+    "report": "www.hcahealthcare.co.uk-legal-privacy-policy.json",
+    "line_count": 843,
+    "ok": true
+  }
+]

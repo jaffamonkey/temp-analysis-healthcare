@@ -1,0 +1,432 @@
+Starting contrast check for https://www.nuffieldhealth.com/privacy-policy
+
+--- STDOUT ---
+ℹ Scanning: https://www.nuffieldhealth.com/privacy-policy
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://www.nuffieldhealth.com/privacy-policy
+[
+  {
+    "url": "https://www.nuffieldhealth.com/privacy-policy",
+    "title": "Privacy Policy",
+    "pairs": [
+      {
+        "text": "View all services",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 162, 0)",
+        "selector": "div.root.container.responsivegrid > div.cmp-container > div.experiencefragment:nth-of-type(1) > div.cmp-experiencefragment.cmp-experiencefragment--header > div.xf-content-height > div.root.container.responsivegrid > div.cmp-container > div.container.responsivegrid:nth-of-type(2) > div.cmp-container > div.container.responsivegrid:nth-of-type(1) > div.cmp-container > div.container.responsivegrid > div.cmp-container > div.container.responsivegrid.cmp-container-mega-menu-content:nth-of-type(2) > div.cmp-container > div.container.responsivegrid:nth-of-type(1) > div.cmp-container > div.button:nth-of-type(3) > a.cmp-button > span.cmp-button__text",
+        "xpath": "//*[@id=\"button-f4c614eb47\"]/span[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 162,
+          "b": 0,
+          "a": 1
+        },
+        "contrastRatio": 3.4,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 138,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#008a00",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.07711154639835205
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLMQ0AAAwCwU9T/yJQigZGEm6/R0SO0MJCTzAAAAD//+KcPJEAAAAGSURBVAMALDoAxZ50LZEAAAAASUVORK5CYII="
+      },
+      {
+        "text": "Find a hospital",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 162, 0)",
+        "selector": "div.root.container.responsivegrid > div.cmp-container > div.experiencefragment:nth-of-type(1) > div.cmp-experiencefragment.cmp-experiencefragment--header > div.xf-content-height > div.root.container.responsivegrid > div.cmp-container > div.container.responsivegrid:nth-of-type(2) > div.cmp-container > div.container.responsivegrid:nth-of-type(2) > div.cmp-container > div.container.responsivegrid > div.cmp-container > div.container.responsivegrid.cmp-container-mega-menu-content:nth-of-type(3) > div.cmp-container > div.container.responsivegrid:nth-of-type(1) > div.cmp-container > div.button:nth-of-type(3) > a.cmp-button > span.cmp-button__text",
+        "xpath": "//*[@id=\"button-0d279bd700\"]/span[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 162,
+          "b": 0,
+          "a": 1
+        },
+        "contrastRatio": 3.4,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 138,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#008a00",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.07711154639835205
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLMQ0AAAwCwU9T/yJQigZGEm6/R0SO0MJCTzAAAAD//+KcPJEAAAAGSURBVAMALDoAxZ50LZEAAAAASUVORK5CYII="
+      },
+      {
+        "text": "Join a gym",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 162, 0)",
+        "selector": "div.root.container.responsivegrid > div.cmp-container > div.experiencefragment:nth-of-type(1) > div.cmp-experiencefragment.cmp-experiencefragment--header > div.xf-content-height > div.root.container.responsivegrid > div.cmp-container > div.container.responsivegrid:nth-of-type(2) > div.cmp-container > div.container.responsivegrid:nth-of-type(3) > div.cmp-container > div.container.responsivegrid > div.cmp-container > div.container.responsivegrid.cmp-container-mega-menu-content:nth-of-type(2) > div.cmp-container > div.container.responsivegrid:nth-of-type(1) > div.cmp-container > div.button:nth-of-type(3) > a.cmp-button > span.cmp-button__text",
+        "xpath": "//*[@id=\"button-0e7e686a17\"]/span[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 162,
+          "b": 0,
+          "a": 1
+        },
+        "contrastRatio": 3.4,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 138,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#008a00",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.07711154639835205
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLMQ0AAAwCwU9T/yJQigZGEm6/R0SO0MJCTzAAAAD//+KcPJEAAAAGSURBVAMALDoAxZ50LZEAAAAASUVORK5CYII="
+      },
+      {
+        "text": "View all topics",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 162, 0)",
+        "selector": "div.root.container.responsivegrid > div.cmp-container > div.experiencefragment:nth-of-type(1) > div.cmp-experiencefragment.cmp-experiencefragment--header > div.xf-content-height > div.root.container.responsivegrid > div.cmp-container > div.container.responsivegrid:nth-of-type(2) > div.cmp-container > div.container.responsivegrid:nth-of-type(4) > div.cmp-container > div.container.responsivegrid > div.cmp-container > div.container.responsivegrid.cmp-container-mega-menu-content:nth-of-type(2) > div.cmp-container > div.container.responsivegrid:nth-of-type(1) > div.cmp-container > div.button:nth-of-type(3) > a.cmp-button > span.cmp-button__text",
+        "xpath": "//*[@id=\"button-addf39223f\"]/span[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 162,
+          "b": 0,
+          "a": 1
+        },
+        "contrastRatio": 3.4,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 138,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#008a00",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.07711154639835205
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLMQ0AAAwCwU9T/yJQigZGEm6/R0SO0MJCTzAAAAD//+KcPJEAAAAGSURBVAMALDoAxZ50LZEAAAAASUVORK5CYII="
+      }
+    ],
+    "violations": [
+      {
+        "text": "View all services",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 162, 0)",
+        "selector": "div.root.container.responsivegrid > div.cmp-container > div.experiencefragment:nth-of-type(1) > div.cmp-experiencefragment.cmp-experiencefragment--header > div.xf-content-height > div.root.container.responsivegrid > div.cmp-container > div.container.responsivegrid:nth-of-type(2) > div.cmp-container > div.container.responsivegrid:nth-of-type(1) > div.cmp-container > div.container.responsivegrid > div.cmp-container > div.container.responsivegrid.cmp-container-mega-menu-content:nth-of-type(2) > div.cmp-container > div.container.responsivegrid:nth-of-type(1) > div.cmp-container > div.button:nth-of-type(3) > a.cmp-button > span.cmp-button__text",
+        "xpath": "//*[@id=\"button-f4c614eb47\"]/span[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 162,
+          "b": 0,
+          "a": 1
+        },
+        "contrastRatio": 3.4,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 138,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#008a00",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.07711154639835205
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLMQ0AAAwCwU9T/yJQigZGEm6/R0SO0MJCTzAAAAD//+KcPJEAAAAGSURBVAMALDoAxZ50LZEAAAAASUVORK5CYII="
+      },
+      {
+        "text": "Find a hospital",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 162, 0)",
+        "selector": "div.root.container.responsivegrid > div.cmp-container > div.experiencefragment:nth-of-type(1) > div.cmp-experiencefragment.cmp-experiencefragment--header > div.xf-content-height > div.root.container.responsivegrid > div.cmp-container > div.container.responsivegrid:nth-of-type(2) > div.cmp-container > div.container.responsivegrid:nth-of-type(2) > div.cmp-container > div.container.responsivegrid > div.cmp-container > div.container.responsivegrid.cmp-container-mega-menu-content:nth-of-type(3) > div.cmp-container > div.container.responsivegrid:nth-of-type(1) > div.cmp-container > div.button:nth-of-type(3) > a.cmp-button > span.cmp-button__text",
+        "xpath": "//*[@id=\"button-0d279bd700\"]/span[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 162,
+          "b": 0,
+          "a": 1
+        },
+        "contrastRatio": 3.4,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 138,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#008a00",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.07711154639835205
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLMQ0AAAwCwU9T/yJQigZGEm6/R0SO0MJCTzAAAAD//+KcPJEAAAAGSURBVAMALDoAxZ50LZEAAAAASUVORK5CYII="
+      },
+      {
+        "text": "Join a gym",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 162, 0)",
+        "selector": "div.root.container.responsivegrid > div.cmp-container > div.experiencefragment:nth-of-type(1) > div.cmp-experiencefragment.cmp-experiencefragment--header > div.xf-content-height > div.root.container.responsivegrid > div.cmp-container > div.container.responsivegrid:nth-of-type(2) > div.cmp-container > div.container.responsivegrid:nth-of-type(3) > div.cmp-container > div.container.responsivegrid > div.cmp-container > div.container.responsivegrid.cmp-container-mega-menu-content:nth-of-type(2) > div.cmp-container > div.container.responsivegrid:nth-of-type(1) > div.cmp-container > div.button:nth-of-type(3) > a.cmp-button > span.cmp-button__text",
+        "xpath": "//*[@id=\"button-0e7e686a17\"]/span[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 162,
+          "b": 0,
+          "a": 1
+        },
+        "contrastRatio": 3.4,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 138,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#008a00",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.07711154639835205
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLMQ0AAAwCwU9T/yJQigZGEm6/R0SO0MJCTzAAAAD//+KcPJEAAAAGSURBVAMALDoAxZ50LZEAAAAASUVORK5CYII="
+      },
+      {
+        "text": "View all topics",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 162, 0)",
+        "selector": "div.root.container.responsivegrid > div.cmp-container > div.experiencefragment:nth-of-type(1) > div.cmp-experiencefragment.cmp-experiencefragment--header > div.xf-content-height > div.root.container.responsivegrid > div.cmp-container > div.container.responsivegrid:nth-of-type(2) > div.cmp-container > div.container.responsivegrid:nth-of-type(4) > div.cmp-container > div.container.responsivegrid > div.cmp-container > div.container.responsivegrid.cmp-container-mega-menu-content:nth-of-type(2) > div.cmp-container > div.container.responsivegrid:nth-of-type(1) > div.cmp-container > div.button:nth-of-type(3) > a.cmp-button > span.cmp-button__text",
+        "xpath": "//*[@id=\"button-addf39223f\"]/span[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 162,
+          "b": 0,
+          "a": 1
+        },
+        "contrastRatio": 3.4,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 138,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#008a00",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.07711154639835205
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAI0lEQVR4nOzLMQ0AAAwCwU9T/yJQigZGEm6/R0SO0MJCTzAAAAD//+KcPJEAAAAGSURBVAMALDoAxZ50LZEAAAAASUVORK5CYII="
+      }
+    ],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 411,
+      "passAA": 407,
+      "passAAA": 393,
+      "failAA": 4,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 4
+    },
+    "healthScore": 99,
+    "scannedAt": "2026-08-05T13:02:58.086Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 4 violation(s)
+

@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.adora.health/contact",
+  "landed_url": "https://www.adora.health/contact",
+  "title": "Contact | Adora Women's Health",
+  "page": "www.adora.health-contact",
+  "captured_at": "2026-08-05T11:39:26.873Z",
+  "focusable_count": 34,
+  "frame_count": 5,
+  "same_origin_frame_count": 2,
+  "cross_origin_frame_count": 3,
+  "image": "www.adora.health-contact.png",
+  "preview_image": "www.adora.health-contact.png",
+  "preview_dir": "visual-preview",
+  "json": "www.adora.health-contact.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "Accept"
+    }
+  ]
+}

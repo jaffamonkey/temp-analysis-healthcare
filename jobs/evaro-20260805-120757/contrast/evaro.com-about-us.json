@@ -1,0 +1,314 @@
+[
+  {
+    "url": "https://evaro.com/about-us",
+    "title": "Evaro - Healthcare Platform Integration",
+    "pairs": [
+      {
+        "text": "CEO & Co-founder",
+        "tag": "p",
+        "color": "rgb(128, 128, 128)",
+        "background": "rgb(249, 247, 244)",
+        "selector": "div.min-h-screen:nth-of-type(4) > div.bg-stone-100.py-10.md:p-4:nth-of-type(3) > div.rounded-4xl.py-10.md:py-20.md:pb-12.bg-stone-25.py-10.px-5 > div.max-w-7xl.mx-auto > div.flex.flex-col.gap-10.justify-between:nth-of-type(1) > div.flex.flex-wrap.gap-10.mx-auto > div.flex.flex-col.items-center.max-md:justify-between.text-center.max-w-[351px].gap-5:nth-of-type(1) > div.flex.flex-col > p.text-xl.text-black-50.font-semibold",
+        "xpath": "/html/body/div[4]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 150.734375,
+          "y": 1562.46875,
+          "width": 196.515625,
+          "height": 28
+        },
+        "fontSize": "20px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 128,
+          "g": 128,
+          "b": 128,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 249,
+          "g": 247,
+          "b": 244,
+          "a": 1
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 113,
+            "b": 113,
+            "a": 1
+          },
+          "hex": "#717171",
+          "ratio": 4.56,
+          "property": "color",
+          "deltaE": 0.04987080562214641
+        }
+      },
+      {
+        "text": "COO & Co-Founder",
+        "tag": "p",
+        "color": "rgb(128, 128, 128)",
+        "background": "rgb(249, 247, 244)",
+        "selector": "div.min-h-screen:nth-of-type(4) > div.bg-stone-100.py-10.md:p-4:nth-of-type(3) > div.rounded-4xl.py-10.md:py-20.md:pb-12.bg-stone-25.py-10.px-5 > div.max-w-7xl.mx-auto > div.flex.flex-col.gap-10.justify-between:nth-of-type(1) > div.flex.flex-wrap.gap-10.mx-auto > div.flex.flex-col.items-center.max-md:justify-between.text-center.max-w-[351px].gap-5:nth-of-type(2) > div.flex.flex-col > p.text-xl.text-black-50.font-semibold",
+        "xpath": "/html/body/div[4]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 542.75,
+          "y": 1562.46875,
+          "width": 194.484375,
+          "height": 28
+        },
+        "fontSize": "20px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 128,
+          "g": 128,
+          "b": 128,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 249,
+          "g": 247,
+          "b": 244,
+          "a": 1
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 113,
+            "b": 113,
+            "a": 1
+          },
+          "hex": "#717171",
+          "ratio": 4.56,
+          "property": "color",
+          "deltaE": 0.04987080562214641
+        }
+      },
+      {
+        "text": "Superintendent Pharmacist",
+        "tag": "p",
+        "color": "rgb(128, 128, 128)",
+        "background": "rgb(249, 247, 244)",
+        "selector": "div.min-h-screen:nth-of-type(4) > div.bg-stone-100.py-10.md:p-4:nth-of-type(3) > div.rounded-4xl.py-10.md:py-20.md:pb-12.bg-stone-25.py-10.px-5 > div.max-w-7xl.mx-auto > div.flex.flex-col.gap-10.justify-between:nth-of-type(1) > div.flex.flex-wrap.gap-10.mx-auto > div.flex.flex-col.items-center.max-md:justify-between.text-center.max-w-[351px].gap-5:nth-of-type(3) > div.flex.flex-col > p.text-xl.text-black-50.font-semibold",
+        "xpath": "/html/body/div[4]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 905.109375,
+          "y": 1562.46875,
+          "width": 251.78125,
+          "height": 28
+        },
+        "fontSize": "20px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 128,
+          "g": 128,
+          "b": 128,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 249,
+          "g": 247,
+          "b": 244,
+          "a": 1
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 113,
+            "b": 113,
+            "a": 1
+          },
+          "hex": "#717171",
+          "ratio": 4.56,
+          "property": "color",
+          "deltaE": 0.04987080562214641
+        }
+      }
+    ],
+    "violations": [
+      {
+        "text": "CEO & Co-founder",
+        "tag": "p",
+        "color": "rgb(128, 128, 128)",
+        "background": "rgb(249, 247, 244)",
+        "selector": "div.min-h-screen:nth-of-type(4) > div.bg-stone-100.py-10.md:p-4:nth-of-type(3) > div.rounded-4xl.py-10.md:py-20.md:pb-12.bg-stone-25.py-10.px-5 > div.max-w-7xl.mx-auto > div.flex.flex-col.gap-10.justify-between:nth-of-type(1) > div.flex.flex-wrap.gap-10.mx-auto > div.flex.flex-col.items-center.max-md:justify-between.text-center.max-w-[351px].gap-5:nth-of-type(1) > div.flex.flex-col > p.text-xl.text-black-50.font-semibold",
+        "xpath": "/html/body/div[4]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 150.734375,
+          "y": 1562.46875,
+          "width": 196.515625,
+          "height": 28
+        },
+        "fontSize": "20px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 128,
+          "g": 128,
+          "b": 128,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 249,
+          "g": 247,
+          "b": 244,
+          "a": 1
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 113,
+            "b": 113,
+            "a": 1
+          },
+          "hex": "#717171",
+          "ratio": 4.56,
+          "property": "color",
+          "deltaE": 0.04987080562214641
+        }
+      },
+      {
+        "text": "COO & Co-Founder",
+        "tag": "p",
+        "color": "rgb(128, 128, 128)",
+        "background": "rgb(249, 247, 244)",
+        "selector": "div.min-h-screen:nth-of-type(4) > div.bg-stone-100.py-10.md:p-4:nth-of-type(3) > div.rounded-4xl.py-10.md:py-20.md:pb-12.bg-stone-25.py-10.px-5 > div.max-w-7xl.mx-auto > div.flex.flex-col.gap-10.justify-between:nth-of-type(1) > div.flex.flex-wrap.gap-10.mx-auto > div.flex.flex-col.items-center.max-md:justify-between.text-center.max-w-[351px].gap-5:nth-of-type(2) > div.flex.flex-col > p.text-xl.text-black-50.font-semibold",
+        "xpath": "/html/body/div[4]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 542.75,
+          "y": 1562.46875,
+          "width": 194.484375,
+          "height": 28
+        },
+        "fontSize": "20px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 128,
+          "g": 128,
+          "b": 128,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 249,
+          "g": 247,
+          "b": 244,
+          "a": 1
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 113,
+            "b": 113,
+            "a": 1
+          },
+          "hex": "#717171",
+          "ratio": 4.56,
+          "property": "color",
+          "deltaE": 0.04987080562214641
+        }
+      },
+      {
+        "text": "Superintendent Pharmacist",
+        "tag": "p",
+        "color": "rgb(128, 128, 128)",
+        "background": "rgb(249, 247, 244)",
+        "selector": "div.min-h-screen:nth-of-type(4) > div.bg-stone-100.py-10.md:p-4:nth-of-type(3) > div.rounded-4xl.py-10.md:py-20.md:pb-12.bg-stone-25.py-10.px-5 > div.max-w-7xl.mx-auto > div.flex.flex-col.gap-10.justify-between:nth-of-type(1) > div.flex.flex-wrap.gap-10.mx-auto > div.flex.flex-col.items-center.max-md:justify-between.text-center.max-w-[351px].gap-5:nth-of-type(3) > div.flex.flex-col > p.text-xl.text-black-50.font-semibold",
+        "xpath": "/html/body/div[4]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/p[1]",
+        "boundingRect": {
+          "x": 905.109375,
+          "y": 1562.46875,
+          "width": 251.78125,
+          "height": 28
+        },
+        "fontSize": "20px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 128,
+          "g": 128,
+          "b": 128,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 249,
+          "g": 247,
+          "b": 244,
+          "a": 1
+        },
+        "contrastRatio": 3.69,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 113,
+            "g": 113,
+            "b": 113,
+            "a": 1
+          },
+          "hex": "#717171",
+          "ratio": 4.56,
+          "property": "color",
+          "deltaE": 0.04987080562214641
+        }
+      }
+    ],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 106,
+      "passAA": 103,
+      "passAAA": 103,
+      "failAA": 3,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 3
+    },
+    "healthScore": 97,
+    "scannedAt": "2026-08-05T12:11:53.638Z"
+  }
+]

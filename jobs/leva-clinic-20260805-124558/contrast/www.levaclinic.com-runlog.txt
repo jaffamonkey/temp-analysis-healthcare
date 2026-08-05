@@ -1,0 +1,36 @@
+Starting contrast check for https://www.levaclinic.com/
+
+--- STDOUT ---
+ℹ Scanning: https://www.levaclinic.com/
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://www.levaclinic.com/
+[
+  {
+    "url": "https://www.levaclinic.com/",
+    "title": "Treat your chronic pain with Leva pain management clinic",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 200,
+      "passAA": 200,
+      "passAAA": 193,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-08-05T12:50:09.002Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+

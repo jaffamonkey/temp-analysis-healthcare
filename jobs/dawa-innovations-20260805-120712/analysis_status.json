@@ -1,0 +1,13 @@
+{
+  "job_id": "dawa-innovations-20260805-120712",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/dawa-innovations-20260805-120712/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/dawa-innovations-20260805-120712/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/dawa-innovations-20260805-120712/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/dawa-innovations-20260805-120712/analysis/accessibility_analysis.xlsx",
+  "violations": 493,
+  "pages": 5,
+  "screenshots": {
+    "job_id": "dawa-innovations-20260805-120712",
+    "message": "Artifacts processed"
+  }
+}

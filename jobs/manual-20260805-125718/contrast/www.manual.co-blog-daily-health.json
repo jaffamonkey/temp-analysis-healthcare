@@ -1,0 +1,1583 @@
+[
+  {
+    "url": "https://www.manual.co/blog/daily-health",
+    "title": "Daily Health | Manual.co",
+    "pairs": [
+      {
+        "text": "No past assessments",
+        "tag": "p",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > header.Header_header__MwWvM.mac > div > div:nth-of-type(2) > div.Header_headerWrap__Ymm54.Header_headerContainer__CJXWu:nth-of-type(2) > nav.Header_headerMenuEnd__Ft6IB:nth-of-type(2) > div.Cart_cart__YZPb0:nth-of-type(3) > div.Cart_cartBody__quxfM.Cart_cartPadding__weQGG:nth-of-type(2) > p.Cart_cartInfo__3HfVE",
+        "xpath": "//*[@id=\"cartSidebar\"]/div[2]/p[1]",
+        "boundingRect": {
+          "x": 1760,
+          "y": 315.5,
+          "width": 440,
+          "height": 23
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.74,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 95,
+            "g": 123,
+            "b": 117,
+            "a": 1
+          },
+          "hex": "#5f7b75",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.04889799714763099
+        }
+      },
+      {
+        "text": "Whatever it is, get in touch:",
+        "tag": "span",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterContainerRow__EYM_C.Footer_FooterLinksSectionContainer__Bo1kn:nth-of-type(1) > section.Footer_FooterContactSection__eBSew:nth-of-type(1) > div.Footer_FooterTitleContainer___pd_E:nth-of-type(1) > span.Footer_FooterTitleDescription__Y9tFM",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[1]/section[1]/div[1]/span[1]",
+        "boundingRect": {
+          "x": 144,
+          "y": 2518.203125,
+          "width": 192.921875,
+          "height": 18
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "We aim to reply in 24hrs",
+        "tag": "span",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterContainerRow__EYM_C.Footer_FooterLinksSectionContainer__Bo1kn:nth-of-type(1) > section.Footer_FooterContactSection__eBSew:nth-of-type(1) > div.Footer_FooterContactsListContainer__u7RXe:nth-of-type(2) > div.Footer_FooterContactsContainer__jTPzi:nth-of-type(1) > div.Footer_FooterContactsSection__hmtdd:nth-of-type(2) > span.Footer_FooterContactDescription__ybJzt",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[2]/span[1]",
+        "boundingRect": {
+          "x": 168,
+          "y": 2574.40625,
+          "width": 144.671875,
+          "height": 21.59375
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "Our services are not intended for use in a medical emergency. If you need urgent medical attention, ...",
+        "tag": "div",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterContainerRow__EYM_C.Footer_FooterLinksSectionContainer__Bo1kn:nth-of-type(1) > section.Footer_FooterContactSection__eBSew:nth-of-type(1) > div.Footer_emergencyNotice__b7cd2:nth-of-type(3)",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[1]/section[1]/div[3]",
+        "boundingRect": {
+          "x": 144,
+          "y": 2720.59375,
+          "width": 400,
+          "height": 43.1875
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "SHOP",
+        "tag": "h3",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterContainerRow__EYM_C.Footer_FooterLinksSectionContainer__Bo1kn:nth-of-type(1) > section.Footer_FooterLinksSection__aRHh6:nth-of-type(2) > div.Footer_FooterColumn__ByyjB:nth-of-type(1) > h3",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[1]/section[2]/div[1]/h3[1]",
+        "boundingRect": {
+          "x": 560,
+          "y": 2482,
+          "width": 152,
+          "height": 19.59375
+        },
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "LEARN",
+        "tag": "h3",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterContainerRow__EYM_C.Footer_FooterLinksSectionContainer__Bo1kn:nth-of-type(1) > section.Footer_FooterLinksSection__aRHh6:nth-of-type(2) > div.Footer_FooterColumn__ByyjB:nth-of-type(2) > h3",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[1]/section[2]/div[2]/h3[1]",
+        "boundingRect": {
+          "x": 754,
+          "y": 2482,
+          "width": 152,
+          "height": 19.59375
+        },
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "MANUAL",
+        "tag": "h3",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterContainerRow__EYM_C.Footer_FooterLinksSectionContainer__Bo1kn:nth-of-type(1) > section.Footer_FooterLinksSection__aRHh6:nth-of-type(2) > div.Footer_FooterColumn__ByyjB:nth-of-type(3) > h3",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[1]/section[2]/div[3]/h3[1]",
+        "boundingRect": {
+          "x": 948,
+          "y": 2482,
+          "width": 152,
+          "height": 19.59375
+        },
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "Pharmacies: Manual Pharmacy",
+        "tag": "div",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterCopyrightContainer__0Y7Ya:nth-of-type(3) > section.Footer_FooterCopyrightSection__GzWAN:nth-of-type(2) > div:nth-of-type(1) > div.Footer_FooterCopyrightDescription__ZgJ0S:nth-of-type(2)",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[3]/section[2]/div[1]/div[2]",
+        "boundingRect": {
+          "x": 144,
+          "y": 2960.78125,
+          "width": 482.078125,
+          "height": 84.78125
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "Superintendent Pharmacist",
+        "tag": "div",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterCopyrightContainer__0Y7Ya:nth-of-type(3) > section.Footer_FooterCopyrightSection__GzWAN:nth-of-type(2) > div:nth-of-type(1) > div.Footer_FooterCopyrightDescription__ZgJ0S:nth-of-type(2) > div.Footer_SuperintendentLabel__2EROc",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[3]/section[2]/div[1]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 144,
+          "y": 2982.375,
+          "width": 482.078125,
+          "height": 20
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "Dawn Neil",
+        "tag": "div",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterCopyrightContainer__0Y7Ya:nth-of-type(3) > section.Footer_FooterCopyrightSection__GzWAN:nth-of-type(2) > div:nth-of-type(1) > div.Footer_FooterCopyrightDescription__ZgJ0S:nth-of-type(2)",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[3]/section[2]/div[1]/div[2]",
+        "boundingRect": {
+          "x": 144,
+          "y": 2960.78125,
+          "width": 482.078125,
+          "height": 84.78125
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "GPhC Registration: 2063362",
+        "tag": "div",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterCopyrightContainer__0Y7Ya:nth-of-type(3) > section.Footer_FooterCopyrightSection__GzWAN:nth-of-type(2) > div:nth-of-type(1) > div.Footer_FooterCopyrightDescription__ZgJ0S:nth-of-type(2)",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[3]/section[2]/div[1]/div[2]",
+        "boundingRect": {
+          "x": 144,
+          "y": 2960.78125,
+          "width": 482.078125,
+          "height": 84.78125
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "Copyright",
+        "tag": "div",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterCopyrightContainer__0Y7Ya:nth-of-type(3) > section.Footer_FooterCopyrightSection__GzWAN:nth-of-type(2) > div:nth-of-type(1) > div.Footer_FooterCopyrightDescription__ZgJ0S:nth-of-type(3)",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[3]/section[2]/div[1]/div[3]",
+        "boundingRect": {
+          "x": 144,
+          "y": 3053.5625,
+          "width": 498.078125,
+          "height": 21.59375
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "2026",
+        "tag": "div",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterCopyrightContainer__0Y7Ya:nth-of-type(3) > section.Footer_FooterCopyrightSection__GzWAN:nth-of-type(2) > div:nth-of-type(1) > div.Footer_FooterCopyrightDescription__ZgJ0S:nth-of-type(3)",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[3]/section[2]/div[1]/div[3]",
+        "boundingRect": {
+          "x": 144,
+          "y": 3053.5625,
+          "width": 498.078125,
+          "height": 21.59375
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "Manual™. All rights reserved.",
+        "tag": "div",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterCopyrightContainer__0Y7Ya:nth-of-type(3) > section.Footer_FooterCopyrightSection__GzWAN:nth-of-type(2) > div:nth-of-type(1) > div.Footer_FooterCopyrightDescription__ZgJ0S:nth-of-type(3)",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[3]/section[2]/div[1]/div[3]",
+        "boundingRect": {
+          "x": 144,
+          "y": 3053.5625,
+          "width": 498.078125,
+          "height": 21.59375
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "Filter Icon",
+        "tag": "title",
+        "color": "rgb(85, 85, 85)",
+        "background": "rgb(56, 96, 190)",
+        "selector": "div:nth-of-type(3) > div.otPcCenter.ot-hide.ot-fade-in.otRelFont:nth-of-type(3) > div > section.ot-hide.ot-hosts-ui.ot-pc-scrollbar > div > div.ot-lst-subhdr:nth-of-type(2) > div.ot-fltr-cntr:nth-of-type(2) > button > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"filter-btn-handler\"]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 85,
+          "g": 85,
+          "b": 85,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 56,
+          "g": 96,
+          "b": 190,
+          "a": 1
+        },
+        "contrastRatio": 1.27,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 158,
+            "g": 206,
+            "b": 255,
+            "a": 1
+          },
+          "hex": "#9eceff",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.3481465089931902
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      }
+    ],
+    "violations": [
+      {
+        "text": "No past assessments",
+        "tag": "p",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > header.Header_header__MwWvM.mac > div > div:nth-of-type(2) > div.Header_headerWrap__Ymm54.Header_headerContainer__CJXWu:nth-of-type(2) > nav.Header_headerMenuEnd__Ft6IB:nth-of-type(2) > div.Cart_cart__YZPb0:nth-of-type(3) > div.Cart_cartBody__quxfM.Cart_cartPadding__weQGG:nth-of-type(2) > p.Cart_cartInfo__3HfVE",
+        "xpath": "//*[@id=\"cartSidebar\"]/div[2]/p[1]",
+        "boundingRect": {
+          "x": 1760,
+          "y": 315.5,
+          "width": 440,
+          "height": 23
+        },
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 3.74,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 95,
+            "g": 123,
+            "b": 117,
+            "a": 1
+          },
+          "hex": "#5f7b75",
+          "ratio": 4.59,
+          "property": "color",
+          "deltaE": 0.04889799714763099
+        }
+      },
+      {
+        "text": "Whatever it is, get in touch:",
+        "tag": "span",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterContainerRow__EYM_C.Footer_FooterLinksSectionContainer__Bo1kn:nth-of-type(1) > section.Footer_FooterContactSection__eBSew:nth-of-type(1) > div.Footer_FooterTitleContainer___pd_E:nth-of-type(1) > span.Footer_FooterTitleDescription__Y9tFM",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[1]/section[1]/div[1]/span[1]",
+        "boundingRect": {
+          "x": 144,
+          "y": 2518.203125,
+          "width": 192.921875,
+          "height": 18
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "We aim to reply in 24hrs",
+        "tag": "span",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterContainerRow__EYM_C.Footer_FooterLinksSectionContainer__Bo1kn:nth-of-type(1) > section.Footer_FooterContactSection__eBSew:nth-of-type(1) > div.Footer_FooterContactsListContainer__u7RXe:nth-of-type(2) > div.Footer_FooterContactsContainer__jTPzi:nth-of-type(1) > div.Footer_FooterContactsSection__hmtdd:nth-of-type(2) > span.Footer_FooterContactDescription__ybJzt",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[2]/span[1]",
+        "boundingRect": {
+          "x": 168,
+          "y": 2574.40625,
+          "width": 144.671875,
+          "height": 21.59375
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "Our services are not intended for use in a medical emergency. If you need urgent medical attention, ...",
+        "tag": "div",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterContainerRow__EYM_C.Footer_FooterLinksSectionContainer__Bo1kn:nth-of-type(1) > section.Footer_FooterContactSection__eBSew:nth-of-type(1) > div.Footer_emergencyNotice__b7cd2:nth-of-type(3)",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[1]/section[1]/div[3]",
+        "boundingRect": {
+          "x": 144,
+          "y": 2720.59375,
+          "width": 400,
+          "height": 43.1875
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "SHOP",
+        "tag": "h3",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterContainerRow__EYM_C.Footer_FooterLinksSectionContainer__Bo1kn:nth-of-type(1) > section.Footer_FooterLinksSection__aRHh6:nth-of-type(2) > div.Footer_FooterColumn__ByyjB:nth-of-type(1) > h3",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[1]/section[2]/div[1]/h3[1]",
+        "boundingRect": {
+          "x": 560,
+          "y": 2482,
+          "width": 152,
+          "height": 19.59375
+        },
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "LEARN",
+        "tag": "h3",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterContainerRow__EYM_C.Footer_FooterLinksSectionContainer__Bo1kn:nth-of-type(1) > section.Footer_FooterLinksSection__aRHh6:nth-of-type(2) > div.Footer_FooterColumn__ByyjB:nth-of-type(2) > h3",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[1]/section[2]/div[2]/h3[1]",
+        "boundingRect": {
+          "x": 754,
+          "y": 2482,
+          "width": 152,
+          "height": 19.59375
+        },
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "MANUAL",
+        "tag": "h3",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterContainerRow__EYM_C.Footer_FooterLinksSectionContainer__Bo1kn:nth-of-type(1) > section.Footer_FooterLinksSection__aRHh6:nth-of-type(2) > div.Footer_FooterColumn__ByyjB:nth-of-type(3) > h3",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[1]/section[2]/div[3]/h3[1]",
+        "boundingRect": {
+          "x": 948,
+          "y": 2482,
+          "width": 152,
+          "height": 19.59375
+        },
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "Pharmacies: Manual Pharmacy",
+        "tag": "div",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterCopyrightContainer__0Y7Ya:nth-of-type(3) > section.Footer_FooterCopyrightSection__GzWAN:nth-of-type(2) > div:nth-of-type(1) > div.Footer_FooterCopyrightDescription__ZgJ0S:nth-of-type(2)",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[3]/section[2]/div[1]/div[2]",
+        "boundingRect": {
+          "x": 144,
+          "y": 2960.78125,
+          "width": 482.078125,
+          "height": 84.78125
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "Superintendent Pharmacist",
+        "tag": "div",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterCopyrightContainer__0Y7Ya:nth-of-type(3) > section.Footer_FooterCopyrightSection__GzWAN:nth-of-type(2) > div:nth-of-type(1) > div.Footer_FooterCopyrightDescription__ZgJ0S:nth-of-type(2) > div.Footer_SuperintendentLabel__2EROc",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[3]/section[2]/div[1]/div[2]/div[1]",
+        "boundingRect": {
+          "x": 144,
+          "y": 2982.375,
+          "width": 482.078125,
+          "height": 20
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "Dawn Neil",
+        "tag": "div",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterCopyrightContainer__0Y7Ya:nth-of-type(3) > section.Footer_FooterCopyrightSection__GzWAN:nth-of-type(2) > div:nth-of-type(1) > div.Footer_FooterCopyrightDescription__ZgJ0S:nth-of-type(2)",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[3]/section[2]/div[1]/div[2]",
+        "boundingRect": {
+          "x": 144,
+          "y": 2960.78125,
+          "width": 482.078125,
+          "height": 84.78125
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "GPhC Registration: 2063362",
+        "tag": "div",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterCopyrightContainer__0Y7Ya:nth-of-type(3) > section.Footer_FooterCopyrightSection__GzWAN:nth-of-type(2) > div:nth-of-type(1) > div.Footer_FooterCopyrightDescription__ZgJ0S:nth-of-type(2)",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[3]/section[2]/div[1]/div[2]",
+        "boundingRect": {
+          "x": 144,
+          "y": 2960.78125,
+          "width": 482.078125,
+          "height": 84.78125
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "Copyright",
+        "tag": "div",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterCopyrightContainer__0Y7Ya:nth-of-type(3) > section.Footer_FooterCopyrightSection__GzWAN:nth-of-type(2) > div:nth-of-type(1) > div.Footer_FooterCopyrightDescription__ZgJ0S:nth-of-type(3)",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[3]/section[2]/div[1]/div[3]",
+        "boundingRect": {
+          "x": 144,
+          "y": 3053.5625,
+          "width": 498.078125,
+          "height": 21.59375
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "2026",
+        "tag": "div",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterCopyrightContainer__0Y7Ya:nth-of-type(3) > section.Footer_FooterCopyrightSection__GzWAN:nth-of-type(2) > div:nth-of-type(1) > div.Footer_FooterCopyrightDescription__ZgJ0S:nth-of-type(3)",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[3]/section[2]/div[1]/div[3]",
+        "boundingRect": {
+          "x": 144,
+          "y": 3053.5625,
+          "width": 498.078125,
+          "height": 21.59375
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "Manual™. All rights reserved.",
+        "tag": "div",
+        "color": "rgb(109, 138, 131)",
+        "background": "rgb(11, 59, 60)",
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterCopyrightContainer__0Y7Ya:nth-of-type(3) > section.Footer_FooterCopyrightSection__GzWAN:nth-of-type(2) > div:nth-of-type(1) > div.Footer_FooterCopyrightDescription__ZgJ0S:nth-of-type(3)",
+        "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[3]/section[2]/div[1]/div[3]",
+        "boundingRect": {
+          "x": 144,
+          "y": 3053.5625,
+          "width": 498.078125,
+          "height": 21.59375
+        },
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "bgVar": "--swiper-navigation-size",
+        "fgParsed": {
+          "r": 109,
+          "g": 138,
+          "b": 131,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 11,
+          "g": 59,
+          "b": 60,
+          "a": 1
+        },
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 133,
+            "g": 163,
+            "b": 155,
+            "a": 1
+          },
+          "hex": "#85a39b",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.08110200285236913
+        }
+      },
+      {
+        "text": "Filter Icon",
+        "tag": "title",
+        "color": "rgb(85, 85, 85)",
+        "background": "rgb(56, 96, 190)",
+        "selector": "div:nth-of-type(3) > div.otPcCenter.ot-hide.ot-fade-in.otRelFont:nth-of-type(3) > div > section.ot-hide.ot-hosts-ui.ot-pc-scrollbar > div > div.ot-lst-subhdr:nth-of-type(2) > div.ot-fltr-cntr:nth-of-type(2) > button > svg.[object.SVGAnimatedString] > title.[object.SVGAnimatedString]",
+        "xpath": "//*[@id=\"filter-btn-handler\"]/svg[1]/title[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 85,
+          "g": 85,
+          "b": 85,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 56,
+          "g": 96,
+          "b": 190,
+          "a": 1
+        },
+        "contrastRatio": 1.27,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 158,
+            "g": 206,
+            "b": 255,
+            "a": 1
+          },
+          "hex": "#9eceff",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.3481465089931902
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAIklEQVR4nOzLsQkAAAwCQQnZf+V3BkvB6+8BJU6hhYWeYAAAAP//2x1wRAAAAAZJREFUAwBenQMgeDhLVwAAAABJRU5ErkJggg=="
+      }
+    ],
+    "passes": [],
+    "variableIssues": [
+      {
+        "variable": "--swiper-navigation-size",
+        "property": "background-color",
+        "currentValue": "rgb(11, 59, 60)",
+        "currentHex": "#6d8a83",
+        "againstVariable": null,
+        "againstValue": "rgb(109, 138, 131)",
+        "againstHex": "#0b3b3c",
+        "contrastRatio": 3.29,
+        "aa": false,
+        "aaa": false,
+        "severity": "warning",
+        "affectedCount": 13,
+        "suggestedFix": {
+          "variable": "--swiper-navigation-size",
+          "newValue": "color(srgb -0.039 0.13 0.135)",
+          "newHex": "#002122",
+          "contrastRatio": 4.52,
+          "property": "background-color"
+        },
+        "instances": [
+          {
+            "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterContainerRow__EYM_C.Footer_FooterLinksSectionContainer__Bo1kn:nth-of-type(1) > section.Footer_FooterContactSection__eBSew:nth-of-type(1) > div.Footer_FooterTitleContainer___pd_E:nth-of-type(1) > span.Footer_FooterTitleDescription__Y9tFM",
+            "text": "Whatever it is, get in touch:",
+            "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[1]/section[1]/div[1]/span[1]"
+          },
+          {
+            "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterContainerRow__EYM_C.Footer_FooterLinksSectionContainer__Bo1kn:nth-of-type(1) > section.Footer_FooterContactSection__eBSew:nth-of-type(1) > div.Footer_FooterContactsListContainer__u7RXe:nth-of-type(2) > div.Footer_FooterContactsContainer__jTPzi:nth-of-type(1) > div.Footer_FooterContactsSection__hmtdd:nth-of-type(2) > span.Footer_FooterContactDescription__ybJzt",
+            "text": "We aim to reply in 24hrs",
+            "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[2]/span[1]"
+          },
+          {
+            "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterContainerRow__EYM_C.Footer_FooterLinksSectionContainer__Bo1kn:nth-of-type(1) > section.Footer_FooterContactSection__eBSew:nth-of-type(1) > div.Footer_emergencyNotice__b7cd2:nth-of-type(3)",
+            "text": "Our services are not intended for use in a medical emergency. If you need urgent medical attention, ...",
+            "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[1]/section[1]/div[3]"
+          },
+          {
+            "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterContainerRow__EYM_C.Footer_FooterLinksSectionContainer__Bo1kn:nth-of-type(1) > section.Footer_FooterLinksSection__aRHh6:nth-of-type(2) > div.Footer_FooterColumn__ByyjB:nth-of-type(1) > h3",
+            "text": "SHOP",
+            "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[1]/section[2]/div[1]/h3[1]"
+          },
+          {
+            "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterContainerRow__EYM_C.Footer_FooterLinksSectionContainer__Bo1kn:nth-of-type(1) > section.Footer_FooterLinksSection__aRHh6:nth-of-type(2) > div.Footer_FooterColumn__ByyjB:nth-of-type(2) > h3",
+            "text": "LEARN",
+            "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[1]/section[2]/div[2]/h3[1]"
+          },
+          {
+            "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterContainerRow__EYM_C.Footer_FooterLinksSectionContainer__Bo1kn:nth-of-type(1) > section.Footer_FooterLinksSection__aRHh6:nth-of-type(2) > div.Footer_FooterColumn__ByyjB:nth-of-type(3) > h3",
+            "text": "MANUAL",
+            "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[1]/section[2]/div[3]/h3[1]"
+          },
+          {
+            "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterCopyrightContainer__0Y7Ya:nth-of-type(3) > section.Footer_FooterCopyrightSection__GzWAN:nth-of-type(2) > div:nth-of-type(1) > div.Footer_FooterCopyrightDescription__ZgJ0S:nth-of-type(2)",
+            "text": "Pharmacies: Manual Pharmacy",
+            "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[3]/section[2]/div[1]/div[2]"
+          },
+          {
+            "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterCopyrightContainer__0Y7Ya:nth-of-type(3) > section.Footer_FooterCopyrightSection__GzWAN:nth-of-type(2) > div:nth-of-type(1) > div.Footer_FooterCopyrightDescription__ZgJ0S:nth-of-type(2) > div.Footer_SuperintendentLabel__2EROc",
+            "text": "Superintendent Pharmacist",
+            "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[3]/section[2]/div[1]/div[2]/div[1]"
+          },
+          {
+            "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterCopyrightContainer__0Y7Ya:nth-of-type(3) > section.Footer_FooterCopyrightSection__GzWAN:nth-of-type(2) > div:nth-of-type(1) > div.Footer_FooterCopyrightDescription__ZgJ0S:nth-of-type(2)",
+            "text": "Dawn Neil",
+            "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[3]/section[2]/div[1]/div[2]"
+          },
+          {
+            "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterCopyrightContainer__0Y7Ya:nth-of-type(3) > section.Footer_FooterCopyrightSection__GzWAN:nth-of-type(2) > div:nth-of-type(1) > div.Footer_FooterCopyrightDescription__ZgJ0S:nth-of-type(2)",
+            "text": "GPhC Registration: 2063362",
+            "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[3]/section[2]/div[1]/div[2]"
+          },
+          {
+            "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterCopyrightContainer__0Y7Ya:nth-of-type(3) > section.Footer_FooterCopyrightSection__GzWAN:nth-of-type(2) > div:nth-of-type(1) > div.Footer_FooterCopyrightDescription__ZgJ0S:nth-of-type(3)",
+            "text": "Copyright",
+            "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[3]/section[2]/div[1]/div[3]"
+          },
+          {
+            "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterCopyrightContainer__0Y7Ya:nth-of-type(3) > section.Footer_FooterCopyrightSection__GzWAN:nth-of-type(2) > div:nth-of-type(1) > div.Footer_FooterCopyrightDescription__ZgJ0S:nth-of-type(3)",
+            "text": "2026",
+            "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[3]/section[2]/div[1]/div[3]"
+          },
+          {
+            "selector": "div:nth-of-type(1) > div:nth-of-type(2) > footer.Footer_Footer__z0Ikr > div.Footer_container__7AGDW.Footer_containerMXL__m8y_6 > div.Footer_FooterCopyrightContainer__0Y7Ya:nth-of-type(3) > section.Footer_FooterCopyrightSection__GzWAN:nth-of-type(2) > div:nth-of-type(1) > div.Footer_FooterCopyrightDescription__ZgJ0S:nth-of-type(3)",
+            "text": "Manual™. All rights reserved.",
+            "xpath": "//*[@id=\"main-layout\"]/footer[1]/div[1]/div[3]/section[2]/div[1]/div[3]"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total": 156,
+      "passAA": 141,
+      "passAAA": 132,
+      "failAA": 15,
+      "failAAA": 1
+    },
+    "variableStats": {
+      "uniqueIssues": 1,
+      "affectedElements": 13,
+      "oneOffIssues": 2
+    },
+    "healthScore": 90,
+    "scannedAt": "2026-08-05T13:02:55.135Z"
+  }
+]

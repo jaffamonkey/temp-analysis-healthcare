@@ -1,0 +1,112 @@
+[
+  {
+    "tool": "tab-map",
+    "url": "https://www.zoomdoc.com/about",
+    "landed_url": "https://www.zoomdoc.com/about",
+    "title": "About Us - ZoomDoc Health",
+    "page": "www.zoomdoc.com-about",
+    "captured_at": "2026-08-05T15:53:27.097Z",
+    "focusable_count": 48,
+    "frame_count": 2,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 1,
+    "image": "www.zoomdoc.com-about.png",
+    "preview_image": "www.zoomdoc.com-about.png",
+    "preview_dir": "visual-preview",
+    "json": "www.zoomdoc.com-about.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.zoomdoc.com/",
+    "landed_url": "https://www.zoomdoc.com/",
+    "title": "ZoomDoc Health: Trusted Medical Letters and Certificates",
+    "page": "www.zoomdoc.com",
+    "captured_at": "2026-08-05T15:53:27.091Z",
+    "focusable_count": 77,
+    "frame_count": 5,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 4,
+    "image": "www.zoomdoc.com.png",
+    "preview_image": "www.zoomdoc.com.png",
+    "preview_dir": "visual-preview",
+    "json": "www.zoomdoc.com.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.zoomdoc.com/contact-us",
+    "landed_url": "https://www.zoomdoc.com/contact-us",
+    "title": "Contact Us - ZoomDoc Health",
+    "page": "www.zoomdoc.com-contact-us",
+    "captured_at": "2026-08-05T15:53:37.950Z",
+    "focusable_count": 53,
+    "frame_count": 2,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 1,
+    "image": "www.zoomdoc.com-contact-us.png",
+    "preview_image": "www.zoomdoc.com-contact-us.png",
+    "preview_dir": "visual-preview",
+    "json": "www.zoomdoc.com-contact-us.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.zoomdoc.com/product-category/visa-medical-certificates",
+    "landed_url": "https://www.zoomdoc.com/product-category/visa-medical-certificates",
+    "title": "Visa Medical Certificates - ZoomDoc Health",
+    "page": "www.zoomdoc.com-product-category-visa-medical-certificates",
+    "captured_at": "2026-08-05T15:53:37.950Z",
+    "focusable_count": 83,
+    "frame_count": 4,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 3,
+    "image": "www.zoomdoc.com-product-category-visa-medical-certificates.png",
+    "preview_image": "www.zoomdoc.com-product-category-visa-medical-certificates.png",
+    "preview_dir": "visual-preview",
+    "json": "www.zoomdoc.com-product-category-visa-medical-certificates.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      }
+    ]
+  },
+  {
+    "tool": "tab-map",
+    "url": "https://www.zoomdoc.com/privacy-policy",
+    "landed_url": "https://www.zoomdoc.com/privacy-policy",
+    "title": "Privacy Policy - ZoomDoc Health",
+    "page": "www.zoomdoc.com-privacy-policy",
+    "captured_at": "2026-08-05T15:53:45.976Z",
+    "focusable_count": 46,
+    "frame_count": 2,
+    "same_origin_frame_count": 1,
+    "cross_origin_frame_count": 1,
+    "image": "www.zoomdoc.com-privacy-policy.png",
+    "preview_image": "www.zoomdoc.com-privacy-policy.png",
+    "preview_dir": "visual-preview",
+    "json": "www.zoomdoc.com-privacy-policy.json",
+    "consent_actions": [
+      {
+        "action": "clicked",
+        "detail": "Accept All"
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.spirehealthcare.com/spire-wellesley-hospital",
+  "landed_url": "https://www.spirehealthcare.com/spire-wellesley-hospital/",
+  "title": "Private Hospital in Southend-on-Sea, Essex | Spire Wellesley Hospital",
+  "page": "www.spirehealthcare.com-spire-wellesley-hospital",
+  "captured_at": "2026-08-05T15:48:25.588Z",
+  "focusable_count": 62,
+  "frame_count": 8,
+  "same_origin_frame_count": 4,
+  "cross_origin_frame_count": 4,
+  "image": "www.spirehealthcare.com-spire-wellesley-hospital.png",
+  "preview_image": "www.spirehealthcare.com-spire-wellesley-hospital.png",
+  "preview_dir": "visual-preview",
+  "json": "www.spirehealthcare.com-spire-wellesley-hospital.json",
+  "consent_actions": [
+    {
+      "action": "clicked",
+      "detail": "#onetrust-accept-btn-handler"
+    }
+  ]
+}

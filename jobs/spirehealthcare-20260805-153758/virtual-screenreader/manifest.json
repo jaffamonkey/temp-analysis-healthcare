@@ -1,0 +1,98 @@
+[
+  {
+    "page": "www.spirehealthcare.com",
+    "url": "https://www.spirehealthcare.com",
+    "title": "Spire Healthcare | Private Hospitals UK | Quality Care",
+    "report": "www.spirehealthcare.com.json",
+    "line_count": 1019,
+    "ok": true
+  },
+  {
+    "page": "www.spirehealthcare.com-spirehealthcarecom",
+    "url": "https://www.spirehealthcare.com/spirehealthcarecom",
+    "title": "Spire Healthcare | Private Hospitals UK | Quality Care",
+    "report": "www.spirehealthcare.com-spirehealthcarecom.json",
+    "line_count": 1019,
+    "ok": true
+  },
+  {
+    "page": "www.spirehealthcare.com-healthcare-professionals",
+    "url": "https://www.spirehealthcare.com/healthcare-professionals",
+    "title": "Healthcare professionals | Spire Healthcare",
+    "report": "www.spirehealthcare.com-healthcare-professionals.json",
+    "line_count": 2001,
+    "ok": true
+  },
+  {
+    "page": "www.spirehealthcare.com-spire-cambridge-lea-hospital",
+    "url": "https://www.spirehealthcare.com/spire-cambridge-lea-hospital",
+    "title": "Private Hospital in Cambridge, Cambridgeshire | Spire Cambridge Lea Hospital",
+    "report": "www.spirehealthcare.com-spire-cambridge-lea-hospital.json",
+    "line_count": 1082,
+    "ok": true
+  },
+  {
+    "page": "www.spirehealthcare.com-spire-hartswood-hospital",
+    "url": "https://www.spirehealthcare.com/spire-hartswood-hospital",
+    "title": "Brentwood Private Hospital, Essex (Near Romford & Chelmsford) | Spire Hartswood Hospital",
+    "report": "www.spirehealthcare.com-spire-hartswood-hospital.json",
+    "line_count": 1046,
+    "ok": true
+  },
+  {
+    "page": "www.spirehealthcare.com-spire-norwich-hospital",
+    "url": "https://www.spirehealthcare.com/spire-norwich-hospital",
+    "title": "Spire Norwich Hospital | Private Hospital in Norwich, Norfolk | Spire Healthcare",
+    "report": "www.spirehealthcare.com-spire-norwich-hospital.json",
+    "line_count": 1049,
+    "ok": true
+  },
+  {
+    "page": "www.spirehealthcare.com-spire-wellesley-hospital",
+    "url": "https://www.spirehealthcare.com/spire-wellesley-hospital",
+    "title": "Private Hospital in Southend-on-Sea, Essex | Spire Wellesley Hospital",
+    "report": "www.spirehealthcare.com-spire-wellesley-hospital.json",
+    "line_count": 1049,
+    "ok": true
+  },
+  {
+    "page": "www.spirehealthcare.com-spire-ella-may-barnes-clinic",
+    "url": "https://www.spirehealthcare.com/spire-ella-may-barnes-clinic",
+    "title": "Spire Ella May Barnes Clinic | Spire Norwich Hospital",
+    "report": "www.spirehealthcare.com-spire-ella-may-barnes-clinic.json",
+    "line_count": 807,
+    "ok": true
+  },
+  {
+    "page": "www.spirehealthcare.com-spire-kings-lynn-clinic",
+    "url": "https://www.spirehealthcare.com/spire-kings-lynn-clinic",
+    "title": "Private Clinic in King's Lynn, West Norfolk | Spire King's Lynn Clinic",
+    "report": "www.spirehealthcare.com-spire-kings-lynn-clinic.json",
+    "line_count": 1032,
+    "ok": true
+  },
+  {
+    "page": "www.spirehealthcare.com-spire-bushey-hospital",
+    "url": "https://www.spirehealthcare.com/spire-bushey-hospital",
+    "title": "Bushey Private Hospital, Watford, London | Spire Bushey Hospital",
+    "report": "www.spirehealthcare.com-spire-bushey-hospital.json",
+    "line_count": 1082,
+    "ok": true
+  },
+  {
+    "page": "www.spirehealthcare.com-spire-harpenden-hospital",
+    "url": "https://www.spirehealthcare.com/spire-harpenden-hospital",
+    "title": "Harpenden Private Hospital, Hertfordshire (Near Luton & St Albans) | Spire Harpenden Hospital",
+    "report": "www.spirehealthcare.com-spire-harpenden-hospital.json",
+    "line_count": 1099,
+    "ok": true
+  },
+  {
+    "page": "www.spirehealthcare.com-spire-london-east-hospital",
+    "url": "https://www.spirehealthcare.com/spire-london-east-hospital",
+    "title": "Redbridge Private Hospital, Ilford, London (Near Woodford) | Spire London East Hospital",
+    "report": "www.spirehealthcare.com-spire-london-east-hospital.json",
+    "line_count": 1077,
+    "ok": true
+  }
+]

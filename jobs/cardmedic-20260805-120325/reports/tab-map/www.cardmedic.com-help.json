@@ -1,0 +1,17 @@
+{
+  "tool": "tab-map",
+  "url": "https://www.cardmedic.com/help/",
+  "landed_url": "https://www.cardmedic.com/help/",
+  "title": "Help & FAQs | Get Help With CardMedic Communication Tools",
+  "page": "www.cardmedic.com-help",
+  "captured_at": "2026-08-05T12:07:04.975Z",
+  "focusable_count": 42,
+  "frame_count": 3,
+  "same_origin_frame_count": 2,
+  "cross_origin_frame_count": 1,
+  "image": "www.cardmedic.com-help.png",
+  "preview_image": "www.cardmedic.com-help.png",
+  "preview_dir": "visual-preview",
+  "json": "www.cardmedic.com-help.json",
+  "consent_actions": []
+}

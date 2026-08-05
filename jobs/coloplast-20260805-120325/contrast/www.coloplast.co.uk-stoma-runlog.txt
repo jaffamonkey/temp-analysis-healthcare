@@ -1,0 +1,35 @@
+Starting contrast check for https://www.coloplast.co.uk/stoma/
+
+--- STDOUT ---
+ℹ Scanning: https://www.coloplast.co.uk/stoma/
+ℹ Scanning page 1/1: https://www.coloplast.co.uk/stoma/
+[
+  {
+    "url": "https://www.coloplast.co.uk/stoma/",
+    "title": "Access Denied",
+    "pairs": [],
+    "violations": [],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 4,
+      "passAA": 4,
+      "passAAA": 4,
+      "failAA": 0,
+      "failAAA": 0
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 0
+    },
+    "healthScore": 100,
+    "scannedAt": "2026-08-05T12:06:03.531Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 1 page(s)
+

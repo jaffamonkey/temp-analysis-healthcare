@@ -1,0 +1,42 @@
+[
+  {
+    "page": "agiliosoftware.com",
+    "url": "https://agiliosoftware.com",
+    "title": "Agilio Software | Dental, Primary Care, Veterinary, Hospital Software",
+    "report": "agiliosoftware.com.json",
+    "line_count": 2001,
+    "ok": true
+  },
+  {
+    "page": "agiliosoftware.com-directors",
+    "url": "https://agiliosoftware.com/directors/",
+    "title": "Directors | Agilio Management | Agilio Software",
+    "report": "agiliosoftware.com-directors.json",
+    "line_count": 2001,
+    "ok": true
+  },
+  {
+    "page": "agiliosoftware.com-dental-icomply",
+    "url": "https://agiliosoftware.com/dental/icomply/",
+    "title": "Dental Compliance solutions | iComply by Agilio Software",
+    "report": "agiliosoftware.com-dental-icomply.json",
+    "line_count": 2002,
+    "ok": true
+  },
+  {
+    "page": "agiliosoftware.com-contact-us",
+    "url": "https://agiliosoftware.com/contact-us/",
+    "title": "Contact Us | Agilio Software",
+    "report": "agiliosoftware.com-contact-us.json",
+    "line_count": 1875,
+    "ok": true
+  },
+  {
+    "page": "agiliosoftware.com-dental-iplan",
+    "url": "https://agiliosoftware.com/dental/iplan/",
+    "title": "PatientPlanDirect | Part of the Agilio Group",
+    "report": "agiliosoftware.com-dental-iplan.json",
+    "line_count": 1855,
+    "ok": true
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "job_id": "betterhelp-20260805-115131",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/betterhelp-20260805-115131/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/betterhelp-20260805-115131/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/betterhelp-20260805-115131/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/betterhelp-20260805-115131/analysis/accessibility_analysis.xlsx",
+  "violations": 702,
+  "pages": 5,
+  "screenshots": {
+    "job_id": "betterhelp-20260805-115131",
+    "message": "Artifacts processed"
+  }
+}

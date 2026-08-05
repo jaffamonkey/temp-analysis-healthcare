@@ -1,0 +1,1204 @@
+Starting contrast check for https://www.cardmedic.com/
+
+--- STDOUT ---
+ℹ Scanning: https://www.cardmedic.com/
+ℹ Scanning single page only
+ℹ Scanning page 1/1: https://www.cardmedic.com/
+[
+  {
+    "url": "https://www.cardmedic.com/",
+    "title": "CardMedic | Reduce Health Inequalities & Improve Patient Safety",
+    "pairs": [
+      {
+        "text": "Free Signup",
+        "tag": "span",
+        "color": "rgb(248, 107, 31)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.elementor.elementor-1734.elementor-location-header:nth-of-type(2) > section.jet-sticky-section.elementor-section.elementor-top-section.elementor-element.elementor-element-cf18a72.elementor-hidden-phone.elementor-hidden-tablet.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(2) > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-33.elementor-top-column.elementor-element.elementor-element-52698ea:nth-of-type(3) > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-908ec95.elementor-widget__width-auto.elementor-widget.elementor-widget-button:nth-of-type(2) > div.elementor-widget-container > div.elementor-button-wrapper > a.elementor-button.elementor-button-link.elementor-size-sm > span.elementor-button-content-wrapper > span.elementor-button-text",
+        "xpath": "/html/body/div[2]/section[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/a[1]/span[1]/span[1]",
+        "boundingRect": {
+          "x": 1123.03125,
+          "y": 77.984375,
+          "width": 78.796875,
+          "height": 15
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 248,
+          "g": 107,
+          "b": 31,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.95,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 210,
+            "g": 71,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#d24700",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.107690635950773
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Free Signup",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(235, 92, 63)",
+        "selector": "div.elementor.elementor-1734.elementor-location-header:nth-of-type(2) > section.jet-sticky-section.elementor-section.elementor-top-section.elementor-element.elementor-element-a16c267.elementor-section-full_width.elementor-hidden-desktop.elementor-section-height-default.elementor-section-height-default:nth-of-type(3) > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-09f6ede:nth-of-type(2) > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-0b50e77.elementor-widget-tablet__width-initial.elementor-widget.elementor-widget-jet-hamburger-panel > div.elementor-widget-container > div.jet-hamburger-panel.jet-hamburger-panel-left-position.jet-hamburger-panel-slide-effect > div.jet-hamburger-panel__instance:nth-of-type(2) > div.jet-hamburger-panel__inner:nth-of-type(2) > div.jet-hamburger-panel__content:nth-of-type(2) > div.elementor.elementor-3742 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-3f46bc40.elementor-section-full_width.elementor-section-content-top.elementor-section-height-default.elementor-section-height-default > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-eec36dd > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-0e35e81.elementor-widget__width-auto.elementor-widget.elementor-widget-button:nth-of-type(4) > div.elementor-widget-container > div.elementor-button-wrapper > a.elementor-button.elementor-button-link.elementor-size-sm > span.elementor-button-content-wrapper > span.elementor-button-text",
+        "xpath": "/html/body/div[2]/section[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/a[1]/span[1]/span[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 235,
+          "g": 92,
+          "b": 63,
+          "a": 1
+        },
+        "contrastRatio": 3.42,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 210,
+            "g": 68,
+            "b": 40,
+            "a": 1
+          },
+          "hex": "#d24428",
+          "ratio": 4.57,
+          "property": "background-color",
+          "deltaE": 0.07104099290578392
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJUlEQVR4nOzLMQ0AAAgDwQ/BGkrw76EaOjbp7bfc4xhMDQ05QQAAAP//dVqyUgAAAAZJREFUAwA+KwDLnjhWxQAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Book Demo",
+        "tag": "span",
+        "color": "rgb(0, 129, 184)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap:nth-of-type(3) > div.content > div.inner-container > section.content-editor > div.elementor.elementor-700 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-4c366db.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(2) > div.elementor-container.elementor-column-gap-default > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-84408b8:nth-of-type(1) > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-dcad6a9.elementor-align-center.animated-fast.elementor-widget.elementor-widget-button.animated.fadeIn > div.elementor-widget-container > div.elementor-button-wrapper > a.elementor-button.elementor-button-link.elementor-size-lg > span.elementor-button-content-wrapper > span.elementor-button-text:nth-of-type(2)",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/section[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]/span[2]",
+        "boundingRect": {
+          "x": 467.5,
+          "y": 369.59375,
+          "width": 91,
+          "height": 19
+        },
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 0,
+          "g": 129,
+          "b": 184,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 125,
+            "b": 180,
+            "a": 1
+          },
+          "hex": "#007db4",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.011804240601403282
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Free Signup",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(248, 107, 31)",
+        "selector": "div.wrap:nth-of-type(3) > div.content > div.inner-container > section.content-editor > div.elementor.elementor-700 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-4c366db.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(2) > div.elementor-container.elementor-column-gap-default > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-bd50e5f:nth-of-type(2) > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-3c3c557.elementor-align-center.animated-fast.elementor-widget.elementor-widget-button.animated.fadeIn > div.elementor-widget-container > div.elementor-button-wrapper > a.elementor-button.elementor-button-link.elementor-size-lg > span.elementor-button-content-wrapper > span.elementor-button-text:nth-of-type(2)",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/section[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]/span[2]",
+        "boundingRect": {
+          "x": 691.71875,
+          "y": 369.59375,
+          "width": 94.546875,
+          "height": 19
+        },
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 248,
+          "g": 107,
+          "b": 31,
+          "a": 1
+        },
+        "contrastRatio": 2.95,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 210,
+            "g": 71,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#d24700",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.107690635950773
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "View Case Study",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 159, 228)",
+        "selector": "div.wrap:nth-of-type(3) > div.content > div.inner-container > section.content-editor > div.elementor.elementor-700 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-f0d47e1.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(6) > div.elementor-container.elementor-column-gap-default > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-edb46f7:nth-of-type(1) > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-6129fbd.elementor-widget.elementor-widget-button:nth-of-type(4) > div.elementor-widget-container > div.elementor-button-wrapper > a.elementor-button.elementor-button-link.elementor-size-sm > span.elementor-button-content-wrapper > span.elementor-button-text:nth-of-type(2)",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/section[1]/div[1]/section[6]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/a[1]/span[1]/span[2]",
+        "boundingRect": {
+          "x": 146.5,
+          "y": 1993.359375,
+          "width": 114.078125,
+          "height": 16
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 159,
+          "b": 228,
+          "a": 1
+        },
+        "contrastRatio": 2.97,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 124,
+            "b": 191,
+            "a": 1
+          },
+          "hex": "#007cbf",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.1122007400566436
+        }
+      },
+      {
+        "text": "View Study",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 159, 228)",
+        "selector": "div.wrap:nth-of-type(3) > div.content > div.inner-container > section.content-editor > div.elementor.elementor-700 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-f0d47e1.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(6) > div.elementor-container.elementor-column-gap-default > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-94c6911:nth-of-type(2) > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-157606b.elementor-widget.elementor-widget-button:nth-of-type(4) > div.elementor-widget-container > div.elementor-button-wrapper > a.elementor-button.elementor-button-link.elementor-size-sm > span.elementor-button-content-wrapper > span.elementor-button-text:nth-of-type(2)",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/section[1]/div[1]/section[6]/div[1]/div[2]/div[1]/div[4]/div[1]/div[1]/a[1]/span[1]/span[2]",
+        "boundingRect": {
+          "x": 721.5,
+          "y": 2045.03125,
+          "width": 76.75,
+          "height": 16
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 159,
+          "b": 228,
+          "a": 1
+        },
+        "contrastRatio": 2.97,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 124,
+            "b": 191,
+            "a": 1
+          },
+          "hex": "#007cbf",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.1122007400566436
+        }
+      },
+      {
+        "text": "View clients & case studies",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 129, 184)",
+        "selector": "div.wrap:nth-of-type(3) > div.content > div.inner-container > section.content-editor > div.elementor.elementor-700 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-ecd55dd.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(9) > div.elementor-container.elementor-column-gap-default > div.elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-6ad2738 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-8421d95.elementor-align-center.animated-fast.elementor-invisible.elementor-widget.elementor-widget-button:nth-of-type(2) > div.elementor-widget-container > div.elementor-button-wrapper > a.elementor-button.elementor-button-link.elementor-size-sm > span.elementor-button-content-wrapper > span.elementor-button-text:nth-of-type(2)",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/section[1]/div[1]/section[9]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]/span[1]/span[2]",
+        "boundingRect": {
+          "x": 537.953125,
+          "y": 2567.5625,
+          "width": 179.09375,
+          "height": 16
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 129,
+          "b": 184,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 125,
+            "b": 180,
+            "a": 1
+          },
+          "hex": "#007db4",
+          "ratio": 4.57,
+          "property": "background-color",
+          "deltaE": 0.011804240601403282
+        }
+      },
+      {
+        "text": "Previous",
+        "tag": "span",
+        "color": "rgba(238, 238, 238, 0.9)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap:nth-of-type(3) > div.content > div.inner-container > section.content-editor > div.elementor.elementor-700 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-209a3c9.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(11) > div.elementor-container.elementor-column-gap-default:nth-of-type(2) > div.elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-872d659 > div.elementor-widget-wrap.elementor-element-populated.e-swiper-container > div.elementor-element.elementor-element-487992e.elementor-pagination-type-progressbar.animated-fast.elementor-testimonial--skin-default.elementor-testimonial--layout-image_inline.elementor-testimonial--align-center.elementor-arrows-yes.elementor-widget.elementor-widget-global.elementor-global-6083.elementor-widget-testimonial-carousel.e-widget-swiper:nth-of-type(2) > div.elementor-widget-container > div.elementor-swiper > div.elementor-main-swiper.swiper.swiper-initialized.swiper-horizontal.swiper-pointer-events.swiper-backface-hidden > div.elementor-swiper-button.elementor-swiper-button-prev:nth-of-type(3) > span.elementor-screen-only",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/section[1]/div[1]/section[11]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/span[1]",
+        "boundingRect": {
+          "x": 79,
+          "y": -196708.75,
+          "width": 1,
+          "height": 1
+        },
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 238,
+          "g": 238,
+          "b": 238,
+          "a": 0.9
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 103,
+            "g": 103,
+            "b": 103,
+            "a": 0.9
+          },
+          "hex": "#676767",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.4341192605935378
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAIAAAC0D9CtAAAAJElEQVR4nOzLMREAAAjEsB6HNZTg3wMDCn5v9jSzhIqcx+N5BwAA//8fCsXSAAAABklEQVQDAIsPAM1is6NkAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Next",
+        "tag": "span",
+        "color": "rgba(238, 238, 238, 0.9)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap:nth-of-type(3) > div.content > div.inner-container > section.content-editor > div.elementor.elementor-700 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-209a3c9.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(11) > div.elementor-container.elementor-column-gap-default:nth-of-type(2) > div.elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-872d659 > div.elementor-widget-wrap.elementor-element-populated.e-swiper-container > div.elementor-element.elementor-element-487992e.elementor-pagination-type-progressbar.animated-fast.elementor-testimonial--skin-default.elementor-testimonial--layout-image_inline.elementor-testimonial--align-center.elementor-arrows-yes.elementor-widget.elementor-widget-global.elementor-global-6083.elementor-widget-testimonial-carousel.e-widget-swiper:nth-of-type(2) > div.elementor-widget-container > div.elementor-swiper > div.elementor-main-swiper.swiper.swiper-initialized.swiper-horizontal.swiper-pointer-events.swiper-backface-hidden > div.elementor-swiper-button.elementor-swiper-button-next:nth-of-type(4) > span.elementor-screen-only",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/section[1]/div[1]/section[11]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/span[1]",
+        "boundingRect": {
+          "x": 1179,
+          "y": -196708.75,
+          "width": 1,
+          "height": 1
+        },
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 238,
+          "g": 238,
+          "b": 238,
+          "a": 0.9
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 103,
+            "g": 103,
+            "b": 103,
+            "a": 0.9
+          },
+          "hex": "#676767",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.4341192605935378
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAIAAAC0D9CtAAAAJElEQVR4nOzLMREAAAjEsB6HNZTg3wMDCn5v9jSzhIqcx+N5BwAA//8fCsXSAAAABklEQVQDAIsPAM1is6NkAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "The CardMedic Story",
+        "tag": "h2",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(83, 133, 180)",
+        "selector": "div.wrap:nth-of-type(3) > div.content > div.inner-container > section.content-editor > div.elementor.elementor-700 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-rn2o4bg.elementor-section-height-min-height.elementor-section-boxed.elementor-section-height-default.elementor-section-items-middle:nth-of-type(12) > div.elementor-container.elementor-column-gap-default:nth-of-type(2) > div.elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-regzv8h > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-et17b3q.elementor-invisible.elementor-widget.elementor-widget-heading:nth-of-type(1) > div.elementor-widget-container > h2.elementor-heading-title.elementor-size-default",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/section[1]/div[1]/section[12]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": 80,
+          "y": 3575.546875,
+          "width": 1120,
+          "height": 35
+        },
+        "fontSize": "35px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 83,
+          "g": 133,
+          "b": 180,
+          "a": 1
+        },
+        "contrastRatio": 3.9,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 83,
+            "g": 133,
+            "b": 180,
+            "a": 1
+          },
+          "hex": "#5385b4",
+          "ratio": 3.9,
+          "property": "background-color",
+          "deltaE": 0.0011272700266505842
+        }
+      },
+      {
+        "text": "Watch our video",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(83, 133, 180)",
+        "selector": "div.wrap:nth-of-type(3) > div.content > div.inner-container > section.content-editor > div.elementor.elementor-700 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-rn2o4bg.elementor-section-height-min-height.elementor-section-boxed.elementor-section-height-default.elementor-section-items-middle:nth-of-type(12) > div.elementor-container.elementor-column-gap-default:nth-of-type(2) > div.elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-regzv8h > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-4fa00c0.elementor-widget.elementor-widget-text-editor:nth-of-type(2) > div.elementor-widget-container > p > span",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/section[1]/div[1]/section[12]/div[2]/div[1]/div[1]/div[2]/div[1]/p[1]/span[1]",
+        "boundingRect": {
+          "x": 583.59375,
+          "y": 3633.546875,
+          "width": 112.796875,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 83,
+          "g": 133,
+          "b": 180,
+          "a": 1
+        },
+        "contrastRatio": 3.9,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 72,
+            "g": 122,
+            "b": 168,
+            "a": 1
+          },
+          "hex": "#487aa8",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.036127270026650615
+        }
+      },
+      {
+        "text": "Try CardMedic for free",
+        "tag": "h4",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 129, 184)",
+        "selector": "div.wrap:nth-of-type(3) > div.content > div.inner-container > section.content-editor > div.elementor.elementor-700 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-0o1tj2y.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(18) > div.elementor-container.elementor-column-gap-default > div.elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-zffi2ah > div.elementor-widget-wrap.elementor-element-populated > section.elementor-section.elementor-inner-section.elementor-element.elementor-element-38ed6b2.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default > div.elementor-container.elementor-column-gap-default > div.elementor-column.elementor-col-50.elementor-inner-column.elementor-element.elementor-element-1ebbcee:nth-of-type(1) > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-e02a72a.elementor-widget__width-auto.elementor-widget-tablet__width-inherit.elementor-widget.elementor-widget-text-editor:nth-of-type(1) > div.elementor-widget-container > h4",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/section[1]/div[1]/section[18]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]",
+        "boundingRect": {
+          "x": 209.75,
+          "y": 6970.75,
+          "width": 249.203125,
+          "height": 41.25
+        },
+        "fontSize": "25px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 129,
+          "b": 184,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 183,
+            "a": 1
+          },
+          "hex": "#0080b7",
+          "ratio": 4.4,
+          "property": "background-color",
+          "deltaE": 0.001804240601403273
+        }
+      }
+    ],
+    "violations": [
+      {
+        "text": "Free Signup",
+        "tag": "span",
+        "color": "rgb(248, 107, 31)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.elementor.elementor-1734.elementor-location-header:nth-of-type(2) > section.jet-sticky-section.elementor-section.elementor-top-section.elementor-element.elementor-element-cf18a72.elementor-hidden-phone.elementor-hidden-tablet.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(2) > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-33.elementor-top-column.elementor-element.elementor-element-52698ea:nth-of-type(3) > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-908ec95.elementor-widget__width-auto.elementor-widget.elementor-widget-button:nth-of-type(2) > div.elementor-widget-container > div.elementor-button-wrapper > a.elementor-button.elementor-button-link.elementor-size-sm > span.elementor-button-content-wrapper > span.elementor-button-text",
+        "xpath": "/html/body/div[2]/section[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/a[1]/span[1]/span[1]",
+        "boundingRect": {
+          "x": 1123.03125,
+          "y": 77.984375,
+          "width": 78.796875,
+          "height": 15
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 248,
+          "g": 107,
+          "b": 31,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 2.95,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 210,
+            "g": 71,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#d24700",
+          "ratio": 4.52,
+          "property": "color",
+          "deltaE": 0.107690635950773
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "Free Signup",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(235, 92, 63)",
+        "selector": "div.elementor.elementor-1734.elementor-location-header:nth-of-type(2) > section.jet-sticky-section.elementor-section.elementor-top-section.elementor-element.elementor-element-a16c267.elementor-section-full_width.elementor-hidden-desktop.elementor-section-height-default.elementor-section-height-default:nth-of-type(3) > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-09f6ede:nth-of-type(2) > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-0b50e77.elementor-widget-tablet__width-initial.elementor-widget.elementor-widget-jet-hamburger-panel > div.elementor-widget-container > div.jet-hamburger-panel.jet-hamburger-panel-left-position.jet-hamburger-panel-slide-effect > div.jet-hamburger-panel__instance:nth-of-type(2) > div.jet-hamburger-panel__inner:nth-of-type(2) > div.jet-hamburger-panel__content:nth-of-type(2) > div.elementor.elementor-3742 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-3f46bc40.elementor-section-full_width.elementor-section-content-top.elementor-section-height-default.elementor-section-height-default > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-eec36dd > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-0e35e81.elementor-widget__width-auto.elementor-widget.elementor-widget-button:nth-of-type(4) > div.elementor-widget-container > div.elementor-button-wrapper > a.elementor-button.elementor-button-link.elementor-size-sm > span.elementor-button-content-wrapper > span.elementor-button-text",
+        "xpath": "/html/body/div[2]/section[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/a[1]/span[1]/span[1]",
+        "boundingRect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 235,
+          "g": 92,
+          "b": 63,
+          "a": 1
+        },
+        "contrastRatio": 3.42,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 210,
+            "g": 68,
+            "b": 40,
+            "a": 1
+          },
+          "hex": "#d24428",
+          "ratio": 4.57,
+          "property": "background-color",
+          "deltaE": 0.07104099290578392
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAJUlEQVR4nOzLMQ0AAAgDwQ/BGkrw76EaOjbp7bfc4xhMDQ05QQAAAP//dVqyUgAAAAZJREFUAwA+KwDLnjhWxQAAAABJRU5ErkJggg=="
+      },
+      {
+        "text": "Book Demo",
+        "tag": "span",
+        "color": "rgb(0, 129, 184)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap:nth-of-type(3) > div.content > div.inner-container > section.content-editor > div.elementor.elementor-700 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-4c366db.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(2) > div.elementor-container.elementor-column-gap-default > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-84408b8:nth-of-type(1) > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-dcad6a9.elementor-align-center.animated-fast.elementor-widget.elementor-widget-button.animated.fadeIn > div.elementor-widget-container > div.elementor-button-wrapper > a.elementor-button.elementor-button-link.elementor-size-lg > span.elementor-button-content-wrapper > span.elementor-button-text:nth-of-type(2)",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/section[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]/span[2]",
+        "boundingRect": {
+          "x": 467.5,
+          "y": 369.59375,
+          "width": 91,
+          "height": 19
+        },
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 0,
+          "g": 129,
+          "b": 184,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 125,
+            "b": 180,
+            "a": 1
+          },
+          "hex": "#007db4",
+          "ratio": 4.57,
+          "property": "color",
+          "deltaE": 0.011804240601403282
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGsAAAAjCAIAAAAc1mNaAAAG40lEQVR4nOxZCVATVxjekJBwhEsNCKKcQdDgBV4o3latyujYelSn2urUq7W1jvVubT1qpxbbqVetR63WtlpbUSrViqKcFRCVS5AjJJBAwhXuBJL0S3YIqLAQd8Y6nf1mJ/P2/btv///b/3objl6vJxjQgAXBgB4YBumCYZAuGAbpgmGQLhgG6YJhkC4YBuniP2Bw/bVHAw/HZSrriP8FOJ0JDiVL3o3KNp268nmh/ZwOTPN3s+MR9FBc05RVXt/UoqO+DBSLjsS3VyDYzX6qd6/VwX05FizipQGHWhzsaj/QmY9BhqLuQlbp3RJV2soQRysO8aLAt2R7OFpjUN6guZKrxHH6QcmPcwIHCPjEy4EuuFgoct0w2pMcr/4z62iqNCJHsXSwG/GiMMGzx5VFw8ixskFzIKkoPLFw6pmUeytDXGy5xEsAM7zJ2tKQNCsaNKaZc+lycJqhqB3T12legMuyIX1Mohadfnds/qVHCnmt+lWhAKSDiw6X3XbzcYpMFezmsGeSkKCEwIa7d5LQgcfZHJ27/HJGZCuzqfKanTF5icXVyDDTfHp9NlFozTGoCoc9eLdo+VD3DGXduXQZVJopFOyb0t+Oy/4yofDnDLmiXjPDV7B7krD9y6AwqkN0waC0pgn64fNNjLjyZFoJ9JrpJyBFW6Jz98UXkuPIx0ocuHjHOB+carT6qWeS70iqSOkPD0p+SpdFLQ6a7NXzqfVP3S/ZG1fgyOMcnTWQ6B4QE18niaMLKrR6PZvFQkws+O2+WqsHCznl9emKujhJVdTiYKQaiarxekEFMk+1uoW893CKFOk1yNUhPElMzhxPK06Vq2KWjrDncaiN6gxd1OJv/ikK/j5x+PHEjTdyVOqWD0d79u9pi3mo9UV8IY/NOjQjIO+90FNhIiSsj2PyLucojHeJQZ+Xo/Uf84fmrA3dHurdrNPPO38f2rRfHNauvZqFonB6TqCXMdl1Bygjw1ztm7Q68FWr0a6KzMQL/n3+kNINEys3TX59gEtSicpEEAD6No/xyl4z9sRsERS+XVQF6bLBfdJXjcFdPaws00przz6UdWlUp/pQqzvewwnxhUGNuiXikWJ/oljkbIeQPJAkxmfF8Ff81wzvB6mPk42NJXvBxQfns0rD+juHJ4rxZiIWDgs0VqFdE4UVjc1HUqTX8spXDHMnV8aCML6xRbcxxBO3EOZAYAy68obmWElVab0GXjnX3wUztpbsM3MH/Z1/C8G7LdSbvHi6T6/PJ/th4N/LVqxq3HUn39fJ5kSYCPVc5Myv02jfvJQOWmEItVHE8zE428/ZVEm2hfoEHUv49HYeGHxYVouZBSJX05Vz/F2s2Bbxkmrke1gF7kj6SCwc6AoG46XVJgbXRWXnVjaA6A9GehJmIr3M0EvC/l8y5RikyWuWRaSbpDBbVqdG/iVP0YSZRKPdHfE70t3B1A6R0mJjcFAYRaGMGZXEw8EKhCKpldVrED5Y2oHXdjuXzULqkdU2qZq0OHV+slC68LkmRUlkGDtq9ITIgwdnBBDdRpayDqa62/F6WFvCgzCTVFydKn8iHUExVWvu43HaRDy2YWzVfqbdmMIonZ7orAc1b0/SrDO0wTq9Hi8TmSittMYkKqxuhOshUnx7WDvbcFNkNah9JmmC1PAaBwhsTTNsFnFmTqANx+JYqjSvsoHoHtCHr4zMbNHr1430IFp9auMYr+pNk586BrvYEWaCwiiKFt4MBvOrGq4+Vno6WGN7MM7D4PwwhvQCFN+3IzIwmG3MF5DCBVAlyBtRQLZG5xLGnGBa7ZPxvksGuW0I8UKR2Xozt8unq7W6O0VVI48nxkmrRQL++lGeRGsMHroryWrdI6KY9v7q1v4EMWE+qI3qDF1E8a+ZcnIDW6tuuVFQgboGy3H6TlDfyFzlX/nlfcJvhfR1QhWrbGoGuVvGGvI3Nn/JMtWxe8VReeWo3bGSSnQbrwW4TPFu62bQJOL3oxCv71KkF7LKsMKIPg7PKoCHuh+IwUBZr9EYnRqecnbuIHJjh1S4a4Lvjpg8NAxo39C+ILf2tuW+EehKmA9qozpDFz6YLKtBy4YDbRe2dyfDRO8bw8fSgnVx/hCUFI6FBR6pUjeH+QmSVoxCNYTU3d7q+pLhU717KurVNworLFgsMHVu3uBn1+dz2TsnGF7JphsduyHCqqRWjaOnDXe2n+Db6QGxb43wdmprfbaP89kzUdibz8ODJKqmWULBlUVBz7d5pzaqM7Bo/tsJt8gur/N0tO7wMQ3NWqQSuOEL+BaAJAMeqa3tJqiNegos5v9immC+sNIFwyBdMAzSBcMgXTAM0gXDIF0wDNIFwyBdMAzSBcMgXfwLAAD//2GCVo0AAAAGSURBVAMAq4xe9FrPUVEAAAAASUVORK5CYII="
+      },
+      {
+        "text": "Free Signup",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(248, 107, 31)",
+        "selector": "div.wrap:nth-of-type(3) > div.content > div.inner-container > section.content-editor > div.elementor.elementor-700 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-4c366db.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(2) > div.elementor-container.elementor-column-gap-default > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-bd50e5f:nth-of-type(2) > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-3c3c557.elementor-align-center.animated-fast.elementor-widget.elementor-widget-button.animated.fadeIn > div.elementor-widget-container > div.elementor-button-wrapper > a.elementor-button.elementor-button-link.elementor-size-lg > span.elementor-button-content-wrapper > span.elementor-button-text:nth-of-type(2)",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/section[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]/span[2]",
+        "boundingRect": {
+          "x": 691.71875,
+          "y": 369.59375,
+          "width": 94.546875,
+          "height": 19
+        },
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 248,
+          "g": 107,
+          "b": 31,
+          "a": 1
+        },
+        "contrastRatio": 2.95,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 210,
+            "g": 71,
+            "b": 0,
+            "a": 1
+          },
+          "hex": "#d24700",
+          "ratio": 4.52,
+          "property": "background-color",
+          "deltaE": 0.107690635950773
+        },
+        "screenshot": "data:image/png;base64,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"
+      },
+      {
+        "text": "View Case Study",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 159, 228)",
+        "selector": "div.wrap:nth-of-type(3) > div.content > div.inner-container > section.content-editor > div.elementor.elementor-700 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-f0d47e1.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(6) > div.elementor-container.elementor-column-gap-default > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-edb46f7:nth-of-type(1) > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-6129fbd.elementor-widget.elementor-widget-button:nth-of-type(4) > div.elementor-widget-container > div.elementor-button-wrapper > a.elementor-button.elementor-button-link.elementor-size-sm > span.elementor-button-content-wrapper > span.elementor-button-text:nth-of-type(2)",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/section[1]/div[1]/section[6]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/a[1]/span[1]/span[2]",
+        "boundingRect": {
+          "x": 146.5,
+          "y": 1993.359375,
+          "width": 114.078125,
+          "height": 16
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 159,
+          "b": 228,
+          "a": 1
+        },
+        "contrastRatio": 2.97,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 124,
+            "b": 191,
+            "a": 1
+          },
+          "hex": "#007cbf",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.1122007400566436
+        }
+      },
+      {
+        "text": "View Study",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 159, 228)",
+        "selector": "div.wrap:nth-of-type(3) > div.content > div.inner-container > section.content-editor > div.elementor.elementor-700 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-f0d47e1.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(6) > div.elementor-container.elementor-column-gap-default > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-94c6911:nth-of-type(2) > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-157606b.elementor-widget.elementor-widget-button:nth-of-type(4) > div.elementor-widget-container > div.elementor-button-wrapper > a.elementor-button.elementor-button-link.elementor-size-sm > span.elementor-button-content-wrapper > span.elementor-button-text:nth-of-type(2)",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/section[1]/div[1]/section[6]/div[1]/div[2]/div[1]/div[4]/div[1]/div[1]/a[1]/span[1]/span[2]",
+        "boundingRect": {
+          "x": 721.5,
+          "y": 2045.03125,
+          "width": 76.75,
+          "height": 16
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 159,
+          "b": 228,
+          "a": 1
+        },
+        "contrastRatio": 2.97,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 124,
+            "b": 191,
+            "a": 1
+          },
+          "hex": "#007cbf",
+          "ratio": 4.53,
+          "property": "background-color",
+          "deltaE": 0.1122007400566436
+        }
+      },
+      {
+        "text": "View clients & case studies",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 129, 184)",
+        "selector": "div.wrap:nth-of-type(3) > div.content > div.inner-container > section.content-editor > div.elementor.elementor-700 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-ecd55dd.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(9) > div.elementor-container.elementor-column-gap-default > div.elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-6ad2738 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-8421d95.elementor-align-center.animated-fast.elementor-invisible.elementor-widget.elementor-widget-button:nth-of-type(2) > div.elementor-widget-container > div.elementor-button-wrapper > a.elementor-button.elementor-button-link.elementor-size-sm > span.elementor-button-content-wrapper > span.elementor-button-text:nth-of-type(2)",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/section[1]/div[1]/section[9]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]/span[1]/span[2]",
+        "boundingRect": {
+          "x": 537.953125,
+          "y": 2567.5625,
+          "width": 179.09375,
+          "height": 16
+        },
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 129,
+          "b": 184,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 125,
+            "b": 180,
+            "a": 1
+          },
+          "hex": "#007db4",
+          "ratio": 4.57,
+          "property": "background-color",
+          "deltaE": 0.011804240601403282
+        }
+      },
+      {
+        "text": "Previous",
+        "tag": "span",
+        "color": "rgba(238, 238, 238, 0.9)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap:nth-of-type(3) > div.content > div.inner-container > section.content-editor > div.elementor.elementor-700 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-209a3c9.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(11) > div.elementor-container.elementor-column-gap-default:nth-of-type(2) > div.elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-872d659 > div.elementor-widget-wrap.elementor-element-populated.e-swiper-container > div.elementor-element.elementor-element-487992e.elementor-pagination-type-progressbar.animated-fast.elementor-testimonial--skin-default.elementor-testimonial--layout-image_inline.elementor-testimonial--align-center.elementor-arrows-yes.elementor-widget.elementor-widget-global.elementor-global-6083.elementor-widget-testimonial-carousel.e-widget-swiper:nth-of-type(2) > div.elementor-widget-container > div.elementor-swiper > div.elementor-main-swiper.swiper.swiper-initialized.swiper-horizontal.swiper-pointer-events.swiper-backface-hidden > div.elementor-swiper-button.elementor-swiper-button-prev:nth-of-type(3) > span.elementor-screen-only",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/section[1]/div[1]/section[11]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/span[1]",
+        "boundingRect": {
+          "x": 79,
+          "y": -196708.75,
+          "width": 1,
+          "height": 1
+        },
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 238,
+          "g": 238,
+          "b": 238,
+          "a": 0.9
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 103,
+            "g": 103,
+            "b": 103,
+            "a": 0.9
+          },
+          "hex": "#676767",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.4341192605935378
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAIAAAC0D9CtAAAAJElEQVR4nOzLMREAAAjEsB6HNZTg3wMDCn5v9jSzhIqcx+N5BwAA//8fCsXSAAAABklEQVQDAIsPAM1is6NkAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "Next",
+        "tag": "span",
+        "color": "rgba(238, 238, 238, 0.9)",
+        "background": "rgb(255, 255, 255)",
+        "selector": "div.wrap:nth-of-type(3) > div.content > div.inner-container > section.content-editor > div.elementor.elementor-700 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-209a3c9.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(11) > div.elementor-container.elementor-column-gap-default:nth-of-type(2) > div.elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-872d659 > div.elementor-widget-wrap.elementor-element-populated.e-swiper-container > div.elementor-element.elementor-element-487992e.elementor-pagination-type-progressbar.animated-fast.elementor-testimonial--skin-default.elementor-testimonial--layout-image_inline.elementor-testimonial--align-center.elementor-arrows-yes.elementor-widget.elementor-widget-global.elementor-global-6083.elementor-widget-testimonial-carousel.e-widget-swiper:nth-of-type(2) > div.elementor-widget-container > div.elementor-swiper > div.elementor-main-swiper.swiper.swiper-initialized.swiper-horizontal.swiper-pointer-events.swiper-backface-hidden > div.elementor-swiper-button.elementor-swiper-button-next:nth-of-type(4) > span.elementor-screen-only",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/section[1]/div[1]/section[11]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/span[1]",
+        "boundingRect": {
+          "x": 1179,
+          "y": -196708.75,
+          "width": 1,
+          "height": 1
+        },
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 238,
+          "g": 238,
+          "b": 238,
+          "a": 0.9
+        },
+        "bgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "contrastRatio": 1.14,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "critical",
+        "suggestedFix": {
+          "color": {
+            "r": 103,
+            "g": 103,
+            "b": 103,
+            "a": 0.9
+          },
+          "hex": "#676767",
+          "ratio": 4.54,
+          "property": "color",
+          "deltaE": 0.4341192605935378
+        },
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAIAAAC0D9CtAAAAJElEQVR4nOzLMREAAAjEsB6HNZTg3wMDCn5v9jSzhIqcx+N5BwAA//8fCsXSAAAABklEQVQDAIsPAM1is6NkAAAAAElFTkSuQmCC"
+      },
+      {
+        "text": "The CardMedic Story",
+        "tag": "h2",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(83, 133, 180)",
+        "selector": "div.wrap:nth-of-type(3) > div.content > div.inner-container > section.content-editor > div.elementor.elementor-700 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-rn2o4bg.elementor-section-height-min-height.elementor-section-boxed.elementor-section-height-default.elementor-section-items-middle:nth-of-type(12) > div.elementor-container.elementor-column-gap-default:nth-of-type(2) > div.elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-regzv8h > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-et17b3q.elementor-invisible.elementor-widget.elementor-widget-heading:nth-of-type(1) > div.elementor-widget-container > h2.elementor-heading-title.elementor-size-default",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/section[1]/div[1]/section[12]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+        "boundingRect": {
+          "x": 80,
+          "y": 3575.546875,
+          "width": 1120,
+          "height": 35
+        },
+        "fontSize": "35px",
+        "fontWeight": "600",
+        "isVisible": false,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 83,
+          "g": 133,
+          "b": 180,
+          "a": 1
+        },
+        "contrastRatio": 3.9,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 83,
+            "g": 133,
+            "b": 180,
+            "a": 1
+          },
+          "hex": "#5385b4",
+          "ratio": 3.9,
+          "property": "background-color",
+          "deltaE": 0.0011272700266505842
+        }
+      },
+      {
+        "text": "Watch our video",
+        "tag": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(83, 133, 180)",
+        "selector": "div.wrap:nth-of-type(3) > div.content > div.inner-container > section.content-editor > div.elementor.elementor-700 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-rn2o4bg.elementor-section-height-min-height.elementor-section-boxed.elementor-section-height-default.elementor-section-items-middle:nth-of-type(12) > div.elementor-container.elementor-column-gap-default:nth-of-type(2) > div.elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-regzv8h > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-4fa00c0.elementor-widget.elementor-widget-text-editor:nth-of-type(2) > div.elementor-widget-container > p > span",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/section[1]/div[1]/section[12]/div[2]/div[1]/div[1]/div[2]/div[1]/p[1]/span[1]",
+        "boundingRect": {
+          "x": 583.59375,
+          "y": 3633.546875,
+          "width": 112.796875,
+          "height": 19
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 83,
+          "g": 133,
+          "b": 180,
+          "a": 1
+        },
+        "contrastRatio": 3.9,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": false,
+        "issueType": "normal",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 72,
+            "g": 122,
+            "b": 168,
+            "a": 1
+          },
+          "hex": "#487aa8",
+          "ratio": 4.54,
+          "property": "background-color",
+          "deltaE": 0.036127270026650615
+        }
+      },
+      {
+        "text": "Try CardMedic for free",
+        "tag": "h4",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(0, 129, 184)",
+        "selector": "div.wrap:nth-of-type(3) > div.content > div.inner-container > section.content-editor > div.elementor.elementor-700 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-0o1tj2y.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default:nth-of-type(18) > div.elementor-container.elementor-column-gap-default > div.elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-zffi2ah > div.elementor-widget-wrap.elementor-element-populated > section.elementor-section.elementor-inner-section.elementor-element.elementor-element-38ed6b2.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default > div.elementor-container.elementor-column-gap-default > div.elementor-column.elementor-col-50.elementor-inner-column.elementor-element.elementor-element-1ebbcee:nth-of-type(1) > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-e02a72a.elementor-widget__width-auto.elementor-widget-tablet__width-inherit.elementor-widget.elementor-widget-text-editor:nth-of-type(1) > div.elementor-widget-container > h4",
+        "xpath": "/html/body/div[3]/div[1]/div[1]/section[1]/div[1]/section[18]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]",
+        "boundingRect": {
+          "x": 209.75,
+          "y": 6970.75,
+          "width": 249.203125,
+          "height": 41.25
+        },
+        "fontSize": "25px",
+        "fontWeight": "400",
+        "isVisible": true,
+        "fgParsed": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "bgParsed": {
+          "r": 0,
+          "g": 129,
+          "b": 184,
+          "a": 1
+        },
+        "contrastRatio": 4.35,
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true,
+        "isLargeText": true,
+        "issueType": "large",
+        "severity": "warning",
+        "suggestedFix": {
+          "color": {
+            "r": 0,
+            "g": 128,
+            "b": 183,
+            "a": 1
+          },
+          "hex": "#0080b7",
+          "ratio": 4.4,
+          "property": "background-color",
+          "deltaE": 0.001804240601403273
+        }
+      }
+    ],
+    "passes": [],
+    "variableIssues": [],
+    "stats": {
+      "total": 131,
+      "passAA": 119,
+      "passAAA": 113,
+      "failAA": 12,
+      "failAAA": 6
+    },
+    "variableStats": {
+      "uniqueIssues": 0,
+      "affectedElements": 0,
+      "oneOffIssues": 12
+    },
+    "healthScore": 91,
+    "scannedAt": "2026-08-05T12:07:11.924Z"
+  }
+]
+
+
+--- STDERR ---
+- Discovering linked pages...
+[32m✔[39m Found 10 page(s)
+- Capturing screenshots for violations across 1 page(s)...
+[32m✔[39m Captured screenshots for 12 violation(s)
+

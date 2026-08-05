@@ -1,0 +1,13 @@
+{
+  "job_id": "leva-clinic-20260805-124558",
+  "reports_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/leva-clinic-20260805-124558/reports",
+  "output_dir": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/leva-clinic-20260805-124558/analysis",
+  "analysis_json": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/leva-clinic-20260805-124558/analysis/data/analysis.json",
+  "workbook": "/Users/user/code/systemic-accessibility-analyzer/tools/jobs/leva-clinic-20260805-124558/analysis/accessibility_analysis.xlsx",
+  "violations": 450,
+  "pages": 5,
+  "screenshots": {
+    "job_id": "leva-clinic-20260805-124558",
+    "message": "Artifacts processed"
+  }
+}
